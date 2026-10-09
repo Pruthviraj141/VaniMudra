@@ -1,0 +1,3939 @@
+[
+{
+      "gloss": "DAILY, EVERYDAY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DAMP",
+      "category": "CORE",
+      "anchor": [
+        "DAMP PROOFING MATERIALS"
+      ]
+    },
+    {
+      "gloss": "DANCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DANDRUFF",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DANGER, HAZARD, PERIL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DARE, BE BRAVE ENOUGH, HAVE COURAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DARE, CHALLENGE, PROVOKE",
+        "DARE, BRAVE",
+        "DARE, CHALLENGE"
+      ]
+    },
+    {
+      "gloss": "DARE, BRAVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DARE, CHALLENGE, PROVOKE",
+        "DARE, CHALLENGE",
+        "DARE, BE BRAVE ENOUGH, HAVE COURAGE"
+      ]
+    },
+    {
+      "gloss": "DARE, CHALLENGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DARE, CHALLENGE, PROVOKE",
+        "DARE, BRAVE",
+        "DARE, BE BRAVE ENOUGH, HAVE COURAGE"
+      ]
+    },
+    {
+      "gloss": "DARE, CHALLENGE, PROVOKE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DARE, BRAVE",
+        "DARE, CHALLENGE",
+        "DARE, BE BRAVE ENOUGH, HAVE COURAGE"
+      ]
+    },
+    {
+      "gloss": "DARK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DARTBOARD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DATA, INFORMATION, STATISTICS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DATE",
+      "category": "NUMBERS & TIME",
+      "anchor": [
+        "DATE OF INSTITUTION",
+        "DATE OF MATURITY",
+        "DATE OF RETIREMENT",
+        "DATE OF BIRTH"
+      ]
+    },
+    {
+      "gloss": "DAWN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DAY",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "DAYAFTER",
+      "category": "CORE",
+      "anchor": [
+        "DAYAFTER TOMORROW"
+      ]
+    },
+    {
+      "gloss": "DAYAFTER TOMORROW",
+      "category": "COMPOUND",
+      "anchor": [
+        "DAYAFTER"
+      ]
+    },
+    {
+      "gloss": "DAYBEFORE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DAYDREAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEAD BALL",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEAD SEA",
+        "DEAD",
+        "DEAD LOAD"
+      ]
+    },
+    {
+      "gloss": "DEADLINE, TIME LIMIT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEAF",
+      "category": "CORE",
+      "anchor": [
+        "DEAF SUPPRESSION",
+        "DEAF STUDIES",
+        "DEAF IDENTITY",
+        "DEAF ROLE MODEL"
+      ]
+    },
+    {
+      "gloss": "DEAFLYMPICS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEAL, HANDLE, MANAGE, COPE WITH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEBATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEBIT CARD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEBUT, LAUNCH, FIRST PERFORMANCE, FIRST APPEARANCE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DECADE",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "DECAPITATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DECEIVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DECEMBER",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "DECIDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DECK, PACK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DECREASE, LESSEN, REDUCE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEEP MID-WICKET",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEEP SEA FISH",
+        "DEEP BREATHS",
+        "DEEP ROOTED"
+      ]
+    },
+    {
+      "gloss": "DEEPIKA PADUKONE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEFACE, MAR, SPOIL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEFEND, PROTECT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEFICIENT, INSUFFICIENT, INADEQUATE, LACKING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEGREE",
+      "category": "CORE",
+      "anchor": [
+        "DEGREE CELSIUS"
+      ]
+    },
+    {
+      "gloss": "DEJECTED, DESPONDENT, DISPIRITED",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DELAY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DELICIOUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DELIGHTED, GLAD, JOYFUL, PLEASED",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DELIVERY",
+      "category": "CORE",
+      "anchor": [
+        "DELIVERY BED"
+      ]
+    },
+    {
+      "gloss": "DEMAND",
+      "category": "CORE",
+      "anchor": [
+        "DEMAND SIDE EFFECTS",
+        "DEMAND MANAGEMENT",
+        "DEMAND AND SUPPLY",
+        "DEMAND PULL INFLATION",
+        "DEMAND DRAFT"
+      ]
+    },
+    {
+      "gloss": "DEMAND DRAFT",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEMAND SIDE EFFECTS",
+        "DEMAND MANAGEMENT",
+        "DEMAND AND SUPPLY",
+        "DEMAND PULL INFLATION",
+        "DEMAND"
+      ]
+    },
+    {
+      "gloss": "DEMISE, EXPIRY, PASSING AWAY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEMOTE, DOWNGRADE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEN, LAIR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEPOSIT SLIP",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEPOSIT"
+      ]
+    },
+    {
+      "gloss": "DEPTH",
+      "category": "CORE",
+      "anchor": [
+        "DEPTH OF ROOTS"
+      ]
+    },
+    {
+      "gloss": "DEPUTY DIRECTOR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DERAIL, GO OFF THE RAILS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DESERT",
+      "category": "CORE",
+      "anchor": [
+        "DESERT PLANT"
+      ]
+    },
+    {
+      "gloss": "DESIGNER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DETAIL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DETERMINED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEUCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEVELOP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEVIL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DHOBI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DHOLAK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DHOTI",
+      "category": "CORE",
+      "anchor": [
+        "DHOTI PANTS"
+      ]
+    },
+    {
+      "gloss": "DIABETES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIAGRAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIAMOND, HEART, CLUB, SPADE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DIAPER, NAPPY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DICE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DICTIONARY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIESEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIFFERENT",
+      "category": "CORE",
+      "anchor": [
+        "DIFFERENT STYLE OF WATER GARDEN"
+      ]
+    },
+    {
+      "gloss": "DIN, NOISE, RACKET",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DINNER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIRECTION, ROUTE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DIRECTOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISABILITY",
+      "category": "CORE",
+      "anchor": [
+        "DISABILITY JUSTICE",
+        "DISABILITY STUDIES",
+        "DISABILITY SUPPORT SERVICE"
+      ]
+    },
+    {
+      "gloss": "DISAGREE, DISSENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DISAPPEAR WITH THE ARRIVAL OF SOMEONE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DISAPPEAR, VANISH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DISASTER",
+      "category": "CORE",
+      "anchor": [
+        "DISASTER MANAGEMENT"
+      ]
+    },
+    {
+      "gloss": "DISCIPLINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISCOUNT",
+      "category": "CORE",
+      "anchor": [
+        "DISCOUNT RATE"
+      ]
+    },
+    {
+      "gloss": "DISCUS THROW",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DISCUSS, CONFER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DISEASE",
+      "category": "CORE",
+      "anchor": [
+        "DISEASE CONTROL OF PLANT",
+        "DISEASE CYCLE OF PLANT",
+        "DISEASE OF ANNUALS FLOWER PLANTS",
+        "DISEASE RESISTANT"
+      ]
+    },
+    {
+      "gloss": "DISOBEY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISORDER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISPOSABLE CUP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DISRESPECT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISTANCE",
+      "category": "CORE",
+      "anchor": [
+        "DISTANCE LEARNING",
+        "DISTANCE OF MARKET"
+      ]
+    },
+    {
+      "gloss": "DISTANCE LEARNING",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISTANCE",
+        "DISTANCE OF MARKET"
+      ]
+    },
+    {
+      "gloss": "DISTRACTED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISTRIBUTE, ALLOCATE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DISTRICT",
+      "category": "CORE",
+      "anchor": [
+        "DISTRICT EDUCATION OFFICER",
+        "DISTRICT COURT",
+        "DISTRICT INSTITUTE OF EDUCATION AND TRAINING",
+        "DISTRICT JAIL"
+      ]
+    },
+    {
+      "gloss": "DIVIDE",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "DIVIDE, SEPARATE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DIVING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIVORCE",
+      "category": "CORE",
+      "anchor": [
+        "DIVORCE PETITION"
+      ]
+    },
+    {
+      "gloss": "DIWALI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIZZY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DOCUMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DOG",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DONALD DUCK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DONKEY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DON'T",
+      "category": "CORE",
+      "anchor": [
+        "DON'T GIVE UP YOUR DAY JOB"
+      ]
+    },
+    {
+      "gloss": "DOOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DOSA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DOT",
+      "category": "CORE",
+      "anchor": [
+        "DOT MATRIX PRINTER",
+        "DOT PUNCH"
+      ]
+    },
+    {
+      "gloss": "DOUBLE",
+      "category": "NUMBERS & TIME",
+      "anchor": [
+        "DOUBLE BAR GRAPH",
+        "DOUBLE TAXATION",
+        "DOUBLE BURDEN",
+        "DOUBLE FAULT",
+        "DOUBLE CROPPING"
+      ]
+    },
+    {
+      "gloss": "DOUBLE FAULT",
+      "category": "COMPOUND",
+      "anchor": [
+        "DOUBLE BAR GRAPH",
+        "DOUBLE TAXATION",
+        "DOUBLE BURDEN",
+        "DOUBLE",
+        "DOUBLE CROPPING"
+      ]
+    },
+    {
+      "gloss": "DOUBT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DRAFT",
+      "category": "CORE",
+      "anchor": [
+        "DRAFT FOR APPROVAL"
+      ]
+    },
+    {
+      "gloss": "DRAUGHTSMAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DRAW",
+      "category": "CORE",
+      "anchor": [
+        "DRAW STRING"
+      ]
+    },
+    {
+      "gloss": "DRAWER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DREAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DRESS",
+      "category": "CORE",
+      "anchor": [
+        "DRESS MAKER PINS",
+        "DRESS FORM",
+        "DRESS CODE"
+      ]
+    },
+    {
+      "gloss": "DRIBBLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DRINK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DRIVE",
+      "category": "CORE",
+      "anchor": [
+        "DRIVE SPIN"
+      ]
+    },
+    {
+      "gloss": "DRIVE SPIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "DRIVE"
+      ]
+    },
+    {
+      "gloss": "DRIVER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DRIZZLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DROP",
+      "category": "CORE",
+      "anchor": [
+        "DROP SHOT",
+        "DROP CAP"
+      ]
+    },
+    {
+      "gloss": "DROP SHOT",
+      "category": "COMPOUND",
+      "anchor": [
+        "DROP",
+        "DROP CAP"
+      ]
+    },
+    {
+      "gloss": "DROP, DROPLET",
+      "category": "COMPOUND",
+      "anchor": [
+        "DROP, LET GO, PUT"
+      ]
+    },
+    {
+      "gloss": "DROP, LET GO, PUT",
+      "category": "COMPOUND",
+      "anchor": [
+        "DROP, DROPLET"
+      ]
+    },
+    {
+      "gloss": "DROPBOX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DROUPADI MURMU",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DROWN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DRUG",
+      "category": "CORE",
+      "anchor": [
+        "DRUG ABUSE AND ADDICTION",
+        "DRUG ABUSE",
+        "DRUG OVERDOSE",
+        "DRUG ADDICTION",
+        "DRUG COURT"
+      ]
+    },
+    {
+      "gloss": "DRUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DRY",
+      "category": "CORE",
+      "anchor": [
+        "DRY CLIMATE",
+        "DRY DAYS",
+        "DRY FARMING, DRY LAND FARMING",
+        "DRY AREAS WEEDS"
+      ]
+    },
+    {
+      "gloss": "DUCK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DUCKLING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DULL, UNINTELLIGENT, DIM, STUPID",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DUMBELL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DURING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DURONTO EXPRESS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DUSSEHRA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DUST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DUSTBIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DVD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DAIRY PRODUCTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "DAIRY FARM RECORD",
+        "DAIRY SCIENCE"
+      ]
+    },
+    {
+      "gloss": "DALIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DASH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DATA",
+      "category": "CORE",
+      "anchor": [
+        "DATA BOOK, LOG BOOK",
+        "DATA ANALYSIS",
+        "DATA HANDELING",
+        "DATA LAYER",
+        "DATA ARCHIVAL"
+      ]
+    },
+    {
+      "gloss": "DATA ANALYSIS",
+      "category": "COMPOUND",
+      "anchor": [
+        "DATA BOOK, LOG BOOK",
+        "DATA HANDELING",
+        "DATA LAYER",
+        "DATA",
+        "DATA ARCHIVAL"
+      ]
+    },
+    {
+      "gloss": "DATA BOOK, LOG BOOK",
+      "category": "COMPOUND",
+      "anchor": [
+        "DATA ANALYSIS",
+        "DATA HANDELING",
+        "DATA LAYER",
+        "DATA",
+        "DATA ARCHIVAL"
+      ]
+    },
+    {
+      "gloss": "DATA HANDELING",
+      "category": "COMPOUND",
+      "anchor": [
+        "DATA BOOK, LOG BOOK",
+        "DATA ANALYSIS",
+        "DATA LAYER",
+        "DATA",
+        "DATA ARCHIVAL"
+      ]
+    },
+    {
+      "gloss": "DEAD SEA",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEAD",
+        "DEAD LOAD",
+        "DEAD BALL"
+      ]
+    },
+    {
+      "gloss": "DEAF IDENTITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEAF SUPPRESSION",
+        "DEAF STUDIES",
+        "DEAF",
+        "DEAF ROLE MODEL"
+      ]
+    },
+    {
+      "gloss": "DEAF ROLE MODEL",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEAF SUPPRESSION",
+        "DEAF",
+        "DEAF IDENTITY",
+        "DEAF STUDIES"
+      ]
+    },
+    {
+      "gloss": "DEAF STUDIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEAF SUPPRESSION",
+        "DEAF",
+        "DEAF IDENTITY",
+        "DEAF ROLE MODEL"
+      ]
+    },
+    {
+      "gloss": "DEAF SUPPRESSION",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEAF STUDIES",
+        "DEAF",
+        "DEAF IDENTITY",
+        "DEAF ROLE MODEL"
+      ]
+    },
+    {
+      "gloss": "DEAFHOOD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DECA- , DEKA-",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DECCAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DECI-",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DECIBEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DECIDUOUS FOREST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DECIMAL",
+      "category": "CORE",
+      "anchor": [
+        "DECIMAL FRACTION"
+      ]
+    },
+    {
+      "gloss": "DECOMPOSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEEP SEA FISH",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEEP ROOTED",
+        "DEEP BREATHS",
+        "DEEP MID-WICKET"
+      ]
+    },
+    {
+      "gloss": "DEFECT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEFENCE MECHANISM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEFINITE ARTICLE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEFLATIONARY GAP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEFORESTATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEGREE CELSIUS",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEGREE"
+      ]
+    },
+    {
+      "gloss": "DEITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DELHI SULTANATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DELHI"
+      ]
+    },
+    {
+      "gloss": "DEMAND AND SUPPLY",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEMAND SIDE EFFECTS",
+        "DEMAND MANAGEMENT",
+        "DEMAND PULL INFLATION",
+        "DEMAND",
+        "DEMAND DRAFT"
+      ]
+    },
+    {
+      "gloss": "DEMAND MANAGEMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEMAND SIDE EFFECTS",
+        "DEMAND AND SUPPLY",
+        "DEMAND PULL INFLATION",
+        "DEMAND",
+        "DEMAND DRAFT"
+      ]
+    },
+    {
+      "gloss": "DEMAND PULL INFLATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEMAND SIDE EFFECTS",
+        "DEMAND MANAGEMENT",
+        "DEMAND AND SUPPLY",
+        "DEMAND",
+        "DEMAND DRAFT"
+      ]
+    },
+    {
+      "gloss": "DEMAND SIDE EFFECTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEMAND MANAGEMENT",
+        "DEMAND AND SUPPLY",
+        "DEMAND PULL INFLATION",
+        "DEMAND",
+        "DEMAND DRAFT"
+      ]
+    },
+    {
+      "gloss": "DEMOCRACY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DENOMINATOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DENSITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEPARTMENT OF EMPOWERMENT OF PERSONS WITH DISABILITIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEPARTMENT",
+        "DEPARTMENT OF SCIENCE AND TECHNOLOGY"
+      ]
+    },
+    {
+      "gloss": "DEPARTMENT OF SCIENCE AND TECHNOLOGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEPARTMENT",
+        "DEPARTMENT OF EMPOWERMENT OF PERSONS WITH DISABILITIES"
+      ]
+    },
+    {
+      "gloss": "DEPENDENCY RATIO",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEPLETION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEPOSIT",
+      "category": "CORE",
+      "anchor": [
+        "DEPOSIT SLIP"
+      ]
+    },
+    {
+      "gloss": "DEPRECIATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEPRESSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEREGULATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DESALINATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DESCENDING ORDER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DESERT PLANT",
+      "category": "COMPOUND",
+      "anchor": [
+        "DESERT"
+      ]
+    },
+    {
+      "gloss": "DESERTIFICATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DESIGNATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DESTINATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEVALUATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEVALUE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEVDASI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEVELOPED COUNTRIES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEVELOPMENTAL PSYCHOLOGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEVELOPMENTAL DELAY",
+        "DEVELOPMENTAL DISORDER"
+      ]
+    },
+    {
+      "gloss": "DIAGONAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIALYSIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIAMETER",
+      "category": "CORE",
+      "anchor": [
+        "DIAMETER AND RADIUS"
+      ]
+    },
+    {
+      "gloss": "DIAMETER AND RADIUS",
+      "category": "COMPOUND",
+      "anchor": [
+        "DIAMETER"
+      ]
+    },
+    {
+      "gloss": "DIAPHRAGM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DICTATORSHIP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIEBACK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIETARY FIBRES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DIFFUSED REFLECTION, IRREGULAR REFLECTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DIGESTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIGESTIVE SYSTEM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DIGIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIGITAL INFRASTRUCTURE FOR KNOWLEDGE SHARING",
+      "category": "COMPOUND",
+      "anchor": [
+        "DIGITAL MARKETING",
+        "DIGITAL ELECTRONICS",
+        "DIGITAL INDIA",
+        "DIGITAL FILE",
+        "DIGITAL POLICE"
+      ]
+    },
+    {
+      "gloss": "DILUTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DINKUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIRECT ASSESSMENT METHODS",
+      "category": "COMPOUND",
+      "anchor": [
+        "DIRECT GOVERNMENT PURCHASE",
+        "DIRECT OBSERVATION",
+        "DIRECT TAX AND INDIRECT TAX",
+        "DIRECT CURRENT",
+        "DIRECT PROPORTION"
+      ]
+    },
+    {
+      "gloss": "DIRECT GOVERNMENT PURCHASE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DIRECT ASSESSMENT METHODS",
+        "DIRECT OBSERVATION",
+        "DIRECT TAX AND INDIRECT TAX",
+        "DIRECT CURRENT",
+        "DIRECT PROPORTION"
+      ]
+    },
+    {
+      "gloss": "DIRECT OBSERVATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "DIRECT ASSESSMENT METHODS",
+        "DIRECT GOVERNMENT PURCHASE",
+        "DIRECT TAX AND INDIRECT TAX",
+        "DIRECT CURRENT",
+        "DIRECT PROPORTION"
+      ]
+    },
+    {
+      "gloss": "DIRECT PROPORTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "DIRECT ASSESSMENT METHODS",
+        "DIRECT GOVERNMENT PURCHASE",
+        "DIRECT OBSERVATION",
+        "DIRECT TAX AND INDIRECT TAX",
+        "DIRECT CURRENT"
+      ]
+    },
+    {
+      "gloss": "DIRECT TAX AND INDIRECT TAX",
+      "category": "COMPOUND",
+      "anchor": [
+        "DIRECT ASSESSMENT METHODS",
+        "DIRECT GOVERNMENT PURCHASE",
+        "DIRECT OBSERVATION",
+        "DIRECT CURRENT",
+        "DIRECT PROPORTION"
+      ]
+    },
+    {
+      "gloss": "DIRECTORATE OF SCHOOL EDUCATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DISABILITY STUDIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISABILITY JUSTICE",
+        "DISABILITY",
+        "DISABILITY SUPPORT SERVICE"
+      ]
+    },
+    {
+      "gloss": "DISCOUNT RATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISCOUNT"
+      ]
+    },
+    {
+      "gloss": "DISCRETIONARY ECONOMIC POLICY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DISCRIMINATION",
+      "category": "CORE",
+      "anchor": [
+        "DISCRIMINATION AGAINST DIVYANGJANS",
+        "DISCRIMINATION AGAINST ANIMALS"
+      ]
+    },
+    {
+      "gloss": "DISCRIMINATION AGAINST ANIMALS",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISCRIMINATION AGAINST DIVYANGJANS",
+        "DISCRIMINATION"
+      ]
+    },
+    {
+      "gloss": "DISCRIMINATION AGAINST DIVYANGJANS",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISCRIMINATION AGAINST ANIMALS",
+        "DISCRIMINATION"
+      ]
+    },
+    {
+      "gloss": "DISECONOMICS OF SCALE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DISPERSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISPLACED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISPLACEMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISSOLVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISTILLED WATER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DISTINCT POINT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DISTINGUISH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISTRIBUTED WATER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DISTRIBUTIVE PROPERTY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DISTRICT EDUCATION OFFICER",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISTRICT COURT",
+        "DISTRICT INSTITUTE OF EDUCATION AND TRAINING",
+        "DISTRICT",
+        "DISTRICT JAIL"
+      ]
+    },
+    {
+      "gloss": "DISTRICT INSTITUTE OF EDUCATION AND TRAINING",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISTRICT EDUCATION OFFICER",
+        "DISTRICT COURT",
+        "DISTRICT",
+        "DISTRICT JAIL"
+      ]
+    },
+    {
+      "gloss": "DIVERSITY IN SIGN LANGUAGE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DIVIDEND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIVIDER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIVISIBILITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIVISIBLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIVISION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIVISOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DOCKYARD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DOCTOR OF PHILOSOPHY",
+      "category": "COMPOUND",
+      "anchor": [
+        "DOCTOR"
+      ]
+    },
+    {
+      "gloss": "DOCTRINE OF LAPSE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DOCTRINE"
+      ]
+    },
+    {
+      "gloss": "DOMESTIC VIOLENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DOMESTIC AIRPORT",
+        "DOMESTIC WORKER",
+        "DOMESTIC FLIGHT",
+        "DOMESTIC ANIMALS"
+      ]
+    },
+    {
+      "gloss": "DOMESTIC WORKER",
+      "category": "COMPOUND",
+      "anchor": [
+        "DOMESTIC VIOLENCE",
+        "DOMESTIC AIRPORT",
+        "DOMESTIC FLIGHT",
+        "DOMESTIC ANIMALS"
+      ]
+    },
+    {
+      "gloss": "DOMESTICATION, DOMESTICATE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DOUBLE BAR GRAPH",
+      "category": "COMPOUND",
+      "anchor": [
+        "DOUBLE TAXATION",
+        "DOUBLE BURDEN",
+        "DOUBLE FAULT",
+        "DOUBLE",
+        "DOUBLE CROPPING"
+      ]
+    },
+    {
+      "gloss": "DOUBLE BURDEN",
+      "category": "COMPOUND",
+      "anchor": [
+        "DOUBLE BAR GRAPH",
+        "DOUBLE TAXATION",
+        "DOUBLE FAULT",
+        "DOUBLE",
+        "DOUBLE CROPPING"
+      ]
+    },
+    {
+      "gloss": "DOUBLE TAXATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "DOUBLE BAR GRAPH",
+        "DOUBLE BURDEN",
+        "DOUBLE FAULT",
+        "DOUBLE",
+        "DOUBLE CROPPING"
+      ]
+    },
+    {
+      "gloss": "DOWNMARKET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DOWNSTREAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DOZEN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DRAFT, DRAWER, DRAWEE, PAYEE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DRAINAGE",
+      "category": "CORE",
+      "anchor": [
+        "DRAINAGE PIPE"
+      ]
+    },
+    {
+      "gloss": "DRAMA",
+      "category": "CORE",
+      "anchor": [
+        "DRAMA THERAPY"
+      ]
+    },
+    {
+      "gloss": "DRAUGHT PROOFING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DRAVIDAS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DRIFT NET",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DRINKING WATER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DRIP IRRIGATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "DRIP SYSTEM"
+      ]
+    },
+    {
+      "gloss": "DRIP SYSTEM",
+      "category": "COMPOUND",
+      "anchor": [
+        "DRIP IRRIGATION"
+      ]
+    },
+    {
+      "gloss": "DROPPER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DRY CLIMATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DRY DAYS",
+        "DRY",
+        "DRY FARMING, DRY LAND FARMING",
+        "DRY AREAS WEEDS"
+      ]
+    },
+    {
+      "gloss": "DUMPING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DURABLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DWARF PLANET",
+      "category": "COMPOUND",
+      "anchor": [
+        "DWARF ORNAMENTAL HEDGES",
+        "DWARF"
+      ]
+    },
+    {
+      "gloss": "DYNASTY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DAIRY FARM RECORD",
+      "category": "COMPOUND",
+      "anchor": [
+        "DAIRY PRODUCTS",
+        "DAIRY SCIENCE"
+      ]
+    },
+    {
+      "gloss": "DAIRY SCIENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DAIRY FARM RECORD",
+        "DAIRY PRODUCTS"
+      ]
+    },
+    {
+      "gloss": "DAMMER BEE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DAMPING OFF",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DATUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEBEAKING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DECLINE AND DIES BACK",
+      "category": "COMPOUND",
+      "anchor": [
+        "FEAR OF REJECTION",
+        "DISAGREE, DISSENT",
+        "DECLINE"
+      ]
+    },
+    {
+      "gloss": "DEEP ROOTED",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEEP SEA FISH",
+        "DEEP BREATHS",
+        "DEEP MID-WICKET"
+      ]
+    },
+    {
+      "gloss": "DEHORNING OF ANIMALS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEMONSTRATION FARM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DENITRIFICATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEPTH OF ROOTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEPTH"
+      ]
+    },
+    {
+      "gloss": "DETACHED GRAFTING",
+      "category": "COMPOUND",
+      "anchor": [
+        "DETACHED HOUSE"
+      ]
+    },
+    {
+      "gloss": "DEVERNILIZATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DICOT WEEDS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DICOTY LEDONEAE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DIE-BACK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIFFERENT STYLE OF WATER GARDEN",
+      "category": "COMPOUND",
+      "anchor": [
+        "DIFFERENT"
+      ]
+    },
+    {
+      "gloss": "DIFFUSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISCOLOURATION OF FOLIAGE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DISEASE CONTROL OF PLANT",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISEASE",
+        "DISEASE CYCLE OF PLANT",
+        "DISEASE OF ANNUALS FLOWER PLANTS",
+        "DISEASE RESISTANT"
+      ]
+    },
+    {
+      "gloss": "DISEASE CYCLE OF PLANT",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISEASE CONTROL OF PLANT",
+        "DISEASE",
+        "DISEASE OF ANNUALS FLOWER PLANTS",
+        "DISEASE RESISTANT"
+      ]
+    },
+    {
+      "gloss": "DISEASE OF ANNUALS FLOWER PLANTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISEASE CONTROL OF PLANT",
+        "DISEASE",
+        "DISEASE CYCLE OF PLANT",
+        "DISEASE RESISTANT"
+      ]
+    },
+    {
+      "gloss": "DISEASE RESISTANT",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISEASE CONTROL OF PLANT",
+        "DISEASE",
+        "DISEASE CYCLE OF PLANT",
+        "DISEASE OF ANNUALS FLOWER PLANTS"
+      ]
+    },
+    {
+      "gloss": "DISEASES AND ENEMIES OF FISH",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISEASES OF ANIMALS"
+      ]
+    },
+    {
+      "gloss": "DISEASES OF ANIMALS",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISEASES AND ENEMIES OF FISH"
+      ]
+    },
+    {
+      "gloss": "DISH & CONTAINER GARDENING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DISTANCE OF MARKET",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISTANCE",
+        "DISTANCE LEARNING"
+      ]
+    },
+    {
+      "gloss": "DITYLENCHUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DOE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DORMANCY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DOUBLE CROPPING",
+      "category": "COMPOUND",
+      "anchor": [
+        "DOUBLE BAR GRAPH",
+        "DOUBLE TAXATION",
+        "DOUBLE BURDEN",
+        "DOUBLE FAULT",
+        "DOUBLE"
+      ]
+    },
+    {
+      "gloss": "DRAINGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DREDGE CROPS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DROUGHT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DRY AREAS WEEDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "DRY CLIMATE",
+        "DRY DAYS",
+        "DRY",
+        "DRY FARMING, DRY LAND FARMING"
+      ]
+    },
+    {
+      "gloss": "DRY FARMING, DRY LAND FARMING",
+      "category": "COMPOUND",
+      "anchor": [
+        "DRY CLIMATE",
+        "DRY DAYS",
+        "DRY",
+        "DRY AREAS WEEDS"
+      ]
+    },
+    {
+      "gloss": "DURANTA SPINOSA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DWARF ORNAMENTAL HEDGES",
+      "category": "COMPOUND",
+      "anchor": [
+        "DWARF PLANET",
+        "DWARF"
+      ]
+    },
+    {
+      "gloss": "DENMARK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DUBAI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEALERS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DECLINE",
+      "category": "CORE",
+      "anchor": [
+        "DECLINE AND DIES BACK",
+        "DISAGREE, DISSENT",
+        "FEAR OF REJECTION"
+      ]
+    },
+    {
+      "gloss": "DEPOSITORY",
+      "category": "CORE",
+      "anchor": [
+        "DEPOSITORY PARTICIPANTS"
+      ]
+    },
+    {
+      "gloss": "DEPOSITORY PARTICIPANTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEPOSITORY"
+      ]
+    },
+    {
+      "gloss": "DERIVATIVES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DESPATCH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIFFERENTIAL RATE OF INTEREST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DIRECTORS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DVP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DON'T GIVE UP YOUR DAY JOB",
+      "category": "COMPOUND",
+      "anchor": [
+        "DON'T"
+      ]
+    },
+    {
+      "gloss": "DAILY ALLOWANCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DAILY ROUTINE"
+      ]
+    },
+    {
+      "gloss": "DAK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DAMAGE, DAMAGES AND AGGRAVATED DAMAGES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DATE OF BIRTH",
+      "category": "COMPOUND",
+      "anchor": [
+        "DATE OF INSTITUTION",
+        "DATE OF MATURITY",
+        "DATE",
+        "DATE OF RETIREMENT"
+      ]
+    },
+    {
+      "gloss": "DATE OF INSTITUTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "DATE OF MATURITY",
+        "DATE",
+        "DATE OF RETIREMENT",
+        "DATE OF BIRTH"
+      ]
+    },
+    {
+      "gloss": "DATE OF MATURITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "DATE OF INSTITUTION",
+        "DATE",
+        "DATE OF RETIREMENT",
+        "DATE OF BIRTH"
+      ]
+    },
+    {
+      "gloss": "DATE OF RETIREMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "DATE OF INSTITUTION",
+        "DATE OF MATURITY",
+        "DATE",
+        "DATE OF BIRTH"
+      ]
+    },
+    {
+      "gloss": "DE FACTO, DE JURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DE MINIMIS OR FRIVOLOUS"
+      ]
+    },
+    {
+      "gloss": "DE MINIMIS OR FRIVOLOUS",
+      "category": "COMPOUND",
+      "anchor": [
+        "DE FACTO, DE JURE"
+      ]
+    },
+    {
+      "gloss": "DEADLINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEADLY WEAPON",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEARNESS ALLOWANCE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEATH CERTIFICATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEATH SENTENCE",
+        "DEATH IN SERVICE",
+        "DEATH ROW",
+        "DEATH TOLL"
+      ]
+    },
+    {
+      "gloss": "DEATH IN SERVICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEATH SENTENCE",
+        "DEATH CERTIFICATE",
+        "DEATH ROW",
+        "DEATH TOLL"
+      ]
+    },
+    {
+      "gloss": "DEATH ROW",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEATH CERTIFICATE",
+        "DEATH IN SERVICE",
+        "DEATH SENTENCE",
+        "DEATH TOLL"
+      ]
+    },
+    {
+      "gloss": "DEBIT, DEBTOR, CREDIT, CREDITOR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DECISION DATE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DECOMMISSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DECREE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DECRIMINALIZE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEFALCATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEFAMATION, LIBEL, SLANDER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEFRAUD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DELEGATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DELEGATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEMARCATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEMI OFFICIAL LETTER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEMOBILISATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEMURRER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEPLOY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DESCENDANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DESK OFFICER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DETAIN, DETAINER, WRONGFUL CONFINEMENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DETECTIVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIARY NUMBER, DIARIST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DIGITAL FILE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DIGITAL MARKETING",
+        "DIGITAL ELECTRONICS",
+        "DIGITAL INDIA",
+        "DIGITAL POLICE",
+        "DIGITAL INFRASTRUCTURE FOR KNOWLEDGE SHARING"
+      ]
+    },
+    {
+      "gloss": "DIGITAL POLICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DIGITAL MARKETING",
+        "DIGITAL ELECTRONICS",
+        "DIGITAL INDIA",
+        "DIGITAL FILE",
+        "DIGITAL INFRASTRUCTURE FOR KNOWLEDGE SHARING"
+      ]
+    },
+    {
+      "gloss": "DISCLAIM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISCLOSURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISPARITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISSENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISTRICT COURT",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISTRICT EDUCATION OFFICER",
+        "DISTRICT INSTITUTE OF EDUCATION AND TRAINING",
+        "DISTRICT",
+        "DISTRICT JAIL"
+      ]
+    },
+    {
+      "gloss": "DISTRICT JAIL",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISTRICT EDUCATION OFFICER",
+        "DISTRICT INSTITUTE OF EDUCATION AND TRAINING",
+        "DISTRICT COURT",
+        "DISTRICT"
+      ]
+    },
+    {
+      "gloss": "DIVORCE PETITION",
+      "category": "COMPOUND",
+      "anchor": [
+        "DIVORCE"
+      ]
+    },
+    {
+      "gloss": "DIVORCEE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DOCUMENTARY EVIDENCE SECTION 3 OF INDIAN EVIDENCE ACT",
+      "category": "COMPOUND",
+      "anchor": [
+        "DOCUMENTARY"
+      ]
+    },
+    {
+      "gloss": "DOLI IN CAPAX",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DOUBLE JEOPARDY",
+      "category": "COMPOUND",
+      "anchor": [
+        "DOUBLE BAR GRAPH",
+        "DOUBLE TAXATION",
+        "DOUBLE BURDEN",
+        "DOUBLE FAULT",
+        "DOUBLE"
+      ]
+    },
+    {
+      "gloss": "DOWN PAYMENT, EMI",
+      "category": "COMPOUND",
+      "anchor": [
+        "DOWN",
+        "DOWN HEARTED"
+      ]
+    },
+    {
+      "gloss": "DRAFT FOR APPROVAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "DRAFT"
+      ]
+    },
+    {
+      "gloss": "DRAFTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DRUG ABUSE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DRUG ABUSE AND ADDICTION",
+        "DRUG OVERDOSE",
+        "DRUG ADDICTION",
+        "DRUG COURT",
+        "DRUG"
+      ]
+    },
+    {
+      "gloss": "DRUG ADDICTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "DRUG ABUSE AND ADDICTION",
+        "DRUG ABUSE",
+        "DRUG OVERDOSE",
+        "DRUG COURT",
+        "DRUG"
+      ]
+    },
+    {
+      "gloss": "DRUG COURT",
+      "category": "COMPOUND",
+      "anchor": [
+        "DRUG ABUSE AND ADDICTION",
+        "DRUG ABUSE",
+        "DRUG OVERDOSE",
+        "DRUG ADDICTION",
+        "DRUG"
+      ]
+    },
+    {
+      "gloss": "DRUNK DRIVING",
+      "category": "COMPOUND",
+      "anchor": [
+        "DRUNK DRIVING LAW"
+      ]
+    },
+    {
+      "gloss": "DRUNK DRIVING LAW",
+      "category": "COMPOUND",
+      "anchor": [
+        "DRUNK DRIVING"
+      ]
+    },
+    {
+      "gloss": "DRY DAYS",
+      "category": "COMPOUND",
+      "anchor": [
+        "DRY CLIMATE",
+        "DRY",
+        "DRY FARMING, DRY LAND FARMING",
+        "DRY AREAS WEEDS"
+      ]
+    },
+    {
+      "gloss": "DUAL NATIONALITY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DUE PROCESS OF LAW",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DYING DECLARATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEAFNESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEBRIDEMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEHYDRATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DELIVERY BED",
+      "category": "COMPOUND",
+      "anchor": [
+        "DELIVERY"
+      ]
+    },
+    {
+      "gloss": "DEMENTIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DENGUE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DENTAL CHAIR",
+      "category": "COMPOUND",
+      "anchor": [
+        "DENTAL FLOSS",
+        "DENTAL EXAMINATION MIRROR",
+        "DENTAL LAB",
+        "DENTAL X-RAY",
+        "DENTAL COMPRESSOR"
+      ]
+    },
+    {
+      "gloss": "DENTAL COMPRESSOR",
+      "category": "COMPOUND",
+      "anchor": [
+        "DENTAL FLOSS",
+        "DENTAL EXAMINATION MIRROR",
+        "DENTAL LAB",
+        "DENTAL CHAIR",
+        "DENTAL X-RAY"
+      ]
+    },
+    {
+      "gloss": "DENTAL EXAMINATION MIRROR",
+      "category": "COMPOUND",
+      "anchor": [
+        "DENTAL FLOSS",
+        "DENTAL LAB",
+        "DENTAL CHAIR",
+        "DENTAL X-RAY",
+        "DENTAL COMPRESSOR"
+      ]
+    },
+    {
+      "gloss": "DENTAL LAB",
+      "category": "COMPOUND",
+      "anchor": [
+        "DENTAL FLOSS",
+        "DENTAL EXAMINATION MIRROR",
+        "DENTAL CHAIR",
+        "DENTAL X-RAY",
+        "DENTAL COMPRESSOR"
+      ]
+    },
+    {
+      "gloss": "DENTAL X-RAY",
+      "category": "COMPOUND",
+      "anchor": [
+        "DENTAL FLOSS",
+        "DENTAL EXAMINATION MIRROR",
+        "DENTAL LAB",
+        "DENTAL CHAIR",
+        "DENTAL COMPRESSOR"
+      ]
+    },
+    {
+      "gloss": "DENTURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DERMATITS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DETOXIFICATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEVELOPMENTAL DELAY",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEVELOPMENTAL PSYCHOLOGY",
+        "DEVELOPMENTAL DISORDER"
+      ]
+    },
+    {
+      "gloss": "DIABETIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIARRHEA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIGESTIBLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIPLOPIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISCHARGE SUMMARY",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISCHARGE"
+      ]
+    },
+    {
+      "gloss": "DISINFECTION",
+      "category": "CORE",
+      "anchor": [
+        "DISINFECTION OF WATER"
+      ]
+    },
+    {
+      "gloss": "DISLOCATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DONATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DONOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DRESSING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DRUG ABUSE AND ADDICTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "DRUG ABUSE",
+        "DRUG OVERDOSE",
+        "DRUG ADDICTION",
+        "DRUG COURT",
+        "DRUG"
+      ]
+    },
+    {
+      "gloss": "DRUG OVERDOSE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DRUG ABUSE AND ADDICTION",
+        "DRUG ABUSE",
+        "DRUG ADDICTION",
+        "DRUG COURT",
+        "DRUG"
+      ]
+    },
+    {
+      "gloss": "DWARF",
+      "category": "CORE",
+      "anchor": [
+        "DWARF ORNAMENTAL HEDGES",
+        "DWARF PLANET"
+      ]
+    },
+    {
+      "gloss": "DYSLEXIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DYSPHAGIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DYSPNEA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DYSURIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DARTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEHRADUN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DELHI",
+      "category": "CORE",
+      "anchor": [
+        "DELHI SULTANATE"
+      ]
+    },
+    {
+      "gloss": "DAISY CHAINING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DAMP PROOFING MATERIALS",
+      "category": "COMPOUND",
+      "anchor": [
+        "DAMP"
+      ]
+    },
+    {
+      "gloss": "DATA ARCHIVAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "DATA BOOK, LOG BOOK",
+        "DATA ANALYSIS",
+        "DATA HANDELING",
+        "DATA LAYER",
+        "DATA"
+      ]
+    },
+    {
+      "gloss": "DATA LAYER",
+      "category": "COMPOUND",
+      "anchor": [
+        "DATA BOOK, LOG BOOK",
+        "DATA ANALYSIS",
+        "DATA HANDELING",
+        "DATA",
+        "DATA ARCHIVAL"
+      ]
+    },
+    {
+      "gloss": "DATA MINING",
+      "category": "COMPOUND",
+      "anchor": [
+        "DATA BOOK, LOG BOOK",
+        "DATA ANALYSIS",
+        "DATA HANDELING",
+        "DATA",
+        "DATA ARCHIVAL"
+      ]
+    },
+    {
+      "gloss": "DATABASE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEAD",
+      "category": "CORE",
+      "anchor": [
+        "DEAD SEA",
+        "DEAD LOAD",
+        "DEAD BALL"
+      ]
+    },
+    {
+      "gloss": "DEAD LOAD",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEAD SEA",
+        "DEAD",
+        "DEAD BALL"
+      ]
+    },
+    {
+      "gloss": "DEBUG",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DECRYPTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DELETE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEMOLISHING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DESCENDER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DESKTOP",
+      "category": "CORE",
+      "anchor": [
+        "DESKTOP CLEANUP WIZARD",
+        "DESKTOP BACKGROUND"
+      ]
+    },
+    {
+      "gloss": "DESKTOP BACKGROUND",
+      "category": "COMPOUND",
+      "anchor": [
+        "DESKTOP CLEANUP WIZARD",
+        "DESKTOP"
+      ]
+    },
+    {
+      "gloss": "DESKTOP CLEANUP WIZARD",
+      "category": "COMPOUND",
+      "anchor": [
+        "DESKTOP",
+        "DESKTOP BACKGROUND"
+      ]
+    },
+    {
+      "gloss": "DETACHED HOUSE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DETACHED GRAFTING"
+      ]
+    },
+    {
+      "gloss": "DETERIORATED WELLS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEVICE SETTINGS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DHOTI PANTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "DHOTI"
+      ]
+    },
+    {
+      "gloss": "DIAL TEST INDICATORS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DIGGING BAR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DIGITAL ELECTRONICS",
+      "category": "COMPOUND",
+      "anchor": [
+        "DIGITAL MARKETING",
+        "DIGITAL FILE",
+        "DIGITAL POLICE",
+        "DIGITAL INDIA",
+        "DIGITAL INFRASTRUCTURE FOR KNOWLEDGE SHARING"
+      ]
+    },
+    {
+      "gloss": "DIGITAL INDIA",
+      "category": "COMPOUND",
+      "anchor": [
+        "DIGITAL MARKETING",
+        "DIGITAL ELECTRONICS",
+        "DIGITAL FILE",
+        "DIGITAL POLICE",
+        "DIGITAL INFRASTRUCTURE FOR KNOWLEDGE SHARING"
+      ]
+    },
+    {
+      "gloss": "DIGITAL MARKETING",
+      "category": "COMPOUND",
+      "anchor": [
+        "DIGITAL ELECTRONICS",
+        "DIGITAL FILE",
+        "DIGITAL POLICE",
+        "DIGITAL INDIA",
+        "DIGITAL INFRASTRUCTURE FOR KNOWLEDGE SHARING"
+      ]
+    },
+    {
+      "gloss": "DIGITAL SIGNAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "DIGITAL ELECTRONICS",
+        "DIGITAL FILE",
+        "DIGITAL POLICE",
+        "DIGITAL INDIA",
+        "DIGITAL INFRASTRUCTURE FOR KNOWLEDGE SHARING"
+      ]
+    },
+    {
+      "gloss": "DIGITAL SIGNATURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DIGITAL ELECTRONICS",
+        "DIGITAL FILE",
+        "DIGITAL POLICE",
+        "DIGITAL INDIA",
+        "DIGITAL INFRASTRUCTURE FOR KNOWLEDGE SHARING"
+      ]
+    },
+    {
+      "gloss": "DIMMER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIODES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIRECT CURRENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "DIRECT ASSESSMENT METHODS",
+        "DIRECT GOVERNMENT PURCHASE",
+        "DIRECT OBSERVATION",
+        "DIRECT TAX AND INDIRECT TAX",
+        "DIRECT PROPORTION"
+      ]
+    },
+    {
+      "gloss": "DIRECTORY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIRNDL SKIRT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DISC BRAKE MASTER CYLINDER",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISC JOCKEY"
+      ]
+    },
+    {
+      "gloss": "DISCONNECT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISCRETE CIRCUIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISCRETE"
+      ]
+    },
+    {
+      "gloss": "DISINFECTION OF WATER",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISINFECTION"
+      ]
+    },
+    {
+      "gloss": "DISSIPATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DITHERING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DOLLY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DOMAIN NAME REGISTRATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DOODLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DOS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DOT MATRIX PRINTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "DOT",
+        "DOT PUNCH"
+      ]
+    },
+    {
+      "gloss": "DOT PUNCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "DOT MATRIX PRINTER",
+        "DOT"
+      ]
+    },
+    {
+      "gloss": "DOUBLE CLICK",
+      "category": "COMPOUND",
+      "anchor": [
+        "DOUBLE BAR GRAPH",
+        "DOUBLE TAXATION",
+        "DOUBLE BURDEN",
+        "DOUBLE FAULT",
+        "DOUBLE"
+      ]
+    },
+    {
+      "gloss": "DOUGHNUT CHART",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DOWNLOAD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DRAG",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DRAINAGE PIPE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DRAINAGE"
+      ]
+    },
+    {
+      "gloss": "DRAW STRING",
+      "category": "COMPOUND",
+      "anchor": [
+        "DRAW"
+      ]
+    },
+    {
+      "gloss": "DRAWING BOARD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DRESS FORM",
+      "category": "COMPOUND",
+      "anchor": [
+        "DRESS MAKER PINS",
+        "DRESS",
+        "DRESS CODE"
+      ]
+    },
+    {
+      "gloss": "DRESS MAKER PINS",
+      "category": "COMPOUND",
+      "anchor": [
+        "DRESS FORM",
+        "DRESS",
+        "DRESS CODE"
+      ]
+    },
+    {
+      "gloss": "DRILL BIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "DRILL DRIFT"
+      ]
+    },
+    {
+      "gloss": "DRILL DRIFT",
+      "category": "COMPOUND",
+      "anchor": [
+        "DRILL BIT"
+      ]
+    },
+    {
+      "gloss": "DRILLING MACHINE PEDESTAL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DRIVING DEVICES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DROP CAP",
+      "category": "COMPOUND",
+      "anchor": [
+        "DROP SHOT",
+        "DROP"
+      ]
+    },
+    {
+      "gloss": "DROPPED ARMHOLE SLEEVE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DTP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DUFFLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DANDI MARCH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEPOSITION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DASHBOARD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DATA FLOW",
+      "category": "COMPOUND",
+      "anchor": [
+        "DATA BOOK, LOG BOOK",
+        "DATA ANALYSIS",
+        "DATA HANDELING",
+        "DATA",
+        "DATA ARCHIVAL"
+      ]
+    },
+    {
+      "gloss": "DATA STREAMING",
+      "category": "COMPOUND",
+      "anchor": [
+        "DATA BOOK, LOG BOOK",
+        "DATA ANALYSIS",
+        "DATA HANDELING",
+        "DATA",
+        "DATA ARCHIVAL"
+      ]
+    },
+    {
+      "gloss": "DE-ADDICTION CENTER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEATH TOLL",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEATH CERTIFICATE",
+        "DEATH IN SERVICE",
+        "DEATH ROW",
+        "DEATH SENTENCE"
+      ]
+    },
+    {
+      "gloss": "DECENTRALISE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DECIMAL FRACTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "DECIMAL"
+      ]
+    },
+    {
+      "gloss": "DECK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DECLARER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEFENDER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEFICIENCY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEFY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DELIBERATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEMILITARIZED ZONE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEMOGRAPHIC TRANSITION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEMOGRAPHY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DENOUNCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEPARTURE",
+      "category": "CORE",
+      "anchor": [
+        "DEPARTURE LOUNGE",
+        "DEPARTURE AREA"
+      ]
+    },
+    {
+      "gloss": "DEPARTURE LOUNGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEPARTURE",
+        "DEPARTURE AREA"
+      ]
+    },
+    {
+      "gloss": "DEPENDANT CLAUSE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEPICT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEPLOYMENT BACKUP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DESTINY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DETENTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DETERMINANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DETOUR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEVIATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIAGNOSIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIALOGUE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIAMOND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIAMONDS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DICTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIGGER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIGITAL",
+      "category": "CORE",
+      "anchor": [
+        "DIGITAL ELECTRONICS",
+        "DIGITAL FILE",
+        "DIGITAL POLICE",
+        "DIGITAL INDIA",
+        "DIGITAL INFRASTRUCTURE FOR KNOWLEDGE SHARING"
+      ]
+    },
+    {
+      "gloss": "DIGITALIZATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIPLOMACY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIRECT",
+      "category": "CORE",
+      "anchor": [
+        "DIRECT ASSESSMENT METHODS",
+        "DIRECT GOVERNMENT PURCHASE",
+        "DIRECT OBSERVATION",
+        "DIRECT TAX AND INDIRECT TAX",
+        "DIRECT PROPORTION"
+      ]
+    },
+    {
+      "gloss": "DIRECT CONTACT",
+      "category": "COMPOUND",
+      "anchor": [
+        "DIRECT ASSESSMENT METHODS",
+        "DIRECT GOVERNMENT PURCHASE",
+        "DIRECT OBSERVATION",
+        "DIRECT TAX AND INDIRECT TAX",
+        "DIRECT PROPORTION"
+      ]
+    },
+    {
+      "gloss": "DISABILITY JUSTICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISABILITY STUDIES",
+        "DISABILITY",
+        "DISABILITY SUPPORT SERVICE"
+      ]
+    },
+    {
+      "gloss": "DISABILITY SUPPORT SERVICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISABILITY JUSTICE",
+        "DISABILITY STUDIES",
+        "DISABILITY"
+      ]
+    },
+    {
+      "gloss": "DISCHARGE",
+      "category": "CORE",
+      "anchor": [
+        "DISCHARGE SUMMARY"
+      ]
+    },
+    {
+      "gloss": "DISINFECTANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISPATCHABLE POWER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DIVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIVERSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIVYANG TOILET",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DOCTOR",
+      "category": "CORE",
+      "anchor": [
+        "DOCTOR OF PHILOSOPHY"
+      ]
+    },
+    {
+      "gloss": "DOCTRINE",
+      "category": "CORE",
+      "anchor": [
+        "DOCTRINE OF LAPSE"
+      ]
+    },
+    {
+      "gloss": "DOMINANCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DOSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DRESSAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DRYNESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DUMMY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DUNNAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DUTIES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DYNAMIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DATING APPS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DAYCARE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEADLOCK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEALMAKER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEATH SENTENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEATH CERTIFICATE",
+        "DEATH IN SERVICE",
+        "DEATH ROW",
+        "DEATH TOLL"
+      ]
+    },
+    {
+      "gloss": "DECIMETER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DECORATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DECOUPLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEDICATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEEPWATER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEFINITION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DELUSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DENTAL FLOSS",
+      "category": "COMPOUND",
+      "anchor": [
+        "DENTAL EXAMINATION MIRROR",
+        "DENTAL LAB",
+        "DENTAL CHAIR",
+        "DENTAL X-RAY",
+        "DENTAL COMPRESSOR"
+      ]
+    },
+    {
+      "gloss": "DENTAL SURGERY",
+      "category": "COMPOUND",
+      "anchor": [
+        "DENTAL EXAMINATION MIRROR",
+        "DENTAL LAB",
+        "DENTAL CHAIR",
+        "DENTAL X-RAY",
+        "DENTAL COMPRESSOR"
+      ]
+    },
+    {
+      "gloss": "DENY",
+      "category": "CORE",
+      "anchor": [
+        "DECLINE AND DIES BACK",
+        "DISAGREE, DISSENT",
+        "FEAR OF REJECTION"
+      ]
+    },
+    {
+      "gloss": "DEPARTMENT",
+      "category": "CORE",
+      "anchor": [
+        "DEPARTMENT OF EMPOWERMENT OF PERSONS WITH DISABILITIES",
+        "DEPARTMENT OF SCIENCE AND TECHNOLOGY"
+      ]
+    },
+    {
+      "gloss": "DERMATOLOGIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DERMATOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DESERTED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DESSERT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DETERGENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIETITIAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISASTER MANAGEMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISASTER"
+      ]
+    },
+    {
+      "gloss": "DISCIPLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISCOURAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISCOVER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISC JOCKEY",
+      "category": "COMPOUND",
+      "anchor": [
+        "DISC BRAKE MASTER CYLINDER"
+      ]
+    },
+    {
+      "gloss": "DOLPHIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DOMESTIC ANIMALS",
+      "category": "COMPOUND",
+      "anchor": [
+        "DOMESTIC VIOLENCE",
+        "DOMESTIC WORKER",
+        "DOMESTIC FLIGHT",
+        "DOMESTIC AIRPORT"
+      ]
+    },
+    {
+      "gloss": "DOMINANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DUSTPAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DYSCALCULIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DYSGRAPHIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DANGEROUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISCRETE",
+      "category": "CORE",
+      "anchor": [
+        "DISCRETE CIRCUIT"
+      ]
+    },
+    {
+      "gloss": "DIVERSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DAILY ROUTINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DAILY ALLOWANCE"
+      ]
+    },
+    {
+      "gloss": "DEEP BREATHS",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEEP SEA FISH",
+        "DEEP ROOTED",
+        "DEEP MID-WICKET"
+      ]
+    },
+    {
+      "gloss": "DEFENSIVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DELIRIUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DENYING EMOTIONS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DESERVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DESPAIR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEVELOPMENTAL DISORDER",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEVELOPMENTAL PSYCHOLOGY",
+        "DEVELOPMENTAL DELAY"
+      ]
+    },
+    {
+      "gloss": "DISAPPOINTMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISGUSTED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISORGANIZED BEHAVIOUR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DISORGANIZED/ DISORDERED THINKING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DISSOCIATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISTRESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DOWN HEARTED",
+      "category": "COMPOUND",
+      "anchor": [
+        "DOWN PAYMENT, EMI",
+        "DOWN"
+      ]
+    },
+    {
+      "gloss": "DRAMA THERAPY",
+      "category": "COMPOUND",
+      "anchor": [
+        "DRAMA"
+      ]
+    },
+    {
+      "gloss": "DYSREGULATED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEBUGGING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DECAY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DECEITFUL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DE-ICING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEIFY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DELTA WING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DEMOLITION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DEPARTURE AREA",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEPARTURE LOUNGE",
+        "DEPARTURE"
+      ]
+    },
+    {
+      "gloss": "DEPEND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DESCENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DESECRATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DIALECTIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISHONEST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DISTRIBUTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DOCUMENTARY",
+      "category": "CORE",
+      "anchor": [
+        "DOCUMENTARY EVIDENCE SECTION 3 OF INDIAN EVIDENCE ACT"
+      ]
+    },
+    {
+      "gloss": "DOCUMENTATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DOGMA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DOMESTIC AIRPORT",
+      "category": "COMPOUND",
+      "anchor": [
+        "DOMESTIC VIOLENCE",
+        "DOMESTIC WORKER",
+        "DOMESTIC FLIGHT",
+        "DOMESTIC ANIMALS"
+      ]
+    },
+    {
+      "gloss": "DOMESTIC FLIGHT",
+      "category": "COMPOUND",
+      "anchor": [
+        "DOMESTIC VIOLENCE",
+        "DOMESTIC AIRPORT",
+        "DOMESTIC WORKER",
+        "DOMESTIC ANIMALS"
+      ]
+    },
+    {
+      "gloss": "DOMINICAN REPUBLIC",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "DOSAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "DOWN",
+      "category": "CORE",
+      "anchor": [
+        "DOWN PAYMENT, EMI",
+        "DOWN HEARTED"
+      ]
+    },
+    {
+      "gloss": "DRESS CODE",
+      "category": "COMPOUND",
+      "anchor": [
+        "DRESS MAKER PINS",
+        "DRESS FORM",
+        "DRESS"
+      ]
+    },
+    {
+      "gloss": "DJ - DISC JOCKEY",
+      "category": "COMPOUND",
+      "anchor": []
+    }
+]

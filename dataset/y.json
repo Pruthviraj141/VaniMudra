@@ -1,0 +1,227 @@
+{
+  "metadata": {
+    "total_words": 37,
+    "description": "Words starting with letter Y"
+  },
+  "words": [
+    {
+      "gloss": "YAHOO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "YAK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "YAMAHA BIKE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "YAWN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "YEAR",
+      "category": "NUMBERS & TIME",
+      "anchor": [
+        "YEAR AFTER YEAR"
+      ]
+    },
+    {
+      "gloss": "YEAR AFTER YEAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "YEAR"
+      ]
+    },
+    {
+      "gloss": "YEARLONG",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "YEARN, LONG",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "YELL, SHOUT, SHRIEK, SCREAM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "YELLOW",
+      "category": "CORE",
+      "anchor": [
+        "YELLOW FEVER",
+        "YELLOW FLOWERED PLANTS"
+      ]
+    },
+    {
+      "gloss": "YES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "YESTERDAY",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "YOGA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "YOLK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "YORKER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "YOU",
+      "category": "CORE",
+      "anchor": [
+        "YOU CAN'T JUDGE A BOOK BY ITS COVER"
+      ]
+    },
+    {
+      "gloss": "YOUNG",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "YOUNGER",
+      "category": "CORE",
+      "anchor": [
+        "YOUNGER SISTER",
+        "YOUNGER BROTHER"
+      ]
+    },
+    {
+      "gloss": "YOUNGER BROTHER",
+      "category": "COMPOUND",
+      "anchor": [
+        "YOUNGER SISTER",
+        "YOUNGER"
+      ]
+    },
+    {
+      "gloss": "YOUNGER SISTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "YOUNGER",
+        "YOUNGER BROTHER"
+      ]
+    },
+    {
+      "gloss": "YOUR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "YOURSELF",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "YOUTH",
+      "category": "CORE",
+      "anchor": [
+        "YOUTH ASSOCIATION OF THE DEAF INDIA"
+      ]
+    },
+    {
+      "gloss": "YOUTH ASSOCIATION OF THE DEAF INDIA",
+      "category": "COMPOUND",
+      "anchor": [
+        "YOUTH"
+      ]
+    },
+    {
+      "gloss": "YOUTUBE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "YOYO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "YARN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "YELLOW FLOWERED PLANTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "YELLOW",
+        "YELLOW FEVER"
+      ]
+    },
+    {
+      "gloss": "YIELD CURVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "YIELD"
+      ]
+    },
+    {
+      "gloss": "YOU CAN'T JUDGE A BOOK BY ITS COVER",
+      "category": "COMPOUND",
+      "anchor": [
+        "YOU"
+      ]
+    },
+    {
+      "gloss": "YELLOW FEVER",
+      "category": "COMPOUND",
+      "anchor": [
+        "YELLOW",
+        "YELLOW FLOWERED PLANTS"
+      ]
+    },
+    {
+      "gloss": "YARDSTICK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "YOKE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "YAJUR VEDA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "YAW PLANE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "YIELD",
+      "category": "CORE",
+      "anchor": [
+        "YIELD CURVE"
+      ]
+    },
+    {
+      "gloss": "Y",
+      "category": "LETTERS",
+      "anchor": []
+    }
+  ]
+}

@@ -1,0 +1,8263 @@
+[
+    {
+      "gloss": "CABBAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CABIN",
+      "category": "CORE",
+      "anchor": [
+        "CABIN PRESSURIZATION",
+        "CABIN CREW"
+      ]
+    },
+    {
+      "gloss": "CABLE, CORD, WIRE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CACOPHONY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAGE",
+      "category": "CORE",
+      "anchor": [
+        "CAGE SYSTEM"
+      ]
+    },
+    {
+      "gloss": "CALAMITY, CATASTROPHE, DISASTER, TRAGEDY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CALCULATOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CALENDAR",
+      "category": "NUMBERS & TIME",
+      "anchor": [
+        "CALENDAR YEAR"
+      ]
+    },
+    {
+      "gloss": "CALF",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CALL",
+      "category": "CORE",
+      "anchor": [
+        "CALL OPTION",
+        "CALL FOR QUOTATION",
+        "CALL IT A DAY"
+      ]
+    },
+    {
+      "gloss": "CALLOUS, INDIFFERENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CALM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAMEL",
+      "category": "CORE",
+      "anchor": [
+        "CAMEL FARMING"
+      ]
+    },
+    {
+      "gloss": "CAMERA",
+      "category": "CORE",
+      "anchor": [
+        "CAMERA FLASH"
+      ]
+    },
+    {
+      "gloss": "CAMP, TENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CAMPUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAN",
+      "category": "GRAMMAR & FUNCTION",
+      "anchor": []
+    },
+    {
+      "gloss": "CANARA BANK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CANCEL, CALL OFF",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CANDLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CANNIBAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CANTEEN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAP",
+      "category": "CORE",
+      "anchor": [
+        "CAP SLEEVE"
+      ]
+    },
+    {
+      "gloss": "CAPABLE",
+      "category": "CORE",
+      "anchor": [
+        "CAPABLE BODY"
+      ]
+    },
+    {
+      "gloss": "CAPITAL",
+      "category": "CORE",
+      "anchor": [
+        "CAPITAL OUTPUT RATIO",
+        "CAPITAL DEPRECIATION",
+        "CAPITAL APPRECIATION",
+        "CAPITAL EXPENDITURE",
+        "CAPITAL GOODS"
+      ]
+    },
+    {
+      "gloss": "CAPITULATE, GIVE IN, SURRENDER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CAPSICUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAPSIZE, OVERTURN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CAPTIONS, SUBTITLES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CAR",
+      "category": "CORE",
+      "anchor": [
+        "CAR AIR MATTRESS",
+        "CAR WASH"
+      ]
+    },
+    {
+      "gloss": "CARDINAL",
+      "category": "CORE",
+      "anchor": [
+        "CARDINAL DIRECTION AND INTERMEDIATE DIRECTION",
+        "CARDINAL AND ORDINAL NUMBER"
+      ]
+    },
+    {
+      "gloss": "CARDINAL, KEY, FUNDAMENTAL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CAREFUL",
+      "category": "CORE",
+      "anchor": [
+        "CAREFUL STEPS"
+      ]
+    },
+    {
+      "gloss": "CARELESS, NEGLIGENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CARGO",
+      "category": "CORE",
+      "anchor": [
+        "CARGO SHIP",
+        "CARGO HANDLING EQUIPMENT",
+        "CARGO POCKET",
+        "CARGO CONSOLIDATION",
+        "CARGO TRAIN, FREIGHT TRAIN, GOODS TRAIN"
+      ]
+    },
+    {
+      "gloss": "CARGO TRAIN, FREIGHT TRAIN, GOODS TRAIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "CARGO",
+        "CARGO SHIP",
+        "CARGO HANDLING EQUIPMENT",
+        "CARGO POCKET",
+        "CARGO CONSOLIDATION"
+      ]
+    },
+    {
+      "gloss": "CARICATURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARNAGE, SLAUGHTER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CARPENTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARPET",
+      "category": "CORE",
+      "anchor": [
+        "CARPET AREA"
+      ]
+    },
+    {
+      "gloss": "CARPOOL, CARPOOLING, MOTOR POOL, RIDE SHARE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CARRIED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARROM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARROT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARTOON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CASH, NOTES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CASHEW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CASHIER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CASINO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CASIO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CASSEROLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CASTIGATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CASTRATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAT",
+      "category": "CORE",
+      "anchor": [
+        "CAT FISH"
+      ]
+    },
+    {
+      "gloss": "CATALOGUE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CATCH",
+      "category": "CORE",
+      "anchor": [
+        "CATCH CROPS",
+        "CATCH STITCH",
+        "CATCH UP"
+      ]
+    },
+    {
+      "gloss": "CATEGORY, CLASSIFICATION, GROUP, SECTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CAUTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAVALCADE, PROCESSION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CAVE",
+      "category": "CORE",
+      "anchor": [
+        "CAVE PAINTINGS"
+      ]
+    },
+    {
+      "gloss": "CAW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CD",
+      "category": "CORE",
+      "anchor": [
+        "CD WRITER"
+      ]
+    },
+    {
+      "gloss": "CEASE, DISCONTINUE, HALT, STOP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CELEBRATE, ENJOY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CELEBRITY, PERSONALITY, STAR, BIG NAME, CELEB",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CELIBATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CELL, MOBILE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CELLO TAPE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CEMENT",
+      "category": "CORE",
+      "anchor": [
+        "CEMENT MORTAR"
+      ]
+    },
+    {
+      "gloss": "CENTER",
+      "category": "CORE",
+      "anchor": [
+        "CENTER BACK"
+      ]
+    },
+    {
+      "gloss": "CENTIMETRE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CENTRE FORWARD",
+      "category": "COMPOUND",
+      "anchor": [
+        "CENTRE",
+        "CENTRE FRONT"
+      ]
+    },
+    {
+      "gloss": "CENTURY",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "CEREMONY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CERTAIN, DEFINITE, SURE, POSITIVE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHAIN",
+      "category": "CORE",
+      "anchor": [
+        "CHAIN OF MARKETS",
+        "CHAIN OF COMMAND",
+        "CHAIN SURVEYING",
+        "CHAIN OF CUSTODY",
+        "CHAIN DRIVE"
+      ]
+    },
+    {
+      "gloss": "CHAIN, SEQUENCE, STRING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHAIR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHAKLA, ROLLING PLATE, ROTI BOARD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHALK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHALLENGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHANA, CHICKPEA, GRAM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHANDELIER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHANGE",
+      "category": "CORE",
+      "anchor": [
+        "CHANGE OF VENUE",
+        "CONVERT, CHANGE, TRANSFORM",
+        "ALTERNATIVE",
+        "OVARY"
+      ]
+    },
+    {
+      "gloss": "CHAOS, DISORDER, DISARRAY, MAYHEM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHAPATI, ROTI",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHAPTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHAR MINAR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHARGE",
+      "category": "CORE",
+      "anchor": [
+        "CHARGE BARGAIN"
+      ]
+    },
+    {
+      "gloss": "CHARGER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHARITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHART",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHAUFFEUR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHEAP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHEAT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHECK IN",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHECK OUT"
+      ]
+    },
+    {
+      "gloss": "CHECK OUT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHECK IN"
+      ]
+    },
+    {
+      "gloss": "CHECKMATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHEERFUL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHEF",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHEQUE",
+      "category": "CORE",
+      "anchor": [
+        "CHEQUE STALE",
+        "CHEQUE DROP BOX",
+        "CHEQUE CROSSED",
+        "CHEQUE FRAUDULENT"
+      ]
+    },
+    {
+      "gloss": "CHEQUE DROP BOX",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHEQUE STALE",
+        "CHEQUE",
+        "CHEQUE CROSSED",
+        "CHEQUE FRAUDULENT"
+      ]
+    },
+    {
+      "gloss": "CHERRY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHEW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHHATRAPATI SHIVAJI TERMINUS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHICK, CHICKEN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHICKPEA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHIEF MINISTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHIEF JUSTICE",
+        "CHIEF EXECUTIVE OFFICER"
+      ]
+    },
+    {
+      "gloss": "CHIKOO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHILLI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHIMTA, TONGS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHIPS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHIRP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHIRP, CHIRRUP, TWEET",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHOCOLATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHOLERA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHOOSE, PICK, SELECT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHOP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHRISTIANITY, CHRISTIAN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHRISTMAS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CIF NUMBER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CINEMA HALL, THEATRE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CIRCLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CIRCUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLARIFY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLASS",
+      "category": "CLASSIFIERS",
+      "anchor": [
+        "CLASS PARTICIPATION"
+      ]
+    },
+    {
+      "gloss": "CLASS, GRADE, STANDARD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CLEAN, TIDY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CLEAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLEVER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLICK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLIMB",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLOCK",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "CLOSE",
+      "category": "CORE",
+      "anchor": [
+        "CLOSE CONTACT",
+        "CLOSE UP"
+      ]
+    },
+    {
+      "gloss": "CLOTH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLOUD",
+      "category": "CORE",
+      "anchor": [
+        "CLOUD RECORDING",
+        "CLOUD PRINT",
+        "CLOUD INFRASTRUCTURE",
+        "CLOUD GAMING",
+        "CLOUD STORAGE"
+      ]
+    },
+    {
+      "gloss": "CLOUDY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLOWN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLUB",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLUCK, CROW",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CLUMSY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COACH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COAL",
+      "category": "CORE",
+      "anchor": [
+        "COAL MINES",
+        "COAL TAR",
+        "COAL GAS",
+        "COAL WASHING"
+      ]
+    },
+    {
+      "gloss": "COAT",
+      "category": "CORE",
+      "anchor": [
+        "COAT DRESS"
+      ]
+    },
+    {
+      "gloss": "COBBLER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COBWEB",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COCHLEAR IMPLANT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COCK A DOODLE DOO",
+      "category": "COMPOUND",
+      "anchor": [
+        "COCK"
+      ]
+    },
+    {
+      "gloss": "COCKROACH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COCONUT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COFFEE",
+      "category": "CORE",
+      "anchor": [
+        "COFFEE RUST"
+      ]
+    },
+    {
+      "gloss": "COIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COLD",
+      "category": "CORE",
+      "anchor": [
+        "COLD FORMED STEEL SECTION",
+        "COLD WAR",
+        "COLD DESERT",
+        "COLD ROOM UNITS",
+        "COLD STORAGE"
+      ]
+    },
+    {
+      "gloss": "COLLECT, COMPILE, GATHER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COLLEGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COLLUDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COLONY OF ANTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "COLONY OF HONEY BEE",
+        "COLONY"
+      ]
+    },
+    {
+      "gloss": "COLOUR",
+      "category": "CORE",
+      "anchor": [
+        "COLOUR PALETTE"
+      ]
+    },
+    {
+      "gloss": "COLOURED HAIR",
+      "category": "COMPOUND",
+      "anchor": [
+        "COLOURED FOLLAGE SHRUBS"
+      ]
+    },
+    {
+      "gloss": "COLT, FOAL, FILLY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COMB",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMBINE, CONNECT",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMBINE, MERGE"
+      ]
+    },
+    {
+      "gloss": "COMBINE, MERGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMBINE, CONNECT"
+      ]
+    },
+    {
+      "gloss": "COME",
+      "category": "CORE",
+      "anchor": [
+        "COME BACK, RETURN",
+        "COME OF AGE",
+        "COME BACK CASE"
+      ]
+    },
+    {
+      "gloss": "COME BACK, RETURN",
+      "category": "COMPOUND",
+      "anchor": [
+        "COME OF AGE",
+        "COME BACK CASE",
+        "COME"
+      ]
+    },
+    {
+      "gloss": "COMFORTABLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMMERCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMMITTEE",
+      "category": "CORE",
+      "anchor": [
+        "COMMITTEE OF TRANSPORTATION"
+      ]
+    },
+    {
+      "gloss": "COMMON",
+      "category": "CLASSIFIERS",
+      "anchor": [
+        "COMMON MINERALS",
+        "COMMON MULTIPLE",
+        "COMMON FACTOR",
+        "COMMON SALT",
+        "COMMON NOUN, PROPER NOUN"
+      ]
+    },
+    {
+      "gloss": "COMMUNICATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMMUNIST PARTY OF INDIA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COMMUNITY",
+      "category": "CORE",
+      "anchor": [
+        "COMMUNITY BASED REHABILITATION",
+        "COMMUNITY LAND",
+        "COMMUNITY PARTICIPATION"
+      ]
+    },
+    {
+      "gloss": "COMPANY",
+      "category": "CORE",
+      "anchor": [
+        "COMPANY SECRETARY"
+      ]
+    },
+    {
+      "gloss": "COMPARE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPETITION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPETITION, CONTEST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPLAIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPLETE, FINISH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPUTER",
+      "category": "CORE",
+      "anchor": [
+        "COMPUTER SEARCH OF THE LITERATURE"
+      ]
+    },
+    {
+      "gloss": "CONCEPT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONCLUDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONCLUSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONDOM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONFERENCE",
+      "category": "CORE",
+      "anchor": [
+        "CONFERENCE TABLE"
+      ]
+    },
+    {
+      "gloss": "CONFIDENCE",
+      "category": "CORE",
+      "anchor": [
+        "CONFIDENCE TRICKS, CONFIDENCE MAN OR CON MAN"
+      ]
+    },
+    {
+      "gloss": "CONFIRM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONFUSED",
+      "category": "CORE",
+      "anchor": [
+        "CONFUSED THOUGHTS"
+      ]
+    },
+    {
+      "gloss": "CONGRATULATIONS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONNECT, LINK, RELATE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSENSUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSERVE, PRESERVE, SAVE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSTANT, CONTINUOUS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSTRUCT, BUILD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSULTANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONTINUE, CARRY ON",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONTRACT",
+      "category": "CORE",
+      "anchor": [
+        "CONTRACT KILLER",
+        "CONTRACT KILLING"
+      ]
+    },
+    {
+      "gloss": "CONTRACT, AGREEMENT, DEAL, PACT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTRACT, CONTRACTUAL"
+      ]
+    },
+    {
+      "gloss": "CONTRACT, CONTRACTUAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTRACT, AGREEMENT, DEAL, PACT"
+      ]
+    },
+    {
+      "gloss": "CONTROL, MANAGE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONVERT, CHANGE, TRANSFORM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COOK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COOKER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COOL",
+      "category": "CORE",
+      "anchor": [
+        "COOL COLOURS",
+        "COOL BOX"
+      ]
+    },
+    {
+      "gloss": "COOLIE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COOP, PEN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COPPER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COPY AND PASTE",
+      "category": "COMPOUND",
+      "anchor": [
+        "COPY"
+      ]
+    },
+    {
+      "gloss": "CORN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CORNER",
+      "category": "CORE",
+      "anchor": [
+        "CORNER KICK"
+      ]
+    },
+    {
+      "gloss": "CORPORATION BANK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CORPSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CORRECT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COSMETICS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COST",
+      "category": "CORE",
+      "anchor": [
+        "COST BENEFIT ANALYSIS"
+      ]
+    },
+    {
+      "gloss": "COSTLY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COTTAGE CHEESE, PANEER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COUNT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COUNTRY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COURSE, PROGRAMME",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COVER",
+      "category": "CORE",
+      "anchor": [
+        "COVER DRIVE",
+        "COVER CROPS"
+      ]
+    },
+    {
+      "gloss": "COVER DRIVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "COVER CROPS",
+        "COVER"
+      ]
+    },
+    {
+      "gloss": "COW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CRAWL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CRAYON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CREASE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CROAK, RIBBIT FROG",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CROSS",
+      "category": "CORE",
+      "anchor": [
+        "CROSS COUNTRY",
+        "CROSS CULTURAL PSYCHOLOGY",
+        "CROSS PRODUCT",
+        "CROSS BREEDING",
+        "CROSS BREEDS"
+      ]
+    },
+    {
+      "gloss": "CROSS COUNTRY",
+      "category": "COMPOUND",
+      "anchor": [
+        "CROSS CULTURAL PSYCHOLOGY",
+        "CROSS",
+        "CROSS PRODUCT",
+        "CROSS BREEDING",
+        "CROSS BREEDS"
+      ]
+    },
+    {
+      "gloss": "CROSSWORD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CROWD, HORDE, MASS, THRONG",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CROWN",
+      "category": "CORE",
+      "anchor": [
+        "CROWN GRAFTING"
+      ]
+    },
+    {
+      "gloss": "CRUEL, BRUTAL, INHUMAN, RUTHLESS, COLD HEARTED",
+      "category": "COMPOUND",
+      "anchor": [
+        "CRUEL, CALLOUS, HARSH, RUTHLESS"
+      ]
+    },
+    {
+      "gloss": "CRUEL, CALLOUS, HARSH, RUTHLESS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CRUEL, BRUTAL, INHUMAN, RUTHLESS, COLD HEARTED"
+      ]
+    },
+    {
+      "gloss": "CRUMB",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CRUSH, SMASH, SQUASH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CRY, BAWL, SCREAM",
+      "category": "COMPOUND",
+      "anchor": [
+        "CRY, SOB"
+      ]
+    },
+    {
+      "gloss": "CRY, SOB",
+      "category": "COMPOUND",
+      "anchor": [
+        "CRY, BAWL, SCREAM"
+      ]
+    },
+    {
+      "gloss": "CUB",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CUBE",
+      "category": "CORE",
+      "anchor": [
+        "CUBE AND CUBE ROOT"
+      ]
+    },
+    {
+      "gloss": "CUBICLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CUE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CUISINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CULTURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CUP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CUPBOARD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CURD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CURIOUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CURRENT",
+      "category": "CORE",
+      "anchor": [
+        "CURRENT ASSETS",
+        "CURRENT PRICE",
+        "CURRENT AND AMPERE",
+        "CURRENT ACCOUNT",
+        "CURRENT LIABILITIES"
+      ]
+    },
+    {
+      "gloss": "CURTAIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CURVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CUSHION, PILLOW",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CUSTOMER",
+      "category": "CORE",
+      "anchor": [
+        "CUSTOMER CARE"
+      ]
+    },
+    {
+      "gloss": "CUT",
+      "category": "CORE",
+      "anchor": [
+        "CUT AND FILL",
+        "CUT CORNERS",
+        "CUT LINE"
+      ]
+    },
+    {
+      "gloss": "CUT, TRIM, SNIP, CLIP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CUTE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CUTLERY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CYCLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CYCLING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CYLINDER",
+      "category": "CORE",
+      "anchor": [
+        "CYLINDER STAND"
+      ]
+    },
+    {
+      "gloss": "CYLINDER STAND",
+      "category": "COMPOUND",
+      "anchor": [
+        "CYLINDER"
+      ]
+    },
+    {
+      "gloss": "CALCIUM",
+      "category": "CORE",
+      "anchor": [
+        "CALCIUM FLUORIDE"
+      ]
+    },
+    {
+      "gloss": "CALCIUM FLUORIDE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CALCIUM"
+      ]
+    },
+    {
+      "gloss": "CALORIE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CALORIFIC VALUE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CAMBIUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAMPAIGNING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CANCER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CANDIDATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CANINE",
+      "category": "CORE",
+      "anchor": [
+        "CANINE TEETH"
+      ]
+    },
+    {
+      "gloss": "CANINE TEETH",
+      "category": "COMPOUND",
+      "anchor": [
+        "CANINE"
+      ]
+    },
+    {
+      "gloss": "CANOPY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAPILLARY",
+      "category": "CORE",
+      "anchor": [
+        "CAPILLARY WATER"
+      ]
+    },
+    {
+      "gloss": "CAPITALISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARBOHYDRATES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARBON",
+      "category": "CORE",
+      "anchor": [
+        "CARBON DIOXIDE",
+        "CARBON NEUTRAL",
+        "CARBON MONOXIDE",
+        "CARBON FOOTPRINT"
+      ]
+    },
+    {
+      "gloss": "CARBON DIOXIDE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CARBON MONOXIDE",
+        "CARBON",
+        "CARBON NEUTRAL",
+        "CARBON FOOTPRINT"
+      ]
+    },
+    {
+      "gloss": "CARDINAL AND ORDINAL NUMBER",
+      "category": "COMPOUND",
+      "anchor": [
+        "CARDINAL DIRECTION AND INTERMEDIATE DIRECTION",
+        "CARDINAL"
+      ]
+    },
+    {
+      "gloss": "CARDINAL DIRECTION AND INTERMEDIATE DIRECTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CARDINAL AND ORDINAL NUMBER",
+        "CARDINAL"
+      ]
+    },
+    {
+      "gloss": "CARE GIVING AND CAREGIVER",
+      "category": "COMPOUND",
+      "anchor": [
+        "CARE OF LAWN"
+      ]
+    },
+    {
+      "gloss": "CAREER MANAGEMENT AND PROGRESSION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CARNETIC WARS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CARNIVORE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARNIVORES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARPOOLING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARRIER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARTILAGE",
+      "category": "CORE",
+      "anchor": [
+        "CARTILAGE CELLS"
+      ]
+    },
+    {
+      "gloss": "CARTOGRAPHER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARTRIDGES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARVING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CASH FLOW",
+      "category": "COMPOUND",
+      "anchor": [
+        "CASH CROPS",
+        "CASH GENERATION",
+        "CASH DIVIDEND",
+        "CASH IN ADVANCE",
+        "CASH WITH ORDER"
+      ]
+    },
+    {
+      "gloss": "CASH GENERATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CASH CROPS",
+        "CASH DIVIDEND",
+        "CASH FLOW",
+        "CASH IN ADVANCE",
+        "CASH WITH ORDER"
+      ]
+    },
+    {
+      "gloss": "CASH IN ADVANCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CASH CROPS",
+        "CASH GENERATION",
+        "CASH DIVIDEND",
+        "CASH FLOW",
+        "CASH WITH ORDER"
+      ]
+    },
+    {
+      "gloss": "CASH WITH ORDER",
+      "category": "COMPOUND",
+      "anchor": [
+        "CASH CROPS",
+        "CASH GENERATION",
+        "CASH DIVIDEND",
+        "CASH FLOW",
+        "CASH IN ADVANCE"
+      ]
+    },
+    {
+      "gloss": "CASSIOPEIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CASTE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CATHODE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CATTLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAVE PAINTINGS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAVE"
+      ]
+    },
+    {
+      "gloss": "CAVITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CELL",
+      "category": "CORE",
+      "anchor": [
+        "CELL MEMBRANE",
+        "CELL WALL"
+      ]
+    },
+    {
+      "gloss": "CELL MEMBRANE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CELL WALL",
+        "CELL"
+      ]
+    },
+    {
+      "gloss": "CELL WALL",
+      "category": "COMPOUND",
+      "anchor": [
+        "CELL MEMBRANE",
+        "CELL"
+      ]
+    },
+    {
+      "gloss": "CELLS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CELLULAR RESPIRATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CELLULOSE ACETATE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CELSIUS",
+      "category": "CORE",
+      "anchor": [
+        "CELSIUS AND FAHRENHEIT"
+      ]
+    },
+    {
+      "gloss": "CELSIUS AND FAHRENHEIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CELSIUS"
+      ]
+    },
+    {
+      "gloss": "CENSORSHIP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CENSUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CENTI-",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CENTRAL ADVISORY BOARD OF EDUCATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CENTRAL GOVERNMENT",
+        "CENTRAL BANK",
+        "CENTRAL JAIL",
+        "CENTRAL INSTITUTE OF EDUCATIONAL TECHNOLOGY",
+        "CENTRAL BANK AND COMMERCIAL BANK"
+      ]
+    },
+    {
+      "gloss": "CENTRAL BANK AND COMMERCIAL BANK",
+      "category": "COMPOUND",
+      "anchor": [
+        "CENTRAL GOVERNMENT",
+        "CENTRAL BANK",
+        "CENTRAL JAIL",
+        "CENTRAL INSTITUTE OF EDUCATIONAL TECHNOLOGY",
+        "CENTRAL ADVISORY BOARD OF EDUCATION"
+      ]
+    },
+    {
+      "gloss": "CENTRAL GOVERNMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CENTRAL BANK",
+        "CENTRAL JAIL",
+        "CENTRAL INSTITUTE OF EDUCATIONAL TECHNOLOGY",
+        "CENTRAL ADVISORY BOARD OF EDUCATION",
+        "CENTRAL BANK AND COMMERCIAL BANK"
+      ]
+    },
+    {
+      "gloss": "CENTRAL INSTITUTE OF EDUCATIONAL TECHNOLOGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "CENTRAL GOVERNMENT",
+        "CENTRAL BANK",
+        "CENTRAL JAIL",
+        "CENTRAL ADVISORY BOARD OF EDUCATION",
+        "CENTRAL BANK AND COMMERCIAL BANK"
+      ]
+    },
+    {
+      "gloss": "CENTRE",
+      "category": "CORE",
+      "anchor": [
+        "CENTRE FRONT",
+        "CENTRE FORWARD"
+      ]
+    },
+    {
+      "gloss": "CERTIFICATE OF INSPECTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CERTIFICATE OF INSURANCE",
+        "CERTIFICATE OF ORIGIN",
+        "CERTIFICATE OF MANUFACTURE"
+      ]
+    },
+    {
+      "gloss": "CERTIFICATE OF INSURANCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CERTIFICATE OF INSPECTION",
+        "CERTIFICATE OF ORIGIN",
+        "CERTIFICATE OF MANUFACTURE"
+      ]
+    },
+    {
+      "gloss": "CERTIFICATE OF MANUFACTURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CERTIFICATE OF INSPECTION",
+        "CERTIFICATE OF INSURANCE",
+        "CERTIFICATE OF ORIGIN"
+      ]
+    },
+    {
+      "gloss": "CERTIFICATE OF ORIGIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "CERTIFICATE OF INSPECTION",
+        "CERTIFICATE OF INSURANCE",
+        "CERTIFICATE OF MANUFACTURE"
+      ]
+    },
+    {
+      "gloss": "CHAIN OF MARKETS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHAIN",
+        "CHAIN OF COMMAND",
+        "CHAIN SURVEYING",
+        "CHAIN OF CUSTODY",
+        "CHAIN DRIVE"
+      ]
+    },
+    {
+      "gloss": "CHANAKYA, KAUTILYA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHANCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHANDRAGUPTA",
+      "category": "CORE",
+      "anchor": [
+        "CHANDRAGUPTA II, VIKRAMADITYA",
+        "CHANDRAGUPTA MAURYA"
+      ]
+    },
+    {
+      "gloss": "CHANDRAGUPTA II, VIKRAMADITYA",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHANDRAGUPTA",
+        "CHANDRAGUPTA MAURYA"
+      ]
+    },
+    {
+      "gloss": "CHANDRAGUPTA MAURYA",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHANDRAGUPTA II, VIKRAMADITYA",
+        "CHANDRAGUPTA"
+      ]
+    },
+    {
+      "gloss": "CHARGESHEET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHARIOT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHEMICAL",
+      "category": "CORE",
+      "anchor": [
+        "CHEMICAL PROPERTIES",
+        "CHEMICAL COMPOSITION",
+        "CHEMICAL CHANGE, CHEMICAL REACTION",
+        "CHEMICAL CONTAMINATION"
+      ]
+    },
+    {
+      "gloss": "CHEMICAL CHANGE, CHEMICAL REACTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHEMICAL PROPERTIES",
+        "CHEMICAL COMPOSITION",
+        "CHEMICAL",
+        "CHEMICAL CONTAMINATION"
+      ]
+    },
+    {
+      "gloss": "CHEMICAL COMPOSITION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHEMICAL PROPERTIES",
+        "CHEMICAL CHANGE, CHEMICAL REACTION",
+        "CHEMICAL",
+        "CHEMICAL CONTAMINATION"
+      ]
+    },
+    {
+      "gloss": "CHEMICAL CONTAMINATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHEMICAL PROPERTIES",
+        "CHEMICAL CHANGE, CHEMICAL REACTION",
+        "CHEMICAL COMPOSITION",
+        "CHEMICAL"
+      ]
+    },
+    {
+      "gloss": "CHEMICAL PROPERTIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHEMICAL CHANGE, CHEMICAL REACTION",
+        "CHEMICAL COMPOSITION",
+        "CHEMICAL",
+        "CHEMICAL CONTAMINATION"
+      ]
+    },
+    {
+      "gloss": "CHEMISTRY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHERAS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHEST CAVITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHEST EXPANDER",
+        "CHEST PAIN"
+      ]
+    },
+    {
+      "gloss": "CHICAGO SCHOOL OF ECONOMICS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHIEF EXECUTIVE OFFICER",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHIEF MINISTER",
+        "CHIEF JUSTICE"
+      ]
+    },
+    {
+      "gloss": "CHIEFTAIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHILD OF DEAF ADULTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHILD",
+        "CHILD ABDUCTION",
+        "CHILD LABOUR",
+        "CHILD ABUSE",
+        "CHILD CARE LEAVE"
+      ]
+    },
+    {
+      "gloss": "CHLOROPHYLL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHLOROPLAST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHOICE BASED CREDIT SYSTEM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHOLAS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHORD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "C-HORIZON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHROMOSOME",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHRONICLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHRONICLER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHRONOLOGICAL SEQUENCE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHURNING SEPARATION TECHNIQUE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CILIARY MUSCLES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CIRCULAR MOTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CIRCULAR SAW",
+        "CIRCULAR"
+      ]
+    },
+    {
+      "gloss": "CIRCULATORY SYSTEM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CIRCUMFERENCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CITADEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CITIZEN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CITIZENSHIP",
+      "category": "CORE",
+      "anchor": [
+        "CITIZENSHIP AMENDMENT ACT"
+      ]
+    },
+    {
+      "gloss": "CIVICS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CIVIL DISOBEDIENCE MOVEMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CIVIL COURT",
+        "CIVIL ENGINEERING",
+        "CIVIL LAW",
+        "CIVIL RIGHTS MOVEMENT",
+        "CIVIL LAW, CRIMINAL LAW"
+      ]
+    },
+    {
+      "gloss": "CIVIL LAW",
+      "category": "COMPOUND",
+      "anchor": [
+        "CIVIL COURT",
+        "CIVIL ENGINEERING",
+        "CIVIL DISOBEDIENCE MOVEMENT",
+        "CIVIL RIGHTS MOVEMENT",
+        "CIVIL LAW, CRIMINAL LAW"
+      ]
+    },
+    {
+      "gloss": "CIVIL RIGHTS MOVEMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CIVIL COURT",
+        "CIVIL ENGINEERING",
+        "CIVIL DISOBEDIENCE MOVEMENT",
+        "CIVIL LAW",
+        "CIVIL LAW, CRIMINAL LAW"
+      ]
+    },
+    {
+      "gloss": "CIVILIZATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLASS PARTICIPATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLASS"
+      ]
+    },
+    {
+      "gloss": "CLASSICAL ECONOMICS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CLASSIFICATION",
+      "category": "CLASSIFIERS",
+      "anchor": [
+        "CLASSIFICATION BASED ON PARTS USED AS FOOD",
+        "CLASSIFICATION BASED ON THE TRANSPLANTING CAPACITY",
+        "CLASSIFICATION ACCORDING TO PARTS USED FOR CROP",
+        "CLASSIFICATION BASED ON SEASON",
+        "CLASSIFICATION BASED ON LIFE CYCLE"
+      ]
+    },
+    {
+      "gloss": "CLAYEY SOIL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CLIMATE",
+      "category": "CORE",
+      "anchor": [
+        "CLIMATE MAP",
+        "CLIMATE CHANGE"
+      ]
+    },
+    {
+      "gloss": "CLIMATE MAP",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLIMATE",
+        "CLIMATE CHANGE"
+      ]
+    },
+    {
+      "gloss": "CLIMBERS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLINICAL AND COUNSELLING PSYCHOLOGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLINICAL THERMOMETER",
+        "CLINICAL TRIAL",
+        "CLINICAL SKILLS"
+      ]
+    },
+    {
+      "gloss": "CLINICAL THERMOMETER",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLINICAL AND COUNSELLING PSYCHOLOGY",
+        "CLINICAL TRIAL",
+        "CLINICAL SKILLS"
+      ]
+    },
+    {
+      "gloss": "CLOCKIN OR CLOCKON, CLOCKOFF OR CLOCKOUT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CLOCKWISE, ANTI CLOCK WISE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CLOSED CURVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLOSED QUESTION",
+        "CLOSED FILE",
+        "CLOSED CIRCUIT"
+      ]
+    },
+    {
+      "gloss": "CLOSED QUESTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLOSED CURVE",
+        "CLOSED FILE",
+        "CLOSED CIRCUIT"
+      ]
+    },
+    {
+      "gloss": "CLOSURE PROPERTY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CLOUDINESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLUSTER RESOURCE CENTRE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLUSTER OF CASES",
+        "CLUSTER"
+      ]
+    },
+    {
+      "gloss": "CO2 AND O2",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COAL GAS",
+      "category": "COMPOUND",
+      "anchor": [
+        "COAL MINES",
+        "COAL",
+        "COAL TAR",
+        "COAL WASHING"
+      ]
+    },
+    {
+      "gloss": "COAL MINES",
+      "category": "COMPOUND",
+      "anchor": [
+        "COAL",
+        "COAL TAR",
+        "COAL GAS",
+        "COAL WASHING"
+      ]
+    },
+    {
+      "gloss": "COAL TAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "COAL MINES",
+        "COAL",
+        "COAL GAS",
+        "COAL WASHING"
+      ]
+    },
+    {
+      "gloss": "COALITION GOVERNMENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COASTAL AREAS",
+      "category": "COMPOUND",
+      "anchor": [
+        "COASTAL PLAIN"
+      ]
+    },
+    {
+      "gloss": "COASTAL PLAIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "COASTAL AREAS"
+      ]
+    },
+    {
+      "gloss": "COCOON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CO-CURRICULUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CODA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CODEBOOK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CODE-MIXING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CODES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CODE-SWITCHING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CODON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COGENERATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COGNITION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COGNITIVE DEVELOPMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "COGNITIVE BEHAVIOURAL THERAPY",
+        "COGNITIVE",
+        "COGNITIVE PSYCHOLOGY",
+        "COGNITIVE LOAD"
+      ]
+    },
+    {
+      "gloss": "COGNITIVE PSYCHOLOGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "COGNITIVE DEVELOPMENT",
+        "COGNITIVE",
+        "COGNITIVE BEHAVIOURAL THERAPY",
+        "COGNITIVE LOAD"
+      ]
+    },
+    {
+      "gloss": "COGNIZABLE",
+      "category": "CORE",
+      "anchor": [
+        "COGNIZABLE OFFENCE, NON COGNIZABLE OFFENCE"
+      ]
+    },
+    {
+      "gloss": "COHORT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COIR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COKE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COLD DESERT",
+      "category": "COMPOUND",
+      "anchor": [
+        "COLD",
+        "COLD FORMED STEEL SECTION",
+        "COLD WAR",
+        "COLD ROOM UNITS",
+        "COLD STORAGE"
+      ]
+    },
+    {
+      "gloss": "COLD WAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "COLD",
+        "COLD FORMED STEEL SECTION",
+        "COLD DESERT",
+        "COLD ROOM UNITS",
+        "COLD STORAGE"
+      ]
+    },
+    {
+      "gloss": "COLLABORATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COLLABORATION",
+      "category": "CORE",
+      "anchor": [
+        "COLLABORATION AND MESSAGING SERVICES"
+      ]
+    },
+    {
+      "gloss": "COLLAPSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COLLECT DATA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COLLOIDAL SOLUTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COLON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COLONIALISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMBAT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMBUSTIBLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMBUSTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMETS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMMAND ECONOMY",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMMAND BOX"
+      ]
+    },
+    {
+      "gloss": "COMMAS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMMERCIAL",
+      "category": "CORE",
+      "anchor": [
+        "COMMERCIAL BUILDING",
+        "COMMERCIAL COMPLEXES",
+        "COMMERCIAL FARM",
+        "COMMERCIAL VEGETABLE GARDENING",
+        "COMMERCIAL AGENT OR SALES AGENT"
+      ]
+    },
+    {
+      "gloss": "COMMERCIAL AGENT OR SALES AGENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMMERCIAL BUILDING",
+        "COMMERCIAL",
+        "COMMERCIAL COMPLEXES",
+        "COMMERCIAL FARM",
+        "COMMERCIAL VEGETABLE GARDENING"
+      ]
+    },
+    {
+      "gloss": "COMMISSION",
+      "category": "CORE",
+      "anchor": [
+        "COMMISSION AGENT"
+      ]
+    },
+    {
+      "gloss": "COMMON FACTOR",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMMON",
+        "COMMON MINERALS",
+        "COMMON MULTIPLE",
+        "COMMON SALT",
+        "COMMON NOUN, PROPER NOUN"
+      ]
+    },
+    {
+      "gloss": "COMMON MINERALS",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMMON",
+        "COMMON MULTIPLE",
+        "COMMON FACTOR",
+        "COMMON SALT",
+        "COMMON NOUN, PROPER NOUN"
+      ]
+    },
+    {
+      "gloss": "COMMON MULTIPLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMMON",
+        "COMMON MINERALS",
+        "COMMON FACTOR",
+        "COMMON SALT",
+        "COMMON NOUN, PROPER NOUN"
+      ]
+    },
+    {
+      "gloss": "COMMON NOUN, PROPER NOUN",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMMON",
+        "COMMON MINERALS",
+        "COMMON MULTIPLE",
+        "COMMON FACTOR",
+        "COMMON SALT"
+      ]
+    },
+    {
+      "gloss": "COMMON SALT",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMMON",
+        "COMMON MINERALS",
+        "COMMON MULTIPLE",
+        "COMMON FACTOR",
+        "COMMON NOUN, PROPER NOUN"
+      ]
+    },
+    {
+      "gloss": "COMMUNICATION CHALLENGES",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMMUNICATION OPTIONS"
+      ]
+    },
+    {
+      "gloss": "COMMUNICATION OPTIONS",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMMUNICATION CHALLENGES"
+      ]
+    },
+    {
+      "gloss": "COMMUNISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMMUNITY BASED REHABILITATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMMUNITY PARTICIPATION",
+        "COMMUNITY LAND",
+        "COMMUNITY"
+      ]
+    },
+    {
+      "gloss": "COMMUTATIVE PROPERTY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPASS",
+      "category": "CORE",
+      "anchor": [
+        "COMPASS SURVEYING"
+      ]
+    },
+    {
+      "gloss": "COMPENSATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPENSATORY FISCAL POLICY",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMPENSATORY LEAVE",
+        "COMPENSATORY DAMAGES, PUNITIVE DAMAGES"
+      ]
+    },
+    {
+      "gloss": "COMPETENCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPLEMENTARY ANGLES",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMPLEMENTARY DEMAND"
+      ]
+    },
+    {
+      "gloss": "COMPLETE ANGLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMPLETE, FINISH",
+        "BUS STOP",
+        "COMPLETE OF TOTAL FARM BUDGETING"
+      ]
+    },
+    {
+      "gloss": "COMPLEX SENTENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMPLEX NUMBER",
+        "COMPLEX",
+        "COMPLEX TRAUMA",
+        "COMPLEX POST TRAUMATIC STRESS DISORDER"
+      ]
+    },
+    {
+      "gloss": "COMPOSITE NUMBER",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMPOSITE DRAWING"
+      ]
+    },
+    {
+      "gloss": "COMPOST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPOUND",
+      "category": "CORE",
+      "anchor": [
+        "COMPOUND SENTENCE",
+        "COMPOUND INTEREST"
+      ]
+    },
+    {
+      "gloss": "COMPOUND SENTENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMPOUND INTEREST",
+        "COMPOUND"
+      ]
+    },
+    {
+      "gloss": "COMPREHENSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPUTER SEARCH OF THE LITERATURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMPUTER"
+      ]
+    },
+    {
+      "gloss": "CONCAVE LENS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONCAVE MIRROR"
+      ]
+    },
+    {
+      "gloss": "CONCAVE MIRROR",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONCAVE LENS"
+      ]
+    },
+    {
+      "gloss": "CONCENTRIC CIRCLES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONCRETE NOUN",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONCRETE BREAKER",
+        "CONCRETE MIXTURE",
+        "CONCRETE SLAB",
+        "CONCRETE"
+      ]
+    },
+    {
+      "gloss": "CONDENSATION",
+      "category": "CORE",
+      "anchor": [
+        "CONDENSATION OR DISTILLATION SEPARATION TECHNIQUE"
+      ]
+    },
+    {
+      "gloss": "CONDENSATION OR DISTILLATION SEPARATION TECHNIQUE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONDENSATION"
+      ]
+    },
+    {
+      "gloss": "CONDUCTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONDUCTOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONDUCTORS AND INSULATORS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONFIDENTIALITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONFIRMING SAMPLE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONFLUENCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONFOUNDING VARIABLE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONGENITAL DEAFNESS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONGENITAL DISEASE"
+      ]
+    },
+    {
+      "gloss": "CONGRUENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONICAL FLASK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONJUNCTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSERVATION",
+      "category": "CORE",
+      "anchor": [
+        "CONSERVATION FARMING"
+      ]
+    },
+    {
+      "gloss": "CONSORTIUM OR CONSORTIA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSTANT RETURNS TO SCALE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONSTANT",
+        "CONSTANT FEAR",
+        "CONSTANT WORRY"
+      ]
+    },
+    {
+      "gloss": "CONSTANTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSTELLATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSTITUENCY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSTITUTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSTITUTIVE DEFINITION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSTRUCTIVISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSUMER AND PRODUCT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONSUMER PROTECTION ACT 1986",
+        "CONSUMER EXPENDITURE",
+        "CONSUMER ELECTRONICS",
+        "CONSUMER PROTECTION COUNCIL",
+        "CONSUMER PRICE INDEX"
+      ]
+    },
+    {
+      "gloss": "CONSUMER EXPENDITURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONSUMER PROTECTION ACT 1986",
+        "CONSUMER AND PRODUCT",
+        "CONSUMER ELECTRONICS",
+        "CONSUMER PROTECTION COUNCIL",
+        "CONSUMER PRICE INDEX"
+      ]
+    },
+    {
+      "gloss": "CONSUMER PRICE INDEX",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONSUMER PROTECTION ACT 1986",
+        "CONSUMER AND PRODUCT",
+        "CONSUMER EXPENDITURE",
+        "CONSUMER ELECTRONICS",
+        "CONSUMER PROTECTION COUNCIL"
+      ]
+    },
+    {
+      "gloss": "CONSUMPTION FUNCTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONSUMPTION"
+      ]
+    },
+    {
+      "gloss": "CONTACT FORCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTACT LENSES",
+        "CONTACT TRACING",
+        "CONTACT INSECTICIDE",
+        "CONTACT LENS"
+      ]
+    },
+    {
+      "gloss": "CONTACT LENSES",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTACT FORCE",
+        "CONTACT TRACING",
+        "CONTACT INSECTICIDE",
+        "CONTACT LENS"
+      ]
+    },
+    {
+      "gloss": "CONTAINER SHIPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTAINER"
+      ]
+    },
+    {
+      "gloss": "CONTAMINATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONTENT WORDS, FUNCTION WORDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTENT READABILITY"
+      ]
+    },
+    {
+      "gloss": "CONTINENTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONTINUOUS ASSESSMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTINUOUS PROFESSIONAL DEVELOPMENT"
+      ]
+    },
+    {
+      "gloss": "CONTINUOUS PROFESSIONAL DEVELOPMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTINUOUS ASSESSMENT"
+      ]
+    },
+    {
+      "gloss": "CONTOUR PLOUGHING",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTOUR LINE",
+        "CONTOUR STRIP CROPPING",
+        "CONTOUR BUND",
+        "CONTOUR CROPPING",
+        "CONTOUR METHOD"
+      ]
+    },
+    {
+      "gloss": "CONTRACTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONTRACTIONARY GAP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONTROLLING INTEREST",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTROLLING SHAREHOLDER, MAJORITY SHAREHOLDER"
+      ]
+    },
+    {
+      "gloss": "CONTROLLING SHAREHOLDER, MAJORITY SHAREHOLDER",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTROLLING INTEREST"
+      ]
+    },
+    {
+      "gloss": "CONVECTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONVEX LENS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONVEX MIRROR"
+      ]
+    },
+    {
+      "gloss": "CONVEX MIRROR",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONVEX LENS"
+      ]
+    },
+    {
+      "gloss": "CONVICT",
+      "category": "CORE",
+      "anchor": [
+        "CONVICT AND CONVICTION"
+      ]
+    },
+    {
+      "gloss": "COORDINATE GEOMETRY",
+      "category": "COMPOUND",
+      "anchor": [
+        "COORDINATE"
+      ]
+    },
+    {
+      "gloss": "CO-PRIME NUMBERS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CORRELATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COST BENEFIT ANALYSIS",
+      "category": "COMPOUND",
+      "anchor": [
+        "COST"
+      ]
+    },
+    {
+      "gloss": "COST, ADDITIONAL COST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COTTON WOOL",
+      "category": "COMPOUND",
+      "anchor": [
+        "COTTON PIN",
+        "COTTON"
+      ]
+    },
+    {
+      "gloss": "COUNCIL OF ARCHITECTURE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COUNCILLORS AND WARD COUNCILLORS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COUNTABLE NOUN, UNCOUNTABLE NOUN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COUNTRYSIDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COUPLED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COVENANTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COVERAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COWBOY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CRAFTS PERSON",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CRECHE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CREDIT AND DEBIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CREDIT DEFAULT SWAP"
+      ]
+    },
+    {
+      "gloss": "CREEPERS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CRIMINAL LAW",
+      "category": "COMPOUND",
+      "anchor": [
+        "CRIMINAL RECORD",
+        "CRIMINAL COURT"
+      ]
+    },
+    {
+      "gloss": "CRIPPS MISSION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CRISIS",
+      "category": "CORE",
+      "anchor": [
+        "CRISIS COUNSELING"
+      ]
+    },
+    {
+      "gloss": "CRITERION-REFERENCED ASSESSMENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CRITICAL THEORY",
+      "category": "COMPOUND",
+      "anchor": [
+        "CRITICAL"
+      ]
+    },
+    {
+      "gloss": "CROP ROTATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CROP GEOGRAPHY",
+        "CROP FACTOR",
+        "CROP ROTATION IN VEGETABLE PRODUCTION",
+        "CROP"
+      ]
+    },
+    {
+      "gloss": "CROPS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CROSS CULTURAL PSYCHOLOGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "CROSS COUNTRY",
+        "CROSS",
+        "CROSS PRODUCT",
+        "CROSS BREEDING",
+        "CROSS BREEDS"
+      ]
+    },
+    {
+      "gloss": "CROSS PRODUCT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CROSS COUNTRY",
+        "CROSS CULTURAL PSYCHOLOGY",
+        "CROSS",
+        "CROSS BREEDING",
+        "CROSS BREEDS"
+      ]
+    },
+    {
+      "gloss": "CROSS-EXAMINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CROWDING OUT EFFECT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CRYPTOSPORIDIUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CRYSTALLINE LENS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CRYSTALLISATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CUBE AND CUBE ROOT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CUBE"
+      ]
+    },
+    {
+      "gloss": "CUBOID",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CUD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CULLET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CULTIVATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CULTIVATORS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CULTURAL AND EDUCATIONAL RIGHTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CULTURAL TOURISM",
+        "CULTURAL FACTORS",
+        "CULTURAL HERITAGE",
+        "CULTURAL & AGRONOMICAL METHODS",
+        "CULTURAL MODEL OF DISABILITY"
+      ]
+    },
+    {
+      "gloss": "CULTURAL HERITAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CULTURAL TOURISM",
+        "CULTURAL FACTORS",
+        "CULTURAL AND EDUCATIONAL RIGHTS",
+        "CULTURAL & AGRONOMICAL METHODS",
+        "CULTURAL MODEL OF DISABILITY"
+      ]
+    },
+    {
+      "gloss": "CULTURAL MODEL OF DISABILITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "CULTURAL TOURISM",
+        "CULTURAL FACTORS",
+        "CULTURAL HERITAGE",
+        "CULTURAL AND EDUCATIONAL RIGHTS",
+        "CULTURAL & AGRONOMICAL METHODS"
+      ]
+    },
+    {
+      "gloss": "CULTURAL TOURISM",
+      "category": "COMPOUND",
+      "anchor": [
+        "CULTURAL FACTORS",
+        "CULTURAL HERITAGE",
+        "CULTURAL AND EDUCATIONAL RIGHTS",
+        "CULTURAL & AGRONOMICAL METHODS",
+        "CULTURAL MODEL OF DISABILITY"
+      ]
+    },
+    {
+      "gloss": "CULTURE, DEAF CULTURE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CULVERT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CUNEIFORM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CURFEW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CURRENT ACCOUNT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CURRENT ASSETS",
+        "CURRENT",
+        "CURRENT PRICE",
+        "CURRENT AND AMPERE",
+        "CURRENT LIABILITIES"
+      ]
+    },
+    {
+      "gloss": "CURRENT AND AMPERE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CURRENT ASSETS",
+        "CURRENT",
+        "CURRENT PRICE",
+        "CURRENT ACCOUNT",
+        "CURRENT LIABILITIES"
+      ]
+    },
+    {
+      "gloss": "CUT AND FILL",
+      "category": "COMPOUND",
+      "anchor": [
+        "CUT",
+        "CUT CORNERS",
+        "CUT LINE"
+      ]
+    },
+    {
+      "gloss": "CYAN BACTERIA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CYCLONE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CYTOPLASM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "C. O. B TEST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CAGE SYSTEM",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAGE"
+      ]
+    },
+    {
+      "gloss": "CAJANUS INDUCUS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CAMEL FARMING",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAMEL"
+      ]
+    },
+    {
+      "gloss": "CANDY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAPILLARY WATER",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAPILLARY"
+      ]
+    },
+    {
+      "gloss": "CAPITAL EXPENDITURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAPITAL OUTPUT RATIO",
+        "CAPITAL",
+        "CAPITAL DEPRECIATION",
+        "CAPITAL APPRECIATION",
+        "CAPITAL GOODS"
+      ]
+    },
+    {
+      "gloss": "CAPITAL GOODS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAPITAL OUTPUT RATIO",
+        "CAPITAL",
+        "CAPITAL DEPRECIATION",
+        "CAPITAL APPRECIATION",
+        "CAPITAL EXPENDITURE"
+      ]
+    },
+    {
+      "gloss": "CAPITAL OUTPUT RATIO",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAPITAL",
+        "CAPITAL DEPRECIATION",
+        "CAPITAL APPRECIATION",
+        "CAPITAL EXPENDITURE",
+        "CAPITAL GOODS"
+      ]
+    },
+    {
+      "gloss": "CAPON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAPONISATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARE OF LAWN",
+      "category": "COMPOUND",
+      "anchor": [
+        "CARE GIVING AND CAREGIVER"
+      ]
+    },
+    {
+      "gloss": "CARISSA CARANDUS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CARNIVORUS FISHES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CASH CROPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CASH GENERATION",
+        "CASH DIVIDEND",
+        "CASH FLOW",
+        "CASH IN ADVANCE",
+        "CASH WITH ORDER"
+      ]
+    },
+    {
+      "gloss": "CASTRATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAT FISH",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAT"
+      ]
+    },
+    {
+      "gloss": "CATCH CROPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CATCH",
+        "CATCH STITCH",
+        "CATCH UP"
+      ]
+    },
+    {
+      "gloss": "CEREAL CROPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CEREAL DISEASE"
+      ]
+    },
+    {
+      "gloss": "CEREAL DISEASE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CEREAL CROPS"
+      ]
+    },
+    {
+      "gloss": "CHAIN SURVEYING",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHAIN",
+        "CHAIN OF MARKETS",
+        "CHAIN OF COMMAND",
+        "CHAIN OF CUSTODY",
+        "CHAIN DRIVE"
+      ]
+    },
+    {
+      "gloss": "CHANA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHARACTERISTICS OF WEEDS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHATANI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHEWING AND LAPPING TYPE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHICKS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHILLING OF MILK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CIRCULATING CAPITAL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CITRUS VULGARIS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CLASSIFICATION ACCORDING TO PARTS USED FOR CROP",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLASSIFICATION BASED ON PARTS USED AS FOOD",
+        "CLASSIFICATION BASED ON THE TRANSPLANTING CAPACITY",
+        "CLASSIFICATION",
+        "CLASSIFICATION BASED ON SEASON",
+        "CLASSIFICATION BASED ON LIFE CYCLE"
+      ]
+    },
+    {
+      "gloss": "CLASSIFICATION BASED ON LIFE CYCLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLASSIFICATION BASED ON PARTS USED AS FOOD",
+        "CLASSIFICATION BASED ON THE TRANSPLANTING CAPACITY",
+        "CLASSIFICATION",
+        "CLASSIFICATION ACCORDING TO PARTS USED FOR CROP",
+        "CLASSIFICATION BASED ON SEASON"
+      ]
+    },
+    {
+      "gloss": "CLASSIFICATION BASED ON PARTS USED AS FOOD",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLASSIFICATION BASED ON THE TRANSPLANTING CAPACITY",
+        "CLASSIFICATION",
+        "CLASSIFICATION ACCORDING TO PARTS USED FOR CROP",
+        "CLASSIFICATION BASED ON SEASON",
+        "CLASSIFICATION BASED ON LIFE CYCLE"
+      ]
+    },
+    {
+      "gloss": "CLASSIFICATION BASED ON SEASON",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLASSIFICATION BASED ON PARTS USED AS FOOD",
+        "CLASSIFICATION BASED ON THE TRANSPLANTING CAPACITY",
+        "CLASSIFICATION",
+        "CLASSIFICATION ACCORDING TO PARTS USED FOR CROP",
+        "CLASSIFICATION BASED ON LIFE CYCLE"
+      ]
+    },
+    {
+      "gloss": "CLASSIFICATION BASED ON THE TRANSPLANTING CAPACITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLASSIFICATION BASED ON PARTS USED AS FOOD",
+        "CLASSIFICATION",
+        "CLASSIFICATION ACCORDING TO PARTS USED FOR CROP",
+        "CLASSIFICATION BASED ON SEASON",
+        "CLASSIFICATION BASED ON LIFE CYCLE"
+      ]
+    },
+    {
+      "gloss": "CLASSIFICATION OF ANNUALS FLOWER PLANT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLASSIFICATION BASED ON PARTS USED AS FOOD",
+        "CLASSIFICATION",
+        "CLASSIFICATION ACCORDING TO PARTS USED FOR CROP",
+        "CLASSIFICATION BASED ON SEASON",
+        "CLASSIFICATION BASED ON LIFE CYCLE"
+      ]
+    },
+    {
+      "gloss": "CLASSIFICATION OF CROPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLASSIFICATION BASED ON PARTS USED AS FOOD",
+        "CLASSIFICATION",
+        "CLASSIFICATION ACCORDING TO PARTS USED FOR CROP",
+        "CLASSIFICATION BASED ON SEASON",
+        "CLASSIFICATION BASED ON LIFE CYCLE"
+      ]
+    },
+    {
+      "gloss": "CLASSIFICATION OF FUNGUS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLASSIFICATION BASED ON PARTS USED AS FOOD",
+        "CLASSIFICATION",
+        "CLASSIFICATION ACCORDING TO PARTS USED FOR CROP",
+        "CLASSIFICATION BASED ON SEASON",
+        "CLASSIFICATION BASED ON LIFE CYCLE"
+      ]
+    },
+    {
+      "gloss": "CLASSIFICATION OF HEDGES",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLASSIFICATION BASED ON PARTS USED AS FOOD",
+        "CLASSIFICATION",
+        "CLASSIFICATION ACCORDING TO PARTS USED FOR CROP",
+        "CLASSIFICATION BASED ON SEASON",
+        "CLASSIFICATION BASED ON LIFE CYCLE"
+      ]
+    },
+    {
+      "gloss": "CLASSIFICATION OF INSECTICIDES",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLASSIFICATION BASED ON PARTS USED AS FOOD",
+        "CLASSIFICATION",
+        "CLASSIFICATION ACCORDING TO PARTS USED FOR CROP",
+        "CLASSIFICATION BASED ON SEASON",
+        "CLASSIFICATION BASED ON LIFE CYCLE"
+      ]
+    },
+    {
+      "gloss": "CLASSIFICATION OF PLANT DISSEASES",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLASSIFICATION BASED ON PARTS USED AS FOOD",
+        "CLASSIFICATION",
+        "CLASSIFICATION ACCORDING TO PARTS USED FOR CROP",
+        "CLASSIFICATION BASED ON SEASON",
+        "CLASSIFICATION BASED ON LIFE CYCLE"
+      ]
+    },
+    {
+      "gloss": "CLASSIFICATION OF POULTRY DISEASES",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLASSIFICATION BASED ON PARTS USED AS FOOD",
+        "CLASSIFICATION",
+        "CLASSIFICATION ACCORDING TO PARTS USED FOR CROP",
+        "CLASSIFICATION BASED ON SEASON",
+        "CLASSIFICATION BASED ON LIFE CYCLE"
+      ]
+    },
+    {
+      "gloss": "CLASSIFICATION OF POULTRY FEEDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLASSIFICATION BASED ON PARTS USED AS FOOD",
+        "CLASSIFICATION",
+        "CLASSIFICATION ACCORDING TO PARTS USED FOR CROP",
+        "CLASSIFICATION BASED ON SEASON",
+        "CLASSIFICATION BASED ON LIFE CYCLE"
+      ]
+    },
+    {
+      "gloss": "CLASSIFICATION OF SHRUBS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLASSIFICATION BASED ON PARTS USED AS FOOD",
+        "CLASSIFICATION",
+        "CLASSIFICATION ACCORDING TO PARTS USED FOR CROP",
+        "CLASSIFICATION BASED ON SEASON",
+        "CLASSIFICATION BASED ON LIFE CYCLE"
+      ]
+    },
+    {
+      "gloss": "CLASSIFICATION OF VEGETABLES",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLASSIFICATION BASED ON PARTS USED AS FOOD",
+        "CLASSIFICATION",
+        "CLASSIFICATION ACCORDING TO PARTS USED FOR CROP",
+        "CLASSIFICATION BASED ON SEASON",
+        "CLASSIFICATION BASED ON LIFE CYCLE"
+      ]
+    },
+    {
+      "gloss": "CLASSIFICATION OF WATER AREAS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLASSIFICATION BASED ON PARTS USED AS FOOD",
+        "CLASSIFICATION",
+        "CLASSIFICATION ACCORDING TO PARTS USED FOR CROP",
+        "CLASSIFICATION BASED ON SEASON",
+        "CLASSIFICATION BASED ON LIFE CYCLE"
+      ]
+    },
+    {
+      "gloss": "CLAY SOIL WEEDS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CLEFT GRAFTING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CLIMBING WEEDS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COCCIDIOSIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COCK",
+      "category": "CORE",
+      "anchor": [
+        "COCK A DOODLE DOO"
+      ]
+    },
+    {
+      "gloss": "COCKERELS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COFFEE RUST",
+      "category": "COMPOUND",
+      "anchor": [
+        "COFFEE"
+      ]
+    },
+    {
+      "gloss": "COLD STORAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "COLD",
+        "COLD FORMED STEEL SECTION",
+        "COLD WAR",
+        "COLD DESERT",
+        "COLD ROOM UNITS"
+      ]
+    },
+    {
+      "gloss": "COLONY OF HONEY BEE",
+      "category": "COMPOUND",
+      "anchor": [
+        "COLONY",
+        "COLONY OF ANTS"
+      ]
+    },
+    {
+      "gloss": "COLOSTRUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COLOURED FOLLAGE SHRUBS",
+      "category": "COMPOUND",
+      "anchor": [
+        "COLOURED HAIR"
+      ]
+    },
+    {
+      "gloss": "COMBINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMMERCIAL FARM",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMMERCIAL BUILDING",
+        "COMMERCIAL",
+        "COMMERCIAL COMPLEXES",
+        "COMMERCIAL VEGETABLE GARDENING",
+        "COMMERCIAL AGENT OR SALES AGENT"
+      ]
+    },
+    {
+      "gloss": "COMMERCIAL VEGETABLE GARDENING",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMMERCIAL BUILDING",
+        "COMMERCIAL",
+        "COMMERCIAL FARM",
+        "COMMERCIAL COMPLEXES",
+        "COMMERCIAL AGENT OR SALES AGENT"
+      ]
+    },
+    {
+      "gloss": "COMMISSION AGENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMMISSION"
+      ]
+    },
+    {
+      "gloss": "COMPANION OR SUBSIDIARY CROPS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPASS SURVEYING",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMPASS"
+      ]
+    },
+    {
+      "gloss": "COMPLEMENTARY DEMAND",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMPLEMENTARY ANGLES"
+      ]
+    },
+    {
+      "gloss": "COMPLETE OF TOTAL FARM BUDGETING",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMPLETE, FINISH",
+        "BUS STOP",
+        "COMPLETE ANGLE"
+      ]
+    },
+    {
+      "gloss": "COMPOSITION OF MILK",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMPOSITION"
+      ]
+    },
+    {
+      "gloss": "CONDIMENTS SPICES CROPS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSERVATION FARMING",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONSERVATION"
+      ]
+    },
+    {
+      "gloss": "CONSOLIDATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONTACT INSECTICIDE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTACT FORCE",
+        "CONTACT TRACING",
+        "CONTACT LENSES",
+        "CONTACT LENS"
+      ]
+    },
+    {
+      "gloss": "CONTINGENCY CROPPING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONTOUR BUND",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTOUR LINE",
+        "CONTOUR STRIP CROPPING",
+        "CONTOUR PLOUGHING",
+        "CONTOUR CROPPING",
+        "CONTOUR METHOD"
+      ]
+    },
+    {
+      "gloss": "CONTOUR CROPPING",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTOUR LINE",
+        "CONTOUR STRIP CROPPING",
+        "CONTOUR BUND",
+        "CONTOUR PLOUGHING",
+        "CONTOUR METHOD"
+      ]
+    },
+    {
+      "gloss": "CONTOUR LINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTOUR STRIP CROPPING",
+        "CONTOUR BUND",
+        "CONTOUR PLOUGHING",
+        "CONTOUR CROPPING",
+        "CONTOUR METHOD"
+      ]
+    },
+    {
+      "gloss": "CONTOUR METHOD",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTOUR LINE",
+        "CONTOUR STRIP CROPPING",
+        "CONTOUR BUND",
+        "CONTOUR PLOUGHING",
+        "CONTOUR CROPPING"
+      ]
+    },
+    {
+      "gloss": "CONTOUR STRIP CROPPING",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTOUR LINE",
+        "CONTOUR BUND",
+        "CONTOUR PLOUGHING",
+        "CONTOUR CROPPING",
+        "CONTOUR METHOD"
+      ]
+    },
+    {
+      "gloss": "CONTROL OF WEEDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTROL ACCESS ZONE",
+        "CONTROL PANEL"
+      ]
+    },
+    {
+      "gloss": "COOPERATIVE SELLING",
+      "category": "COMPOUND",
+      "anchor": [
+        "COOPERATIVE INDUSTRIES",
+        "COOPERATIVE"
+      ]
+    },
+    {
+      "gloss": "CORDIAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COVER CROPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "COVER DRIVE",
+        "COVER"
+      ]
+    },
+    {
+      "gloss": "CREAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CREEPING WEEDS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CROP GEOGRAPHY",
+      "category": "COMPOUND",
+      "anchor": [
+        "CROP FACTOR",
+        "CROP ROTATION",
+        "CROP ROTATION IN VEGETABLE PRODUCTION",
+        "CROP"
+      ]
+    },
+    {
+      "gloss": "CROP ROTATION IN VEGETABLE PRODUCTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CROP GEOGRAPHY",
+        "CROP FACTOR",
+        "CROP ROTATION",
+        "CROP"
+      ]
+    },
+    {
+      "gloss": "CROPPING SCHEME",
+      "category": "COMPOUND",
+      "anchor": [
+        "CROPPING TOOL"
+      ]
+    },
+    {
+      "gloss": "CROSS BREEDING",
+      "category": "COMPOUND",
+      "anchor": [
+        "CROSS COUNTRY",
+        "CROSS CULTURAL PSYCHOLOGY",
+        "CROSS",
+        "CROSS PRODUCT",
+        "CROSS BREEDS"
+      ]
+    },
+    {
+      "gloss": "CROSS BREEDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CROSS COUNTRY",
+        "CROSS CULTURAL PSYCHOLOGY",
+        "CROSS",
+        "CROSS PRODUCT",
+        "CROSS BREEDING"
+      ]
+    },
+    {
+      "gloss": "CROWN GRAFTING",
+      "category": "COMPOUND",
+      "anchor": [
+        "CROWN"
+      ]
+    },
+    {
+      "gloss": "CULTIVATED LAND WEEDS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CULTURAL & AGRONOMICAL METHODS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CULTURAL TOURISM",
+        "CULTURAL FACTORS",
+        "CULTURAL HERITAGE",
+        "CULTURAL AND EDUCATIONAL RIGHTS",
+        "CULTURAL MODEL OF DISABILITY"
+      ]
+    },
+    {
+      "gloss": "CULTURAL FACTORS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CULTURAL TOURISM",
+        "CULTURAL HERITAGE",
+        "CULTURAL AND EDUCATIONAL RIGHTS",
+        "CULTURAL & AGRONOMICAL METHODS",
+        "CULTURAL MODEL OF DISABILITY"
+      ]
+    },
+    {
+      "gloss": "CURRENT ASSETS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CURRENT",
+        "CURRENT PRICE",
+        "CURRENT AND AMPERE",
+        "CURRENT ACCOUNT",
+        "CURRENT LIABILITIES"
+      ]
+    },
+    {
+      "gloss": "CURRENT LIABILITIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "CURRENT ASSETS",
+        "CURRENT",
+        "CURRENT PRICE",
+        "CURRENT AND AMPERE",
+        "CURRENT ACCOUNT"
+      ]
+    },
+    {
+      "gloss": "CUTTING",
+      "category": "CORE",
+      "anchor": [
+        "CUTTING PLIERS",
+        "CUTTING MAT",
+        "CUTTING ON ACTION"
+      ]
+    },
+    {
+      "gloss": "CAMBODIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CANADA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHILE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHINA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COLOMBIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COSTA RICA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CROATIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CYPRUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CZECH REPUBLIC",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CALL OPTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CALL",
+        "CALL FOR QUOTATION",
+        "CALL IT A DAY"
+      ]
+    },
+    {
+      "gloss": "CALLABLE BOND",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CAPITAL APPRECIATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAPITAL OUTPUT RATIO",
+        "CAPITAL",
+        "CAPITAL DEPRECIATION",
+        "CAPITAL EXPENDITURE",
+        "CAPITAL GOODS"
+      ]
+    },
+    {
+      "gloss": "CAPITAL DEPRECIATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAPITAL OUTPUT RATIO",
+        "CAPITAL",
+        "CAPITAL APPRECIATION",
+        "CAPITAL EXPENDITURE",
+        "CAPITAL GOODS"
+      ]
+    },
+    {
+      "gloss": "CAPITAL STRUCTURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAPITAL OUTPUT RATIO",
+        "CAPITAL",
+        "CAPITAL APPRECIATION",
+        "CAPITAL EXPENDITURE",
+        "CAPITAL GOODS"
+      ]
+    },
+    {
+      "gloss": "CASH DIVIDEND",
+      "category": "COMPOUND",
+      "anchor": [
+        "CASH CROPS",
+        "CASH GENERATION",
+        "CASH FLOW",
+        "CASH IN ADVANCE",
+        "CASH WITH ORDER"
+      ]
+    },
+    {
+      "gloss": "CENTRAL BANK",
+      "category": "COMPOUND",
+      "anchor": [
+        "CENTRAL GOVERNMENT",
+        "CENTRAL JAIL",
+        "CENTRAL INSTITUTE OF EDUCATIONAL TECHNOLOGY",
+        "CENTRAL ADVISORY BOARD OF EDUCATION",
+        "CENTRAL BANK AND COMMERCIAL BANK"
+      ]
+    },
+    {
+      "gloss": "CHEQUE CROSSED",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHEQUE STALE",
+        "CHEQUE",
+        "CHEQUE DROP BOX",
+        "CHEQUE FRAUDULENT"
+      ]
+    },
+    {
+      "gloss": "CHEQUE FRAUDULENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHEQUE STALE",
+        "CHEQUE",
+        "CHEQUE DROP BOX",
+        "CHEQUE CROSSED"
+      ]
+    },
+    {
+      "gloss": "CHEQUE STALE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHEQUE",
+        "CHEQUE DROP BOX",
+        "CHEQUE CROSSED",
+        "CHEQUE FRAUDULENT"
+      ]
+    },
+    {
+      "gloss": "CLEARING AND MATCHING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COLLATERAL MANAGEMENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPOUND INTEREST",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMPOUND SENTENCE",
+        "COMPOUND"
+      ]
+    },
+    {
+      "gloss": "CONTRACTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONVERTIBLE BOND",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONVERTIBLE COLLAR"
+      ]
+    },
+    {
+      "gloss": "CORPORATE BOND",
+      "category": "COMPOUND",
+      "anchor": [
+        "CORPORATE SOCIAL RESPONSIBILITY"
+      ]
+    },
+    {
+      "gloss": "CORPORATES, CORPORATIONS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CORPUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COUPON RATE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CREDIT DEFAULT SWAP",
+      "category": "COMPOUND",
+      "anchor": [
+        "CREDIT AND DEBIT"
+      ]
+    },
+    {
+      "gloss": "CUM-BONUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CUM-DIVIDEND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CUMULATIVE INTEREST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CURRENT PRICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CURRENT ASSETS",
+        "CURRENT",
+        "CURRENT AND AMPERE",
+        "CURRENT ACCOUNT",
+        "CURRENT LIABILITIES"
+      ]
+    },
+    {
+      "gloss": "CUSTODIAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CUSTOMER, CLIENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CALL IT A DAY",
+      "category": "COMPOUND",
+      "anchor": [
+        "CALL",
+        "CALL OPTION",
+        "CALL FOR QUOTATION"
+      ]
+    },
+    {
+      "gloss": "COME OF AGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "COME BACK, RETURN",
+        "COME BACK CASE",
+        "COME"
+      ]
+    },
+    {
+      "gloss": "CUT CORNERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CUT AND FILL",
+        "CUT",
+        "CUT LINE"
+      ]
+    },
+    {
+      "gloss": "CALENDAR YEAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "CALENDAR"
+      ]
+    },
+    {
+      "gloss": "CALL FOR QUOTATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CALL",
+        "CALL OPTION",
+        "CALL IT A DAY"
+      ]
+    },
+    {
+      "gloss": "CAPIAS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAPITAL CRIME OR CAPITAL OFFENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAPITAL OUTPUT RATIO",
+        "CAPITAL",
+        "CAPITAL APPRECIATION",
+        "CAPITAL EXPENDITURE",
+        "CAPITAL GOODS"
+      ]
+    },
+    {
+      "gloss": "CAPITAL PUNISHMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAPITAL OUTPUT RATIO",
+        "CAPITAL",
+        "CAPITAL APPRECIATION",
+        "CAPITAL EXPENDITURE",
+        "CAPITAL GOODS"
+      ]
+    },
+    {
+      "gloss": "CAPITALIZATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAPTIVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CASE",
+      "category": "CLASSIFIERS",
+      "anchor": [
+        "CASE LAW"
+      ]
+    },
+    {
+      "gloss": "CASH BOOK",
+      "category": "COMPOUND",
+      "anchor": [
+        "CASH CROPS",
+        "CASH GENERATION",
+        "CASH FLOW",
+        "CASH IN ADVANCE",
+        "CASH WITH ORDER"
+      ]
+    },
+    {
+      "gloss": "CASUAL LEAVE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CAUSE LIST OR CALENDER CALL",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAUSE OF ACTION",
+        "CAUSE OF DEATH"
+      ]
+    },
+    {
+      "gloss": "CAUSE OF ACTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAUSE LIST OR CALENDER CALL",
+        "CAUSE OF DEATH"
+      ]
+    },
+    {
+      "gloss": "CAUSE OF DEATH",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAUSE LIST OR CALENDER CALL",
+        "CAUSE OF ACTION"
+      ]
+    },
+    {
+      "gloss": "CEASE FIRE",
+      "category": "COMPOUND",
+      "anchor": [
+        "ADDICTED, DEPENDENT, HOOKED",
+        "ACQUIT",
+        "ABORT, DISCONTINUE, HALT"
+      ]
+    },
+    {
+      "gloss": "CENTRAL JAIL",
+      "category": "COMPOUND",
+      "anchor": [
+        "CENTRAL GOVERNMENT",
+        "CENTRAL BANK",
+        "CENTRAL INSTITUTE OF EDUCATIONAL TECHNOLOGY",
+        "CENTRAL ADVISORY BOARD OF EDUCATION",
+        "CENTRAL BANK AND COMMERCIAL BANK"
+      ]
+    },
+    {
+      "gloss": "CERTIFIED COPY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CERTIORARI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHAIN OF COMMAND",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHAIN",
+        "CHAIN OF MARKETS",
+        "CHAIN SURVEYING",
+        "CHAIN OF CUSTODY",
+        "CHAIN DRIVE"
+      ]
+    },
+    {
+      "gloss": "CHAIN OF CUSTODY",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHAIN",
+        "CHAIN OF MARKETS",
+        "CHAIN OF COMMAND",
+        "CHAIN SURVEYING",
+        "CHAIN DRIVE"
+      ]
+    },
+    {
+      "gloss": "CHALLAN, CHARGESHEET",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHAMBER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHANGE OF VENUE",
+      "category": "COMPOUND",
+      "anchor": [
+        "ALTERNATIVE",
+        "CONVERT, CHANGE, TRANSFORM",
+        "OVARY",
+        "CHANGE"
+      ]
+    },
+    {
+      "gloss": "CHARGE BARGAIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHARGE"
+      ]
+    },
+    {
+      "gloss": "CHARGES, FIRST CHARGE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHIEF JUSTICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHIEF MINISTER",
+        "CHIEF EXECUTIVE OFFICER"
+      ]
+    },
+    {
+      "gloss": "CHILD",
+      "category": "CORE",
+      "anchor": [
+        "CHILD ABDUCTION",
+        "CHILD OF DEAF ADULTS",
+        "CHILD LABOUR",
+        "CHILD ABUSE",
+        "CHILD CARE LEAVE"
+      ]
+    },
+    {
+      "gloss": "CHILD ABDUCTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHILD",
+        "CHILD OF DEAF ADULTS",
+        "CHILD LABOUR",
+        "CHILD ABUSE",
+        "CHILD CARE LEAVE"
+      ]
+    },
+    {
+      "gloss": "CHILD ABUSE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHILD",
+        "CHILD ABDUCTION",
+        "CHILD OF DEAF ADULTS",
+        "CHILD LABOUR",
+        "CHILD CARE LEAVE"
+      ]
+    },
+    {
+      "gloss": "CHILD CARE LEAVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHILD",
+        "CHILD ABDUCTION",
+        "CHILD OF DEAF ADULTS",
+        "CHILD LABOUR",
+        "CHILD ABUSE"
+      ]
+    },
+    {
+      "gloss": "CHILD LABOUR",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHILD",
+        "CHILD ABDUCTION",
+        "CHILD OF DEAF ADULTS",
+        "CHILD ABUSE",
+        "CHILD CARE LEAVE"
+      ]
+    },
+    {
+      "gloss": "CHILD MARRIAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHILD",
+        "CHILD ABDUCTION",
+        "CHILD OF DEAF ADULTS",
+        "CHILD ABUSE",
+        "CHILD CARE LEAVE"
+      ]
+    },
+    {
+      "gloss": "CHILD PROSTITUTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHILD",
+        "CHILD ABDUCTION",
+        "CHILD OF DEAF ADULTS",
+        "CHILD ABUSE",
+        "CHILD CARE LEAVE"
+      ]
+    },
+    {
+      "gloss": "CHILD SUPPORT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHILD",
+        "CHILD ABDUCTION",
+        "CHILD OF DEAF ADULTS",
+        "CHILD ABUSE",
+        "CHILD CARE LEAVE"
+      ]
+    },
+    {
+      "gloss": "CHILDREN EDUCATION ALLOWANCECE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CIRCULAR",
+      "category": "CORE",
+      "anchor": [
+        "CIRCULAR SAW",
+        "CIRCULAR MOTION"
+      ]
+    },
+    {
+      "gloss": "CITIZEN'S ARREST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CITIZENSHIP AMENDMENT ACT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CITIZENSHIP"
+      ]
+    },
+    {
+      "gloss": "CIVIL COURT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CIVIL ENGINEERING",
+        "CIVIL DISOBEDIENCE MOVEMENT",
+        "CIVIL LAW",
+        "CIVIL RIGHTS MOVEMENT",
+        "CIVIL LAW, CRIMINAL LAW"
+      ]
+    },
+    {
+      "gloss": "CIVIL LAW, CRIMINAL LAW",
+      "category": "COMPOUND",
+      "anchor": [
+        "CIVIL COURT",
+        "CIVIL ENGINEERING",
+        "CIVIL DISOBEDIENCE MOVEMENT",
+        "CIVIL LAW",
+        "CIVIL RIGHTS MOVEMENT"
+      ]
+    },
+    {
+      "gloss": "CLAUSES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLEARANCE CERTIFICATE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CLOSED FILE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLOSED QUESTION",
+        "CLOSED CURVE",
+        "CLOSED CIRCUIT"
+      ]
+    },
+    {
+      "gloss": "CO ACCUSED",
+      "category": "COMPOUND",
+      "anchor": [
+        "CO AUTHORING"
+      ]
+    },
+    {
+      "gloss": "CODE OF CONDUCT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CODICIL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COERCION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COGNIZABLE OFFENCE, NON COGNIZABLE OFFENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "COGNIZABLE"
+      ]
+    },
+    {
+      "gloss": "COHABIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COLLEGIUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COLORABLE LEGISLATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COME BACK CASE",
+      "category": "COMPOUND",
+      "anchor": [
+        "COME BACK, RETURN",
+        "COME OF AGE",
+        "COME"
+      ]
+    },
+    {
+      "gloss": "COMMEMORATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPANY SECRETARY",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMPANY"
+      ]
+    },
+    {
+      "gloss": "COMPENSATORY DAMAGES, PUNITIVE DAMAGES",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMPENSATORY LEAVE",
+        "COMPENSATORY FISCAL POLICY"
+      ]
+    },
+    {
+      "gloss": "COMPLAINANT AND COMPLAINT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPOSITE DRAWING",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMPOSITE NUMBER"
+      ]
+    },
+    {
+      "gloss": "CONCEALMENT OF IDENTITY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONDEMNATION, CONDEMNATION SUIT, INVERSE CONDEMNATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONDONE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONFESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONFESSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONFIDENCE TRICKS, CONFIDENCE MAN OR CON MAN",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONFIDENCE"
+      ]
+    },
+    {
+      "gloss": "CONFISCATION ORDER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSECUTIVE SENTENCE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSENT ORDER",
+      "category": "COMPOUND",
+      "anchor": [
+        "APPROVE",
+        "AGREE, CONCUR, CONSENT",
+        "ACCEPT"
+      ]
+    },
+    {
+      "gloss": "CONSPIRACY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSTITUTE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSTITUTIONAL BODIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONSTITUTIONAL LAW",
+        "CONSTITUTIONAL REMEDIES",
+        "CONSTITUTIONAL RIGHTS"
+      ]
+    },
+    {
+      "gloss": "CONSTITUTIONAL LAW",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONSTITUTIONAL REMEDIES",
+        "CONSTITUTIONAL BODIES",
+        "CONSTITUTIONAL RIGHTS"
+      ]
+    },
+    {
+      "gloss": "CONSTITUTIONAL REMEDIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONSTITUTIONAL LAW",
+        "CONSTITUTIONAL BODIES",
+        "CONSTITUTIONAL RIGHTS"
+      ]
+    },
+    {
+      "gloss": "CONSTITUTIONAL RIGHTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONSTITUTIONAL LAW",
+        "CONSTITUTIONAL REMEDIES",
+        "CONSTITUTIONAL BODIES"
+      ]
+    },
+    {
+      "gloss": "CONSTRUCTIVE DESERTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSUMER PROTECTION ACT 1986",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONSUMER AND PRODUCT",
+        "CONSUMER EXPENDITURE",
+        "CONSUMER ELECTRONICS",
+        "CONSUMER PROTECTION COUNCIL",
+        "CONSUMER PRICE INDEX"
+      ]
+    },
+    {
+      "gloss": "CONSUMER PROTECTION COUNCIL",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONSUMER PROTECTION ACT 1986",
+        "CONSUMER AND PRODUCT",
+        "CONSUMER EXPENDITURE",
+        "CONSUMER ELECTRONICS",
+        "CONSUMER PRICE INDEX"
+      ]
+    },
+    {
+      "gloss": "CONTEMPT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONTRACT KILLING",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTRACT KILLER",
+        "CONTRACT"
+      ]
+    },
+    {
+      "gloss": "CONTRACTOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONTRACTUAL APPOINTMENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONTUSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONVERSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONVICT AND CONVICTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONVICT"
+      ]
+    },
+    {
+      "gloss": "COP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COPYRIGHT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CORONER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CORRIGENDUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COUNTER ATTACK",
+      "category": "COMPOUND",
+      "anchor": [
+        "COUNTER",
+        "COUNTER PUNCH",
+        "COUNTER SINKING"
+      ]
+    },
+    {
+      "gloss": "COUNTERFEIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COURT HALL",
+      "category": "COMPOUND",
+      "anchor": [
+        "COURT MARRIAGE",
+        "COURT REPORTER",
+        "COURT OF APPEAL"
+      ]
+    },
+    {
+      "gloss": "COURT MARRIAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "COURT OF APPEAL",
+        "COURT HALL",
+        "COURT REPORTER"
+      ]
+    },
+    {
+      "gloss": "COURT OF APPEAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "COURT MARRIAGE",
+        "COURT HALL",
+        "COURT REPORTER"
+      ]
+    },
+    {
+      "gloss": "COURT REPORTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "COURT MARRIAGE",
+        "COURT HALL",
+        "COURT OF APPEAL"
+      ]
+    },
+    {
+      "gloss": "COVERING LETTER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CREMATION, CREMATION GROUND OR CREMATORIUM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CRIME",
+      "category": "CORE",
+      "anchor": [
+        "CRIME SCENE"
+      ]
+    },
+    {
+      "gloss": "CRIME SCENE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CRIME"
+      ]
+    },
+    {
+      "gloss": "CRIMINAL COURT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CRIMINAL LAW",
+        "CRIMINAL RECORD"
+      ]
+    },
+    {
+      "gloss": "CRIMINAL RECORD",
+      "category": "COMPOUND",
+      "anchor": [
+        "CRIMINAL LAW",
+        "CRIMINAL COURT"
+      ]
+    },
+    {
+      "gloss": "CRIMINOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CROSS EXAMINE OR CROSS EXAMINATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CROSS COUNTRY",
+        "CROSS CULTURAL PSYCHOLOGY",
+        "CROSS",
+        "CROSS PRODUCT",
+        "CROSS BREEDING"
+      ]
+    },
+    {
+      "gloss": "CULPABLE HOMICIDE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CURRENT FILE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CURRENT ASSETS",
+        "CURRENT",
+        "CURRENT AND AMPERE",
+        "CURRENT ACCOUNT",
+        "CURRENT LIABILITIES"
+      ]
+    },
+    {
+      "gloss": "CUSTODIAL DEATH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CUSTODY",
+      "category": "CORE",
+      "anchor": [
+        "CUSTODY CHILD"
+      ]
+    },
+    {
+      "gloss": "CUSTODY CHILD",
+      "category": "COMPOUND",
+      "anchor": [
+        "CUSTODY"
+      ]
+    },
+    {
+      "gloss": "CYBER CRIME",
+      "category": "COMPOUND",
+      "anchor": [
+        "CYBER SECURITY"
+      ]
+    },
+    {
+      "gloss": "CADAVER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAESAREAN SECTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CAESARIAN SECTION SET",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CALAMINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CALIPERS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CALLUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CALORIMETER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CANDIDIASIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CANNULA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARCINOGEN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARCINOID TUMOR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CARDIAC ARREST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CARDIOVASCULAR MEDICINE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CARIES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARPAL TUNNEL SYNDROME",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CARTILAGE CELLS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CARTILAGE"
+      ]
+    },
+    {
+      "gloss": "CATARACT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CATHETER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAUSING AGENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CAUTERY MACHINE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CENTRAL NERVOUS SYSTEM",
+      "category": "COMPOUND",
+      "anchor": [
+        "CENTRAL GOVERNMENT",
+        "CENTRAL BANK",
+        "CENTRAL INSTITUTE OF EDUCATIONAL TECHNOLOGY",
+        "CENTRAL ADVISORY BOARD OF EDUCATION",
+        "CENTRAL BANK AND COMMERCIAL BANK"
+      ]
+    },
+    {
+      "gloss": "CENTRIFUGE",
+      "category": "CORE",
+      "anchor": [
+        "CENTRIFUGE TUBE"
+      ]
+    },
+    {
+      "gloss": "CENTRIFUGE TUBE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CENTRIFUGE"
+      ]
+    },
+    {
+      "gloss": "CEREBRAL PALSY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CERVICAL CANCER",
+      "category": "COMPOUND",
+      "anchor": [
+        "CERVICAL TRACTION"
+      ]
+    },
+    {
+      "gloss": "CERVICAL TRACTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CERVICAL CANCER"
+      ]
+    },
+    {
+      "gloss": "CERVIX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHEEK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHEMOTHERAPY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHEST EXPANDER",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHEST CAVITY",
+        "CHEST PAIN"
+      ]
+    },
+    {
+      "gloss": "CHICKENPOX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHIKUNGUNYA VIRUS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHOKING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHOLESTERAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHRONIC ILLNESS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHRONIC",
+        "CHRONIC PAIN",
+        "CHRONIC KIDNEY"
+      ]
+    },
+    {
+      "gloss": "CHRONIC KIDNEY",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHRONIC ILLNESS",
+        "CHRONIC PAIN",
+        "CHRONIC"
+      ]
+    },
+    {
+      "gloss": "CIRRHOSIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLAVICLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COLD ROOM UNITS",
+      "category": "COMPOUND",
+      "anchor": [
+        "COLD",
+        "COLD FORMED STEEL SECTION",
+        "COLD WAR",
+        "COLD DESERT",
+        "COLD STORAGE"
+      ]
+    },
+    {
+      "gloss": "COLIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COLOR BLINDNESS",
+      "category": "COMPOUND",
+      "anchor": [
+        "COLOR THEORY",
+        "COLOR TEMPERATURE"
+      ]
+    },
+    {
+      "gloss": "COMA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMMODE CHAIR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COMMON COLD",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMMON",
+        "COMMON MINERALS",
+        "COMMON MULTIPLE",
+        "COMMON FACTOR",
+        "COMMON NOUN, PROPER NOUN"
+      ]
+    },
+    {
+      "gloss": "CONCUSSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONGENITAL DISEASE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONGENITAL DEAFNESS"
+      ]
+    },
+    {
+      "gloss": "CONJUNCTIVA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSTIPATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONTACT LENS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTACT FORCE",
+        "CONTACT TRACING",
+        "CONTACT LENSES",
+        "CONTACT INSECTICIDE"
+      ]
+    },
+    {
+      "gloss": "CONTAGIONS DISEASE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONTAMINATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONTRACEPTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONTRACEPTIVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONVELSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COOL BOX",
+      "category": "COMPOUND",
+      "anchor": [
+        "COOL COLOURS",
+        "COOL"
+      ]
+    },
+    {
+      "gloss": "CORNEA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CORONARY ARTERY BYPASS SURGERY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COUGH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CRASH CART",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CRUTCHES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CRY THERAPY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CYSTITIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COLOURS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHANDIGARH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHENNAI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHHATTISGARH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COIMBATORE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "C",
+      "category": "LETTERS",
+      "anchor": [
+        "C CLAMP",
+        "C ++"
+      ]
+    },
+    {
+      "gloss": "C ++",
+      "category": "COMPOUND",
+      "anchor": [
+        "C CLAMP",
+        "C"
+      ]
+    },
+    {
+      "gloss": "C CLAMP",
+      "category": "COMPOUND",
+      "anchor": [
+        "C",
+        "C ++"
+      ]
+    },
+    {
+      "gloss": "CABINET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CABLE HARNESS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CABLE CART"
+      ]
+    },
+    {
+      "gloss": "CAFTAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CALIPER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAM",
+      "category": "CORE",
+      "anchor": [
+        "CAM SHAFT"
+      ]
+    },
+    {
+      "gloss": "CAM SHAFT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAM"
+      ]
+    },
+    {
+      "gloss": "CAMOUFLAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CANCEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CANTILEVER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAP SLEEVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAP"
+      ]
+    },
+    {
+      "gloss": "CAPRI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAR AIR MATTRESS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAR",
+        "CAR WASH"
+      ]
+    },
+    {
+      "gloss": "CARGO POCKET",
+      "category": "COMPOUND",
+      "anchor": [
+        "CARGO",
+        "CARGO SHIP",
+        "CARGO HANDLING EQUIPMENT",
+        "CARGO CONSOLIDATION",
+        "CARGO TRAIN, FREIGHT TRAIN, GOODS TRAIN"
+      ]
+    },
+    {
+      "gloss": "CARPET AREA",
+      "category": "COMPOUND",
+      "anchor": [
+        "CARPET"
+      ]
+    },
+    {
+      "gloss": "CARTRIDGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARVED PILLARS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CASCADING WINDOWS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CATCH STITCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "CATCH CROPS",
+        "CATCH",
+        "CATCH UP"
+      ]
+    },
+    {
+      "gloss": "CD WRITER",
+      "category": "COMPOUND",
+      "anchor": [
+        "CD"
+      ]
+    },
+    {
+      "gloss": "CEILING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CEMENT MORTAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "CEMENT"
+      ]
+    },
+    {
+      "gloss": "CENTER BACK",
+      "category": "COMPOUND",
+      "anchor": [
+        "CENTER"
+      ]
+    },
+    {
+      "gloss": "CENTERING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CENTRAL DOCUMENT REPOSITORY",
+      "category": "COMPOUND",
+      "anchor": [
+        "CENTRAL GOVERNMENT",
+        "CENTRAL BANK",
+        "CENTRAL INSTITUTE OF EDUCATIONAL TECHNOLOGY",
+        "CENTRAL ADVISORY BOARD OF EDUCATION",
+        "CENTRAL BANK AND COMMERCIAL BANK"
+      ]
+    },
+    {
+      "gloss": "CENTRAL PROCESSING UNIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CENTRAL GOVERNMENT",
+        "CENTRAL BANK",
+        "CENTRAL INSTITUTE OF EDUCATIONAL TECHNOLOGY",
+        "CENTRAL ADVISORY BOARD OF EDUCATION",
+        "CENTRAL BANK AND COMMERCIAL BANK"
+      ]
+    },
+    {
+      "gloss": "CENTRE FRONT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CENTRE",
+        "CENTRE FORWARD"
+      ]
+    },
+    {
+      "gloss": "CERAMIC DISC CAPACITOR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CG CHARACTERS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHAIN DRIVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHAIN",
+        "CHAIN OF MARKETS",
+        "CHAIN OF COMMAND",
+        "CHAIN SURVEYING",
+        "CHAIN OF CUSTODY"
+      ]
+    },
+    {
+      "gloss": "CHAMFERING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHANNEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHARACTER MAP",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHARACTER"
+      ]
+    },
+    {
+      "gloss": "CHESTERFIELD COAT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHIAROSCURO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHICKEN MESH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHIMNEY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHIP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHIPPING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHISEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHROME",
+      "category": "CORE",
+      "anchor": [
+        "CHROME CAST",
+        "CHROME BOOK"
+      ]
+    },
+    {
+      "gloss": "CHROME BOOK",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHROME CAST",
+        "CHROME"
+      ]
+    },
+    {
+      "gloss": "CHROME CAST",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHROME BOOK",
+        "CHROME"
+      ]
+    },
+    {
+      "gloss": "CIRCLIP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CIRCUIT BREAKER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CIRCULAR SAW",
+      "category": "COMPOUND",
+      "anchor": [
+        "CIRCULAR MOTION",
+        "CIRCULAR"
+      ]
+    },
+    {
+      "gloss": "CIVIL ENGINEERING",
+      "category": "COMPOUND",
+      "anchor": [
+        "CIVIL COURT",
+        "CIVIL DISOBEDIENCE MOVEMENT",
+        "CIVIL LAW",
+        "CIVIL RIGHTS MOVEMENT",
+        "CIVIL LAW, CRIMINAL LAW"
+      ]
+    },
+    {
+      "gloss": "CLADDING PANEL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CLAW HAMMER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CLEANING ROBOT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CLIP ART",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLIP BOARD"
+      ]
+    },
+    {
+      "gloss": "CLIP BOARD",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLIP ART"
+      ]
+    },
+    {
+      "gloss": "CLOSE UP",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLOSE CONTACT",
+        "CLOSE"
+      ]
+    },
+    {
+      "gloss": "CLOSED CIRCUIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLOSED QUESTION",
+        "CLOSED CURVE",
+        "CLOSED FILE"
+      ]
+    },
+    {
+      "gloss": "CLOUD PRINT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLOUD RECORDING",
+        "CLOUD",
+        "CLOUD INFRASTRUCTURE",
+        "CLOUD GAMING",
+        "CLOUD STORAGE"
+      ]
+    },
+    {
+      "gloss": "CLOUD RECORDING",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLOUD",
+        "CLOUD PRINT",
+        "CLOUD INFRASTRUCTURE",
+        "CLOUD GAMING",
+        "CLOUD STORAGE"
+      ]
+    },
+    {
+      "gloss": "CLOUD STORAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLOUD RECORDING",
+        "CLOUD",
+        "CLOUD PRINT",
+        "CLOUD INFRASTRUCTURE",
+        "CLOUD GAMING"
+      ]
+    },
+    {
+      "gloss": "CLUTCH LEVER",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLUTCH"
+      ]
+    },
+    {
+      "gloss": "CNC MACHINE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CNG STONE CARVING MACHINE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CO AUTHORING",
+      "category": "COMPOUND",
+      "anchor": [
+        "CO ACCUSED"
+      ]
+    },
+    {
+      "gloss": "COARSE AGGREGATE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COAT DRESS",
+      "category": "COMPOUND",
+      "anchor": [
+        "COAT"
+      ]
+    },
+    {
+      "gloss": "COLD FORMED STEEL SECTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "COLD",
+        "COLD WAR",
+        "COLD DESERT",
+        "COLD ROOM UNITS",
+        "COLD STORAGE"
+      ]
+    },
+    {
+      "gloss": "COLLABORATION AND MESSAGING SERVICES",
+      "category": "COMPOUND",
+      "anchor": [
+        "COLLABORATION"
+      ]
+    },
+    {
+      "gloss": "COLOR TEMPERATURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "COLOR THEORY",
+        "COLOR BLINDNESS"
+      ]
+    },
+    {
+      "gloss": "COLOUR PALETTE",
+      "category": "COMPOUND",
+      "anchor": [
+        "COLOUR"
+      ]
+    },
+    {
+      "gloss": "COLUMN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMBINATION DRILL",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMBINATION SET",
+        "COMBINATION"
+      ]
+    },
+    {
+      "gloss": "COMBINATION SET",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMBINATION",
+        "COMBINATION DRILL"
+      ]
+    },
+    {
+      "gloss": "COMMAND BOX",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMMAND ECONOMY"
+      ]
+    },
+    {
+      "gloss": "COMMERCIAL BUILDING",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMMERCIAL",
+        "COMMERCIAL FARM",
+        "COMMERCIAL COMPLEXES",
+        "COMMERCIAL VEGETABLE GARDENING",
+        "COMMERCIAL AGENT OR SALES AGENT"
+      ]
+    },
+    {
+      "gloss": "COMMERCIAL COMPLEXES",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMMERCIAL BUILDING",
+        "COMMERCIAL",
+        "COMMERCIAL FARM",
+        "COMMERCIAL VEGETABLE GARDENING",
+        "COMMERCIAL AGENT OR SALES AGENT"
+      ]
+    },
+    {
+      "gloss": "COMPACTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPILER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPOSITING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPRESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPUTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONCRETE",
+      "category": "CORE",
+      "anchor": [
+        "CONCRETE BREAKER",
+        "CONCRETE MIXTURE",
+        "CONCRETE SLAB",
+        "CONCRETE NOUN"
+      ]
+    },
+    {
+      "gloss": "CONCRETE BREAKER",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONCRETE MIXTURE",
+        "CONCRETE",
+        "CONCRETE SLAB",
+        "CONCRETE NOUN"
+      ]
+    },
+    {
+      "gloss": "CONCRETE MIXTURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONCRETE BREAKER",
+        "CONCRETE",
+        "CONCRETE SLAB",
+        "CONCRETE NOUN"
+      ]
+    },
+    {
+      "gloss": "CONCRETE SLAB",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONCRETE BREAKER",
+        "CONCRETE MIXTURE",
+        "CONCRETE",
+        "CONCRETE NOUN"
+      ]
+    },
+    {
+      "gloss": "CONDENSED TYPE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONDITIONAL FORMATTING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSTANT",
+      "category": "CORE",
+      "anchor": [
+        "CONSTANT FEAR",
+        "CONSTANT RETURNS TO SCALE",
+        "CONSTANT WORRY"
+      ]
+    },
+    {
+      "gloss": "CONSTRUCTION",
+      "category": "CORE",
+      "anchor": [
+        "CONSTRUCTION PLAN",
+        "CONSTRUCTION TOWER CRANE",
+        "CONSTRUCTION CONTRACT"
+      ]
+    },
+    {
+      "gloss": "CONSTRUCTION CONTRACT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONSTRUCTION PLAN",
+        "CONSTRUCTION TOWER CRANE",
+        "CONSTRUCTION"
+      ]
+    },
+    {
+      "gloss": "CONSTRUCTION PLAN",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONSTRUCTION TOWER CRANE",
+        "CONSTRUCTION CONTRACT",
+        "CONSTRUCTION"
+      ]
+    },
+    {
+      "gloss": "CONSTRUCTION TOWER CRANE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONSTRUCTION PLAN",
+        "CONSTRUCTION CONTRACT",
+        "CONSTRUCTION"
+      ]
+    },
+    {
+      "gloss": "CONSUMER ELECTRONICS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONSUMER PROTECTION ACT 1986",
+        "CONSUMER AND PRODUCT",
+        "CONSUMER EXPENDITURE",
+        "CONSUMER PROTECTION COUNCIL",
+        "CONSUMER PRICE INDEX"
+      ]
+    },
+    {
+      "gloss": "CONTRAST CUT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTRAST",
+        "CONTRAST RATIO"
+      ]
+    },
+    {
+      "gloss": "CONTROL PANEL",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTROL ACCESS ZONE",
+        "CONTROL OF WEEDS"
+      ]
+    },
+    {
+      "gloss": "CONVERTIBLE COLLAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONVERTIBLE BOND"
+      ]
+    },
+    {
+      "gloss": "CONVEYOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COOKIES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COOL COLOURS",
+      "category": "COMPOUND",
+      "anchor": [
+        "COOL BOX",
+        "COOL"
+      ]
+    },
+    {
+      "gloss": "COOLING SHEET",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COPY",
+      "category": "CORE",
+      "anchor": [
+        "COPY AND PASTE"
+      ]
+    },
+    {
+      "gloss": "CORELDRAW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CORROSION RESISTANCE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COTTER RING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COTTON PIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "COTTON WOOL",
+        "COTTON"
+      ]
+    },
+    {
+      "gloss": "COUCHING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COUNTER SINKING",
+      "category": "COMPOUND",
+      "anchor": [
+        "COUNTER",
+        "COUNTER ATTACK",
+        "COUNTER PUNCH"
+      ]
+    },
+    {
+      "gloss": "COUPLING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COUTURIER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COUTURIERE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COWL",
+      "category": "CORE",
+      "anchor": [
+        "COWL SLEEVE"
+      ]
+    },
+    {
+      "gloss": "COWL SLEEVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "COWL"
+      ]
+    },
+    {
+      "gloss": "CRANE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CRAWLER LOADER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CREWEL NEEDLES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CROP FACTOR",
+      "category": "COMPOUND",
+      "anchor": [
+        "CROP GEOGRAPHY",
+        "CROP ROTATION",
+        "CROP ROTATION IN VEGETABLE PRODUCTION",
+        "CROP"
+      ]
+    },
+    {
+      "gloss": "CROPPED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CROPPING TOOL",
+      "category": "COMPOUND",
+      "anchor": [
+        "CROPPING SCHEME"
+      ]
+    },
+    {
+      "gloss": "CROQUIS FIGURE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CROSS BELT DRIVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CROSS COUNTRY",
+        "CROSS CULTURAL PSYCHOLOGY",
+        "CROSS",
+        "CROSS PRODUCT",
+        "CROSS BREEDING"
+      ]
+    },
+    {
+      "gloss": "CROSS GRAIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "CROSS COUNTRY",
+        "CROSS CULTURAL PSYCHOLOGY",
+        "CROSS",
+        "CROSS PRODUCT",
+        "CROSS BREEDING"
+      ]
+    },
+    {
+      "gloss": "CROSS PEIN HAMMER",
+      "category": "COMPOUND",
+      "anchor": [
+        "CROSS COUNTRY",
+        "CROSS CULTURAL PSYCHOLOGY",
+        "CROSS",
+        "CROSS PRODUCT",
+        "CROSS BREEDING"
+      ]
+    },
+    {
+      "gloss": "CROW BAR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CTR \u2013 CLICK THROUGH RATE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CUFFS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CULOTTES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CUMMERBUND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CURING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CURSOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CUSTOM ANIMATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CUSTOMIZING DESKTOP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CUT LINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CUT AND FILL",
+        "CUT",
+        "CUT CORNERS"
+      ]
+    },
+    {
+      "gloss": "CUTTING MAT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CUTTING",
+        "CUTTING ON ACTION",
+        "CUTTING PLIERS"
+      ]
+    },
+    {
+      "gloss": "CUTTING ON ACTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CUTTING",
+        "CUTTING MAT",
+        "CUTTING PLIERS"
+      ]
+    },
+    {
+      "gloss": "CUTTING PLIERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CUTTING",
+        "CUTTING MAT",
+        "CUTTING ON ACTION"
+      ]
+    },
+    {
+      "gloss": "CANAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CASH CROP",
+      "category": "COMPOUND",
+      "anchor": [
+        "CASH CROPS",
+        "CASH GENERATION",
+        "CASH FLOW",
+        "CASH IN ADVANCE",
+        "CASH WITH ORDER"
+      ]
+    },
+    {
+      "gloss": "CELESTIAL BODIES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHALUKYAS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMMERCIAL FARMING",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMMERCIAL BUILDING",
+        "COMMERCIAL",
+        "COMMERCIAL FARM",
+        "COMMERCIAL VEGETABLE GARDENING",
+        "COMMERCIAL AGENT OR SALES AGENT"
+      ]
+    },
+    {
+      "gloss": "COMMUNITY LAND",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMMUNITY BASED REHABILITATION",
+        "COMMUNITY PARTICIPATION",
+        "COMMUNITY"
+      ]
+    },
+    {
+      "gloss": "CONTINENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONVENTIONAL SOURCES OF ENERGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONVENTIONAL"
+      ]
+    },
+    {
+      "gloss": "COOPERATIVE INDUSTRIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "COOPERATIVE",
+        "COOPERATIVE SELLING"
+      ]
+    },
+    {
+      "gloss": "COPARCENARY INHERITANCE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CORE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CROP",
+      "category": "CORE",
+      "anchor": [
+        "CROP GEOGRAPHY",
+        "CROP FACTOR",
+        "CROP ROTATION",
+        "CROP ROTATION IN VEGETABLE PRODUCTION"
+      ]
+    },
+    {
+      "gloss": "CRUST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAB",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CABLE CART",
+      "category": "COMPOUND",
+      "anchor": [
+        "CABLE HARNESS"
+      ]
+    },
+    {
+      "gloss": "CANOE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CANTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CANVAS",
+      "category": "CORE",
+      "anchor": [
+        "CANVAS BOARD"
+      ]
+    },
+    {
+      "gloss": "CAPABLE BODY",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAPABLE"
+      ]
+    },
+    {
+      "gloss": "CAPACITY",
+      "category": "CORE",
+      "anchor": [
+        "CAPACITY BUILDING"
+      ]
+    },
+    {
+      "gloss": "CARD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAREFUL STEPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAREFUL"
+      ]
+    },
+    {
+      "gloss": "CARGO CONSOLIDATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CARGO",
+        "CARGO SHIP",
+        "CARGO HANDLING EQUIPMENT",
+        "CARGO POCKET",
+        "CARGO TRAIN, FREIGHT TRAIN, GOODS TRAIN"
+      ]
+    },
+    {
+      "gloss": "CARGO HANDLING EQUIPMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CARGO SHIP",
+        "CARGO",
+        "CARGO POCKET",
+        "CARGO CONSOLIDATION",
+        "CARGO TRAIN, FREIGHT TRAIN, GOODS TRAIN"
+      ]
+    },
+    {
+      "gloss": "CARGO SHIP",
+      "category": "COMPOUND",
+      "anchor": [
+        "CARGO",
+        "CARGO HANDLING EQUIPMENT",
+        "CARGO POCKET",
+        "CARGO CONSOLIDATION",
+        "CARGO TRAIN, FREIGHT TRAIN, GOODS TRAIN"
+      ]
+    },
+    {
+      "gloss": "CARRIAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARTESIAN PLANE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CARTOGRAPHY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CATALYTIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAUGHT COLD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CENTROID",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHAIN OF TRANSMISSION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHAIN",
+        "CHAIN OF MARKETS",
+        "CHAIN OF COMMAND",
+        "CHAIN SURVEYING",
+        "CHAIN OF CUSTODY"
+      ]
+    },
+    {
+      "gloss": "CHAIN SMOKING",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHAIN",
+        "CHAIN OF MARKETS",
+        "CHAIN OF COMMAND",
+        "CHAIN SURVEYING",
+        "CHAIN OF CUSTODY"
+      ]
+    },
+    {
+      "gloss": "CHANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHARACTER",
+      "category": "CORE",
+      "anchor": [
+        "CHARACTER MAP"
+      ]
+    },
+    {
+      "gloss": "CHARACTERIZATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHASSIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHECKLIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHOKE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CIRCUMLOCUTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CIVIL RIGHTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CIVIL COURT",
+        "CIVIL DISOBEDIENCE MOVEMENT",
+        "CIVIL LAW",
+        "CIVIL RIGHTS MOVEMENT",
+        "CIVIL LAW, CRIMINAL LAW"
+      ]
+    },
+    {
+      "gloss": "CIVIL WAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "CIVIL COURT",
+        "CIVIL DISOBEDIENCE MOVEMENT",
+        "CIVIL LAW",
+        "CIVIL RIGHTS MOVEMENT",
+        "CIVIL LAW, CRIMINAL LAW"
+      ]
+    },
+    {
+      "gloss": "CLASSIFIED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLAUSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLIENT-SERVER MODEL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CLIMAX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLINCH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLINICAL TRIAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLINICAL AND COUNSELLING PSYCHOLOGY",
+        "CLINICAL SKILLS",
+        "CLINICAL THERMOMETER"
+      ]
+    },
+    {
+      "gloss": "CLINK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLOSE CONTACT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLOSE",
+        "CLOSE UP"
+      ]
+    },
+    {
+      "gloss": "CLOUD GAMING",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLOUD RECORDING",
+        "CLOUD",
+        "CLOUD PRINT",
+        "CLOUD INFRASTRUCTURE",
+        "CLOUD STORAGE"
+      ]
+    },
+    {
+      "gloss": "CLOUD INFRASTRUCTURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLOUD RECORDING",
+        "CLOUD",
+        "CLOUD PRINT",
+        "CLOUD GAMING",
+        "CLOUD STORAGE"
+      ]
+    },
+    {
+      "gloss": "CLOUDBURST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLUBS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLUSTER OF CASES",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLUSTER RESOURCE CENTRE",
+        "CLUSTER"
+      ]
+    },
+    {
+      "gloss": "CLUTCH",
+      "category": "CORE",
+      "anchor": [
+        "CLUTCH LEVER"
+      ]
+    },
+    {
+      "gloss": "COCKPIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COEFFICIENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COGNITIVE LOAD",
+      "category": "COMPOUND",
+      "anchor": [
+        "COGNITIVE DEVELOPMENT",
+        "COGNITIVE",
+        "COGNITIVE BEHAVIOURAL THERAPY",
+        "COGNITIVE PSYCHOLOGY"
+      ]
+    },
+    {
+      "gloss": "COLLECTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COLLECTOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COLLISION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COLONIZATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COLONY",
+      "category": "CORE",
+      "anchor": [
+        "COLONY OF HONEY BEE",
+        "COLONY OF ANTS"
+      ]
+    },
+    {
+      "gloss": "COMBINATION",
+      "category": "CORE",
+      "anchor": [
+        "COMBINATION SET",
+        "COMBINATION DRILL"
+      ]
+    },
+    {
+      "gloss": "COMMEMORATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMMITTEE OF TRANSPORTATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMMITTEE"
+      ]
+    },
+    {
+      "gloss": "COMMODITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMMONALITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMMUNICATIONS INFRASTRUCTURE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COMMUTE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPARTMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPENSATORY LEAVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMPENSATORY FISCAL POLICY",
+        "COMPENSATORY DAMAGES, PUNITIVE DAMAGES"
+      ]
+    },
+    {
+      "gloss": "COMPLEX NUMBER",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMPLEX",
+        "COMPLEX SENTENCE",
+        "COMPLEX TRAUMA",
+        "COMPLEX POST TRAUMATIC STRESS DISORDER"
+      ]
+    },
+    {
+      "gloss": "COMPLIANCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPREHENSIVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONCEALED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONCEIVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONFERENCE TABLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONFERENCE"
+      ]
+    },
+    {
+      "gloss": "CONFIGURATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONFIRMED CASE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CONFISCATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONFLICT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONGESTION PRICING",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONGESTION"
+      ]
+    },
+    {
+      "gloss": "CONQUEST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSERVATISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSIGNOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSOLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSONANCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSONANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSULT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSUMPTION",
+      "category": "CORE",
+      "anchor": [
+        "CONSUMPTION FUNCTION"
+      ]
+    },
+    {
+      "gloss": "CONTACT TRACING",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTACT FORCE",
+        "CONTACT LENSES",
+        "CONTACT INSECTICIDE",
+        "CONTACT LENS"
+      ]
+    },
+    {
+      "gloss": "CONTENT READABILITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTENT WORDS, FUNCTION WORDS"
+      ]
+    },
+    {
+      "gloss": "CONTRAST",
+      "category": "CORE",
+      "anchor": [
+        "CONTRAST RATIO",
+        "CONTRAST CUT"
+      ]
+    },
+    {
+      "gloss": "CONTRAST RATIO",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTRAST",
+        "CONTRAST CUT"
+      ]
+    },
+    {
+      "gloss": "CONVENTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONVENTIONAL",
+      "category": "CORE",
+      "anchor": [
+        "CONVENTIONAL SOURCES OF ENERGY"
+      ]
+    },
+    {
+      "gloss": "CONVERTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COOPERATIVE",
+      "category": "CORE",
+      "anchor": [
+        "COOPERATIVE INDUSTRIES",
+        "COOPERATIVE SELLING"
+      ]
+    },
+    {
+      "gloss": "COORDINATE",
+      "category": "CORE",
+      "anchor": [
+        "COORDINATE GEOMETRY"
+      ]
+    },
+    {
+      "gloss": "CORKSCREW PUNCH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CORNER KICK",
+      "category": "COMPOUND",
+      "anchor": [
+        "CORNER"
+      ]
+    },
+    {
+      "gloss": "CORNERMAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CORRIDOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COSMOS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COSTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COTTON",
+      "category": "CORE",
+      "anchor": [
+        "COTTON WOOL",
+        "COTTON PIN"
+      ]
+    },
+    {
+      "gloss": "COUNTER",
+      "category": "CORE",
+      "anchor": [
+        "COUNTER ATTACK",
+        "COUNTER PUNCH",
+        "COUNTER SINKING"
+      ]
+    },
+    {
+      "gloss": "COUNTER PUNCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "COUNTER",
+        "COUNTER ATTACK",
+        "COUNTER SINKING"
+      ]
+    },
+    {
+      "gloss": "COUPLET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CROSS-COUNTRY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CRUCIAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CRUISE SHIP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CUBAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CUBIC EQUATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CULTURAL DIFFUSION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CULTURAL TOURISM",
+        "CULTURAL HERITAGE",
+        "CULTURAL AND EDUCATIONAL RIGHTS",
+        "CULTURAL & AGRONOMICAL METHODS",
+        "CULTURAL MODEL OF DISABILITY"
+      ]
+    },
+    {
+      "gloss": "CULTURAL RELATIVISM",
+      "category": "COMPOUND",
+      "anchor": [
+        "CULTURAL TOURISM",
+        "CULTURAL HERITAGE",
+        "CULTURAL AND EDUCATIONAL RIGHTS",
+        "CULTURAL & AGRONOMICAL METHODS",
+        "CULTURAL MODEL OF DISABILITY"
+      ]
+    },
+    {
+      "gloss": "CUSTOMS CLEARANCE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CUTMAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CYCLIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CABIN CREW",
+      "category": "COMPOUND",
+      "anchor": [
+        "CABIN",
+        "CABIN PRESSURIZATION"
+      ]
+    },
+    {
+      "gloss": "CAFE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAMERA FLASH",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAMERA"
+      ]
+    },
+    {
+      "gloss": "CANVAS BOARD",
+      "category": "COMPOUND",
+      "anchor": [
+        "CANVAS"
+      ]
+    },
+    {
+      "gloss": "CAR WASH",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAR",
+        "CAR AIR MATTRESS"
+      ]
+    },
+    {
+      "gloss": "CARAVAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARDIGAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARDIOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARETAKER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CASE LAW",
+      "category": "COMPOUND",
+      "anchor": [
+        "CASE"
+      ]
+    },
+    {
+      "gloss": "CATERING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CENTRAL BOARD OF SECONDARY EDUCATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CENTRAL GOVERNMENT",
+        "CENTRAL BANK",
+        "CENTRAL INSTITUTE OF EDUCATIONAL TECHNOLOGY",
+        "CENTRAL ADVISORY BOARD OF EDUCATION",
+        "CENTRAL BANK AND COMMERCIAL BANK"
+      ]
+    },
+    {
+      "gloss": "CENTRALISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHILDBIRTH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHILDCARE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHIMPANZEE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHOCOLATIER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHORE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHROMA SCREEN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CIBIL",
+      "category": "CORE",
+      "anchor": [
+        "CIBIL SCORE"
+      ]
+    },
+    {
+      "gloss": "CIBIL SCORE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CIBIL"
+      ]
+    },
+    {
+      "gloss": "CINEMATOGRAPHY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLAD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLASSROOM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COCKTAIL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CODER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CODING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COLLEAGUE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMMISSIONER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPACT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONCEALER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONGESTION",
+      "category": "CORE",
+      "anchor": [
+        "CONGESTION PRICING"
+      ]
+    },
+    {
+      "gloss": "CONSCIENTIOUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONTAGIOUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONTAINER",
+      "category": "CORE",
+      "anchor": [
+        "CONTAINER SHIPS"
+      ]
+    },
+    {
+      "gloss": "CONTEXT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONTRACT KILLER",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTRACT KILLING",
+        "CONTRACT"
+      ]
+    },
+    {
+      "gloss": "CONTROVERSIAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONVENIENCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CORONAVIRUS DISEASE 2019",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CORRELATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COUNSELLOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COUPE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CO-WORKING SPACE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CRAVING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CREATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CRIMINOLOGIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CRUCIFY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CULINARY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CURLING IRON",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CUSTARD APPLE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CUSTOMER CARE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CUSTOMER"
+      ]
+    },
+    {
+      "gloss": "CYBER SECURITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "CYBER CRIME"
+      ]
+    },
+    {
+      "gloss": "CABOTAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAGING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CATCH UP",
+      "category": "COMPOUND",
+      "anchor": [
+        "CATCH CROPS",
+        "CATCH",
+        "CATCH STITCH"
+      ]
+    },
+    {
+      "gloss": "CHOCKS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLUSTER",
+      "category": "CORE",
+      "anchor": [
+        "CLUSTER RESOURCE CENTRE",
+        "CLUSTER OF CASES"
+      ]
+    },
+    {
+      "gloss": "CONTROL ACCESS ZONE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONTROL PANEL",
+        "CONTROL OF WEEDS"
+      ]
+    },
+    {
+      "gloss": "CORPORATE SOCIAL RESPONSIBILITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "CORPORATE BOND"
+      ]
+    },
+    {
+      "gloss": "CROSS-PLATFORM ACCESSIBILITY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CAPABILITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAPACITY BUILDING",
+      "category": "COMPOUND",
+      "anchor": [
+        "CAPACITY"
+      ]
+    },
+    {
+      "gloss": "CATATONIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAUSES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COGNITIVE BEHAVIOURAL THERAPY",
+      "category": "COMPOUND",
+      "anchor": [
+        "COGNITIVE DEVELOPMENT",
+        "COGNITIVE",
+        "COGNITIVE PSYCHOLOGY",
+        "COGNITIVE LOAD"
+      ]
+    },
+    {
+      "gloss": "CERTAINTY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHEST PAIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHEST CAVITY",
+        "CHEST EXPANDER"
+      ]
+    },
+    {
+      "gloss": "CHILDHOOD TRAUMA",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHILDHOOD"
+      ]
+    },
+    {
+      "gloss": "CHILDHOOD",
+      "category": "CORE",
+      "anchor": [
+        "CHILDHOOD TRAUMA"
+      ]
+    },
+    {
+      "gloss": "CHRONIC PAIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "CHRONIC ILLNESS",
+        "CHRONIC KIDNEY",
+        "CHRONIC"
+      ]
+    },
+    {
+      "gloss": "CLAUTSROPHOBIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLINICAL SKILLS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLINICAL AND COUNSELLING PSYCHOLOGY",
+        "CLINICAL TRIAL",
+        "CLINICAL THERMOMETER"
+      ]
+    },
+    {
+      "gloss": "CODEPENDENCY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COGNITIVE",
+      "category": "CORE",
+      "anchor": [
+        "COGNITIVE DEVELOPMENT",
+        "COGNITIVE BEHAVIOURAL THERAPY",
+        "COGNITIVE PSYCHOLOGY",
+        "COGNITIVE LOAD"
+      ]
+    },
+    {
+      "gloss": "COMFORTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMMUNICABLE DISEASES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COMMUNITY PARTICIPATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMMUNITY BASED REHABILITATION",
+        "COMMUNITY LAND",
+        "COMMUNITY"
+      ]
+    },
+    {
+      "gloss": "COMORBIDITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPLEX TRAUMA",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMPLEX NUMBER",
+        "COMPLEX",
+        "COMPLEX SENTENCE",
+        "COMPLEX POST TRAUMATIC STRESS DISORDER"
+      ]
+    },
+    {
+      "gloss": "COMPLICATED GRIEF",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPLIMENTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPULSIONS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONDITIONED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONFUSED THOUGHTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONFUSED"
+      ]
+    },
+    {
+      "gloss": "CONNECTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSEQUENCES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSTANT FEAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONSTANT",
+        "CONSTANT RETURNS TO SCALE",
+        "CONSTANT WORRY"
+      ]
+    },
+    {
+      "gloss": "CONSTANT WORRY",
+      "category": "COMPOUND",
+      "anchor": [
+        "CONSTANT",
+        "CONSTANT FEAR",
+        "CONSTANT RETURNS TO SCALE"
+      ]
+    },
+    {
+      "gloss": "CONSULTATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONVULSIVE MOVEMENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "COPING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COUNSELLING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPLEX POST TRAUMATIC STRESS DISORDER",
+      "category": "COMPOUND",
+      "anchor": [
+        "COMPLEX NUMBER",
+        "COMPLEX",
+        "COMPLEX SENTENCE",
+        "COMPLEX TRAUMA"
+      ]
+    },
+    {
+      "gloss": "CREATIVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CRITICAL",
+      "category": "CORE",
+      "anchor": [
+        "CRITICAL THEORY"
+      ]
+    },
+    {
+      "gloss": "CABIN PRESSURIZATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "CABIN",
+        "CABIN CREW"
+      ]
+    },
+    {
+      "gloss": "CAMEROON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CARBON FOOTPRINT",
+      "category": "COMPOUND",
+      "anchor": [
+        "CARBON DIOXIDE",
+        "CARBON",
+        "CARBON NEUTRAL",
+        "CARBON MONOXIDE"
+      ]
+    },
+    {
+      "gloss": "CARBON MONOXIDE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CARBON DIOXIDE",
+        "CARBON",
+        "CARBON NEUTRAL",
+        "CARBON FOOTPRINT"
+      ]
+    },
+    {
+      "gloss": "CARBON NEUTRAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "CARBON DIOXIDE",
+        "CARBON",
+        "CARBON MONOXIDE",
+        "CARBON FOOTPRINT"
+      ]
+    },
+    {
+      "gloss": "CARDIOPULMONARY RESUSCITATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CATHETERIZATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAULIFLOWER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CAUSALITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CENTENARY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CENTRAL",
+      "category": "CORE",
+      "anchor": [
+        "CENTRAL GOVERNMENT",
+        "CENTRAL BANK",
+        "CENTRAL INSTITUTE OF EDUCATIONAL TECHNOLOGY",
+        "CENTRAL ADVISORY BOARD OF EDUCATION",
+        "CENTRAL BANK AND COMMERCIAL BANK"
+      ]
+    },
+    {
+      "gloss": "CHAMELEON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHARISMATIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHARTERED ACCOUNTANT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CHATGPT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHERISH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CHRONIC",
+      "category": "CORE",
+      "anchor": [
+        "CHRONIC ILLNESS",
+        "CHRONIC PAIN",
+        "CHRONIC KIDNEY"
+      ]
+    },
+    {
+      "gloss": "CLEAN UP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CLEANLINESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLEAR-CUTTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CLIMATE CHANGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CLIMATE",
+        "CLIMATE MAP"
+      ]
+    },
+    {
+      "gloss": "COAL WASHING",
+      "category": "COMPOUND",
+      "anchor": [
+        "COAL MINES",
+        "COAL",
+        "COAL TAR",
+        "COAL GAS"
+      ]
+    },
+    {
+      "gloss": "COLLECTIVISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COLOR THEORY",
+      "category": "COMPOUND",
+      "anchor": [
+        "COLOR TEMPERATURE",
+        "COLOR BLINDNESS"
+      ]
+    },
+    {
+      "gloss": "COMEDIAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMMUNICATIVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMMUTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPETITOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COMPLEX",
+      "category": "CORE",
+      "anchor": [
+        "COMPLEX NUMBER",
+        "COMPLEX SENTENCE",
+        "COMPLEX TRAUMA",
+        "COMPLEX POST TRAUMATIC STRESS DISORDER"
+      ]
+    },
+    {
+      "gloss": "COMPOSITION",
+      "category": "CORE",
+      "anchor": [
+        "COMPOSITION OF MILK"
+      ]
+    },
+    {
+      "gloss": "CONFUCIANISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONFUCIUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSCIOUSNESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSECRATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSERVATIONIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONSUMERISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONTAIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONTAMINANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONTOUR",
+      "category": "CORE",
+      "anchor": [
+        "CONTOUR LINE",
+        "CONTOUR BUND",
+        "CONTOUR PLOUGHING",
+        "CONTOUR CROPPING",
+        "CONTOUR METHOD"
+      ]
+    },
+    {
+      "gloss": "CONTRAIL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CONTROLLER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CORAL REEF",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "CORIANDER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CORMORANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COUTURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "COWARD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CO-WORKER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CREATINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CRISIS COUNSELING",
+      "category": "COMPOUND",
+      "anchor": [
+        "CRISIS"
+      ]
+    },
+    {
+      "gloss": "CROSSWIND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CULT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CULTURAL EXCHANGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "CULTURAL TOURISM",
+        "CULTURAL HERITAGE",
+        "CULTURAL AND EDUCATIONAL RIGHTS",
+        "CULTURAL & AGRONOMICAL METHODS",
+        "CULTURAL MODEL OF DISABILITY"
+      ]
+    },
+    {
+      "gloss": "CUNNING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CURL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CYNIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CYNICISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "CBSE",
+      "category": "CORE",
+      "anchor": []
+    }
+]

@@ -1,0 +1,167 @@
+{
+  "metadata": {
+    "total_words": 24,
+    "description": "Single letter alphabet entries from the original dataset"
+  },
+  "words": [
+    {
+      "gloss": "X",
+      "category": "LETTERS",
+      "anchor": [
+        "X - RAY VIEWER",
+        "X - RAY"
+      ]
+    },
+    {
+      "gloss": "A",
+      "category": "LETTERS",
+      "anchor": [
+        "A LOT",
+        "A BLESSING IN DISGUISE",
+        "A PENNY FOR YOUR THOUGHTS",
+        "A BIRD IN THE HAND IS WORTH TWO IN THE BUSH",
+        "A DIME A DOZEN"
+      ]
+    },
+    {
+      "gloss": "B",
+      "category": "LETTERS",
+      "anchor": [
+        "B ROLL"
+      ]
+    },
+    {
+      "gloss": "D",
+      "category": "LETTERS",
+      "anchor": []
+    },
+    {
+      "gloss": "E",
+      "category": "LETTERS",
+      "anchor": [
+        "E BEAT BOOK SYSTEM",
+        "E COURTS",
+        "E BEAT BOOK",
+        "E PRISONS",
+        "E OFFICE"
+      ]
+    },
+    {
+      "gloss": "G",
+      "category": "LETTERS",
+      "anchor": [
+        "G BOARDS"
+      ]
+    },
+    {
+      "gloss": "H",
+      "category": "LETTERS",
+      "anchor": [
+        "H BUDDING"
+      ]
+    },
+    {
+      "gloss": "I",
+      "category": "LETTERS",
+      "anchor": [
+        "I UNDERSTAND",
+        "I DON'T KNOW"
+      ]
+    },
+    {
+      "gloss": "J",
+      "category": "LETTERS",
+      "anchor": [
+        "J CUT",
+        "J K BANK"
+      ]
+    },
+    {
+      "gloss": "K",
+      "category": "LETTERS",
+      "anchor": []
+    },
+    {
+      "gloss": "L",
+      "category": "LETTERS",
+      "anchor": [
+        "L SQUARE",
+        "L CUT"
+      ]
+    },
+    {
+      "gloss": "M",
+      "category": "LETTERS",
+      "anchor": []
+    },
+    {
+      "gloss": "N",
+      "category": "LETTERS",
+      "anchor": []
+    },
+    {
+      "gloss": "O",
+      "category": "LETTERS",
+      "anchor": []
+    },
+    {
+      "gloss": "P",
+      "category": "LETTERS",
+      "anchor": []
+    },
+    {
+      "gloss": "Q",
+      "category": "LETTERS",
+      "anchor": []
+    },
+    {
+      "gloss": "R",
+      "category": "LETTERS",
+      "anchor": []
+    },
+    {
+      "gloss": "S",
+      "category": "LETTERS",
+      "anchor": []
+    },
+    {
+      "gloss": "T",
+      "category": "LETTERS",
+      "anchor": [
+        "T SQUARE",
+        "T BAR"
+      ]
+    },
+    {
+      "gloss": "U",
+      "category": "LETTERS",
+      "anchor": [
+        "U NECK"
+      ]
+    },
+    {
+      "gloss": "V",
+      "category": "LETTERS",
+      "anchor": [
+        "V BELT",
+        "V BLOCK",
+        "V NECK"
+      ]
+    },
+    {
+      "gloss": "W",
+      "category": "LETTERS",
+      "anchor": []
+    },
+    {
+      "gloss": "Y",
+      "category": "LETTERS",
+      "anchor": []
+    },
+    {
+      "gloss": "Z",
+      "category": "LETTERS",
+      "anchor": []
+    }
+  ]
+}

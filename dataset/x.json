@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "total_words": 8,
+    "description": "Words starting with letter X"
+  },
+  "words": [
+    {
+      "gloss": "X",
+      "category": "LETTERS",
+      "anchor": [
+        "X - RAY VIEWER",
+        "X - RAY"
+      ]
+    },
+    {
+      "gloss": "XYLOPHONE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "XYLEM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "X - RAY",
+      "category": "COMPOUND",
+      "anchor": [
+        "X - RAY VIEWER",
+        "X"
+      ]
+    },
+    {
+      "gloss": "X - RAY VIEWER",
+      "category": "COMPOUND",
+      "anchor": [
+        "X",
+        "X - RAY"
+      ]
+    },
+    {
+      "gloss": "X-RAY CASSETTES",
+      "category": "COMPOUND",
+      "anchor": [
+        "X-RAY SAFE LIGHT"
+      ]
+    },
+    {
+      "gloss": "X-RAY SAFE LIGHT",
+      "category": "COMPOUND",
+      "anchor": [
+        "X-RAY CASSETTES"
+      ]
+    },
+    {
+      "gloss": "XBOX",
+      "category": "CORE",
+      "anchor": []
+    }
+  ]
+}

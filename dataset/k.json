@@ -1,0 +1,716 @@
+{
+  "metadata": {
+    "total_words": 121,
+    "description": "Words starting with letter K"
+  },
+  "words": [
+    {
+      "gloss": "KABADDI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KAJAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KALI MATA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KANGAROO",
+      "category": "CORE",
+      "anchor": [
+        "KANGAROO POCKET"
+      ]
+    },
+    {
+      "gloss": "KANNADA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KARATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KAREENA KAPOOR KHAN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KARNATAKA BANK",
+      "category": "COMPOUND",
+      "anchor": [
+        "KARNATAKA"
+      ]
+    },
+    {
+      "gloss": "KATHAKALI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KEEP, HOLD, RETAIN, STORE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KENNEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KETCHUP, SAUCE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KEY",
+      "category": "CORE",
+      "anchor": [
+        "KEY RING, KEY CHAIN",
+        "KEY WORD",
+        "KEY CARD"
+      ]
+    },
+    {
+      "gloss": "KEY CARD",
+      "category": "COMPOUND",
+      "anchor": [
+        "KEY RING, KEY CHAIN",
+        "KEY WORD",
+        "KEY"
+      ]
+    },
+    {
+      "gloss": "KEY RING, KEY CHAIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "KEY CARD",
+        "KEY WORD",
+        "KEY"
+      ]
+    },
+    {
+      "gloss": "KICK OUT, EJECT, FIRE FROM JOB",
+      "category": "COMPOUND",
+      "anchor": [
+        "KICK"
+      ]
+    },
+    {
+      "gloss": "KICK, EJECT, FIRE FROM JOB",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KID",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KIDNAP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KIDNEY BEANS",
+      "category": "COMPOUND",
+      "anchor": [
+        "KIDNEY DISEASE",
+        "KIDNEY PUNCH",
+        "KIDNEY"
+      ]
+    },
+    {
+      "gloss": "KILL, MURDER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KILOGRAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KILOMETRE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KIND, KINDHEARTED",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KING",
+      "category": "CORE",
+      "anchor": [
+        "KING POST"
+      ]
+    },
+    {
+      "gloss": "KING'S INDIAN DEFENCE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KISS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KIT, GEAR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KITCHEN",
+      "category": "CORE",
+      "anchor": [
+        "KITCHEN SINK",
+        "KITCHEN GARDENING"
+      ]
+    },
+    {
+      "gloss": "KITE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KITTEN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KNEAD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KNEEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KNIFE",
+      "category": "CORE",
+      "anchor": [
+        "KNIFE EDGE FILE"
+      ]
+    },
+    {
+      "gloss": "KNIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KNOCK",
+      "category": "CORE",
+      "anchor": [
+        "KNOCK KNEES"
+      ]
+    },
+    {
+      "gloss": "KNOW",
+      "category": "CORE",
+      "anchor": [
+        "KNOW YOUR CLIENT",
+        "KNOW YOUR CUSTOMERFORM"
+      ]
+    },
+    {
+      "gloss": "KNOW YOUR CUSTOMERFORM",
+      "category": "COMPOUND",
+      "anchor": [
+        "KNOW YOUR CLIENT",
+        "KNOW"
+      ]
+    },
+    {
+      "gloss": "KNOWLEDGE, EXPERTISE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KONARK SUN TEMPLE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KOTAK MAHINDRA BANK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KRISHNA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KUMBH MELA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KURTA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KALEIDOSCOPE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KALIDASA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KANISHKA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KARMA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KAYAK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KHARIF AND RABI CROPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "KHARIF CROPS"
+      ]
+    },
+    {
+      "gloss": "KILOMETER PER HOUR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KINGDOM",
+      "category": "CLASSIFIERS",
+      "anchor": [
+        "KINGDOM OF ANIMALS"
+      ]
+    },
+    {
+      "gloss": "KINGDOM OF ANIMALS",
+      "category": "COMPOUND",
+      "anchor": [
+        "KINGDOM"
+      ]
+    },
+    {
+      "gloss": "KORNISH, SAJDA AND CHAHAR TASLIM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KSHATRIYA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KHARIF CROPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "KHARIF AND RABI CROPS"
+      ]
+    },
+    {
+      "gloss": "KHOA OR MAWA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KINDS OF GERMINATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "KINDS OF HONEY BEE FOUND IN INDIA"
+      ]
+    },
+    {
+      "gloss": "KINDS OF HONEY BEE FOUND IN INDIA",
+      "category": "COMPOUND",
+      "anchor": [
+        "KINDS OF GERMINATION"
+      ]
+    },
+    {
+      "gloss": "KITCHEN GARDENING",
+      "category": "COMPOUND",
+      "anchor": [
+        "KITCHEN SINK",
+        "KITCHEN"
+      ]
+    },
+    {
+      "gloss": "KITOSIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KAZAKHSTAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KENYA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KOREA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KUWAIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KNOW YOUR CLIENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "KNOW",
+        "KNOW YOUR CUSTOMERFORM"
+      ]
+    },
+    {
+      "gloss": "KYC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KEEP SOMEBODY AT ARM'S LENGTH",
+      "category": "COMPOUND",
+      "anchor": [
+        "KEEP"
+      ]
+    },
+    {
+      "gloss": "KERB CRAWLING, KERB CRAWLER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KIDNAPPING & ABDUCTING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KAPOSI SARCOMA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KIDNEY",
+      "category": "CORE",
+      "anchor": [
+        "KIDNEY BEANS",
+        "KIDNEY DISEASE",
+        "KIDNEY PUNCH"
+      ]
+    },
+    {
+      "gloss": "KIDNEYCANCER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KIDNEY DISEASE",
+      "category": "COMPOUND",
+      "anchor": [
+        "KIDNEY BEANS",
+        "KIDNEY PUNCH",
+        "KIDNEY"
+      ]
+    },
+    {
+      "gloss": "KNEE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KARNAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KARNATAKA",
+      "category": "CORE",
+      "anchor": [
+        "KARNATAKA BANK"
+      ]
+    },
+    {
+      "gloss": "KERALA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KOCHI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KOHIMA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KOLKATA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KANGAROO POCKET",
+      "category": "COMPOUND",
+      "anchor": [
+        "KANGAROO"
+      ]
+    },
+    {
+      "gloss": "KEEP",
+      "category": "CORE",
+      "anchor": [
+        "KEEP SOMEBODY AT ARM'S LENGTH"
+      ]
+    },
+    {
+      "gloss": "KERNING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KEY WORD",
+      "category": "COMPOUND",
+      "anchor": [
+        "KEY CARD",
+        "KEY",
+        "KEY RING, KEY CHAIN"
+      ]
+    },
+    {
+      "gloss": "KEYBOARD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KEYHOLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KEYING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KEYWORD STUFFING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KILO BYTE",
+      "category": "COMPOUND",
+      "anchor": [
+        "KILO"
+      ]
+    },
+    {
+      "gloss": "KING POST",
+      "category": "COMPOUND",
+      "anchor": [
+        "KING"
+      ]
+    },
+    {
+      "gloss": "KNIFE EDGE FILE",
+      "category": "COMPOUND",
+      "anchor": [
+        "KNIFE"
+      ]
+    },
+    {
+      "gloss": "KNOWLEDGE BASE",
+      "category": "COMPOUND",
+      "anchor": [
+        "KNOWLEDGE MANAGEMENT SYSTEM",
+        "KNOWLEDGE"
+      ]
+    },
+    {
+      "gloss": "KNOWLEDGE MANAGEMENT SYSTEM",
+      "category": "COMPOUND",
+      "anchor": [
+        "KNOWLEDGE BASE",
+        "KNOWLEDGE"
+      ]
+    },
+    {
+      "gloss": "KNURLING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KAYASTHAS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KELVIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KHALIFAS, CALIPH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KHALJI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KILO-",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KAVERI RIVER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KENTUCKY DERBY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KICK",
+      "category": "CORE",
+      "anchor": [
+        "KICK OUT, EJECT, FIRE FROM JOB"
+      ]
+    },
+    {
+      "gloss": "KICKSTAND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KIDNEY PUNCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "KIDNEY BEANS",
+        "KIDNEY DISEASE",
+        "KIDNEY"
+      ]
+    },
+    {
+      "gloss": "KINEMATIC ANALYSIS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KNOCKOUT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KETTLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KINDERGARTEN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KITCHEN SINK",
+      "category": "COMPOUND",
+      "anchor": [
+        "KITCHEN GARDENING",
+        "KITCHEN"
+      ]
+    },
+    {
+      "gloss": "KITCHENWARE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KNOB",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KNOCK KNEES",
+      "category": "COMPOUND",
+      "anchor": [
+        "KNOCK"
+      ]
+    },
+    {
+      "gloss": "KERBSIDE MANAGEMENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "KIOSK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KARAOKE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KINESIOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "KNOWLEDGE",
+      "category": "CORE",
+      "anchor": [
+        "KNOWLEDGE MANAGEMENT SYSTEM",
+        "KNOWLEDGE BASE"
+      ]
+    },
+    {
+      "gloss": "KILO",
+      "category": "CORE",
+      "anchor": [
+        "KILO BYTE"
+      ]
+    },
+    {
+      "gloss": "K",
+      "category": "LETTERS",
+      "anchor": []
+    }
+  ]
+}

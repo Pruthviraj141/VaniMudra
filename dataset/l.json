@@ -1,0 +1,2858 @@
+{
+  "metadata": {
+    "total_words": 418,
+    "description": "Words starting with letter L"
+  },
+  "words": [
+    {
+      "gloss": "LABEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LABOUR",
+      "category": "CORE",
+      "anchor": [
+        "LABOUR FORCE",
+        "LABOUR INTENSIVE",
+        "LABOUR PAINS",
+        "LABOUR UNION",
+        "LABOUR MARKET"
+      ]
+    },
+    {
+      "gloss": "LABOUR FORCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LABOUR INTENSIVE",
+        "LABOUR",
+        "LABOUR PAINS",
+        "LABOUR UNION",
+        "LABOUR MARKET"
+      ]
+    },
+    {
+      "gloss": "LABOUR INTENSIVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LABOUR FORCE",
+        "LABOUR",
+        "LABOUR PAINS",
+        "LABOUR UNION",
+        "LABOUR MARKET"
+      ]
+    },
+    {
+      "gloss": "LABOURER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LACE",
+      "category": "CORE",
+      "anchor": [
+        "LACE UP",
+        "LACE EDGE BINDING"
+      ]
+    },
+    {
+      "gloss": "LACE UP",
+      "category": "COMPOUND",
+      "anchor": [
+        "LACE EDGE BINDING",
+        "LACE"
+      ]
+    },
+    {
+      "gloss": "LACERATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LACERATE, CRITICIZE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LACK, MISS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LACKLUSTRE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LACKLUSTRE, BORING, DULL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LACTOSE",
+      "category": "CORE",
+      "anchor": [
+        "LACTOSE INTOLERANT"
+      ]
+    },
+    {
+      "gloss": "LACTOSE INTOLERANT",
+      "category": "COMPOUND",
+      "anchor": [
+        "LACTOSE"
+      ]
+    },
+    {
+      "gloss": "LACUNAE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LADDER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LADLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LADY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LADYBIRD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LADYFINGER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LAIDBACK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LAKE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LAKSHMI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LAKSHMIBAI, RANI OF JHANSI",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LAMB",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LAME",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LAMINATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LAMP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LAND",
+      "category": "CORE",
+      "anchor": [
+        "LAND SIDE",
+        "LAND RECORDS",
+        "LAND BREEZE AND SEA BREEZE",
+        "LAND BREEZE",
+        "LAND TENURE"
+      ]
+    },
+    {
+      "gloss": "LANDFILL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LANDLINE, TELEPHONE, PHONELINE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LANDLORD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LANDSCAPE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LANE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LANGUAGE",
+      "category": "CORE",
+      "anchor": [
+        "LANGUAGE CONTACT",
+        "LANGUAGE ACQUISITION",
+        "LANGUAGE CHANGE",
+        "LANGUAGE DEATH",
+        "LANGUAGE ATTITUDE"
+      ]
+    },
+    {
+      "gloss": "LANTERN, OIL LAMP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LAPSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LAPTOP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LARGE",
+      "category": "CORE",
+      "anchor": [
+        "LARGE SIZE SEED CROPS",
+        "LARGE INTESTINE",
+        "LARGE SCALE INDUSTRIES",
+        "LARGE SCALE"
+      ]
+    },
+    {
+      "gloss": "LARGE SCALE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LARGE",
+        "LARGE INTESTINE",
+        "LARGE SCALE INDUSTRIES",
+        "LARGE SIZE SEED CROPS"
+      ]
+    },
+    {
+      "gloss": "LASSI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LAST MONTH",
+      "category": "COMPOUND",
+      "anchor": [
+        "LAST WEEK",
+        "LAST YEAR"
+      ]
+    },
+    {
+      "gloss": "LAST WEEK",
+      "category": "COMPOUND",
+      "anchor": [
+        "LAST YEAR",
+        "LAST MONTH"
+      ]
+    },
+    {
+      "gloss": "LAST YEAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "LAST WEEK",
+        "LAST MONTH"
+      ]
+    },
+    {
+      "gloss": "LAST, AT THE END",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LATCH, DOOR LATCH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LATE",
+      "category": "CORE",
+      "anchor": [
+        "LATE CUT",
+        "LATE SERVICE",
+        "LATE BLIGHT OF POTATO"
+      ]
+    },
+    {
+      "gloss": "LATE CUT",
+      "category": "COMPOUND",
+      "anchor": [
+        "LATE BLIGHT OF POTATO",
+        "LATE SERVICE",
+        "LATE"
+      ]
+    },
+    {
+      "gloss": "LATE SERVICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LATE CUT",
+        "LATE BLIGHT OF POTATO",
+        "LATE"
+      ]
+    },
+    {
+      "gloss": "LATHER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LATHI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LAUGH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LAUKI, BOTTLE GOURD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LAW",
+      "category": "CORE",
+      "anchor": [
+        "LAW ENFORCEMENT"
+      ]
+    },
+    {
+      "gloss": "LAWYER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LAZY, INACTIVE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LEAD, GUIDE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LEAF",
+      "category": "CORE",
+      "anchor": [
+        "LEAF SPRING",
+        "LEAF CUTTING",
+        "LEAF SPOT"
+      ]
+    },
+    {
+      "gloss": "LEARN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LEATHER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LEAVE",
+      "category": "CORE",
+      "anchor": [
+        "LEAVE ACCOUNT",
+        "LEAVE ENCASHMENT"
+      ]
+    },
+    {
+      "gloss": "LECTURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LECTURER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LEER, OGLE, STARE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LEFT",
+      "category": "CORE",
+      "anchor": [
+        "LEFT IN",
+        "LEFT HAND SIDE, RIGHT HAND SIDE",
+        "LEFT INDENT",
+        "LEFT DEMOCRATIC FRONT",
+        "LEFT OUT"
+      ]
+    },
+    {
+      "gloss": "LEFT DEMOCRATIC FRONT",
+      "category": "COMPOUND",
+      "anchor": [
+        "LEFT IN",
+        "LEFT HAND SIDE, RIGHT HAND SIDE",
+        "LEFT",
+        "LEFT INDENT",
+        "LEFT OUT"
+      ]
+    },
+    {
+      "gloss": "LEFT IN",
+      "category": "COMPOUND",
+      "anchor": [
+        "LEFT HAND SIDE, RIGHT HAND SIDE",
+        "LEFT",
+        "LEFT INDENT",
+        "LEFT DEMOCRATIC FRONT",
+        "LEFT OUT"
+      ]
+    },
+    {
+      "gloss": "LEFT OUT",
+      "category": "COMPOUND",
+      "anchor": [
+        "LEFT IN",
+        "LEFT HAND SIDE, RIGHT HAND SIDE",
+        "LEFT",
+        "LEFT INDENT",
+        "LEFT DEMOCRATIC FRONT"
+      ]
+    },
+    {
+      "gloss": "LEG BEFORE WICKET, LBW",
+      "category": "COMPOUND",
+      "anchor": [
+        "LEG MUTTON SLEEVE",
+        "LEG BYE",
+        "LEG SPIN",
+        "LEG VICE"
+      ]
+    },
+    {
+      "gloss": "LEG BYE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LEG MUTTON SLEEVE",
+        "LEG SPIN",
+        "LEG BEFORE WICKET, LBW",
+        "LEG VICE"
+      ]
+    },
+    {
+      "gloss": "LEG SPIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "LEG MUTTON SLEEVE",
+        "LEG BYE",
+        "LEG BEFORE WICKET, LBW",
+        "LEG VICE"
+      ]
+    },
+    {
+      "gloss": "LEGAL, LAWFUL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LEMON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LEND, LOAN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LENGTH",
+      "category": "CORE",
+      "anchor": [
+        "LENGTH OF STAY",
+        "LENGTH OF TIME REQUIRED TO REACH THE CUSTOMERS",
+        "LENGTH OF A RECTANGLE"
+      ]
+    },
+    {
+      "gloss": "LENOVO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LENTILS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LESBIAN, GAY, BISEXUAL AND TRANSGENDER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LESS, FEW",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LETTER",
+      "category": "CORE",
+      "anchor": [
+        "LETTER OF ACCEPTANCE",
+        "LETTER PUNCH"
+      ]
+    },
+    {
+      "gloss": "LEVEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LG MOBILE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LIBRARIAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIBRARY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LICENSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIE, FALSE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LIFE",
+      "category": "CORE",
+      "anchor": [
+        "LIFE EXPECTANCY",
+        "LIFE CYCLE",
+        "LIFE JACKET",
+        "LIFE GUARD"
+      ]
+    },
+    {
+      "gloss": "LIFE JACKET",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIFE CYCLE",
+        "LIFE EXPECTANCY",
+        "LIFE",
+        "LIFE GUARD"
+      ]
+    },
+    {
+      "gloss": "LIFELONG, LONG TERM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LIFT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIGHT",
+      "category": "CORE",
+      "anchor": [
+        "LIGHT YEAR",
+        "LIGHT FIXTURE",
+        "LIGHT WEIGHT CONCRETE"
+      ]
+    },
+    {
+      "gloss": "LIGHTHOUSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIGHTNING",
+      "category": "CORE",
+      "anchor": [
+        "LIGHTNING CONDUCTOR"
+      ]
+    },
+    {
+      "gloss": "LIKE",
+      "category": "CORE",
+      "anchor": [
+        "LIKE FRACTIONS"
+      ]
+    },
+    {
+      "gloss": "LIMIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LINE",
+      "category": "CORE",
+      "anchor": [
+        "LINE GRAPH",
+        "LINE SEGMENT",
+        "LINE OF COLLIMATION",
+        "LINE SPACING",
+        "LINE OF SYMMETRY, AXIS OF SYMMETRY"
+      ]
+    },
+    {
+      "gloss": "LINK, CONNECT, ASSOCIATE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIPS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIST, POINTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LISTEN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LITRE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LITTER OF KITTENS",
+      "category": "COMPOUND",
+      "anchor": [
+        "LITTER",
+        "LITTER OF PUPPIES"
+      ]
+    },
+    {
+      "gloss": "LITTER OF PUPPIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "LITTER OF KITTENS",
+        "LITTER"
+      ]
+    },
+    {
+      "gloss": "LITTLE, MEAGER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LIVE",
+      "category": "CORE",
+      "anchor": [
+        "LIVE STOCK PRODUCTION",
+        "LIVE IN RELATIONSHIP",
+        "LIVE TRAINING",
+        "LIVE FISHES",
+        "LIVE LOAD"
+      ]
+    },
+    {
+      "gloss": "LIVE IN RELATIONSHIP",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIVE",
+        "LIVE STOCK PRODUCTION",
+        "LIVE TRAINING",
+        "LIVE FISHES",
+        "LIVE LOAD"
+      ]
+    },
+    {
+      "gloss": "LIVELIHOOD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LOCAL",
+      "category": "CORE",
+      "anchor": [
+        "LOCAL TRAIN",
+        "LOCAL JOURNEY",
+        "LOCAL DATA CENTRE",
+        "LOCAL RECORDING",
+        "LOCAL AREA NETWORK"
+      ]
+    },
+    {
+      "gloss": "LOCAL TRAIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "LOCAL",
+        "LOCAL JOURNEY",
+        "LOCAL DATA CENTRE",
+        "LOCAL RECORDING",
+        "LOCAL AREA NETWORK"
+      ]
+    },
+    {
+      "gloss": "LOCATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LOCK",
+      "category": "CORE",
+      "anchor": [
+        "LOCK UP"
+      ]
+    },
+    {
+      "gloss": "LOGIC, RATIONALE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LOGO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LOK JANSHAKTI PARTY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LOLLIPOP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LONELY, ISOLATED, ALONE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LONG",
+      "category": "CLASSIFIERS",
+      "anchor": [
+        "LONG ON",
+        "LONG TERM",
+        "LONG DAY PLANTS",
+        "LONG JUMP",
+        "LONG RANGE PLANNING"
+      ]
+    },
+    {
+      "gloss": "LONG JUMP",
+      "category": "COMPOUND",
+      "anchor": [
+        "LONG",
+        "LONG ON",
+        "LONG TERM",
+        "LONG DAY PLANTS",
+        "LONG RANGE PLANNING"
+      ]
+    },
+    {
+      "gloss": "LONG ON",
+      "category": "COMPOUND",
+      "anchor": [
+        "LONG",
+        "LONG TERM",
+        "LONG DAY PLANTS",
+        "LONG JUMP",
+        "LONG RANGE PLANNING"
+      ]
+    },
+    {
+      "gloss": "LONG TERM",
+      "category": "COMPOUND",
+      "anchor": [
+        "LONG",
+        "LONG ON",
+        "LONG DAY PLANTS",
+        "LONG JUMP",
+        "LONG RANGE PLANNING"
+      ]
+    },
+    {
+      "gloss": "LOOK, GAZE, SEE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LOSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LOTUS",
+      "category": "CORE",
+      "anchor": [
+        "LOTUS TEMPLE"
+      ]
+    },
+    {
+      "gloss": "LOTUS TEMPLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LOTUS"
+      ]
+    },
+    {
+      "gloss": "LOUD",
+      "category": "CLASSIFIERS",
+      "anchor": []
+    },
+    {
+      "gloss": "LOVE",
+      "category": "CORE",
+      "anchor": [
+        "LOVE MARRIAGE"
+      ]
+    },
+    {
+      "gloss": "LOVE MARRIAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LOVE"
+      ]
+    },
+    {
+      "gloss": "LOW",
+      "category": "CORE",
+      "anchor": [
+        "LOW BLOW",
+        "LOW LYING AREA",
+        "LOW RISK GROUP"
+      ]
+    },
+    {
+      "gloss": "LOWER DIVISION CLERK",
+      "category": "COMPOUND",
+      "anchor": [
+        "LOWER THIRD",
+        "LOWER TOWN",
+        "LOWER COURT"
+      ]
+    },
+    {
+      "gloss": "LOYAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LUCK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LUDO GAME",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LUGGAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LUNCH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LABORATORY",
+      "category": "CORE",
+      "anchor": [
+        "LABORATORY THERMOMETER"
+      ]
+    },
+    {
+      "gloss": "LABORATORY THERMOMETER",
+      "category": "COMPOUND",
+      "anchor": [
+        "LABORATORY"
+      ]
+    },
+    {
+      "gloss": "LABOUR MARKET",
+      "category": "COMPOUND",
+      "anchor": [
+        "LABOUR FORCE",
+        "LABOUR INTENSIVE",
+        "LABOUR",
+        "LABOUR PAINS",
+        "LABOUR UNION"
+      ]
+    },
+    {
+      "gloss": "LABOUR PAINS",
+      "category": "COMPOUND",
+      "anchor": [
+        "LABOUR FORCE",
+        "LABOUR INTENSIVE",
+        "LABOUR",
+        "LABOUR UNION",
+        "LABOUR MARKET"
+      ]
+    },
+    {
+      "gloss": "LABOUR UNION",
+      "category": "COMPOUND",
+      "anchor": [
+        "LABOUR FORCE",
+        "LABOUR INTENSIVE",
+        "LABOUR",
+        "LABOUR PAINS",
+        "LABOUR MARKET"
+      ]
+    },
+    {
+      "gloss": "LAMINA AND PETIOLE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LAND BREEZE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LAND SIDE",
+        "LAND RECORDS",
+        "LAND BREEZE AND SEA BREEZE",
+        "LAND TENURE",
+        "LAND"
+      ]
+    },
+    {
+      "gloss": "LAND BREEZE AND SEA BREEZE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LAND SIDE",
+        "LAND RECORDS",
+        "LAND BREEZE",
+        "LAND TENURE",
+        "LAND"
+      ]
+    },
+    {
+      "gloss": "LAND RECORDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "LAND SIDE",
+        "LAND BREEZE AND SEA BREEZE",
+        "LAND BREEZE",
+        "LAND TENURE",
+        "LAND"
+      ]
+    },
+    {
+      "gloss": "LANDLESS LABOURER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LANDMARK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LANDMASS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LANDOWNER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LANDSLIDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LANGUAGE ACQUISITION",
+      "category": "COMPOUND",
+      "anchor": [
+        "LANGUAGE",
+        "LANGUAGE CONTACT",
+        "LANGUAGE CHANGE",
+        "LANGUAGE DEATH",
+        "LANGUAGE ATTITUDE"
+      ]
+    },
+    {
+      "gloss": "LANGUAGE ATTITUDE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LANGUAGE",
+        "LANGUAGE CONTACT",
+        "LANGUAGE ACQUISITION",
+        "LANGUAGE CHANGE",
+        "LANGUAGE DEATH"
+      ]
+    },
+    {
+      "gloss": "LANGUAGE CHANGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LANGUAGE",
+        "LANGUAGE CONTACT",
+        "LANGUAGE ACQUISITION",
+        "LANGUAGE DEATH",
+        "LANGUAGE ATTITUDE"
+      ]
+    },
+    {
+      "gloss": "LANGUAGE CONTACT",
+      "category": "COMPOUND",
+      "anchor": [
+        "LANGUAGE",
+        "LANGUAGE ACQUISITION",
+        "LANGUAGE CHANGE",
+        "LANGUAGE DEATH",
+        "LANGUAGE ATTITUDE"
+      ]
+    },
+    {
+      "gloss": "LANGUAGE DEATH",
+      "category": "COMPOUND",
+      "anchor": [
+        "LANGUAGE",
+        "LANGUAGE CONTACT",
+        "LANGUAGE ACQUISITION",
+        "LANGUAGE CHANGE",
+        "LANGUAGE ATTITUDE"
+      ]
+    },
+    {
+      "gloss": "LANGUAGE EQUALITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "LANGUAGE",
+        "LANGUAGE CONTACT",
+        "LANGUAGE ACQUISITION",
+        "LANGUAGE CHANGE",
+        "LANGUAGE ATTITUDE"
+      ]
+    },
+    {
+      "gloss": "LANGUAGE IDEOLOGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "LANGUAGE",
+        "LANGUAGE CONTACT",
+        "LANGUAGE ACQUISITION",
+        "LANGUAGE CHANGE",
+        "LANGUAGE ATTITUDE"
+      ]
+    },
+    {
+      "gloss": "LANGUAGE LEARNING",
+      "category": "COMPOUND",
+      "anchor": [
+        "LANGUAGE",
+        "LANGUAGE CONTACT",
+        "LANGUAGE ACQUISITION",
+        "LANGUAGE CHANGE",
+        "LANGUAGE ATTITUDE"
+      ]
+    },
+    {
+      "gloss": "LANGUAGE SHIFT",
+      "category": "COMPOUND",
+      "anchor": [
+        "LANGUAGE",
+        "LANGUAGE CONTACT",
+        "LANGUAGE ACQUISITION",
+        "LANGUAGE CHANGE",
+        "LANGUAGE ATTITUDE"
+      ]
+    },
+    {
+      "gloss": "LANGUAGE VARIATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "LANGUAGE",
+        "LANGUAGE CONTACT",
+        "LANGUAGE ACQUISITION",
+        "LANGUAGE CHANGE",
+        "LANGUAGE ATTITUDE"
+      ]
+    },
+    {
+      "gloss": "LARGE INTESTINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LARGE",
+        "LARGE SCALE INDUSTRIES",
+        "LARGE SIZE SEED CROPS",
+        "LARGE SCALE"
+      ]
+    },
+    {
+      "gloss": "LATERAL INVERSION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LAUNCH",
+      "category": "CORE",
+      "anchor": [
+        "RESTART"
+      ]
+    },
+    {
+      "gloss": "LAVA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LEACHING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LEFT HAND SIDE, RIGHT HAND SIDE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LEFT IN",
+        "LEFT",
+        "LEFT INDENT",
+        "LEFT DEMOCRATIC FRONT",
+        "LEFT OUT"
+      ]
+    },
+    {
+      "gloss": "LEGAL RIGHTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "LEGAL DRINKING AGE",
+        "LEGAL AID SERVICES",
+        "LEGAL TENDER",
+        "LEGAL"
+      ]
+    },
+    {
+      "gloss": "LEGAL TENDER",
+      "category": "COMPOUND",
+      "anchor": [
+        "LEGAL DRINKING AGE",
+        "LEGAL RIGHTS",
+        "LEGAL AID SERVICES",
+        "LEGAL"
+      ]
+    },
+    {
+      "gloss": "LEGISLATIVE ASSEMBLY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LEGISLATURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LEISURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LENGTH OF A RECTANGLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LENGTH OF STAY",
+        "LENGTH OF TIME REQUIRED TO REACH THE CUSTOMERS",
+        "LENGTH"
+      ]
+    },
+    {
+      "gloss": "LENS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LESS THAN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LESSON PLAN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LEVEES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LHS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIABILITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIBERALIZATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIFE CYCLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIFE EXPECTANCY",
+        "LIFE GUARD",
+        "LIFE JACKET",
+        "LIFE"
+      ]
+    },
+    {
+      "gloss": "LIFE EXPECTANCY",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIFE CYCLE",
+        "LIFE JACKET",
+        "LIFE",
+        "LIFE GUARD"
+      ]
+    },
+    {
+      "gloss": "LIGHTNING CONDUCTOR",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIGHTNING"
+      ]
+    },
+    {
+      "gloss": "LIKE FRACTIONS",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIKE"
+      ]
+    },
+    {
+      "gloss": "LILAC WATER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LIMITATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LINE GRAPH",
+      "category": "COMPOUND",
+      "anchor": [
+        "LINE",
+        "LINE SEGMENT",
+        "LINE OF COLLIMATION",
+        "LINE SPACING",
+        "LINE OF SYMMETRY, AXIS OF SYMMETRY"
+      ]
+    },
+    {
+      "gloss": "LINE OF SYMMETRY, AXIS OF SYMMETRY",
+      "category": "COMPOUND",
+      "anchor": [
+        "LINE",
+        "LINE GRAPH",
+        "LINE SEGMENT",
+        "LINE OF COLLIMATION",
+        "LINE SPACING"
+      ]
+    },
+    {
+      "gloss": "LINE SEGMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "LINE",
+        "LINE GRAPH",
+        "LINE OF COLLIMATION",
+        "LINE SPACING",
+        "LINE OF SYMMETRY, AXIS OF SYMMETRY"
+      ]
+    },
+    {
+      "gloss": "LINEAR MOTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "LINEAR EQUATION"
+      ]
+    },
+    {
+      "gloss": "LINGUA FRANCA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LINGUISTIC COMMUNICATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "LINGUISTIC IDENTITY",
+        "LINGUISTIC DIVERSITY",
+        "LINGUISTIC MINORITY"
+      ]
+    },
+    {
+      "gloss": "LINGUISTIC DIVERSITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "LINGUISTIC IDENTITY",
+        "LINGUISTIC COMMUNICATION",
+        "LINGUISTIC MINORITY"
+      ]
+    },
+    {
+      "gloss": "LINGUISTIC IDENTITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "LINGUISTIC DIVERSITY",
+        "LINGUISTIC COMMUNICATION",
+        "LINGUISTIC MINORITY"
+      ]
+    },
+    {
+      "gloss": "LINGUISTIC MINORITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "LINGUISTIC IDENTITY",
+        "LINGUISTIC DIVERSITY",
+        "LINGUISTIC COMMUNICATION"
+      ]
+    },
+    {
+      "gloss": "LINGUISTICS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIQUID",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LITERACY RATE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LITHOSPHERE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LITTER",
+      "category": "CORE",
+      "anchor": [
+        "LITTER OF KITTENS",
+        "LITTER OF PUPPIES"
+      ]
+    },
+    {
+      "gloss": "LIVER",
+      "category": "CORE",
+      "anchor": [
+        "LIVER CANCER",
+        "LIVER SHOT",
+        "LIVER TRANSPLANTATION"
+      ]
+    },
+    {
+      "gloss": "LOAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LONGITUDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LOOPHOLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LOSS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LOWER TOWN",
+      "category": "COMPOUND",
+      "anchor": [
+        "LOWER THIRD",
+        "LOWER DIVISION CLERK",
+        "LOWER COURT"
+      ]
+    },
+    {
+      "gloss": "LOWEST COMMON MULTIPLE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LUMINOUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LUNAR ECLIPSE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LUNAR NEW YEAR"
+      ]
+    },
+    {
+      "gloss": "LUNGS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LAND SIDE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LAND RECORDS",
+        "LAND BREEZE AND SEA BREEZE",
+        "LAND BREEZE",
+        "LAND TENURE",
+        "LAND"
+      ]
+    },
+    {
+      "gloss": "LAND TENURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LAND SIDE",
+        "LAND RECORDS",
+        "LAND BREEZE AND SEA BREEZE",
+        "LAND BREEZE",
+        "LAND"
+      ]
+    },
+    {
+      "gloss": "LANTANA CAMERA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LARGE SIZE SEED CROPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "LARGE",
+        "LARGE INTESTINE",
+        "LARGE SCALE INDUSTRIES",
+        "LARGE SCALE"
+      ]
+    },
+    {
+      "gloss": "LARVIVORUS FISHES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LATE BLIGHT OF POTATO",
+      "category": "COMPOUND",
+      "anchor": [
+        "LATE CUT",
+        "LATE SERVICE",
+        "LATE"
+      ]
+    },
+    {
+      "gloss": "LAWN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LAWSONIA ALBA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LEAF CUTTING",
+      "category": "COMPOUND",
+      "anchor": [
+        "LEAF SPRING",
+        "LEAF SPOT",
+        "LEAF"
+      ]
+    },
+    {
+      "gloss": "LEAF SPOT",
+      "category": "COMPOUND",
+      "anchor": [
+        "LEAF SPRING",
+        "LEAF CUTTING",
+        "LEAF"
+      ]
+    },
+    {
+      "gloss": "LEAVES PROPAGATED WEEDS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LENGTH OF TIME REQUIRED TO REACH THE CUSTOMERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "LENGTH OF A RECTANGLE",
+        "LENGTH OF STAY",
+        "LENGTH"
+      ]
+    },
+    {
+      "gloss": "LEVELING STAFF",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LEY CROPPING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LILIACEAE FAMILY OF CROPS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LIMNOLOGY",
+      "category": "CORE",
+      "anchor": [
+        "LIMNOLOGY & FISHRIES, PISCICULTURE"
+      ]
+    },
+    {
+      "gloss": "LIMNOLOGY & FISHRIES, PISCICULTURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIMNOLOGY"
+      ]
+    },
+    {
+      "gloss": "LINE OF COLLIMATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "LINE",
+        "LINE GRAPH",
+        "LINE SEGMENT",
+        "LINE SPACING",
+        "LINE OF SYMMETRY, AXIS OF SYMMETRY"
+      ]
+    },
+    {
+      "gloss": "LITTLE BEE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LITTLE TOE",
+        "LITTLE OWL",
+        "LITTLE FINGER"
+      ]
+    },
+    {
+      "gloss": "LIVE FISHES",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIVE",
+        "LIVE STOCK PRODUCTION",
+        "LIVE IN RELATIONSHIP",
+        "LIVE TRAINING",
+        "LIVE LOAD"
+      ]
+    },
+    {
+      "gloss": "LIVE STOCK PRODUCTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIVE",
+        "LIVE IN RELATIONSHIP",
+        "LIVE TRAINING",
+        "LIVE FISHES",
+        "LIVE LOAD"
+      ]
+    },
+    {
+      "gloss": "LIVING EDGING",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIVING"
+      ]
+    },
+    {
+      "gloss": "LOCALIZED DISEASE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LONG DAY PLANTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "LONG",
+        "LONG ON",
+        "LONG TERM",
+        "LONG JUMP",
+        "LONG RANGE PLANNING"
+      ]
+    },
+    {
+      "gloss": "LONG RANGE PLANNING",
+      "category": "COMPOUND",
+      "anchor": [
+        "LONG",
+        "LONG ON",
+        "LONG TERM",
+        "LONG DAY PLANTS",
+        "LONG JUMP"
+      ]
+    },
+    {
+      "gloss": "LOOSE SMUT OF WHEAT",
+      "category": "COMPOUND",
+      "anchor": [
+        "LOOSE TRACKING"
+      ]
+    },
+    {
+      "gloss": "LOSSES DUE TO EXESSIVE WATER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LAOS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LEBANON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIBERIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIBYA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LEGAL",
+      "category": "CORE",
+      "anchor": [
+        "LEGAL DRINKING AGE",
+        "LEGAL AID SERVICES",
+        "LEGAL RIGHTS",
+        "LEGAL TENDER"
+      ]
+    },
+    {
+      "gloss": "LIBOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIQUIDATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIQUIDITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LISTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LOAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LONG TERM CAPITAL GAINS",
+      "category": "COMPOUND",
+      "anchor": [
+        "LONG",
+        "LONG ON",
+        "LONG TERM",
+        "LONG DAY PLANTS",
+        "LONG JUMP"
+      ]
+    },
+    {
+      "gloss": "LOT SIZE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LET SOMEONE OFF THE HOOK",
+      "category": "COMPOUND",
+      "anchor": [
+        "LET THE CAT OUT OF THE BAG, SPILL THE BEANS"
+      ]
+    },
+    {
+      "gloss": "LET THE CAT OUT OF THE BAG, SPILL THE BEANS",
+      "category": "COMPOUND",
+      "anchor": [
+        "LET SOMEONE OFF THE HOOK"
+      ]
+    },
+    {
+      "gloss": "LANDMINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LAW ENFORCEMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "LAW"
+      ]
+    },
+    {
+      "gloss": "LEADING LIFE OF PROSTITUTE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LEASE, LESSEE, LESSOR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LEAVE ACCOUNT",
+      "category": "COMPOUND",
+      "anchor": [
+        "LEAVE",
+        "LEAVE ENCASHMENT"
+      ]
+    },
+    {
+      "gloss": "LEAVE ENCASHMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "LEAVE ACCOUNT",
+        "LEAVE"
+      ]
+    },
+    {
+      "gloss": "LEGAL DRINKING AGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LEGAL AID SERVICES",
+        "LEGAL RIGHTS",
+        "LEGAL TENDER",
+        "LEGAL"
+      ]
+    },
+    {
+      "gloss": "LEGALESE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LEGCUFFS OR FOOTCUFFS OR SHACKLES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LEGIMITATE CHILD, ILLEGITIMATE CHILD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LETTER OF ACCEPTANCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LETTER",
+        "LETTER PUNCH"
+      ]
+    },
+    {
+      "gloss": "LIBEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LICENCE, LICENCEE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LIE DETECTION TEST OR POLYGRAPH TEST, LIE DETECTOR OR POLYGRAPH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LIQUIDATED DAMAGES AND UNLIQUIDATED DAMAGES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LOCAL JOURNEY",
+      "category": "COMPOUND",
+      "anchor": [
+        "LOCAL",
+        "LOCAL TRAIN",
+        "LOCAL DATA CENTRE",
+        "LOCAL RECORDING",
+        "LOCAL AREA NETWORK"
+      ]
+    },
+    {
+      "gloss": "LOCK UP",
+      "category": "COMPOUND",
+      "anchor": [
+        "LOCK"
+      ]
+    },
+    {
+      "gloss": "LOCKOUT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LOCU DELOCTI, LOCUS CRIMINALS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LOCUS STANDI",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LOITERING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LOWER COURT",
+      "category": "COMPOUND",
+      "anchor": [
+        "LOWER TOWN",
+        "LOWER THIRD",
+        "LOWER DIVISION CLERK"
+      ]
+    },
+    {
+      "gloss": "LYNCHING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LACRIMAL GLANDS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LACTATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LARYNGEAL CANCER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LARYNGITIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LEARNING DISABILITY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LEPROSY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIP AND ORAL CAVITY CANCER",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIP LINER",
+        "LIP GLOSS",
+        "LIP BALM"
+      ]
+    },
+    {
+      "gloss": "LITTLE FINGER",
+      "category": "COMPOUND",
+      "anchor": [
+        "LITTLE TOE",
+        "LITTLE BEE",
+        "LITTLE OWL"
+      ]
+    },
+    {
+      "gloss": "LITTLE TOE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LITTLE OWL",
+        "LITTLE BEE",
+        "LITTLE FINGER"
+      ]
+    },
+    {
+      "gloss": "LIVER CANCER",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIVER SHOT",
+        "LIVER TRANSPLANTATION",
+        "LIVER"
+      ]
+    },
+    {
+      "gloss": "LIVER TRANSPLANTATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIVER CANCER",
+        "LIVER SHOT",
+        "LIVER"
+      ]
+    },
+    {
+      "gloss": "LOUSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LUMBER TRACTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LUNG",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LUNULA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LUTEINIZING HORMONE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LYMPHOMA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LADAKH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LUCKNOW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "L CUT",
+      "category": "COMPOUND",
+      "anchor": [
+        "L SQUARE",
+        "L"
+      ]
+    },
+    {
+      "gloss": "L SQUARE",
+      "category": "COMPOUND",
+      "anchor": [
+        "L CUT",
+        "L"
+      ]
+    },
+    {
+      "gloss": "LABEL, TAG",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LACE EDGE BINDING",
+      "category": "COMPOUND",
+      "anchor": [
+        "LACE UP",
+        "LACE"
+      ]
+    },
+    {
+      "gloss": "LACING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LANDING PAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LANDING",
+        "LANDING GEAR"
+      ]
+    },
+    {
+      "gloss": "L-ANGLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LAPEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LASER ENGRAVING MACHINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LASER",
+        "LASER PRINTER"
+      ]
+    },
+    {
+      "gloss": "LASER PRINTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "LASER ENGRAVING MACHINE",
+        "LASER"
+      ]
+    },
+    {
+      "gloss": "LATHE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LAYERED SKIRT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LAYING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LEAD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LEADERS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LEAF SPRING",
+      "category": "COMPOUND",
+      "anchor": [
+        "LEAF CUTTING",
+        "LEAF SPOT",
+        "LEAF"
+      ]
+    },
+    {
+      "gloss": "LEDS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LEFT INDENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "LEFT IN",
+        "LEFT HAND SIDE, RIGHT HAND SIDE",
+        "LEFT",
+        "LEFT DEMOCRATIC FRONT",
+        "LEFT OUT"
+      ]
+    },
+    {
+      "gloss": "LEG MUTTON SLEEVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LEG SPIN",
+        "LEG BYE",
+        "LEG BEFORE WICKET, LBW",
+        "LEG VICE"
+      ]
+    },
+    {
+      "gloss": "LEG VICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LEG MUTTON SLEEVE",
+        "LEG SPIN",
+        "LEG BYE",
+        "LEG BEFORE WICKET, LBW"
+      ]
+    },
+    {
+      "gloss": "LEGGED ROBOTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LETTER PUNCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "LETTER",
+        "LETTER OF ACCEPTANCE"
+      ]
+    },
+    {
+      "gloss": "LEVELLING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIFTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIGHT FIXTURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIGHT YEAR",
+        "LIGHT WEIGHT CONCRETE",
+        "LIGHT"
+      ]
+    },
+    {
+      "gloss": "LIGHT WEIGHT CONCRETE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIGHT YEAR",
+        "LIGHT FIXTURE",
+        "LIGHT"
+      ]
+    },
+    {
+      "gloss": "LIGHTING CONTROL AND RETROFIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIGHTING CONTROL SYSTEM"
+      ]
+    },
+    {
+      "gloss": "LIGHTING CONTROL SYSTEM",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIGHTING CONTROL AND RETROFIT"
+      ]
+    },
+    {
+      "gloss": "LIME PASTE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LINE SPACING",
+      "category": "COMPOUND",
+      "anchor": [
+        "LINE",
+        "LINE GRAPH",
+        "LINE SEGMENT",
+        "LINE OF COLLIMATION",
+        "LINE OF SYMMETRY, AXIS OF SYMMETRY"
+      ]
+    },
+    {
+      "gloss": "LINES AND PINS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LINTEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LINUX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIVE LOAD",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIVE",
+        "LIVE STOCK PRODUCTION",
+        "LIVE IN RELATIONSHIP",
+        "LIVE TRAINING",
+        "LIVE FISHES"
+      ]
+    },
+    {
+      "gloss": "LIVE TRAINING",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIVE",
+        "LIVE STOCK PRODUCTION",
+        "LIVE IN RELATIONSHIP",
+        "LIVE FISHES",
+        "LIVE LOAD"
+      ]
+    },
+    {
+      "gloss": "LOAD",
+      "category": "CORE",
+      "anchor": [
+        "LOAD REJECTION TEST",
+        "LOAD BANK",
+        "LOAD BALANCER"
+      ]
+    },
+    {
+      "gloss": "LOAD BANK",
+      "category": "COMPOUND",
+      "anchor": [
+        "LOAD",
+        "LOAD REJECTION TEST",
+        "LOAD BALANCER"
+      ]
+    },
+    {
+      "gloss": "LOAD REJECTION TEST",
+      "category": "COMPOUND",
+      "anchor": [
+        "LOAD",
+        "LOAD BANK",
+        "LOAD BALANCER"
+      ]
+    },
+    {
+      "gloss": "LOCAL AREA NETWORK",
+      "category": "COMPOUND",
+      "anchor": [
+        "LOCAL",
+        "LOCAL TRAIN",
+        "LOCAL JOURNEY",
+        "LOCAL DATA CENTRE",
+        "LOCAL RECORDING"
+      ]
+    },
+    {
+      "gloss": "LOCAL DATA CENTRE",
+      "category": "COMPOUND",
+      "anchor": [
+        "LOCAL",
+        "LOCAL TRAIN",
+        "LOCAL JOURNEY",
+        "LOCAL RECORDING",
+        "LOCAL AREA NETWORK"
+      ]
+    },
+    {
+      "gloss": "LOCAL RECORDING",
+      "category": "COMPOUND",
+      "anchor": [
+        "LOCAL",
+        "LOCAL TRAIN",
+        "LOCAL JOURNEY",
+        "LOCAL DATA CENTRE",
+        "LOCAL AREA NETWORK"
+      ]
+    },
+    {
+      "gloss": "LOFTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LOG OFF",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LOGIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LOOP TURNER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LOOSE TRACKING",
+      "category": "COMPOUND",
+      "anchor": [
+        "LOOSE SMUT OF WHEAT"
+      ]
+    },
+    {
+      "gloss": "LOW LYING AREA",
+      "category": "COMPOUND",
+      "anchor": [
+        "LOW BLOW",
+        "LOW",
+        "LOW RISK GROUP"
+      ]
+    },
+    {
+      "gloss": "LOWER THIRD",
+      "category": "COMPOUND",
+      "anchor": [
+        "LOWER TOWN",
+        "LOWER DIVISION CLERK",
+        "LOWER COURT"
+      ]
+    },
+    {
+      "gloss": "LUMBERJACK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LUSTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LACTOBACILLUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LANDFORM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LARYNX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LEAN",
+      "category": "CORE",
+      "anchor": [
+        "LEAN SEASON"
+      ]
+    },
+    {
+      "gloss": "LEAN SEASON",
+      "category": "COMPOUND",
+      "anchor": [
+        "LEAN"
+      ]
+    },
+    {
+      "gloss": "LED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LEGEND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LEO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIGHT YEAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIGHT FIXTURE",
+        "LIGHT WEIGHT CONCRETE",
+        "LIGHT"
+      ]
+    },
+    {
+      "gloss": "LINEAR EQUATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "LINEAR MOTION"
+      ]
+    },
+    {
+      "gloss": "LITMUS PAPER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LIVING",
+      "category": "CORE",
+      "anchor": [
+        "LIVING EDGING"
+      ]
+    },
+    {
+      "gloss": "LOAMY SOIL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LARGE SCALE INDUSTRIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "LARGE",
+        "LARGE INTESTINE",
+        "LARGE SIZE SEED CROPS",
+        "LARGE SCALE"
+      ]
+    },
+    {
+      "gloss": "LEAP YEAR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LOCAL WINDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "LOCAL",
+        "LOCAL TRAIN",
+        "LOCAL JOURNEY",
+        "LOCAL DATA CENTRE",
+        "LOCAL AREA NETWORK"
+      ]
+    },
+    {
+      "gloss": "LOESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LAYER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LEGISLATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LEVERAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIBERALISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LICHEN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIFTGATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIMERICK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LITERARY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LITOTES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIVER SHOT",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIVER CANCER",
+        "LIVER TRANSPLANTATION",
+        "LIVER"
+      ]
+    },
+    {
+      "gloss": "LIVESTOCK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LOAD BALANCER",
+      "category": "COMPOUND",
+      "anchor": [
+        "LOAD",
+        "LOAD REJECTION TEST",
+        "LOAD BANK"
+      ]
+    },
+    {
+      "gloss": "LOADING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LOCKDOWN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LOGARITHM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LOGISTICS",
+      "category": "CORE",
+      "anchor": [
+        "LOGISTICS MANAGER"
+      ]
+    },
+    {
+      "gloss": "LOW BLOW",
+      "category": "COMPOUND",
+      "anchor": [
+        "LOW LYING AREA",
+        "LOW",
+        "LOW RISK GROUP"
+      ]
+    },
+    {
+      "gloss": "LOW RISK GROUP",
+      "category": "COMPOUND",
+      "anchor": [
+        "LOW BLOW",
+        "LOW LYING AREA",
+        "LOW"
+      ]
+    },
+    {
+      "gloss": "LUBRICATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LUMPERS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LYRIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LABOUR LAW",
+      "category": "COMPOUND",
+      "anchor": [
+        "LABOUR FORCE",
+        "LABOUR INTENSIVE",
+        "LABOUR",
+        "LABOUR PAINS",
+        "LABOUR MARKET"
+      ]
+    },
+    {
+      "gloss": "LASER",
+      "category": "CORE",
+      "anchor": [
+        "LASER ENGRAVING MACHINE",
+        "LASER PRINTER"
+      ]
+    },
+    {
+      "gloss": "LAUNDRY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LENGTH OF STAY",
+      "category": "COMPOUND",
+      "anchor": [
+        "LENGTH OF A RECTANGLE",
+        "LENGTH OF TIME REQUIRED TO REACH THE CUSTOMERS",
+        "LENGTH"
+      ]
+    },
+    {
+      "gloss": "LIFE GUARD",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIFE EXPECTANCY",
+        "LIFE CYCLE",
+        "LIFE JACKET",
+        "LIFE"
+      ]
+    },
+    {
+      "gloss": "LINKEDIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LOUNGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LUXURY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LOAD-BEARING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LACK OF COMMUNICATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "LEGAL AID SERVICES",
+      "category": "COMPOUND",
+      "anchor": [
+        "LEGAL DRINKING AGE",
+        "LEGAL RIGHTS",
+        "LEGAL TENDER",
+        "LEGAL"
+      ]
+    },
+    {
+      "gloss": "LETHARGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIFESKILLS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIFESTYLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LONG - STAY HOMES",
+      "category": "COMPOUND",
+      "anchor": [
+        "LONG",
+        "LONG ON",
+        "LONG TERM",
+        "LONG DAY PLANTS",
+        "LONG JUMP"
+      ]
+    },
+    {
+      "gloss": "LANDING",
+      "category": "CORE",
+      "anchor": [
+        "LANDING GEAR",
+        "LANDING PAGE"
+      ]
+    },
+    {
+      "gloss": "LANDING GEAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "LANDING",
+        "LANDING PAGE"
+      ]
+    },
+    {
+      "gloss": "LAODICEAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LATVIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LAYOUT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LEAGUE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LETTUCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIBERTY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LINGUIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LIP BALM",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIP LINER",
+        "LIP GLOSS",
+        "LIP AND ORAL CAVITY CANCER"
+      ]
+    },
+    {
+      "gloss": "LIP GLOSS",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIP LINER",
+        "LIP AND ORAL CAVITY CANCER",
+        "LIP BALM"
+      ]
+    },
+    {
+      "gloss": "LIP LINER",
+      "category": "COMPOUND",
+      "anchor": [
+        "LIP GLOSS",
+        "LIP AND ORAL CAVITY CANCER",
+        "LIP BALM"
+      ]
+    },
+    {
+      "gloss": "LIPSTICK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LITHUANIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LITTLE OWL",
+      "category": "COMPOUND",
+      "anchor": [
+        "LITTLE TOE",
+        "LITTLE BEE",
+        "LITTLE FINGER"
+      ]
+    },
+    {
+      "gloss": "LITURGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LOCKER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LOCKET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LOGIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LOGISTICS MANAGER",
+      "category": "COMPOUND",
+      "anchor": [
+        "LOGISTICS"
+      ]
+    },
+    {
+      "gloss": "LOHRI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "LUNAR NEW YEAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "LUNAR ECLIPSE"
+      ]
+    },
+    {
+      "gloss": "L",
+      "category": "LETTERS",
+      "anchor": [
+        "L SQUARE",
+        "L CUT"
+      ]
+    }
+  ]
+}

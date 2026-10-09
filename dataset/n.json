@@ -1,0 +1,2104 @@
+{
+  "metadata": {
+    "total_words": 289,
+    "description": "Words starting with letter N"
+  },
+  "words": [
+    {
+      "gloss": "NAIL",
+      "category": "CORE",
+      "anchor": [
+        "NAIL POLISH",
+        "NAIL CUTTER"
+      ]
+    },
+    {
+      "gloss": "NAIL CUTTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "NAIL POLISH",
+        "NAIL"
+      ]
+    },
+    {
+      "gloss": "NAMASTE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NAME",
+      "category": "CORE",
+      "anchor": [
+        "NAME PLATE"
+      ]
+    },
+    {
+      "gloss": "NAME PLATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "NAME"
+      ]
+    },
+    {
+      "gloss": "NARENDRA MODI",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NARROW",
+      "category": "CLASSIFIERS",
+      "anchor": [
+        "NARROW MINDED"
+      ]
+    },
+    {
+      "gloss": "NARROW MINDED",
+      "category": "COMPOUND",
+      "anchor": [
+        "NARROW"
+      ]
+    },
+    {
+      "gloss": "NATIONAL",
+      "category": "CORE",
+      "anchor": [
+        "NATIONAL COUNCIL FOR VOCATIONAL EDUCATION AND TRAINING",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NATIONAL ANTHEM",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL COUNCIL FOR VOCATIONAL EDUCATION AND TRAINING",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NATIONAL ASSOCIATION OF THE DEAF",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL COUNCIL FOR VOCATIONAL EDUCATION AND TRAINING"
+      ]
+    },
+    {
+      "gloss": "NATIONALIST CONGRESS PARTY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NATURAL",
+      "category": "CLASSIFIERS",
+      "anchor": [
+        "NATURAL GAS RESOURCES",
+        "NATURAL FIBRES",
+        "NATURAL NUMBER",
+        "NATURAL DISASTERS",
+        "NATURAL GAS"
+      ]
+    },
+    {
+      "gloss": "NATURE",
+      "category": "CORE",
+      "anchor": [
+        "NATURE TOURISM"
+      ]
+    },
+    {
+      "gloss": "NAUGHTY, MISCHIEVOUS, ROWDY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NEAR, NEARBY, CLOSE BY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NEAT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NECK",
+      "category": "CORE",
+      "anchor": [
+        "NECK BAND"
+      ]
+    },
+    {
+      "gloss": "NECKLACE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEEDLE",
+      "category": "CORE",
+      "anchor": [
+        "NEEDLE FILE"
+      ]
+    },
+    {
+      "gloss": "NEGATIVE",
+      "category": "CORE",
+      "anchor": [
+        "NEGATIVE INTEGER",
+        "NEGATIVE INTEGERS",
+        "NEGATIVE NUMBER",
+        "NEGATIVE CHARGE",
+        "NEGATIVE TERMINAL"
+      ]
+    },
+    {
+      "gloss": "NEIGH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEIGHBOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEPAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEPHEW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NERVOUS",
+      "category": "CORE",
+      "anchor": [
+        "NERVOUS SYSTEM"
+      ]
+    },
+    {
+      "gloss": "NEST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NET",
+      "category": "CORE",
+      "anchor": [
+        "NET WORTH",
+        "NET ASSET VALUE",
+        "NET PROFIT",
+        "NET CASH INCOME",
+        "NET DOMESTIC PRODUCT"
+      ]
+    },
+    {
+      "gloss": "NETAJI SUBHAS CHANDRA BOSE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NETFLIX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NETPLAY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NETWORK",
+      "category": "CORE",
+      "anchor": [
+        "NETWORK OVERLAYS",
+        "NETWORK FABRIC"
+      ]
+    },
+    {
+      "gloss": "NEVER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEW",
+      "category": "CORE",
+      "anchor": [
+        "NEW ZEALAND",
+        "NEW DELHI",
+        "NEW MOON"
+      ]
+    },
+    {
+      "gloss": "NEWLY MARRIED",
+      "category": "COMPOUND",
+      "anchor": [
+        "NEWLY WEDS, NEWLY WED COUPLE"
+      ]
+    },
+    {
+      "gloss": "NEWLY WEDS, NEWLY WED COUPLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "NEWLY MARRIED"
+      ]
+    },
+    {
+      "gloss": "NEWS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEWSREADER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEXT",
+      "category": "CORE",
+      "anchor": [
+        "NEXT WEEK",
+        "NEXT YEAR",
+        "NEXT MONTH",
+        "NEXT DAY"
+      ]
+    },
+    {
+      "gloss": "NEXT MONTH",
+      "category": "COMPOUND",
+      "anchor": [
+        "NEXT WEEK",
+        "NEXT YEAR",
+        "NEXT",
+        "NEXT DAY"
+      ]
+    },
+    {
+      "gloss": "NEXT WEEK",
+      "category": "COMPOUND",
+      "anchor": [
+        "NEXT YEAR",
+        "NEXT MONTH",
+        "NEXT",
+        "NEXT DAY"
+      ]
+    },
+    {
+      "gloss": "NEXT YEAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "NEXT WEEK",
+        "NEXT DAY",
+        "NEXT MONTH",
+        "NEXT"
+      ]
+    },
+    {
+      "gloss": "NICE",
+      "category": "CORE",
+      "anchor": [
+        "NICE TO MEET YOU"
+      ]
+    },
+    {
+      "gloss": "NICE TO MEET YOU",
+      "category": "COMPOUND",
+      "anchor": [
+        "NICE"
+      ]
+    },
+    {
+      "gloss": "NIECE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NIGHT",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "NIGHTMARE, BAD DREAM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NINTH",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "NO",
+      "category": "CORE",
+      "anchor": [
+        "NO FOLLOW",
+        "NO DUES",
+        "NO PAIN, NO GAIN",
+        "NO BALL"
+      ]
+    },
+    {
+      "gloss": "NO BALL",
+      "category": "COMPOUND",
+      "anchor": [
+        "NO FOLLOW",
+        "NO DUES",
+        "NO",
+        "NO PAIN, NO GAIN"
+      ]
+    },
+    {
+      "gloss": "NO PAIN, NO GAIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "NO FOLLOW",
+        "NO DUES",
+        "NO",
+        "NO BALL"
+      ]
+    },
+    {
+      "gloss": "NO, NOT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NOISE POLLUTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "NOISE"
+      ]
+    },
+    {
+      "gloss": "NOISE, DIN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NOKIA MOBILE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NOMINEE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NONE, NOTHING",
+      "category": "COMPOUND",
+      "anchor": [
+        "NONE, NOTHING, EMPTY"
+      ]
+    },
+    {
+      "gloss": "NONE, NOTHING, EMPTY",
+      "category": "COMPOUND",
+      "anchor": [
+        "NONE, NOTHING"
+      ]
+    },
+    {
+      "gloss": "NOON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NOOSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NORTH",
+      "category": "CORE",
+      "anchor": [
+        "NORTH KOREA",
+        "NORTH STAR, POLE STAR",
+        "NORTH POLE AND SOUTH POLE",
+        "NORTH POLE AND SOUTH POLE MAGNET",
+        "NORTH POLE"
+      ]
+    },
+    {
+      "gloss": "NORTH-EAST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NOSE",
+      "category": "CORE",
+      "anchor": [
+        "NOSE STUD",
+        "NOSE RING"
+      ]
+    },
+    {
+      "gloss": "NOT OUT",
+      "category": "COMPOUND",
+      "anchor": [
+        "NOT OPERATOR"
+      ]
+    },
+    {
+      "gloss": "NOTEBOOK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NOTICE, NOTIFICATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NOUN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NOVEMBER",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "NOW, RIGHT NOW",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NUMBER PLATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "NUMBER NAME",
+        "NUMBER PUNCH",
+        "NUMBER LINE"
+      ]
+    },
+    {
+      "gloss": "NURSE",
+      "category": "CORE",
+      "anchor": [
+        "NURSE CROPS"
+      ]
+    },
+    {
+      "gloss": "NUTRITION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ASSOCIATION OF THE DEAF",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COUNCIL FOR VOCATIONAL EDUCATION AND TRAINING"
+      ]
+    },
+    {
+      "gloss": "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ASSOCIATION OF THE DEAF",
+        "NATIONAL ANTHEM",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL COUNCIL FOR VOCATIONAL EDUCATION AND TRAINING"
+      ]
+    },
+    {
+      "gloss": "NATIONAL COUNCIL FOR VOCATIONAL EDUCATION AND TRAINING",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NATIONAL CURRICULAR AND PEDAGOGICAL FRAMEWORK FOR EARLY CHILDHOOD CARE AND EDUCATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NATIONAL CURRICULUM FRAMEWORK",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NATIONAL CURRICULUM FRAMEWORK FOR SCHOOL EDUCATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NATIONAL CURRICULUM FRAMEWORK FOR TEACHER EDUCATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NATIONAL EDUCATIONAL TECHNOLOGY FORUM",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NATIONAL ELIGIBILITY TEST",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NATIONAL HIGHER EDUCATION REGULATORY COUNCIL",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NATIONAL INSTITUTE OF OPEN SCHOOLING",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NATIONAL INSTITUTE OF TECHNOLOGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NATIONAL INSTITUTION FOR TRANSFORMING INDIA",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NATIONAL PROFESSIONAL STANDARDS FOR TEACHERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NATIONAL RESEARCH FOUNDATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NATIONAL SAMPLE SURVEY OFFICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NATIONAL TESTING AGENCY",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NATURAL DISASTERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATURAL GAS RESOURCES",
+        "NATURAL",
+        "NATURAL FIBRES",
+        "NATURAL NUMBER",
+        "NATURAL GAS"
+      ]
+    },
+    {
+      "gloss": "NATURAL FIBRES",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATURAL GAS RESOURCES",
+        "NATURAL",
+        "NATURAL NUMBER",
+        "NATURAL DISASTERS",
+        "NATURAL GAS"
+      ]
+    },
+    {
+      "gloss": "NATURAL GAS",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATURAL GAS RESOURCES",
+        "NATURAL",
+        "NATURAL FIBRES",
+        "NATURAL NUMBER",
+        "NATURAL DISASTERS"
+      ]
+    },
+    {
+      "gloss": "NATURAL GAS RESOURCES",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATURAL",
+        "NATURAL FIBRES",
+        "NATURAL NUMBER",
+        "NATURAL DISASTERS",
+        "NATURAL GAS"
+      ]
+    },
+    {
+      "gloss": "NATURAL NUMBER",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATURAL GAS RESOURCES",
+        "NATURAL",
+        "NATURAL FIBRES",
+        "NATURAL DISASTERS",
+        "NATURAL GAS"
+      ]
+    },
+    {
+      "gloss": "NATURAL WATER",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATURAL GAS RESOURCES",
+        "NATURAL",
+        "NATURAL FIBRES",
+        "NATURAL DISASTERS",
+        "NATURAL GAS"
+      ]
+    },
+    {
+      "gloss": "NATURALISTIC OBSERVATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NATURE TOURISM",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATURE"
+      ]
+    },
+    {
+      "gloss": "NAUSEA AND VOMITING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NAZISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NECTAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEGATIVE INTEGER",
+      "category": "COMPOUND",
+      "anchor": [
+        "NEGATIVE INTEGERS",
+        "NEGATIVE NUMBER",
+        "NEGATIVE CHARGE",
+        "NEGATIVE TERMINAL",
+        "NEGATIVE"
+      ]
+    },
+    {
+      "gloss": "NEGATIVE INTEGERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "NEGATIVE INTEGER",
+        "NEGATIVE NUMBER",
+        "NEGATIVE CHARGE",
+        "NEGATIVE TERMINAL",
+        "NEGATIVE"
+      ]
+    },
+    {
+      "gloss": "NEGATIVE NUMBER",
+      "category": "COMPOUND",
+      "anchor": [
+        "NEGATIVE INTEGER",
+        "NEGATIVE INTEGERS",
+        "NEGATIVE CHARGE",
+        "NEGATIVE TERMINAL",
+        "NEGATIVE"
+      ]
+    },
+    {
+      "gloss": "NEGATIVE TERMINAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "NEGATIVE INTEGER",
+        "NEGATIVE INTEGERS",
+        "NEGATIVE NUMBER",
+        "NEGATIVE CHARGE",
+        "NEGATIVE"
+      ]
+    },
+    {
+      "gloss": "NEGOTIATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEOLITHIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NERVOUS SYSTEM",
+      "category": "COMPOUND",
+      "anchor": [
+        "NERVOUS"
+      ]
+    },
+    {
+      "gloss": "NET DOMESTIC PRODUCT",
+      "category": "COMPOUND",
+      "anchor": [
+        "NET WORTH",
+        "NET",
+        "NET ASSET VALUE",
+        "NET PROFIT",
+        "NET CASH INCOME"
+      ]
+    },
+    {
+      "gloss": "NEUROLINGUISTICS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEUROPSYCHOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEUTRAL",
+      "category": "CORE",
+      "anchor": [
+        "NEUTRAL CONDUCTOR",
+        "NEUTRAL CORNER"
+      ]
+    },
+    {
+      "gloss": "NICKEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NITROGEN",
+      "category": "CORE",
+      "anchor": [
+        "NITROGEN CYCLE",
+        "NITROGEN FIXATION"
+      ]
+    },
+    {
+      "gloss": "NOISE",
+      "category": "CORE",
+      "anchor": [
+        "NOISE POLLUTION"
+      ]
+    },
+    {
+      "gloss": "NOMADIC HERDING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NON COOPERATION MOVEMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "NON LEGUMES",
+        "NON PARTICIPANT AND PARTICIPANT OBSERVATION",
+        "NON LEGAL",
+        "NON INFECTIOUS DISEASE",
+        "NON HUMPED"
+      ]
+    },
+    {
+      "gloss": "NON PARTICIPANT AND PARTICIPANT OBSERVATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "NON LEGUMES",
+        "NON COOPERATION MOVEMENT",
+        "NON LEGAL",
+        "NON INFECTIOUS DISEASE",
+        "NON HUMPED"
+      ]
+    },
+    {
+      "gloss": "NON-FICTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NON-MANUAL EXPRESSION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NORM",
+      "category": "CORE",
+      "anchor": [
+        "NORM GROUP"
+      ]
+    },
+    {
+      "gloss": "NORM GROUP",
+      "category": "COMPOUND",
+      "anchor": [
+        "NORM"
+      ]
+    },
+    {
+      "gloss": "NORMAL CURVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "NORMAL HEARING SENSITIVITY",
+        "NORMAL DELIVERY AND CESAREAN"
+      ]
+    },
+    {
+      "gloss": "NORMAL DELIVERY AND CESAREAN",
+      "category": "COMPOUND",
+      "anchor": [
+        "NORMAL HEARING SENSITIVITY",
+        "NORMAL CURVE"
+      ]
+    },
+    {
+      "gloss": "NORMAL HEARING SENSITIVITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "NORMAL DELIVERY AND CESAREAN",
+        "NORMAL CURVE"
+      ]
+    },
+    {
+      "gloss": "NORTH POLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "NORTH",
+        "NORTH KOREA",
+        "NORTH STAR, POLE STAR",
+        "NORTH POLE AND SOUTH POLE",
+        "NORTH POLE AND SOUTH POLE MAGNET"
+      ]
+    },
+    {
+      "gloss": "NORTH POLE AND SOUTH POLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "NORTH",
+        "NORTH KOREA",
+        "NORTH STAR, POLE STAR",
+        "NORTH POLE AND SOUTH POLE MAGNET",
+        "NORTH POLE"
+      ]
+    },
+    {
+      "gloss": "NORTH POLE AND SOUTH POLE MAGNET",
+      "category": "COMPOUND",
+      "anchor": [
+        "NORTH",
+        "NORTH KOREA",
+        "NORTH STAR, POLE STAR",
+        "NORTH POLE AND SOUTH POLE",
+        "NORTH POLE"
+      ]
+    },
+    {
+      "gloss": "NOXIOUS GASES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NUCLEAR ENERGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "NUCLEAR MEMBRANE",
+        "NUCLEAR POWER, NUCLEAR ENERGY",
+        "NUCLEAR FAMILY"
+      ]
+    },
+    {
+      "gloss": "NUCLEAR FAMILY",
+      "category": "COMPOUND",
+      "anchor": [
+        "NUCLEAR ENERGY",
+        "NUCLEAR MEMBRANE",
+        "NUCLEAR POWER, NUCLEAR ENERGY"
+      ]
+    },
+    {
+      "gloss": "NUCLEUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NUMBER LINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "NUMBER NAME",
+        "NUMBER PUNCH",
+        "NUMBER PLATE"
+      ]
+    },
+    {
+      "gloss": "NUMBER NAME",
+      "category": "COMPOUND",
+      "anchor": [
+        "NUMBER PUNCH",
+        "NUMBER LINE",
+        "NUMBER PLATE"
+      ]
+    },
+    {
+      "gloss": "NUMERAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NUMERATOR",
+      "category": "CORE",
+      "anchor": [
+        "NUMERATOR AND DENOMINATOR"
+      ]
+    },
+    {
+      "gloss": "NUMERATOR AND DENOMINATOR",
+      "category": "COMPOUND",
+      "anchor": [
+        "NUMERATOR"
+      ]
+    },
+    {
+      "gloss": "NURSERY RHYMES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NUTRIENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEED OF IRRIGATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NEMAPHOSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEMATICIDES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEMATODE CONTROL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NEMATOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NET CASH INCOME",
+      "category": "COMPOUND",
+      "anchor": [
+        "NET WORTH",
+        "NET",
+        "NET ASSET VALUE",
+        "NET PROFIT",
+        "NET DOMESTIC PRODUCT"
+      ]
+    },
+    {
+      "gloss": "NET WORTH",
+      "category": "COMPOUND",
+      "anchor": [
+        "NET",
+        "NET ASSET VALUE",
+        "NET PROFIT",
+        "NET CASH INCOME",
+        "NET DOMESTIC PRODUCT"
+      ]
+    },
+    {
+      "gloss": "NITROGEN FIXATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "NITROGEN CYCLE",
+        "NITROGEN"
+      ]
+    },
+    {
+      "gloss": "NODULES ON ROOTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NON HUMPED",
+      "category": "COMPOUND",
+      "anchor": [
+        "NON LEGUMES",
+        "NON PARTICIPANT AND PARTICIPANT OBSERVATION",
+        "NON COOPERATION MOVEMENT",
+        "NON LEGAL",
+        "NON INFECTIOUS DISEASE"
+      ]
+    },
+    {
+      "gloss": "NON INFECTIOUS DISEASE",
+      "category": "COMPOUND",
+      "anchor": [
+        "NON LEGUMES",
+        "NON PARTICIPANT AND PARTICIPANT OBSERVATION",
+        "NON COOPERATION MOVEMENT",
+        "NON LEGAL",
+        "NON HUMPED"
+      ]
+    },
+    {
+      "gloss": "NON LEGUMES",
+      "category": "COMPOUND",
+      "anchor": [
+        "NON PARTICIPANT AND PARTICIPANT OBSERVATION",
+        "NON COOPERATION MOVEMENT",
+        "NON LEGAL",
+        "NON INFECTIOUS DISEASE",
+        "NON HUMPED"
+      ]
+    },
+    {
+      "gloss": "NOTCH LAYERING",
+      "category": "COMPOUND",
+      "anchor": [
+        "NOTCH COLLAR"
+      ]
+    },
+    {
+      "gloss": "NURSE CROPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "NURSE"
+      ]
+    },
+    {
+      "gloss": "NAMIBIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NETHERLANDS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEW ZEALAND",
+      "category": "COMPOUND",
+      "anchor": [
+        "NEW DELHI",
+        "NEW",
+        "NEW MOON"
+      ]
+    },
+    {
+      "gloss": "NIGER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NIGERIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NORTH KOREA",
+      "category": "COMPOUND",
+      "anchor": [
+        "NORTH",
+        "NORTH STAR, POLE STAR",
+        "NORTH POLE AND SOUTH POLE",
+        "NORTH POLE AND SOUTH POLE MAGNET",
+        "NORTH POLE"
+      ]
+    },
+    {
+      "gloss": "NORWAY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEGOTIABLE INSTRUMENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NET ASSET VALUE",
+      "category": "COMPOUND",
+      "anchor": [
+        "NET WORTH",
+        "NET",
+        "NET PROFIT",
+        "NET CASH INCOME",
+        "NET DOMESTIC PRODUCT"
+      ]
+    },
+    {
+      "gloss": "NET PROFIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "NET WORTH",
+        "NET",
+        "NET ASSET VALUE",
+        "NET CASH INCOME",
+        "NET DOMESTIC PRODUCT"
+      ]
+    },
+    {
+      "gloss": "NETTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NON LEGAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "NON LEGUMES",
+        "NON PARTICIPANT AND PARTICIPANT OBSERVATION",
+        "NON COOPERATION MOVEMENT",
+        "NON INFECTIOUS DISEASE",
+        "NON HUMPED"
+      ]
+    },
+    {
+      "gloss": "NARCO ANALYSIS TEST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NATIONAL ARCHIVES",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NATIONAL CRIME RECORDS BUREAU",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NATIONAL POPULATION REGISTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NATIONAL REGISTER OF CITIZENS",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NATIONALISM, INCIVISM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NATURAL JUSTICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATURAL GAS RESOURCES",
+        "NATURAL",
+        "NATURAL FIBRES",
+        "NATURAL DISASTERS",
+        "NATURAL GAS"
+      ]
+    },
+    {
+      "gloss": "NEGLIGENCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEXT DAY",
+      "category": "COMPOUND",
+      "anchor": [
+        "NEXT WEEK",
+        "NEXT YEAR",
+        "NEXT MONTH",
+        "NEXT"
+      ]
+    },
+    {
+      "gloss": "NO DUES",
+      "category": "COMPOUND",
+      "anchor": [
+        "NO FOLLOW",
+        "NO PAIN, NO GAIN",
+        "NO",
+        "NO BALL"
+      ]
+    },
+    {
+      "gloss": "NOMOGRAPHER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NON ACCESS",
+      "category": "COMPOUND",
+      "anchor": [
+        "NON LEGUMES",
+        "NON PARTICIPANT AND PARTICIPANT OBSERVATION",
+        "NON COOPERATION MOVEMENT",
+        "NON INFECTIOUS DISEASE",
+        "NON HUMPED"
+      ]
+    },
+    {
+      "gloss": "NON OFFICIAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "NON LEGUMES",
+        "NON PARTICIPANT AND PARTICIPANT OBSERVATION",
+        "NON COOPERATION MOVEMENT",
+        "NON INFECTIOUS DISEASE",
+        "NON HUMPED"
+      ]
+    },
+    {
+      "gloss": "NOTA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NOTESHEET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NOTIFICATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NOTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NOVERCA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NOVUS HOMO",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NRI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NUBILIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NUDUM FACTUM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NUISANCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NUNCUPATIVE WILL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NASAL CAVITY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NAUSEOUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEBULIZATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NONCOMMUNICABLE DISEASE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NOSTRIL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NUMBERS",
+      "category": "CORE",
+      "anchor": [
+        "NUMBERS 1-10"
+      ]
+    },
+    {
+      "gloss": "NUMBERS 1-10",
+      "category": "COMPOUND",
+      "anchor": [
+        "NUMBERS"
+      ]
+    },
+    {
+      "gloss": "NAGALAND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NAGPUR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NATIONAL CAPITAL REGION",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NEW DELHI",
+      "category": "COMPOUND",
+      "anchor": [
+        "NEW ZEALAND",
+        "NEW",
+        "NEW MOON"
+      ]
+    },
+    {
+      "gloss": "NANO ROBOT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NAP FABRIC",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NATIONAL DATA CENTRE",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NATIONAL INFORMATICS CENTRE",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NATURAL NUMBERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATURAL GAS RESOURCES",
+        "NATURAL",
+        "NATURAL FIBRES",
+        "NATURAL DISASTERS",
+        "NATURAL GAS"
+      ]
+    },
+    {
+      "gloss": "NAVIGATION PANE",
+      "category": "COMPOUND",
+      "anchor": [
+        "NAVIGATION LIGHT",
+        "NAVIGATION"
+      ]
+    },
+    {
+      "gloss": "NECK BAND",
+      "category": "COMPOUND",
+      "anchor": [
+        "NECK"
+      ]
+    },
+    {
+      "gloss": "NEEDLE FILE",
+      "category": "COMPOUND",
+      "anchor": [
+        "NEEDLE"
+      ]
+    },
+    {
+      "gloss": "NEHRU COLLAR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NEUTRAL CONDUCTOR",
+      "category": "COMPOUND",
+      "anchor": [
+        "NEUTRAL",
+        "NEUTRAL CORNER"
+      ]
+    },
+    {
+      "gloss": "NIC SERVICE DESK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NO FOLLOW",
+      "category": "COMPOUND",
+      "anchor": [
+        "NO DUES",
+        "NO PAIN, NO GAIN",
+        "NO",
+        "NO BALL"
+      ]
+    },
+    {
+      "gloss": "NON VERBAL FEEDBACK",
+      "category": "COMPOUND",
+      "anchor": [
+        "NON LEGUMES",
+        "NON PARTICIPANT AND PARTICIPANT OBSERVATION",
+        "NON COOPERATION MOVEMENT",
+        "NON INFECTIOUS DISEASE",
+        "NON HUMPED"
+      ]
+    },
+    {
+      "gloss": "NON VOLATILE",
+      "category": "COMPOUND",
+      "anchor": [
+        "NON LEGUMES",
+        "NON PARTICIPANT AND PARTICIPANT OBSERVATION",
+        "NON COOPERATION MOVEMENT",
+        "NON INFECTIOUS DISEASE",
+        "NON HUMPED"
+      ]
+    },
+    {
+      "gloss": "NON WOVEN",
+      "category": "COMPOUND",
+      "anchor": [
+        "NON LEGUMES",
+        "NON PARTICIPANT AND PARTICIPANT OBSERVATION",
+        "NON COOPERATION MOVEMENT",
+        "NON INFECTIOUS DISEASE",
+        "NON HUMPED"
+      ]
+    },
+    {
+      "gloss": "NORFOLK JACKET",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NOT OPERATOR",
+      "category": "COMPOUND",
+      "anchor": [
+        "NOT OUT"
+      ]
+    },
+    {
+      "gloss": "NOTCH COLLAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "NOTCH LAYERING"
+      ]
+    },
+    {
+      "gloss": "NOTE PAD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NOTES MASTER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NPN TRANSISTOR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NUMBER PUNCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "NUMBER NAME",
+        "NUMBER LINE",
+        "NUMBER PLATE"
+      ]
+    },
+    {
+      "gloss": "NUMBERING LIBRARY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NUMERICAL CONTROL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NUMPAD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NUT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NANO-",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEGATIVE CHARGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "NEGATIVE INTEGER",
+        "NEGATIVE INTEGERS",
+        "NEGATIVE NUMBER",
+        "NEGATIVE TERMINAL",
+        "NEGATIVE"
+      ]
+    },
+    {
+      "gloss": "NITROGEN CYCLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "NITROGEN",
+        "NITROGEN FIXATION"
+      ]
+    },
+    {
+      "gloss": "NOMADS",
+      "category": "CORE",
+      "anchor": [
+        "NOMADS NOMADIC TRIBE"
+      ]
+    },
+    {
+      "gloss": "NON-CONTACT FORCE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NON-ECONOMIC ACTIVITIES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NON-LIVING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NON-METAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NON-UNIFORM MOTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NUCLEAR MEMBRANE",
+      "category": "COMPOUND",
+      "anchor": [
+        "NUCLEAR ENERGY",
+        "NUCLEAR POWER, NUCLEAR ENERGY",
+        "NUCLEAR FAMILY"
+      ]
+    },
+    {
+      "gloss": "NYLON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NATION STATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATION"
+      ]
+    },
+    {
+      "gloss": "NATIONAL PARK",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATIONAL",
+        "NATIONAL ANTHEM",
+        "NATIONAL COUNCIL FOR TEACHER EDUCATION",
+        "NATIONAL COMMITTEE FOR THE INTEGRATION OF VOCATIONAL EDUCATION",
+        "NATIONAL ASSOCIATION OF THE DEAF"
+      ]
+    },
+    {
+      "gloss": "NEPTUNE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEW MOON",
+      "category": "COMPOUND",
+      "anchor": [
+        "NEW ZEALAND",
+        "NEW DELHI",
+        "NEW"
+      ]
+    },
+    {
+      "gloss": "NOMADS NOMADIC TRIBE",
+      "category": "COMPOUND",
+      "anchor": [
+        "NOMADS"
+      ]
+    },
+    {
+      "gloss": "NON-BIODEGRADABLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NON-CONVENTIONAL SOURCES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NON-RENEWABLE RESOURCES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NORTH STAR, POLE STAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "NORTH",
+        "NORTH KOREA",
+        "NORTH POLE AND SOUTH POLE",
+        "NORTH POLE AND SOUTH POLE MAGNET",
+        "NORTH POLE"
+      ]
+    },
+    {
+      "gloss": "NUCLEAR POWER, NUCLEAR ENERGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "NUCLEAR ENERGY",
+        "NUCLEAR MEMBRANE",
+        "NUCLEAR FAMILY"
+      ]
+    },
+    {
+      "gloss": "NARRATIVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NARRATOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NATION",
+      "category": "CORE",
+      "anchor": [
+        "NATION STATE"
+      ]
+    },
+    {
+      "gloss": "NATIVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NAVIGATION",
+      "category": "CORE",
+      "anchor": [
+        "NAVIGATION LIGHT",
+        "NAVIGATION PANE"
+      ]
+    },
+    {
+      "gloss": "NAVIGATION LIGHT",
+      "category": "COMPOUND",
+      "anchor": [
+        "NAVIGATION PANE",
+        "NAVIGATION"
+      ]
+    },
+    {
+      "gloss": "NEGATIVE TEST AND POSITIVE TEST RESULT",
+      "category": "COMPOUND",
+      "anchor": [
+        "NEGATIVE INTEGER",
+        "NEGATIVE INTEGERS",
+        "NEGATIVE NUMBER",
+        "NEGATIVE TERMINAL",
+        "NEGATIVE"
+      ]
+    },
+    {
+      "gloss": "NETWORK FABRIC",
+      "category": "COMPOUND",
+      "anchor": [
+        "NETWORK OVERLAYS",
+        "NETWORK"
+      ]
+    },
+    {
+      "gloss": "NETWORK OVERLAYS",
+      "category": "COMPOUND",
+      "anchor": [
+        "NETWORK FABRIC",
+        "NETWORK"
+      ]
+    },
+    {
+      "gloss": "NEUROLOGICAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEUTRAL CORNER",
+      "category": "COMPOUND",
+      "anchor": [
+        "NEUTRAL CONDUCTOR",
+        "NEUTRAL"
+      ]
+    },
+    {
+      "gloss": "NOMINAL",
+      "category": "CORE",
+      "anchor": [
+        "NOMINAL PRICES"
+      ]
+    },
+    {
+      "gloss": "NOMINAL PRICES",
+      "category": "COMPOUND",
+      "anchor": [
+        "NOMINAL"
+      ]
+    },
+    {
+      "gloss": "NONCONFORMITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NON-LUMINOUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NUN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NAKED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NANNY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NARCISSISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NASA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NAUTICAL MILE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NAVY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NCERT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NERVES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEUROSCIENCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NIGHTWEAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NON-GOVERNMENTAL ORGANISATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "NON-REFUNDABLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NON-STRETCHABLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NON-TRANSFERABLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NEURODIVERSITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NATUROPATHY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NON - JUDGEMENTAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "NON LEGUMES",
+        "NON PARTICIPANT AND PARTICIPANT OBSERVATION",
+        "NON COOPERATION MOVEMENT",
+        "NON INFECTIOUS DISEASE",
+        "NON HUMPED"
+      ]
+    },
+    {
+      "gloss": "NAIL POLISH",
+      "category": "COMPOUND",
+      "anchor": [
+        "NAIL",
+        "NAIL CUTTER"
+      ]
+    },
+    {
+      "gloss": "NATO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NATURAL RESOURCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "NATURAL GAS RESOURCES",
+        "NATURAL",
+        "NATURAL FIBRES",
+        "NATURAL DISASTERS",
+        "NATURAL GAS"
+      ]
+    },
+    {
+      "gloss": "NICARAGUA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NIGHTHAWK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "NOSE RING",
+      "category": "COMPOUND",
+      "anchor": [
+        "NOSE",
+        "NOSE STUD"
+      ]
+    },
+    {
+      "gloss": "NOSE STUD",
+      "category": "COMPOUND",
+      "anchor": [
+        "NOSE",
+        "NOSE RING"
+      ]
+    },
+    {
+      "gloss": "NOMADS, NOMADIC TRIBE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "N",
+      "category": "LETTERS",
+      "anchor": []
+    }
+  ]
+}

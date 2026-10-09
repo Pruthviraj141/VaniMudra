@@ -1,0 +1,2885 @@
+{
+  "metadata": {
+    "total_words": 451,
+    "description": "Words starting with letter H"
+  },
+  "words": [
+    {
+      "gloss": "HABIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HAIL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HAIR",
+      "category": "CORE",
+      "anchor": [
+        "HAIR STRAIGHTENER",
+        "HAIR ENGRAVING SHAVER PEN",
+        "HAIR DRYER",
+        "HAIR CUT",
+        "HAIR CLIP"
+      ]
+    },
+    {
+      "gloss": "HAIR CLIP",
+      "category": "COMPOUND",
+      "anchor": [
+        "HAIR STRAIGHTENER",
+        "HAIR ENGRAVING SHAVER PEN",
+        "HAIR DRYER",
+        "HAIR",
+        "HAIR CUT"
+      ]
+    },
+    {
+      "gloss": "HAIR CUT",
+      "category": "COMPOUND",
+      "anchor": [
+        "HAIR STRAIGHTENER",
+        "HAIR ENGRAVING SHAVER PEN",
+        "HAIR DRYER",
+        "HAIR",
+        "HAIR CLIP"
+      ]
+    },
+    {
+      "gloss": "HAIR DRYER",
+      "category": "COMPOUND",
+      "anchor": [
+        "HAIR STRAIGHTENER",
+        "HAIR ENGRAVING SHAVER PEN",
+        "HAIR",
+        "HAIR CUT",
+        "HAIR CLIP"
+      ]
+    },
+    {
+      "gloss": "HAIR STRAIGHTENER",
+      "category": "COMPOUND",
+      "anchor": [
+        "HAIR ENGRAVING SHAVER PEN",
+        "HAIR DRYER",
+        "HAIR",
+        "HAIR CUT",
+        "HAIR CLIP"
+      ]
+    },
+    {
+      "gloss": "HAIRBAND, HEADBAND",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HAIRDRESSER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HAIRSTYLES, HAIRDOS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HAJI ALI DARGAH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HALF",
+      "category": "NUMBERS & TIME",
+      "anchor": [
+        "HALF DAY LEAVE",
+        "HALF BACK",
+        "HALF VOLLEY",
+        "HALF NELSON",
+        "HALF PAY LEAVE"
+      ]
+    },
+    {
+      "gloss": "HALF BACK",
+      "category": "COMPOUND",
+      "anchor": [
+        "HALF",
+        "HALF DAY LEAVE",
+        "HALF VOLLEY",
+        "HALF NELSON",
+        "HALF PAY LEAVE"
+      ]
+    },
+    {
+      "gloss": "HALF NELSON",
+      "category": "COMPOUND",
+      "anchor": [
+        "HALF",
+        "HALF DAY LEAVE",
+        "HALF BACK",
+        "HALF VOLLEY",
+        "HALF PAY LEAVE"
+      ]
+    },
+    {
+      "gloss": "HALF VOLLEY",
+      "category": "COMPOUND",
+      "anchor": [
+        "HALF",
+        "HALF DAY LEAVE",
+        "HALF BACK",
+        "HALF NELSON",
+        "HALF PAY LEAVE"
+      ]
+    },
+    {
+      "gloss": "HALF, PART",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HAMMER",
+      "category": "CORE",
+      "anchor": [
+        "HAMMER THROW"
+      ]
+    },
+    {
+      "gloss": "HAMMER THROW",
+      "category": "COMPOUND",
+      "anchor": [
+        "HAMMER"
+      ]
+    },
+    {
+      "gloss": "HAND CYMBALS",
+      "category": "COMPOUND",
+      "anchor": [
+        "HAND DUSTER",
+        "HAND PLAYING CARDS",
+        "HAND CARVING MACHINE",
+        "HAND SANITIZER",
+        "HAND SHOWER, HANDHELD SHOWER HEAD"
+      ]
+    },
+    {
+      "gloss": "HAND PLAYING CARDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "HAND DUSTER",
+        "HAND CYMBALS",
+        "HAND CARVING MACHINE",
+        "HAND SANITIZER",
+        "HAND SHOWER, HANDHELD SHOWER HEAD"
+      ]
+    },
+    {
+      "gloss": "HAND SANITIZER",
+      "category": "COMPOUND",
+      "anchor": [
+        "HAND DUSTER",
+        "HAND CYMBALS",
+        "HAND PLAYING CARDS",
+        "HAND CARVING MACHINE",
+        "HAND SHOWER, HANDHELD SHOWER HEAD"
+      ]
+    },
+    {
+      "gloss": "HAND SHOWER, HANDHELD SHOWER HEAD",
+      "category": "COMPOUND",
+      "anchor": [
+        "HAND DUSTER",
+        "HAND CYMBALS",
+        "HAND PLAYING CARDS",
+        "HAND CARVING MACHINE",
+        "HAND SANITIZER"
+      ]
+    },
+    {
+      "gloss": "HANDKERCHIEF",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HANDPUMP WATER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HANDRAIL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HANDS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HANDSOME",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HANDWASH LIQUID",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HANDWRITING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HANG",
+      "category": "CORE",
+      "anchor": [
+        "HANG IN THERE"
+      ]
+    },
+    {
+      "gloss": "HANG IN THERE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HANG"
+      ]
+    },
+    {
+      "gloss": "HANGER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HANUMAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HAPPEN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HAPPY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HARASS, BULLY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HARD DISK, HARD DRIVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HARD CONSISTENCY SOIL",
+        "HARD LABOUR",
+        "HARD OF HEARING",
+        "HARD SOIL",
+        "HARD WATER AND SOFT WATER"
+      ]
+    },
+    {
+      "gloss": "HARD OF HEARING",
+      "category": "COMPOUND",
+      "anchor": [
+        "HARD CONSISTENCY SOIL",
+        "HARD LABOUR",
+        "HARD SOIL",
+        "HARD WATER AND SOFT WATER",
+        "HARD DISK, HARD DRIVE"
+      ]
+    },
+    {
+      "gloss": "HARD, DIFFICULT",
+      "category": "COMPOUND",
+      "anchor": [
+        "HARD, SOLID, RIGID, INFLEXIBLE"
+      ]
+    },
+    {
+      "gloss": "HARD, SOLID, RIGID, INFLEXIBLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HARD, DIFFICULT"
+      ]
+    },
+    {
+      "gloss": "HARMONIUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HASHTAG",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HAT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HAT-TRICK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HAVE",
+      "category": "GRAMMAR & FUNCTION",
+      "anchor": [
+        "HAVE YOUR HANDS FULL",
+        "HAVE A BALL"
+      ]
+    },
+    {
+      "gloss": "HAWKER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HAZE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HDFC BANK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEAD",
+      "category": "CORE",
+      "anchor": [
+        "HEAD PAN",
+        "HEAD LOCKET"
+      ]
+    },
+    {
+      "gloss": "HEADACHE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEADLIGHTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEADPHONES, EARPHONES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HEALTH",
+      "category": "CORE",
+      "anchor": [
+        "HEALTH INSURANCE",
+        "HEALTH FOOD",
+        "HEALTH PSYCHOLOGY",
+        "HEALTH TOURISM OR MEDICAL TOURISM"
+      ]
+    },
+    {
+      "gloss": "HEAR, LISTEN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HEARING",
+      "category": "CORE",
+      "anchor": [
+        "HEARING DE NOVO",
+        "HEARING AID",
+        "HEARING LOSS"
+      ]
+    },
+    {
+      "gloss": "HEARING AID",
+      "category": "COMPOUND",
+      "anchor": [
+        "HEARING DE NOVO",
+        "HEARING LOSS",
+        "HEARING"
+      ]
+    },
+    {
+      "gloss": "HEART OF GOLD",
+      "category": "COMPOUND",
+      "anchor": [
+        "HEART ATTACK",
+        "HEART DISEASES",
+        "HEART BLOCK",
+        "HEART FAILURE"
+      ]
+    },
+    {
+      "gloss": "HEART, LOVE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HEAVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEAVEN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEAVY",
+      "category": "CORE",
+      "anchor": [
+        "HEAVY DUTY ROBOT"
+      ]
+    },
+    {
+      "gloss": "HEELS, STILETTOS FOOTWEAR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HEIGHT",
+      "category": "CORE",
+      "anchor": [
+        "HEIGHT GAUGE"
+      ]
+    },
+    {
+      "gloss": "HELICOPTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HELL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HELLO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HELMET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HELP",
+      "category": "CORE",
+      "anchor": [
+        "AFRAID, SCARED",
+        "ASSISTANT",
+        "DISABILITY SUPPORT SERVICE",
+        "CHILD SUPPORT"
+      ]
+    },
+    {
+      "gloss": "HER, HERS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HERD OF COWS, DROVE OF COWS",
+      "category": "COMPOUND",
+      "anchor": [
+        "HERD OF ELEPHANTS, PARADE OF ELEPHANTS, MEMORY OF ELEPHANTS",
+        "HERD"
+      ]
+    },
+    {
+      "gloss": "HERD OF ELEPHANTS, PARADE OF ELEPHANTS, MEMORY OF ELEPHANTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "HERD OF COWS, DROVE OF COWS",
+        "HERD"
+      ]
+    },
+    {
+      "gloss": "HERE",
+      "category": "GRAMMAR & FUNCTION",
+      "anchor": []
+    },
+    {
+      "gloss": "HERO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HERSELF",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HIDE, CONCEAL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HIGH CHAIR",
+      "category": "COMPOUND",
+      "anchor": [
+        "HIGH YIELD",
+        "HIGH COURT",
+        "HIGH JUMP",
+        "HIGH RISE BUILDING",
+        "HIGH FIVE"
+      ]
+    },
+    {
+      "gloss": "HIGH FIVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HIGH YIELD",
+        "HIGH COURT",
+        "HIGH JUMP",
+        "HIGH RISE BUILDING",
+        "HIGH CHAIR"
+      ]
+    },
+    {
+      "gloss": "HIGH JUMP",
+      "category": "COMPOUND",
+      "anchor": [
+        "HIGH YIELD",
+        "HIGH COURT",
+        "HIGH RISE BUILDING",
+        "HIGH FIVE",
+        "HIGH CHAIR"
+      ]
+    },
+    {
+      "gloss": "HIGHLIGHTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HIGHWAY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HIJAB",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HILL",
+      "category": "CORE",
+      "anchor": [
+        "HILL STATION",
+        "HILL GARDEN"
+      ]
+    },
+    {
+      "gloss": "HIMSELF",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HINDI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HINDU, HINDUISM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HIRE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HISS, RATTLE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HIT",
+      "category": "CORE",
+      "anchor": [
+        "HIT & RUN"
+      ]
+    },
+    {
+      "gloss": "HOBBY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOCKEY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOLD",
+      "category": "CORE",
+      "anchor": [
+        "HOLD ON"
+      ]
+    },
+    {
+      "gloss": "HOLD ON",
+      "category": "COMPOUND",
+      "anchor": [
+        "HOLD"
+      ]
+    },
+    {
+      "gloss": "HOLY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOMEWORK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOOK",
+      "category": "CORE",
+      "anchor": [
+        "HOOK WORM DISEASE",
+        "HOOK AND EYE"
+      ]
+    },
+    {
+      "gloss": "HOOPS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOOT, SCREECH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HOPE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HORROR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HORSE RACING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HOST",
+      "category": "CORE",
+      "anchor": [
+        "HOST KEY",
+        "HOST VIDEO"
+      ]
+    },
+    {
+      "gloss": "HOSTEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOT",
+      "category": "CORE",
+      "anchor": [
+        "HOT AIR BALLOON",
+        "HOT ROLLED STEEL SECTIONS"
+      ]
+    },
+    {
+      "gloss": "HOT AIR BALLOON",
+      "category": "COMPOUND",
+      "anchor": [
+        "HOT",
+        "HOT ROLLED STEEL SECTIONS"
+      ]
+    },
+    {
+      "gloss": "HOT, SCORCHING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HOTEL",
+      "category": "CORE",
+      "anchor": [
+        "HOTEL CHAIN",
+        "HOTEL MANAGEMENT"
+      ]
+    },
+    {
+      "gloss": "HOUR",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "HOUSE, HOME",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HOUSEFLY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOW",
+      "category": "GRAMMAR & FUNCTION",
+      "anchor": [
+        "HOW MANY",
+        "HOW MUCH"
+      ]
+    },
+    {
+      "gloss": "HOW MANY",
+      "category": "COMPOUND",
+      "anchor": [
+        "HOW MUCH",
+        "HOW"
+      ]
+    },
+    {
+      "gloss": "HOW MUCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "HOW MANY",
+        "HOW"
+      ]
+    },
+    {
+      "gloss": "HOWL, BAY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HRITHIK ROSHAN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HSBC BANK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HTC MOBILE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HUAWEI MOBILE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HUG",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HUGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HUMBLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HUMID",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HUNGRY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HURDLE RACE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HURDLES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HURRY UP, QUICKLY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HURT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HUSBAND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYGIENE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYPOCRITE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HABITAT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HAEMOGLOBIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HANDICRAFTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HANDPICKING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HARD WATER AND SOFT WATER",
+      "category": "COMPOUND",
+      "anchor": [
+        "HARD CONSISTENCY SOIL",
+        "HARD LABOUR",
+        "HARD OF HEARING",
+        "HARD SOIL",
+        "HARD DISK, HARD DRIVE"
+      ]
+    },
+    {
+      "gloss": "HASTINAPURA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEALTH FOOD",
+      "category": "COMPOUND",
+      "anchor": [
+        "HEALTH INSURANCE",
+        "HEALTH PSYCHOLOGY",
+        "HEALTH",
+        "HEALTH TOURISM OR MEDICAL TOURISM"
+      ]
+    },
+    {
+      "gloss": "HEALTH PSYCHOLOGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "HEALTH INSURANCE",
+        "HEALTH FOOD",
+        "HEALTH",
+        "HEALTH TOURISM OR MEDICAL TOURISM"
+      ]
+    },
+    {
+      "gloss": "HEALTH TOURISM OR MEDICAL TOURISM",
+      "category": "COMPOUND",
+      "anchor": [
+        "HEALTH FOOD",
+        "HEALTH",
+        "HEALTH INSURANCE",
+        "HEALTH PSYCHOLOGY"
+      ]
+    },
+    {
+      "gloss": "HEALTHCARE",
+      "category": "CORE",
+      "anchor": [
+        "HEALTHCARE PROFESSIONALS"
+      ]
+    },
+    {
+      "gloss": "HEARING LOSS",
+      "category": "COMPOUND",
+      "anchor": [
+        "HEARING DE NOVO",
+        "HEARING AID",
+        "HEARING"
+      ]
+    },
+    {
+      "gloss": "HEARTBEAT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEAT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEATER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEIROGLYPHS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HELIPADS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HELIUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HELMINTHS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEMISPHERE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEPTAGON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HERB",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HERBICIDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HERBS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HERD",
+      "category": "CORE",
+      "anchor": [
+        "HERD OF ELEPHANTS, PARADE OF ELEPHANTS, MEMORY OF ELEPHANTS",
+        "HERD OF COWS, DROVE OF COWS"
+      ]
+    },
+    {
+      "gloss": "HERDER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HETEROTROPH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEXAGON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HIBERNATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HIGHER EDUCATION COMMISSION OF INDIA",
+      "category": "COMPOUND",
+      "anchor": [
+        "HIGHER EDUCATION GRANTS COUNCIL",
+        "HIGHER EDUCATION INSTITUTIONS"
+      ]
+    },
+    {
+      "gloss": "HIGHER EDUCATION GRANTS COUNCIL",
+      "category": "COMPOUND",
+      "anchor": [
+        "HIGHER EDUCATION COMMISSION OF INDIA",
+        "HIGHER EDUCATION INSTITUTIONS"
+      ]
+    },
+    {
+      "gloss": "HIGHER EDUCATION INSTITUTIONS",
+      "category": "COMPOUND",
+      "anchor": [
+        "HIGHER EDUCATION GRANTS COUNCIL",
+        "HIGHER EDUCATION COMMISSION OF INDIA"
+      ]
+    },
+    {
+      "gloss": "HIGHEST COMMON FACTOR, GREATEST COMMON DIVISOR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HIGHLIGHT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HINGE JOINT",
+      "category": "COMPOUND",
+      "anchor": [
+        "HINGE"
+      ]
+    },
+    {
+      "gloss": "HISTORIAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HISTORY",
+      "category": "CORE",
+      "anchor": [
+        "HISTORY OF PLANT PATHOLOGY"
+      ]
+    },
+    {
+      "gloss": "HOARDING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOLISTIC SCORING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HOMEBODIES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOMESTEAD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOMONOMY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOMOPHONE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HORIZANTAL EQUITY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HORTICULTURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOUSEHOLD WASTE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HUMAN TRAFFICKING",
+      "category": "COMPOUND",
+      "anchor": [
+        "HUMAN RESOURCE",
+        "HUMAN RIGHTS",
+        "HUMAN NUTRITION",
+        "HUMAN CAPITAL",
+        "HUMAN"
+      ]
+    },
+    {
+      "gloss": "HUMANISTIC PERSPECTIVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HUMANISTIC THERAPY"
+      ]
+    },
+    {
+      "gloss": "HUMIDITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HUMUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HUNDREDS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HUNDREDTHS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HUNTER-GATHERER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HUNTERS, POACHERS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HURRICANE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HUSKIES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYDROCHLORIC ACID",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HYDROGEN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYMN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYPERMETROPIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYPHEN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYPOTENUSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYPOTHESIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "H BUDDING",
+      "category": "COMPOUND",
+      "anchor": [
+        "H"
+      ]
+    },
+    {
+      "gloss": "HAND DUSTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "HAND CYMBALS",
+        "HAND PLAYING CARDS",
+        "HAND CARVING MACHINE",
+        "HAND SANITIZER",
+        "HAND SHOWER, HANDHELD SHOWER HEAD"
+      ]
+    },
+    {
+      "gloss": "HANDLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HANGING BASKET PLANTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HARD CONSISTENCY SOIL",
+      "category": "COMPOUND",
+      "anchor": [
+        "HARD LABOUR",
+        "HARD OF HEARING",
+        "HARD SOIL",
+        "HARD WATER AND SOFT WATER",
+        "HARD DISK, HARD DRIVE"
+      ]
+    },
+    {
+      "gloss": "HARVESTING OF VEGETABLES",
+      "category": "COMPOUND",
+      "anchor": [
+        "HARVESTING"
+      ]
+    },
+    {
+      "gloss": "HEDGES",
+      "category": "CORE",
+      "anchor": [
+        "HEDGES FOR PROTECTION"
+      ]
+    },
+    {
+      "gloss": "HEDGES FOR PROTECTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "HEDGES"
+      ]
+    },
+    {
+      "gloss": "HEIFER CALF",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HERBACEOUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HERBIVORUS FISHES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HETEROTROPHIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEXAGONAL METHOD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HIBISCUS ROSASINENSIS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HIGH YIELD",
+      "category": "COMPOUND",
+      "anchor": [
+        "HIGH COURT",
+        "HIGH JUMP",
+        "HIGH RISE BUILDING",
+        "HIGH FIVE",
+        "HIGH CHAIR"
+      ]
+    },
+    {
+      "gloss": "HILL GARDEN",
+      "category": "COMPOUND",
+      "anchor": [
+        "HILL",
+        "HILL STATION"
+      ]
+    },
+    {
+      "gloss": "HILLY CAMEL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HISTORY OF PLANT PATHOLOGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "HISTORY"
+      ]
+    },
+    {
+      "gloss": "HOME GARDENS",
+      "category": "COMPOUND",
+      "anchor": [
+        "HOME PAGE",
+        "HOME RUN",
+        "HOME VISIT",
+        "HOME QUARANTINE",
+        "HOME AUTOMATION"
+      ]
+    },
+    {
+      "gloss": "HONEY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HORIZONTAL LINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HORIZONTAL SCROLL BAR",
+        "HORIZONTAL SURFACE",
+        "HORIZONTAL BAR"
+      ]
+    },
+    {
+      "gloss": "HORIZONTAL SURFACE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HORIZONTAL LINE",
+        "HORIZONTAL SCROLL BAR",
+        "HORIZONTAL BAR"
+      ]
+    },
+    {
+      "gloss": "HUMPED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYBRID",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYBRIDIZATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYDATHODES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYDRATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYDRAULIC SPRAYER",
+      "category": "COMPOUND",
+      "anchor": [
+        "HYDRAULIC SYSTEM",
+        "HYDRAULIC PRESS"
+      ]
+    },
+    {
+      "gloss": "HYDROPNEUMATIC SPRAYER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HYGRO-SCOPIC WATER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HYPOGEAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HUNGARY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEDGE FUNDS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HAVE A BALL",
+      "category": "COMPOUND",
+      "anchor": [
+        "HAVE",
+        "HAVE YOUR HANDS FULL"
+      ]
+    },
+    {
+      "gloss": "HAVE YOUR HANDS FULL",
+      "category": "COMPOUND",
+      "anchor": [
+        "HAVE",
+        "HAVE A BALL"
+      ]
+    },
+    {
+      "gloss": "HABITUAL CRIMINAL OR HABITUAL OFFENDER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HACKING, HACKER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HALF DAY LEAVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HALF",
+        "HALF BACK",
+        "HALF VOLLEY",
+        "HALF NELSON",
+        "HALF PAY LEAVE"
+      ]
+    },
+    {
+      "gloss": "HALF PAY LEAVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HALF",
+        "HALF DAY LEAVE",
+        "HALF BACK",
+        "HALF VOLLEY",
+        "HALF NELSON"
+      ]
+    },
+    {
+      "gloss": "HANDCUFFS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HANDICAPPED ALLOWANCE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HANGMAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HARASSMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HARD LABOUR",
+      "category": "COMPOUND",
+      "anchor": [
+        "HARD CONSISTENCY SOIL",
+        "HARD OF HEARING",
+        "HARD SOIL",
+        "HARD WATER AND SOFT WATER",
+        "HARD DISK, HARD DRIVE"
+      ]
+    },
+    {
+      "gloss": "HEARING DE NOVO",
+      "category": "COMPOUND",
+      "anchor": [
+        "HEARING LOSS",
+        "HEARING AID",
+        "HEARING"
+      ]
+    },
+    {
+      "gloss": "HEARING, DATE OF FIRST HEARING, DATE OF NEXT HEARING, DATE OF FINAL HEARING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HEARSAY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEARSAY, HEARSAY EVIDENCE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HIERARCHY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HIGH COURT",
+      "category": "COMPOUND",
+      "anchor": [
+        "HIGH YIELD",
+        "HIGH JUMP",
+        "HIGH RISE BUILDING",
+        "HIGH FIVE",
+        "HIGH CHAIR"
+      ]
+    },
+    {
+      "gloss": "HIJACK, HIJACKER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HINDU LAW",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HIT & RUN",
+      "category": "COMPOUND",
+      "anchor": [
+        "HIT"
+      ]
+    },
+    {
+      "gloss": "HOLSTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOMICIDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOMOLOGNE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HONOR KILLING OR SHAME KILLING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HONORARIUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOSTICIDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOUSE BREAKING AT NIGHT",
+      "category": "COMPOUND",
+      "anchor": [
+        "HOUSE BUILDING ADVANCE",
+        "HOUSE HOLD ROBOT",
+        "HOUSE LIFTING",
+        "HOUSE RENT ALLOWANCE"
+      ]
+    },
+    {
+      "gloss": "HOUSE BUILDING ADVANCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HOUSE HOLD ROBOT",
+        "HOUSE LIFTING",
+        "HOUSE BREAKING AT NIGHT",
+        "HOUSE RENT ALLOWANCE"
+      ]
+    },
+    {
+      "gloss": "HOUSE RENT ALLOWANCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HOUSE BUILDING ADVANCE",
+        "HOUSE HOLD ROBOT",
+        "HOUSE BREAKING AT NIGHT",
+        "HOUSE LIFTING"
+      ]
+    },
+    {
+      "gloss": "HUMAN RIGHTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "HUMAN RESOURCE",
+        "HUMAN TRAFFICKING",
+        "HUMAN",
+        "HUMAN CAPITAL",
+        "HUMAN NUTRITION"
+      ]
+    },
+    {
+      "gloss": "HUNG JURY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HYPOTHETICAL DISPUTE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HALITOSIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HANDRAB",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HDU",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEART ATTACK",
+      "category": "COMPOUND",
+      "anchor": [
+        "HEART BLOCK",
+        "HEART DISEASES",
+        "HEART OF GOLD",
+        "HEART FAILURE"
+      ]
+    },
+    {
+      "gloss": "HEART BLOCK",
+      "category": "COMPOUND",
+      "anchor": [
+        "HEART ATTACK",
+        "HEART DISEASES",
+        "HEART OF GOLD",
+        "HEART FAILURE"
+      ]
+    },
+    {
+      "gloss": "HEART DISEASES",
+      "category": "COMPOUND",
+      "anchor": [
+        "HEART ATTACK",
+        "HEART OF GOLD",
+        "HEART BLOCK",
+        "HEART FAILURE"
+      ]
+    },
+    {
+      "gloss": "HEART FAILURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HEART ATTACK",
+        "HEART DISEASES",
+        "HEART OF GOLD",
+        "HEART BLOCK"
+      ]
+    },
+    {
+      "gloss": "HEARTBURN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEATSTROKE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEMODIALYSIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEMOGLOBIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEMOLYSIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEMOPHILIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEMORRHOID",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEPATITIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HERNIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HERNIATED INTERVERTEBRAL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HERPES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HERPS VIRUS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HIP-BONE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HIV SCREENING",
+      "category": "COMPOUND",
+      "anchor": [
+        "HIV SCREENING MACHINE"
+      ]
+    },
+    {
+      "gloss": "HIV SCREENING MACHINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HIV SCREENING"
+      ]
+    },
+    {
+      "gloss": "HOOK WORM DISEASE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HOOK",
+        "HOOK AND EYE"
+      ]
+    },
+    {
+      "gloss": "HUMAN NUTRITION",
+      "category": "COMPOUND",
+      "anchor": [
+        "HUMAN RESOURCE",
+        "HUMAN TRAFFICKING",
+        "HUMAN",
+        "HUMAN CAPITAL",
+        "HUMAN RIGHTS"
+      ]
+    },
+    {
+      "gloss": "HYPERTHYROIDISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYPOTENSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYPOTHALAMUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYPOTHERMIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYPOXIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYSTERECTOMY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HARYANA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HIMACHAL PRADESH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HYDERABAD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HACK SAW BLADE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HACK SAW FRAME"
+      ]
+    },
+    {
+      "gloss": "HACK SAW FRAME",
+      "category": "COMPOUND",
+      "anchor": [
+        "HACK SAW BLADE"
+      ]
+    },
+    {
+      "gloss": "HACKSAW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HAIR ENGRAVING SHAVER PEN",
+      "category": "COMPOUND",
+      "anchor": [
+        "HAIR STRAIGHTENER",
+        "HAIR DRYER",
+        "HAIR",
+        "HAIR CUT",
+        "HAIR CLIP"
+      ]
+    },
+    {
+      "gloss": "HALF ROUND FILE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HALF",
+        "HALF DAY LEAVE",
+        "HALF BACK",
+        "HALF VOLLEY",
+        "HALF NELSON"
+      ]
+    },
+    {
+      "gloss": "HALFTONE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HALTER TOP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HAND CARVING MACHINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HAND DUSTER",
+        "HAND CYMBALS",
+        "HAND PLAYING CARDS",
+        "HAND SANITIZER",
+        "HAND SHOWER, HANDHELD SHOWER HEAD"
+      ]
+    },
+    {
+      "gloss": "HAND RAIL",
+      "category": "COMPOUND",
+      "anchor": [
+        "HAND DUSTER",
+        "HAND CYMBALS",
+        "HAND PLAYING CARDS",
+        "HAND SANITIZER",
+        "HAND SHOWER, HANDHELD SHOWER HEAD"
+      ]
+    },
+    {
+      "gloss": "HAND TOOLS",
+      "category": "COMPOUND",
+      "anchor": [
+        "HAND DUSTER",
+        "HAND CYMBALS",
+        "HAND PLAYING CARDS",
+        "HAND SANITIZER",
+        "HAND SHOWER, HANDHELD SHOWER HEAD"
+      ]
+    },
+    {
+      "gloss": "HANDOUT MASTER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HANGOUTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HARD SOIL",
+      "category": "COMPOUND",
+      "anchor": [
+        "HARD CONSISTENCY SOIL",
+        "HARD LABOUR",
+        "HARD OF HEARING",
+        "HARD WATER AND SOFT WATER",
+        "HARD DISK, HARD DRIVE"
+      ]
+    },
+    {
+      "gloss": "HARDWARE",
+      "category": "CORE",
+      "anchor": [
+        "HARDWARE VIRTUALIZATION"
+      ]
+    },
+    {
+      "gloss": "HATCHET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEAD PAN",
+      "category": "COMPOUND",
+      "anchor": [
+        "HEAD",
+        "HEAD LOCKET"
+      ]
+    },
+    {
+      "gloss": "HEAVY DUTY ROBOT",
+      "category": "COMPOUND",
+      "anchor": [
+        "HEAVY"
+      ]
+    },
+    {
+      "gloss": "HEIGHT GAUGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HEIGHT"
+      ]
+    },
+    {
+      "gloss": "HELICAL GEAR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HEM MARKER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HEMLINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEMMING STITCH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HEXAPOD ROBOT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HIDDEN FILE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HIGH RISE BUILDING",
+      "category": "COMPOUND",
+      "anchor": [
+        "HIGH YIELD",
+        "HIGH COURT",
+        "HIGH JUMP",
+        "HIGH FIVE",
+        "HIGH CHAIR"
+      ]
+    },
+    {
+      "gloss": "HIGH TENSILE STEEL",
+      "category": "COMPOUND",
+      "anchor": [
+        "HIGH YIELD",
+        "HIGH COURT",
+        "HIGH JUMP",
+        "HIGH FIVE",
+        "HIGH CHAIR"
+      ]
+    },
+    {
+      "gloss": "HINGE",
+      "category": "CORE",
+      "anchor": [
+        "HINGE JOINT"
+      ]
+    },
+    {
+      "gloss": "HIP HUGGER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HOE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOLLOW BLOCKS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HOME AUTOMATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "HOME PAGE",
+        "HOME RUN",
+        "HOME VISIT",
+        "HOME QUARANTINE",
+        "HOME GARDENS"
+      ]
+    },
+    {
+      "gloss": "HOME PAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HOME GARDENS",
+        "HOME RUN",
+        "HOME VISIT",
+        "HOME QUARANTINE",
+        "HOME AUTOMATION"
+      ]
+    },
+    {
+      "gloss": "HOOK AND EYE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HOOK",
+        "HOOK WORM DISEASE"
+      ]
+    },
+    {
+      "gloss": "HORIZONTAL SCROLL BAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "HORIZONTAL LINE",
+        "HORIZONTAL SURFACE",
+        "HORIZONTAL BAR"
+      ]
+    },
+    {
+      "gloss": "HOST KEY",
+      "category": "COMPOUND",
+      "anchor": [
+        "HOST",
+        "HOST VIDEO"
+      ]
+    },
+    {
+      "gloss": "HOST VIDEO",
+      "category": "COMPOUND",
+      "anchor": [
+        "HOST",
+        "HOST KEY"
+      ]
+    },
+    {
+      "gloss": "HOT ROLLED STEEL SECTIONS",
+      "category": "COMPOUND",
+      "anchor": [
+        "HOT AIR BALLOON",
+        "HOT"
+      ]
+    },
+    {
+      "gloss": "HOUSE HOLD ROBOT",
+      "category": "COMPOUND",
+      "anchor": [
+        "HOUSE BUILDING ADVANCE",
+        "HOUSE LIFTING",
+        "HOUSE BREAKING AT NIGHT",
+        "HOUSE RENT ALLOWANCE"
+      ]
+    },
+    {
+      "gloss": "HOUSE LIFTING",
+      "category": "COMPOUND",
+      "anchor": [
+        "HOUSE BUILDING ADVANCE",
+        "HOUSE HOLD ROBOT",
+        "HOUSE BREAKING AT NIGHT",
+        "HOUSE RENT ALLOWANCE"
+      ]
+    },
+    {
+      "gloss": "HOUSING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HSS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HTML",
+      "category": "CORE",
+      "anchor": [
+        "HTML TAG"
+      ]
+    },
+    {
+      "gloss": "HTML TAG",
+      "category": "COMPOUND",
+      "anchor": [
+        "HTML"
+      ]
+    },
+    {
+      "gloss": "HUE",
+      "category": "CLASSIFIERS",
+      "anchor": []
+    },
+    {
+      "gloss": "HVAC MAINTENANCE SERVICE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HYDRAULIC PRESS",
+      "category": "COMPOUND",
+      "anchor": [
+        "HYDRAULIC SYSTEM",
+        "HYDRAULIC SPRAYER"
+      ]
+    },
+    {
+      "gloss": "HYDROELECTRICITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYPERLINK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYPHENATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HARVESTING",
+      "category": "CORE",
+      "anchor": [
+        "HARVESTING OF VEGETABLES"
+      ]
+    },
+    {
+      "gloss": "HECTO-",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEPTA-",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HERBIVORE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HERON'S FORMULA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HEXA-",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HORMONE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOUSEKEEPING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HUMAN CAPITAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "HUMAN RESOURCE",
+        "HUMAN TRAFFICKING",
+        "HUMAN RIGHTS",
+        "HUMAN NUTRITION",
+        "HUMAN"
+      ]
+    },
+    {
+      "gloss": "HUMAN RESOURCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HUMAN TRAFFICKING",
+        "HUMAN",
+        "HUMAN NUTRITION",
+        "HUMAN CAPITAL",
+        "HUMAN RIGHTS"
+      ]
+    },
+    {
+      "gloss": "HYDRA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HUMAYUN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYDROSPHERE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HAIKU",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HAILSTONE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HAMLET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HAND",
+      "category": "CORE",
+      "anchor": [
+        "HAND DUSTER",
+        "HAND CYMBALS",
+        "HAND PLAYING CARDS",
+        "HAND SANITIZER",
+        "HAND SHOWER, HANDHELD SHOWER HEAD"
+      ]
+    },
+    {
+      "gloss": "HANDICAP PARKING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HANDY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HAPTIC FEEDBACK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HARD INFRASTRUCTURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HARD CONSISTENCY SOIL",
+        "HARD LABOUR",
+        "HARD OF HEARING",
+        "HARD WATER AND SOFT WATER",
+        "HARD DISK, HARD DRIVE"
+      ]
+    },
+    {
+      "gloss": "HARDWARE VIRTUALIZATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "HARDWARE"
+      ]
+    },
+    {
+      "gloss": "HARMONIOUSLY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HARMONY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HARNESS RACING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HATTRICK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HAYMAKER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEALER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEALTHCARE PROFESSIONALS",
+      "category": "COMPOUND",
+      "anchor": [
+        "HEALTHCARE"
+      ]
+    },
+    {
+      "gloss": "HEARTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEGEMONY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HELPER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HIGH RISK GROUP",
+      "category": "COMPOUND",
+      "anchor": [
+        "HIGH YIELD",
+        "HIGH COURT",
+        "HIGH JUMP",
+        "HIGH FIVE",
+        "HIGH CHAIR"
+      ]
+    },
+    {
+      "gloss": "HIGH TOUCH SURFACE / COMMON SURFACE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HIGH YIELD",
+        "HIGH COURT",
+        "HIGH JUMP",
+        "HIGH FIVE",
+        "HIGH CHAIR"
+      ]
+    },
+    {
+      "gloss": "HOLOCAUST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOME QUARANTINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HOME GARDENS",
+        "HOME PAGE",
+        "HOME RUN",
+        "HOME VISIT",
+        "HOME AUTOMATION"
+      ]
+    },
+    {
+      "gloss": "HOME RUN",
+      "category": "COMPOUND",
+      "anchor": [
+        "HOME GARDENS",
+        "HOME PAGE",
+        "HOME VISIT",
+        "HOME QUARANTINE",
+        "HOME AUTOMATION"
+      ]
+    },
+    {
+      "gloss": "HOMEMAKER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HORIZONTAL BAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "HORIZONTAL SCROLL BAR",
+        "HORIZONTAL LINE",
+        "HORIZONTAL SURFACE"
+      ]
+    },
+    {
+      "gloss": "HOTSPOT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOVERCRAFT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HUMAN",
+      "category": "CORE",
+      "anchor": [
+        "HUMAN RESOURCE",
+        "HUMAN TRAFFICKING",
+        "HUMAN NUTRITION",
+        "HUMAN CAPITAL",
+        "HUMAN RIGHTS"
+      ]
+    },
+    {
+      "gloss": "HUMAN TO HUMAN TRANSMISSION",
+      "category": "COMPOUND",
+      "anchor": [
+        "HUMAN RESOURCE",
+        "HUMAN TRAFFICKING",
+        "HUMAN NUTRITION",
+        "HUMAN CAPITAL",
+        "HUMAN RIGHTS"
+      ]
+    },
+    {
+      "gloss": "HUMANISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYDRAULIC SYSTEM",
+      "category": "COMPOUND",
+      "anchor": [
+        "HYDRAULIC PRESS",
+        "HYDRAULIC SPRAYER"
+      ]
+    },
+    {
+      "gloss": "HYDROELECTRIC DAM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HYPERBOLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYPOPHORA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HAIRLINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HANDSHAPE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HANGRY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HARBOUR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HASSLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEALTH INSURANCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HEALTH FOOD",
+        "HEALTH",
+        "HEALTH TOURISM OR MEDICAL TOURISM",
+        "HEALTH PSYCHOLOGY"
+      ]
+    },
+    {
+      "gloss": "HEAVY-HEARTED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HECTOMETER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEIRLOOM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HENNA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HESITATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HILL STATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "HILL",
+        "HILL GARDEN"
+      ]
+    },
+    {
+      "gloss": "HIVES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOLLYWOOD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOMELESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOMEMADE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOMESCHOOLING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOMESICK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOPELESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOTEL CHAIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "HOTEL",
+        "HOTEL MANAGEMENT"
+      ]
+    },
+    {
+      "gloss": "HOTEL MANAGEMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "HOTEL",
+        "HOTEL CHAIN"
+      ]
+    },
+    {
+      "gloss": "HOUSEFULL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOUSEWIFE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HUMAN RIGHTS LAW",
+      "category": "COMPOUND",
+      "anchor": [
+        "HUMAN RESOURCE",
+        "HUMAN TRAFFICKING",
+        "HUMAN NUTRITION",
+        "HUMAN CAPITAL",
+        "HUMAN RIGHTS"
+      ]
+    },
+    {
+      "gloss": "HAZARDOUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOLLOWNESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HUMAN DEVELOPMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "HUMAN RESOURCE",
+        "HUMAN TRAFFICKING",
+        "HUMAN NUTRITION",
+        "HUMAN CAPITAL",
+        "HUMAN RIGHTS"
+      ]
+    },
+    {
+      "gloss": "HALLUCINATIONS - TYPES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HEALING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEALTHY BOUNDARIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "HEALTHY LIFESTYLE",
+        "HEALTHY STRESS"
+      ]
+    },
+    {
+      "gloss": "HEALTHY LIFESTYLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "HEALTHY BOUNDARIES",
+        "HEALTHY STRESS"
+      ]
+    },
+    {
+      "gloss": "HEALTHY STRESS",
+      "category": "COMPOUND",
+      "anchor": [
+        "HEALTHY BOUNDARIES",
+        "HEALTHY LIFESTYLE"
+      ]
+    },
+    {
+      "gloss": "HELPLESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HESITANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HIGHLY SENSITIVE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HOME VISIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "HOME GARDENS",
+        "HOME PAGE",
+        "HOME RUN",
+        "HOME QUARANTINE",
+        "HOME AUTOMATION"
+      ]
+    },
+    {
+      "gloss": "HOSPICE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HUMILIATED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYPER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYPERACTIVITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYPERFIXATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYPER-RESPONSIBILITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYPOCHONDRIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HAIR PINS",
+      "category": "COMPOUND",
+      "anchor": [
+        "HAIR STRAIGHTENER",
+        "HAIR DRYER",
+        "HAIR",
+        "HAIR CUT",
+        "HAIR CLIP"
+      ]
+    },
+    {
+      "gloss": "HAIR ROLLERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "HAIR STRAIGHTENER",
+        "HAIR DRYER",
+        "HAIR",
+        "HAIR CUT",
+        "HAIR CLIP"
+      ]
+    },
+    {
+      "gloss": "HAITI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HANGAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HAPPINESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HARD-WORKING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HAWK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HEAD LOCKET",
+      "category": "COMPOUND",
+      "anchor": [
+        "HEAD PAN",
+        "HEAD"
+      ]
+    },
+    {
+      "gloss": "HERESY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HERMENEUTICS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HERON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HONDURAS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HOOPOE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HORNBILL FESTIVAL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "HYDROLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HYPERINFLATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "HUMANISTIC THERAPY",
+      "category": "COMPOUND",
+      "anchor": [
+        "HUMANISTIC PERSPECTIVE"
+      ]
+    },
+    {
+      "gloss": "H",
+      "category": "LETTERS",
+      "anchor": [
+        "H BUDDING"
+      ]
+    }
+  ]
+}

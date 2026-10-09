@@ -1,0 +1,1448 @@
+{
+  "metadata": {
+    "total_words": 215,
+    "description": "Words starting with letter V"
+  },
+  "words": [
+    {
+      "gloss": "VACATION, HOLIDAYS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VAISHNO DEVI",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VALLEY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VALUE, WORTH, MERIT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VARIATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VARIETY, DIVERSITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "VARIETY, DIALECT"
+      ]
+    },
+    {
+      "gloss": "VEGETABLES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VEHICLE",
+      "category": "CORE",
+      "anchor": [
+        "VEHICLE REGISTRATION",
+        "VEHICLE FLEET",
+        "VEHICLE INSURANCE"
+      ]
+    },
+    {
+      "gloss": "VERB",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VERY",
+      "category": "CORE",
+      "anchor": [
+        "VERY WEALTHY PERSON, MAGNATE, TYCOON",
+        "VERY HOT"
+      ]
+    },
+    {
+      "gloss": "VERY HOT",
+      "category": "COMPOUND",
+      "anchor": [
+        "VERY",
+        "VERY WEALTHY PERSON, MAGNATE, TYCOON"
+      ]
+    },
+    {
+      "gloss": "VERY WEALTHY PERSON, MAGNATE, TYCOON",
+      "category": "COMPOUND",
+      "anchor": [
+        "VERY",
+        "VERY HOT"
+      ]
+    },
+    {
+      "gloss": "VESSEL",
+      "category": "CORE",
+      "anchor": [
+        "VESSEL TRACKING"
+      ]
+    },
+    {
+      "gloss": "VETERINARIAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VICE PRESIDENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VICTORY, SUCCESS, TRIUMPH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VIDEO",
+      "category": "CORE",
+      "anchor": [
+        "VIDEO FILTER",
+        "VIDEO RELAY SERVICE",
+        "VIDEO CONFERENCE",
+        "VIDEO CALL",
+        "VIDEO CARD"
+      ]
+    },
+    {
+      "gloss": "VIDEO CALL",
+      "category": "COMPOUND",
+      "anchor": [
+        "VIDEO FILTER",
+        "VIDEO RELAY SERVICE",
+        "VIDEO CONFERENCE",
+        "VIDEO CARD",
+        "VIDEO"
+      ]
+    },
+    {
+      "gloss": "VIDEO RELAY SERVICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "VIDEO FILTER",
+        "VIDEO CONFERENCE",
+        "VIDEO CALL",
+        "VIDEO CARD",
+        "VIDEO"
+      ]
+    },
+    {
+      "gloss": "VIDEOGRAPHER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VIDYASAGAR SETU",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VIEW, PERSPECTIVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "VIEW, SCENE"
+      ]
+    },
+    {
+      "gloss": "VIEW, SCENE",
+      "category": "COMPOUND",
+      "anchor": [
+        "VIEW, PERSPECTIVE"
+      ]
+    },
+    {
+      "gloss": "VIJAYA BANK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VILLAGE",
+      "category": "CORE",
+      "anchor": [
+        "VILLAGE SIGN LANGUAGE"
+      ]
+    },
+    {
+      "gloss": "VIOLIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VIRAT KOHLI",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VIRUS",
+      "category": "CORE",
+      "anchor": [
+        "VIRUS SYMTOMS"
+      ]
+    },
+    {
+      "gloss": "VISA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VISHNU",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VISIBLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VISION",
+      "category": "CORE",
+      "anchor": [
+        "VISION LOSS AND BLINDNESS"
+      ]
+    },
+    {
+      "gloss": "VISIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VISUAL",
+      "category": "CORE",
+      "anchor": [
+        "VISUAL BASIC",
+        "VISUAL EFFECTS",
+        "VISUAL VERNACULAR",
+        "VISUAL ARTS"
+      ]
+    },
+    {
+      "gloss": "VIVEKANANDA ROCK MEMORIAL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VOCABULARY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VOCATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VODAFONE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VODKA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VOICE",
+      "category": "CORE",
+      "anchor": [
+        "VOICE BOX"
+      ]
+    },
+    {
+      "gloss": "VOLCANO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VOLKSWAGEN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VOLLEY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VOLLEYBALL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VOLUME",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VOTE",
+      "category": "CORE",
+      "anchor": [
+        "VOTE OF THANKS"
+      ]
+    },
+    {
+      "gloss": "VULTURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VACATIONERS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VACUOLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VAGARIES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VAISHYA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VALUE ADDED TAX",
+      "category": "COMPOUND",
+      "anchor": [
+        "VALUE SCALE"
+      ]
+    },
+    {
+      "gloss": "VAPOUR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VARIABLE",
+      "category": "CORE",
+      "anchor": [
+        "VARIABLE INTEREST",
+        "VARIABLE RESISTOR"
+      ]
+    },
+    {
+      "gloss": "VARIABLES AND CONSTANTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VARIETY, DIALECT",
+      "category": "COMPOUND",
+      "anchor": [
+        "VARIETY, DIVERSITY"
+      ]
+    },
+    {
+      "gloss": "VARNA",
+      "category": "CORE",
+      "anchor": [
+        "VARNA AND CASTE"
+      ]
+    },
+    {
+      "gloss": "VARNA AND CASTE",
+      "category": "COMPOUND",
+      "anchor": [
+        "VARNA"
+      ]
+    },
+    {
+      "gloss": "VEGETATION MAP",
+      "category": "COMPOUND",
+      "anchor": [
+        "VEGETATION"
+      ]
+    },
+    {
+      "gloss": "VEIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VELOCITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VENTILATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VENUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VERBS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VERMICOMPOSTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VERTEBRATES",
+      "category": "CORE",
+      "anchor": [
+        "VERTEBRATES AND INVERTEBRATES"
+      ]
+    },
+    {
+      "gloss": "VERTEBRATES AND INVERTEBRATES",
+      "category": "COMPOUND",
+      "anchor": [
+        "VERTEBRATES"
+      ]
+    },
+    {
+      "gloss": "VERTEX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VERTICALLY OPPOSITE ANGLES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VIABLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VICTIM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VILLAGE SIGN LANGUAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "VILLAGE"
+      ]
+    },
+    {
+      "gloss": "VILLI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VIRUSES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VISCOSITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VITAMINS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VITICULTURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VITILIGO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VIVIPAROUS AND OVIPAROUS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VOLTMETER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VOLUMETRIC ANALYSIS",
+      "category": "COMPOUND",
+      "anchor": [
+        "VOLUMETRIC FLASK"
+      ]
+    },
+    {
+      "gloss": "VOLUMETRIC FLASK",
+      "category": "COMPOUND",
+      "anchor": [
+        "VOLUMETRIC ANALYSIS"
+      ]
+    },
+    {
+      "gloss": "VARIETIES OF IMPORTANT FLOWERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "VARIETIES OF MUSHROOM"
+      ]
+    },
+    {
+      "gloss": "VARIETIES OF MUSHROOM",
+      "category": "COMPOUND",
+      "anchor": [
+        "VARIETIES OF IMPORTANT FLOWERS"
+      ]
+    },
+    {
+      "gloss": "VEGETABLE CROPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "VEGETABLE GARDENING FOR SEED PRODUCTION",
+        "VEGETABLE GARDENING FOR EXHIBITION",
+        "VEGETABLE GROWING OR GARDENING FOR PROCESSING",
+        "VEGETABLE PRESERVATION",
+        "VEGETABLE FORCING GARDENING"
+      ]
+    },
+    {
+      "gloss": "VEGETABLE FORCING GARDENING",
+      "category": "COMPOUND",
+      "anchor": [
+        "VEGETABLE GARDENING FOR SEED PRODUCTION",
+        "VEGETABLE GARDENING FOR EXHIBITION",
+        "VEGETABLE GROWING OR GARDENING FOR PROCESSING",
+        "VEGETABLE PRESERVATION",
+        "VEGETABLE CROPS"
+      ]
+    },
+    {
+      "gloss": "VEGETABLE GARDENING FOR EXHIBITION",
+      "category": "COMPOUND",
+      "anchor": [
+        "VEGETABLE GARDENING FOR SEED PRODUCTION",
+        "VEGETABLE GROWING OR GARDENING FOR PROCESSING",
+        "VEGETABLE PRESERVATION",
+        "VEGETABLE FORCING GARDENING",
+        "VEGETABLE CROPS"
+      ]
+    },
+    {
+      "gloss": "VEGETABLE GARDENING FOR SEED PRODUCTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "VEGETABLE GARDENING FOR EXHIBITION",
+        "VEGETABLE GROWING OR GARDENING FOR PROCESSING",
+        "VEGETABLE PRESERVATION",
+        "VEGETABLE FORCING GARDENING",
+        "VEGETABLE CROPS"
+      ]
+    },
+    {
+      "gloss": "VEGETABLE GROWING OR GARDENING FOR PROCESSING",
+      "category": "COMPOUND",
+      "anchor": [
+        "VEGETABLE GARDENING FOR SEED PRODUCTION",
+        "VEGETABLE GARDENING FOR EXHIBITION",
+        "VEGETABLE PRESERVATION",
+        "VEGETABLE FORCING GARDENING",
+        "VEGETABLE CROPS"
+      ]
+    },
+    {
+      "gloss": "VEGETABLE PRESERVATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "VEGETABLE GARDENING FOR SEED PRODUCTION",
+        "VEGETABLE GARDENING FOR EXHIBITION",
+        "VEGETABLE GROWING OR GARDENING FOR PROCESSING",
+        "VEGETABLE FORCING GARDENING",
+        "VEGETABLE CROPS"
+      ]
+    },
+    {
+      "gloss": "VEGETATIVE REPRODUCTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VENEER GRAFTING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VERNALIZATION OF SEEDS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VIRAL DISEASES ANIMALS",
+      "category": "COMPOUND",
+      "anchor": [
+        "VIRAL"
+      ]
+    },
+    {
+      "gloss": "VIRUS SYMTOMS",
+      "category": "COMPOUND",
+      "anchor": [
+        "VIRUS"
+      ]
+    },
+    {
+      "gloss": "VITELLINE MEMBRANE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VOID RATIO",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VENEZUELA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VIETNAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VARIABLE INTEREST",
+      "category": "COMPOUND",
+      "anchor": [
+        "VARIABLE",
+        "VARIABLE RESISTOR"
+      ]
+    },
+    {
+      "gloss": "VERIFICATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VOLUNTARILY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VOTING RIGHTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VAKALATNAMA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VENALITY, VENAL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VENDOR, VENDEE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VERDICT, JUGDEMENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VETERAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VEXATIOUS LITIGANT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VICARIOUS LIABILITY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VIGILANCE CERTIFICATE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VIGILANCE, VIGILANT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VOLUNTARY RETIREMENT SCHEME",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VOTE OF THANKS",
+      "category": "COMPOUND",
+      "anchor": [
+        "VOTE"
+      ]
+    },
+    {
+      "gloss": "VOYEURISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VACCINATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VACCINE",
+      "category": "CORE",
+      "anchor": [
+        "VACCINE TRANSPORT BOX"
+      ]
+    },
+    {
+      "gloss": "VACCINE TRANSPORT BOX",
+      "category": "COMPOUND",
+      "anchor": [
+        "VACCINE"
+      ]
+    },
+    {
+      "gloss": "VAGINAL CANCER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VERTEBRA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VETERINARY TECHNOLOGIST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VISION LOSS AND BLINDNESS",
+      "category": "COMPOUND",
+      "anchor": [
+        "VISION"
+      ]
+    },
+    {
+      "gloss": "VITAL SIGNS MONITOR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VITAMIN",
+      "category": "CORE",
+      "anchor": [
+        "VITAMIN B 3",
+        "VITAMIN B 5",
+        "VITAMIN B 1",
+        "VITAMIN A",
+        "VITAMIN B 2"
+      ]
+    },
+    {
+      "gloss": "VITAMIN A",
+      "category": "COMPOUND",
+      "anchor": [
+        "VITAMIN B 3",
+        "VITAMIN",
+        "VITAMIN B 5",
+        "VITAMIN B 1",
+        "VITAMIN B 2"
+      ]
+    },
+    {
+      "gloss": "VITAMIN B 1",
+      "category": "COMPOUND",
+      "anchor": [
+        "VITAMIN B 3",
+        "VITAMIN",
+        "VITAMIN B 5",
+        "VITAMIN A",
+        "VITAMIN B 2"
+      ]
+    },
+    {
+      "gloss": "VITAMIN B 2",
+      "category": "COMPOUND",
+      "anchor": [
+        "VITAMIN B 3",
+        "VITAMIN",
+        "VITAMIN B 5",
+        "VITAMIN B 1",
+        "VITAMIN A"
+      ]
+    },
+    {
+      "gloss": "VITAMIN B 3",
+      "category": "COMPOUND",
+      "anchor": [
+        "VITAMIN",
+        "VITAMIN B 5",
+        "VITAMIN B 1",
+        "VITAMIN A",
+        "VITAMIN B 2"
+      ]
+    },
+    {
+      "gloss": "VITAMIN B 5",
+      "category": "COMPOUND",
+      "anchor": [
+        "VITAMIN B 3",
+        "VITAMIN",
+        "VITAMIN B 1",
+        "VITAMIN A",
+        "VITAMIN B 2"
+      ]
+    },
+    {
+      "gloss": "VITAMIN B 6",
+      "category": "COMPOUND",
+      "anchor": [
+        "VITAMIN B 3",
+        "VITAMIN",
+        "VITAMIN B 1",
+        "VITAMIN A",
+        "VITAMIN B 2"
+      ]
+    },
+    {
+      "gloss": "VITAMIN B 7",
+      "category": "COMPOUND",
+      "anchor": [
+        "VITAMIN B 3",
+        "VITAMIN",
+        "VITAMIN B 1",
+        "VITAMIN A",
+        "VITAMIN B 2"
+      ]
+    },
+    {
+      "gloss": "VITAMIN B 9",
+      "category": "COMPOUND",
+      "anchor": [
+        "VITAMIN B 3",
+        "VITAMIN",
+        "VITAMIN B 1",
+        "VITAMIN A",
+        "VITAMIN B 2"
+      ]
+    },
+    {
+      "gloss": "VITAMIN B12",
+      "category": "COMPOUND",
+      "anchor": [
+        "VITAMIN B 3",
+        "VITAMIN",
+        "VITAMIN B 1",
+        "VITAMIN A",
+        "VITAMIN B 2"
+      ]
+    },
+    {
+      "gloss": "VITAMIN C",
+      "category": "COMPOUND",
+      "anchor": [
+        "VITAMIN B 3",
+        "VITAMIN",
+        "VITAMIN B 1",
+        "VITAMIN A",
+        "VITAMIN B 2"
+      ]
+    },
+    {
+      "gloss": "VITAMIN D",
+      "category": "COMPOUND",
+      "anchor": [
+        "VITAMIN B 3",
+        "VITAMIN",
+        "VITAMIN B 1",
+        "VITAMIN A",
+        "VITAMIN B 2"
+      ]
+    },
+    {
+      "gloss": "VITAMIN K 1",
+      "category": "COMPOUND",
+      "anchor": [
+        "VITAMIN B 3",
+        "VITAMIN",
+        "VITAMIN B 1",
+        "VITAMIN A",
+        "VITAMIN B 2"
+      ]
+    },
+    {
+      "gloss": "VOCAL CORD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VULVOVAGINAL GLANDS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VADODARA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VARANASI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "V BELT",
+      "category": "COMPOUND",
+      "anchor": [
+        "V BLOCK",
+        "V",
+        "V NECK"
+      ]
+    },
+    {
+      "gloss": "V BLOCK",
+      "category": "COMPOUND",
+      "anchor": [
+        "V BELT",
+        "V",
+        "V NECK"
+      ]
+    },
+    {
+      "gloss": "V NECK",
+      "category": "COMPOUND",
+      "anchor": [
+        "V BELT",
+        "V BLOCK",
+        "V"
+      ]
+    },
+    {
+      "gloss": "VALUE SCALE",
+      "category": "COMPOUND",
+      "anchor": [
+        "VALUE ADDED TAX"
+      ]
+    },
+    {
+      "gloss": "VALVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VARIABLE RESISTOR",
+      "category": "COMPOUND",
+      "anchor": [
+        "VARIABLE",
+        "VARIABLE INTEREST"
+      ]
+    },
+    {
+      "gloss": "VECTOR GRAPHICS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VELCRO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VERNIER CALIPER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VERSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VERTICAL SCROLL BAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "VERTICAL LINE"
+      ]
+    },
+    {
+      "gloss": "VIBRANT IMAGE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VIBRATOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VIDEO CARD",
+      "category": "COMPOUND",
+      "anchor": [
+        "VIDEO FILTER",
+        "VIDEO RELAY SERVICE",
+        "VIDEO CONFERENCE",
+        "VIDEO CALL",
+        "VIDEO"
+      ]
+    },
+    {
+      "gloss": "VIDEO CONFERENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "VIDEO FILTER",
+        "VIDEO RELAY SERVICE",
+        "VIDEO CALL",
+        "VIDEO CARD",
+        "VIDEO"
+      ]
+    },
+    {
+      "gloss": "VIDEO FILTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "VIDEO RELAY SERVICE",
+        "VIDEO CONFERENCE",
+        "VIDEO CALL",
+        "VIDEO CARD",
+        "VIDEO"
+      ]
+    },
+    {
+      "gloss": "VIDEO TUTORIALS",
+      "category": "COMPOUND",
+      "anchor": [
+        "VIDEO RELAY SERVICE",
+        "VIDEO CONFERENCE",
+        "VIDEO CALL",
+        "VIDEO CARD",
+        "VIDEO"
+      ]
+    },
+    {
+      "gloss": "VINYL FLOORING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VIRTUAL",
+      "category": "CORE",
+      "anchor": [
+        "VIRTUAL BACKGROUND",
+        "VIRTUAL REALITY",
+        "VIRTUAL IMAGE",
+        "VIRTUAL MEETING",
+        "VIRTUAL GAMES"
+      ]
+    },
+    {
+      "gloss": "VIRTUAL BACKGROUND",
+      "category": "COMPOUND",
+      "anchor": [
+        "VIRTUAL",
+        "VIRTUAL REALITY",
+        "VIRTUAL IMAGE",
+        "VIRTUAL MEETING",
+        "VIRTUAL GAMES"
+      ]
+    },
+    {
+      "gloss": "VISUAL BASIC",
+      "category": "COMPOUND",
+      "anchor": [
+        "VISUAL",
+        "VISUAL EFFECTS",
+        "VISUAL VERNACULAR",
+        "VISUAL ARTS"
+      ]
+    },
+    {
+      "gloss": "VISUAL EFFECTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "VISUAL BASIC",
+        "VISUAL",
+        "VISUAL VERNACULAR",
+        "VISUAL ARTS"
+      ]
+    },
+    {
+      "gloss": "VOLATILE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VOLT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VOLTAGE BOOSTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "VOLTAGE DROP"
+      ]
+    },
+    {
+      "gloss": "VOLTAGE DROP",
+      "category": "COMPOUND",
+      "anchor": [
+        "VOLTAGE BOOSTER"
+      ]
+    },
+    {
+      "gloss": "VOLTAIC CELL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VEDAS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VEGETATION",
+      "category": "CORE",
+      "anchor": [
+        "VEGETATION MAP"
+      ]
+    },
+    {
+      "gloss": "VERTICAL LINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "VERTICAL SCROLL BAR"
+      ]
+    },
+    {
+      "gloss": "VIBRATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VIRGO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VIRTUAL IMAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "VIRTUAL BACKGROUND",
+        "VIRTUAL",
+        "VIRTUAL REALITY",
+        "VIRTUAL MEETING",
+        "VIRTUAL GAMES"
+      ]
+    },
+    {
+      "gloss": "VISUAL ARTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "VISUAL BASIC",
+        "VISUAL",
+        "VISUAL EFFECTS",
+        "VISUAL VERNACULAR"
+      ]
+    },
+    {
+      "gloss": "VOICE BOX",
+      "category": "COMPOUND",
+      "anchor": [
+        "VOICE"
+      ]
+    },
+    {
+      "gloss": "VACANCY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VALIDATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VALUES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VEHICLE FLEET",
+      "category": "COMPOUND",
+      "anchor": [
+        "VEHICLE",
+        "VEHICLE REGISTRATION",
+        "VEHICLE INSURANCE"
+      ]
+    },
+    {
+      "gloss": "VEHICLE INSURANCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "VEHICLE",
+        "VEHICLE FLEET",
+        "VEHICLE REGISTRATION"
+      ]
+    },
+    {
+      "gloss": "VEHICLE REGISTRATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "VEHICLE",
+        "VEHICLE FLEET",
+        "VEHICLE INSURANCE"
+      ]
+    },
+    {
+      "gloss": "VELODROME",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VENTILATOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VESSEL TRACKING",
+      "category": "COMPOUND",
+      "anchor": [
+        "VESSEL"
+      ]
+    },
+    {
+      "gloss": "VETO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VIRAL",
+      "category": "CORE",
+      "anchor": [
+        "VIRAL DISEASES ANIMALS"
+      ]
+    },
+    {
+      "gloss": "VIRTUAL MEETING",
+      "category": "COMPOUND",
+      "anchor": [
+        "VIRTUAL BACKGROUND",
+        "VIRTUAL",
+        "VIRTUAL REALITY",
+        "VIRTUAL IMAGE",
+        "VIRTUAL GAMES"
+      ]
+    },
+    {
+      "gloss": "VORTEX SHIELD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VOWEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VULNERABLE GROUPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "VULNERABLE"
+      ]
+    },
+    {
+      "gloss": "VACUUM CLEANER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "VALET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VERTIGO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VIDEO BLOG",
+      "category": "COMPOUND",
+      "anchor": [
+        "VIDEO RELAY SERVICE",
+        "VIDEO CONFERENCE",
+        "VIDEO CALL",
+        "VIDEO CARD",
+        "VIDEO"
+      ]
+    },
+    {
+      "gloss": "VIOLET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VIP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VIRTUAL GAMES",
+      "category": "COMPOUND",
+      "anchor": [
+        "VIRTUAL BACKGROUND",
+        "VIRTUAL",
+        "VIRTUAL REALITY",
+        "VIRTUAL IMAGE",
+        "VIRTUAL MEETING"
+      ]
+    },
+    {
+      "gloss": "VOTER",
+      "category": "CORE",
+      "anchor": [
+        "VOTER ID CARD"
+      ]
+    },
+    {
+      "gloss": "VOTER ID CARD",
+      "category": "COMPOUND",
+      "anchor": [
+        "VOTER"
+      ]
+    },
+    {
+      "gloss": "VARIANCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VALIDATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VIDEO COUNSELLING",
+      "category": "COMPOUND",
+      "anchor": [
+        "VIDEO RELAY SERVICE",
+        "VIDEO CONFERENCE",
+        "VIDEO CALL",
+        "VIDEO CARD",
+        "VIDEO"
+      ]
+    },
+    {
+      "gloss": "VIOLENCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VULNERABLE",
+      "category": "CORE",
+      "anchor": [
+        "VULNERABLE GROUPS"
+      ]
+    },
+    {
+      "gloss": "VAGUE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VAISAKHI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VERMILLION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VIDEO GAME",
+      "category": "COMPOUND",
+      "anchor": [
+        "VIDEO RELAY SERVICE",
+        "VIDEO CONFERENCE",
+        "VIDEO CALL",
+        "VIDEO CARD",
+        "VIDEO"
+      ]
+    },
+    {
+      "gloss": "VINTAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VIRTUAL REALITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "VIRTUAL BACKGROUND",
+        "VIRTUAL",
+        "VIRTUAL IMAGE",
+        "VIRTUAL MEETING",
+        "VIRTUAL GAMES"
+      ]
+    },
+    {
+      "gloss": "VIRTUE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "VISUAL VERNACULAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "VISUAL BASIC",
+        "VISUAL",
+        "VISUAL EFFECTS",
+        "VISUAL ARTS"
+      ]
+    },
+    {
+      "gloss": "V",
+      "category": "LETTERS",
+      "anchor": [
+        "V BELT",
+        "V BLOCK",
+        "V NECK"
+      ]
+    }
+  ]
+}
