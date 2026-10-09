@@ -20,7 +20,7 @@ India has ~**2.7 million Deaf/Hard-of-Hearing individuals** (Census 2011). India
 
 ## 🏗️ High-Level System Architecture
 
-![Image Description](diagrams/architecture.png)
+![Architecture Diagram](diagrams/architecture.jpeg)
 
 ---
 
