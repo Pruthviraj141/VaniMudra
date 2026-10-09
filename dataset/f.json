@@ -1,0 +1,3578 @@
+{
+  "metadata": {
+    "total_words": 511,
+    "description": "Words starting with letter F"
+  },
+  "words": [
+    {
+      "gloss": "FACE",
+      "category": "CORE",
+      "anchor": [
+        "FACE CREAM",
+        "FACE SCRUB",
+        "FACE VALUE",
+        "FACE SERUM",
+        "FACE CARDS"
+      ]
+    },
+    {
+      "gloss": "FACEWASH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FACT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FACTORY",
+      "category": "CORE",
+      "anchor": [
+        "FACTORY WORKER"
+      ]
+    },
+    {
+      "gloss": "FACTORY WORKER",
+      "category": "COMPOUND",
+      "anchor": [
+        "FACTORY"
+      ]
+    },
+    {
+      "gloss": "FAIL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FAINT, PASS OUT, LOSE CONSCIOUSNESS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FAIR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FAITH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FAKE, CHEAT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FALL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FAMOUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FAR",
+      "category": "CORE",
+      "anchor": [
+        "FAR END CAMERA CONTROL"
+      ]
+    },
+    {
+      "gloss": "FARM",
+      "category": "CORE",
+      "anchor": [
+        "FARM BUDGETING",
+        "FARM MANAGEMENT",
+        "FARM PLANNING",
+        "FARM MORTGAGE LOAN"
+      ]
+    },
+    {
+      "gloss": "FARMER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FART, PASS GAS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FASHION, STYLE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FAST",
+      "category": "CLASSIFIERS",
+      "anchor": [
+        "FAST GROWING TEMPORARY HEDGES",
+        "FAST UNTO DEATH",
+        "FAST FOOD",
+        "FAST TRACK COURT"
+      ]
+    },
+    {
+      "gloss": "FAT",
+      "category": "CORE",
+      "anchor": [
+        "FAT TEST OF MILK"
+      ]
+    },
+    {
+      "gloss": "FATHER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FATHER-IN-LAW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FAVOURITE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FAWN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FAX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FEAR",
+      "category": "CORE",
+      "anchor": [
+        "FEAR OF JUDGEMENT",
+        "FEAR OF OFFENDING OTHERS",
+        "FEAR OF REJECTION"
+      ]
+    },
+    {
+      "gloss": "FEBRUARY",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "FED UP",
+      "category": "COMPOUND",
+      "anchor": [
+        "FED RATE"
+      ]
+    },
+    {
+      "gloss": "FEED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FEEL",
+      "category": "CORE",
+      "anchor": [
+        "FEEL SAFE"
+      ]
+    },
+    {
+      "gloss": "FEELING",
+      "category": "CORE",
+      "anchor": [
+        "FEELING UNWORTHY",
+        "FEELING EMPTY"
+      ]
+    },
+    {
+      "gloss": "FENCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FENNEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FIELDER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FIFTY, HALF CENTURY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FIGHT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FINAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FINANCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FIND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FINE",
+      "category": "CORE",
+      "anchor": [
+        "FINE MOTOR SKILLS"
+      ]
+    },
+    {
+      "gloss": "FINGERSPELL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FIRE",
+      "category": "CORE",
+      "anchor": [
+        "FIRE BRIGADE",
+        "FIRE FIGHTER",
+        "FIRE PROOFING",
+        "FIRE STATION",
+        "FIRE CLASSIFICATION"
+      ]
+    },
+    {
+      "gloss": "FIRE FIGHTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIRE",
+        "FIRE BRIGADE",
+        "FIRE PROOFING",
+        "FIRE STATION",
+        "FIRE CLASSIFICATION"
+      ]
+    },
+    {
+      "gloss": "FIRE STATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIRE",
+        "FIRE BRIGADE",
+        "FIRE FIGHTER",
+        "FIRE PROOFING",
+        "FIRE CLASSIFICATION"
+      ]
+    },
+    {
+      "gloss": "FIRST",
+      "category": "NUMBERS & TIME",
+      "anchor": [
+        "FIRST INFORMATION REPORT, FIR NUMBER",
+        "FIRST AID",
+        "FIRST HALF, SECOND HALF",
+        "FIRST TRIMESTER, SECOND TRIMESTER AND THIRD TRIMESTER",
+        "FIRST WIFE"
+      ]
+    },
+    {
+      "gloss": "FISH",
+      "category": "CORE",
+      "anchor": [
+        "FISH AS A FOOD OF CATTLE",
+        "FISH FIN",
+        "FISH GLUE AND ISING LASS",
+        "FISH AS A HUMAN FOOD",
+        "FISH FARM IMPLEMENTS"
+      ]
+    },
+    {
+      "gloss": "FISHING",
+      "category": "CORE",
+      "anchor": [
+        "FISHING FOR GAMES & SPORTS",
+        "FISHING FOR DECORATION PURPOSE"
+      ]
+    },
+    {
+      "gloss": "FIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FIXED DEPOSIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIXED EXCHANGE RATE SYSTEM",
+        "FIXED INTEREST",
+        "FIXED JOINTS",
+        "FIXED AUTOMATION"
+      ]
+    },
+    {
+      "gloss": "FLAG",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FLEXIBLE",
+      "category": "CORE",
+      "anchor": [
+        "FLEXIBLE AUTOMATION"
+      ]
+    },
+    {
+      "gloss": "FLIGHT ATTENDANT",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLIGHT OF STAIRS",
+        "FLIGHT"
+      ]
+    },
+    {
+      "gloss": "FLOCK OF BIRDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOCK OF GOATS, HERD OF GOATS, TRIP OF GOATS",
+        "FLOCK MATING",
+        "FLOCK OF SHEEP, HERD OF SHEEP, MOB OF SHEEP"
+      ]
+    },
+    {
+      "gloss": "FLOCK OF GOATS, HERD OF GOATS, TRIP OF GOATS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOCK OF SHEEP, HERD OF SHEEP, MOB OF SHEEP",
+        "FLOCK MATING",
+        "FLOCK OF BIRDS"
+      ]
+    },
+    {
+      "gloss": "FLOCK OF SHEEP, HERD OF SHEEP, MOB OF SHEEP",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOCK OF GOATS, HERD OF GOATS, TRIP OF GOATS",
+        "FLOCK MATING",
+        "FLOCK OF BIRDS"
+      ]
+    },
+    {
+      "gloss": "FLOOD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FLOOR",
+      "category": "CORE",
+      "anchor": [
+        "FLOOR EXERCISE"
+      ]
+    },
+    {
+      "gloss": "FLOWER",
+      "category": "CORE",
+      "anchor": [
+        "FLOWER FOR DEMARCATION OF AREAS",
+        "FLOWER FOR CONTROLLING SOIL EROSION",
+        "FLOWER FOR CLIMBING",
+        "FLOWER FOR BED PURPOSE",
+        "FLOWER FOR BEAUTIFICATION"
+      ]
+    },
+    {
+      "gloss": "FLUTE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FLY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FLYOVER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FOCUS",
+      "category": "CORE",
+      "anchor": [
+        "FOCUS AND EPICENTRE",
+        "FOCUS MANAGEMENT"
+      ]
+    },
+    {
+      "gloss": "FOG",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FOLLOW",
+      "category": "CORE",
+      "anchor": [
+        "ABIDE",
+        "COMPLY",
+        "OBEY",
+        "ADHERE",
+        "FOLLOW THROUGH"
+      ]
+    },
+    {
+      "gloss": "FOLLOW THROUGH",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOLLOW UP",
+        "ELBOW CONFORMER",
+        "ADHERE TO",
+        "ABIDE BY, COMPLY WITH, FOLLOW",
+        "FOLLOW"
+      ]
+    },
+    {
+      "gloss": "FOLLOW-ON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FOOD",
+      "category": "CORE",
+      "anchor": [
+        "FOOD CHAIN",
+        "FOOD INTOLERANCE SIGN",
+        "FOOD INTOLERANCE AND LACTOSE INTOLERANCE",
+        "FOOD SECURITY",
+        "FOOD POISONING"
+      ]
+    },
+    {
+      "gloss": "FOOL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FOOT",
+      "category": "CORE",
+      "anchor": [
+        "FOOT OVERBRIDGE",
+        "FOOT MAT, DOORMAT",
+        "FOOT PATH",
+        "FOOT WORK",
+        "FOOT PRINTS"
+      ]
+    },
+    {
+      "gloss": "FOOT MAT, DOORMAT",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOOT OVERBRIDGE",
+        "FOOT PATH",
+        "FOOT",
+        "FOOT WORK",
+        "FOOT PRINTS"
+      ]
+    },
+    {
+      "gloss": "FOOT OVERBRIDGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOOT MAT, DOORMAT",
+        "FOOT PATH",
+        "FOOT",
+        "FOOT WORK",
+        "FOOT PRINTS"
+      ]
+    },
+    {
+      "gloss": "FOOTBALL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FORCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FOREHAND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FOREHEAD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FOREST",
+      "category": "CORE",
+      "anchor": [
+        "FOREST BEAT OFFICER",
+        "FOREST FLOOR",
+        "FOREST WEEDS",
+        "FOREST SOIL"
+      ]
+    },
+    {
+      "gloss": "FOREVER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FORGET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FORGIVE",
+      "category": "CORE",
+      "anchor": [
+        "FORGIVE OR PARDON"
+      ]
+    },
+    {
+      "gloss": "FORK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FORM",
+      "category": "CORE",
+      "anchor": [
+        "FORM 16"
+      ]
+    },
+    {
+      "gloss": "FORMER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FORTNIGHT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FORWARD SHORT LEG",
+      "category": "COMPOUND",
+      "anchor": [
+        "FORWARD PRICE, FUTURE PRICE"
+      ]
+    },
+    {
+      "gloss": "FOUNDATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FOUNTAIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FOUR",
+      "category": "NUMBERS & TIME",
+      "anchor": [
+        "FOUR RUNS, BOUNDARY"
+      ]
+    },
+    {
+      "gloss": "FOUR RUNS, BOUNDARY",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOUR"
+      ]
+    },
+    {
+      "gloss": "FOX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FREE",
+      "category": "CORE",
+      "anchor": [
+        "FREE ENTERPRISE",
+        "FREE PISTOL",
+        "FREE ON BOARD",
+        "FREE RANGE SYSTEM",
+        "FREE THROW"
+      ]
+    },
+    {
+      "gloss": "FREE PISTOL",
+      "category": "COMPOUND",
+      "anchor": [
+        "FREE ENTERPRISE",
+        "FREE ON BOARD",
+        "FREE RANGE SYSTEM",
+        "FREE THROW",
+        "FREE"
+      ]
+    },
+    {
+      "gloss": "FREESTYLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FREEZE",
+      "category": "CORE",
+      "anchor": [
+        "FREEZE PANES"
+      ]
+    },
+    {
+      "gloss": "FRENCH FRIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "FRENCH CURVES",
+        "FRENCH REVOLUTION"
+      ]
+    },
+    {
+      "gloss": "FRESH",
+      "category": "CORE",
+      "anchor": [
+        "FRESH WATER FISHERIES"
+      ]
+    },
+    {
+      "gloss": "FRIDAY",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "FRIEND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FRISBEE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FROM",
+      "category": "GRAMMAR & FUNCTION",
+      "anchor": [
+        "FROM RAGS TO RICHES"
+      ]
+    },
+    {
+      "gloss": "FROM RAGS TO RICHES",
+      "category": "COMPOUND",
+      "anchor": [
+        "FROM"
+      ]
+    },
+    {
+      "gloss": "FRUIT FORK",
+      "category": "COMPOUND",
+      "anchor": [
+        "FRUIT PRESERVE",
+        "FRUIT JELLY",
+        "FRUIT SYRUP",
+        "FRUIT DISEASE"
+      ]
+    },
+    {
+      "gloss": "FRUITS",
+      "category": "CORE",
+      "anchor": [
+        "FRUITS CROPS"
+      ]
+    },
+    {
+      "gloss": "FRUSTRATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FRY, FRYING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FULL",
+      "category": "CORE",
+      "anchor": [
+        "FULL MOON",
+        "FULL STOMACH",
+        "FULL FRAME",
+        "FULL STOP, FULL POINT, PERIOD",
+        "FULL TIME"
+      ]
+    },
+    {
+      "gloss": "FULL STOMACH",
+      "category": "COMPOUND",
+      "anchor": [
+        "FULL MOON",
+        "FULL",
+        "FULL FRAME",
+        "FULL STOP, FULL POINT, PERIOD",
+        "FULL TIME"
+      ]
+    },
+    {
+      "gloss": "FULL TIME",
+      "category": "COMPOUND",
+      "anchor": [
+        "FULL MOON",
+        "FULL STOMACH",
+        "FULL",
+        "FULL FRAME",
+        "FULL STOP, FULL POINT, PERIOD"
+      ]
+    },
+    {
+      "gloss": "FUN, JOKE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FUNERAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FUNNY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FUTURE",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "FABLES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FACTOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FACTORISATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FACTORIZE, FACTORIZATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FACTORS",
+      "category": "CORE",
+      "anchor": [
+        "FACTORS OF PRODUCTION"
+      ]
+    },
+    {
+      "gloss": "FACTORS OF PRODUCTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "FACTORS"
+      ]
+    },
+    {
+      "gloss": "FAHRENHEIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FAMINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FANGS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FARMAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FASCISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FAST FOOD",
+      "category": "COMPOUND",
+      "anchor": [
+        "FAST GROWING TEMPORARY HEDGES",
+        "FAST UNTO DEATH",
+        "FAST TRACK COURT",
+        "FAST"
+      ]
+    },
+    {
+      "gloss": "FATS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FAUNA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FEDERALISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FERMENTATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FERTILISER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FIBRE",
+      "category": "CORE",
+      "anchor": [
+        "FIBRE REINFORCED CONCRETE",
+        "FIBRE GLASS"
+      ]
+    },
+    {
+      "gloss": "FIBROUS ROOTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FICTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FIELDWORK, FIELD VISIT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FIGURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FILAMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FILL IN THE BLANKS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FILTRATION SEPARATION TECHNIQUE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FINANCIAL YEAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "FINANCIAL MARKETS",
+        "FINANCIAL SERVICES",
+        "FINANCIAL ADVISOR"
+      ]
+    },
+    {
+      "gloss": "FINITE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FIREARM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FIRST TRIMESTER, SECOND TRIMESTER AND THIRD TRIMESTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIRST INFORMATION REPORT, FIR NUMBER",
+        "FIRST AID",
+        "FIRST HALF, SECOND HALF",
+        "FIRST",
+        "FIRST WIFE"
+      ]
+    },
+    {
+      "gloss": "FISCAL DEFICIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "FISCAL FEDERALISM",
+        "FISCAL POLICY"
+      ]
+    },
+    {
+      "gloss": "FISCAL FEDERALISM",
+      "category": "COMPOUND",
+      "anchor": [
+        "FISCAL POLICY",
+        "FISCAL DEFICIT"
+      ]
+    },
+    {
+      "gloss": "FISCAL POLICY",
+      "category": "COMPOUND",
+      "anchor": [
+        "FISCAL FEDERALISM",
+        "FISCAL DEFICIT"
+      ]
+    },
+    {
+      "gloss": "FISSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FIXED EXCHANGE RATE SYSTEM",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIXED AUTOMATION",
+        "FIXED INTEREST",
+        "FIXED JOINTS",
+        "FIXED DEPOSIT"
+      ]
+    },
+    {
+      "gloss": "FIXED JOINTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIXED EXCHANGE RATE SYSTEM",
+        "FIXED INTEREST",
+        "FIXED DEPOSIT",
+        "FIXED AUTOMATION"
+      ]
+    },
+    {
+      "gloss": "FLAME",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FLASH FLOOD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FLASHCARD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FLASK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FLAT TAX",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLAT RACING",
+        "FLAT WOOD BIT",
+        "FLAT GARDENS",
+        "FLAT BELT"
+      ]
+    },
+    {
+      "gloss": "FLEECE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FLOATING EXCHANGE RATE SYSTEM",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOATING PLANTS",
+        "FLOATING GRAPHICS"
+      ]
+    },
+    {
+      "gloss": "FLORA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FLUCTUATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FLUID",
+      "category": "CORE",
+      "anchor": [
+        "FLUID FRICTION"
+      ]
+    },
+    {
+      "gloss": "FLUID FRICTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLUID"
+      ]
+    },
+    {
+      "gloss": "FLYWAY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FOCUS AND EPICENTRE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOCUS",
+        "FOCUS MANAGEMENT"
+      ]
+    },
+    {
+      "gloss": "FOOD CHAIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOOD INTOLERANCE SIGN",
+        "FOOD INTOLERANCE AND LACTOSE INTOLERANCE",
+        "FOOD SECURITY",
+        "FOOD POISONING",
+        "FOOD"
+      ]
+    },
+    {
+      "gloss": "FOOD INTOLERANCE AND LACTOSE INTOLERANCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOOD CHAIN",
+        "FOOD INTOLERANCE SIGN",
+        "FOOD SECURITY",
+        "FOOD POISONING",
+        "FOOD"
+      ]
+    },
+    {
+      "gloss": "FOOD INTOLERANCE SIGN",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOOD CHAIN",
+        "FOOD INTOLERANCE AND LACTOSE INTOLERANCE",
+        "FOOD SECURITY",
+        "FOOD POISONING",
+        "FOOD"
+      ]
+    },
+    {
+      "gloss": "FOOD POISONING",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOOD CHAIN",
+        "FOOD INTOLERANCE SIGN",
+        "FOOD INTOLERANCE AND LACTOSE INTOLERANCE",
+        "FOOD SECURITY",
+        "FOOD"
+      ]
+    },
+    {
+      "gloss": "FOOD SECURITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOOD CHAIN",
+        "FOOD INTOLERANCE SIGN",
+        "FOOD INTOLERANCE AND LACTOSE INTOLERANCE",
+        "FOOD POISONING",
+        "FOOD"
+      ]
+    },
+    {
+      "gloss": "FOODPIPE, OESOPHAGUS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FORAGE",
+      "category": "CORE",
+      "anchor": [
+        "FORAGE DISEASE"
+      ]
+    },
+    {
+      "gloss": "FOREIGN TOURIST",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOREIGN",
+        "FOREIGN AFFAIRS"
+      ]
+    },
+    {
+      "gloss": "FOREST FLOOR",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOREST WEEDS",
+        "FOREST BEAT OFFICER",
+        "FOREST",
+        "FOREST SOIL"
+      ]
+    },
+    {
+      "gloss": "FOREST SOIL",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOREST WEEDS",
+        "FOREST BEAT OFFICER",
+        "FOREST FLOOR",
+        "FOREST"
+      ]
+    },
+    {
+      "gloss": "FORMAT",
+      "category": "CORE",
+      "anchor": [
+        "FORMAT PAINTER"
+      ]
+    },
+    {
+      "gloss": "FORMATIVE ASSESSMENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FORMULA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FORT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FORTIFY, FORTIFICATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FOSSIL",
+      "category": "CORE",
+      "anchor": [
+        "FOSSIL FUEL"
+      ]
+    },
+    {
+      "gloss": "FOSSIL FUEL",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOSSIL"
+      ]
+    },
+    {
+      "gloss": "FRACTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FRACTION, SYMBOL OF FRACTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FRAGMENTATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FREE ENTERPRISE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FREE PISTOL",
+        "FREE ON BOARD",
+        "FREE RANGE SYSTEM",
+        "FREE THROW",
+        "FREE"
+      ]
+    },
+    {
+      "gloss": "FREEDOM TO INTERPRET",
+      "category": "COMPOUND",
+      "anchor": [
+        "FREEDOM"
+      ]
+    },
+    {
+      "gloss": "FREE-HAND DRAWING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FREEPORT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FREEZING POINT",
+      "category": "COMPOUND",
+      "anchor": [
+        "FREEZING"
+      ]
+    },
+    {
+      "gloss": "FRENCH REVOLUTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "FRENCH FRIES",
+        "FRENCH CURVES"
+      ]
+    },
+    {
+      "gloss": "FREQUENCY AND HERTZ",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FRESHWATER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FRICTION",
+      "category": "CORE",
+      "anchor": [
+        "FRICTION DISK"
+      ]
+    },
+    {
+      "gloss": "FRIGID ZONE, POLAR REGION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FUEL",
+      "category": "CORE",
+      "anchor": [
+        "FUEL EFFICIENCY"
+      ]
+    },
+    {
+      "gloss": "FUEL EFFICIENCY",
+      "category": "COMPOUND",
+      "anchor": [
+        "FUEL"
+      ]
+    },
+    {
+      "gloss": "FULL STOP, FULL POINT, PERIOD",
+      "category": "COMPOUND",
+      "anchor": [
+        "FULL MOON",
+        "FULL STOMACH",
+        "FULL",
+        "FULL FRAME",
+        "FULL TIME"
+      ]
+    },
+    {
+      "gloss": "FUNCTIONALISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FUNDAMENTAL DUTIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "FUNDAMENTAL RIGHTS, RIGHTS",
+        "FUNDAMENTAL RIGHT"
+      ]
+    },
+    {
+      "gloss": "FUNDAMENTAL RIGHT",
+      "category": "COMPOUND",
+      "anchor": [
+        "FUNDAMENTAL RIGHTS, RIGHTS",
+        "FUNDAMENTAL DUTIES"
+      ]
+    },
+    {
+      "gloss": "FUNGI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FUNGICIDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FUNGUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FUSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FUSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FACULTATIVE PERASISTE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FACULTATIVE SAPROPHYTE"
+      ]
+    },
+    {
+      "gloss": "FACULTATIVE SAPROPHYTE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FACULTATIVE PERASISTE"
+      ]
+    },
+    {
+      "gloss": "FARM BUDGETING",
+      "category": "COMPOUND",
+      "anchor": [
+        "FARM MORTGAGE LOAN",
+        "FARM",
+        "FARM MANAGEMENT",
+        "FARM PLANNING"
+      ]
+    },
+    {
+      "gloss": "FARM MANAGEMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "FARM BUDGETING",
+        "FARM",
+        "FARM PLANNING",
+        "FARM MORTGAGE LOAN"
+      ]
+    },
+    {
+      "gloss": "FARM MORTGAGE LOAN",
+      "category": "COMPOUND",
+      "anchor": [
+        "FARM BUDGETING",
+        "FARM",
+        "FARM MANAGEMENT",
+        "FARM PLANNING"
+      ]
+    },
+    {
+      "gloss": "FARM PLANNING",
+      "category": "COMPOUND",
+      "anchor": [
+        "FARM BUDGETING",
+        "FARM",
+        "FARM MANAGEMENT",
+        "FARM MORTGAGE LOAN"
+      ]
+    },
+    {
+      "gloss": "FAST GROWING TEMPORARY HEDGES",
+      "category": "COMPOUND",
+      "anchor": [
+        "FAST TRACK COURT",
+        "FAST UNTO DEATH",
+        "FAST FOOD",
+        "FAST"
+      ]
+    },
+    {
+      "gloss": "FAT TEST OF MILK",
+      "category": "COMPOUND",
+      "anchor": [
+        "FAT"
+      ]
+    },
+    {
+      "gloss": "FERTILIZATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FIBER CROPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIBER OPTIC CABLE"
+      ]
+    },
+    {
+      "gloss": "FIELD CAPACITY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FIRM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FISH AS A FOOD OF CATTLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FISH FIN",
+        "FISH",
+        "FISH GLUE AND ISING LASS",
+        "FISH AS A HUMAN FOOD",
+        "FISH FARM IMPLEMENTS"
+      ]
+    },
+    {
+      "gloss": "FISH AS A HUMAN FOOD",
+      "category": "COMPOUND",
+      "anchor": [
+        "FISH FIN",
+        "FISH AS A FOOD OF CATTLE",
+        "FISH",
+        "FISH GLUE AND ISING LASS",
+        "FISH FARM IMPLEMENTS"
+      ]
+    },
+    {
+      "gloss": "FISH FARM IMPLEMENTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FISH AS A FOOD OF CATTLE",
+        "FISH FIN",
+        "FISH",
+        "FISH GLUE AND ISING LASS",
+        "FISH AS A HUMAN FOOD"
+      ]
+    },
+    {
+      "gloss": "FISH FIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "FISH AS A FOOD OF CATTLE",
+        "FISH",
+        "FISH GLUE AND ISING LASS",
+        "FISH AS A HUMAN FOOD",
+        "FISH FARM IMPLEMENTS"
+      ]
+    },
+    {
+      "gloss": "FISH GLUE AND ISING LASS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FISH FIN",
+        "FISH AS A FOOD OF CATTLE",
+        "FISH",
+        "FISH AS A HUMAN FOOD",
+        "FISH FARM IMPLEMENTS"
+      ]
+    },
+    {
+      "gloss": "FISH LEATHER",
+      "category": "COMPOUND",
+      "anchor": [
+        "FISH FIN",
+        "FISH AS A FOOD OF CATTLE",
+        "FISH",
+        "FISH AS A HUMAN FOOD",
+        "FISH FARM IMPLEMENTS"
+      ]
+    },
+    {
+      "gloss": "FISH MANURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FISH FIN",
+        "FISH AS A FOOD OF CATTLE",
+        "FISH",
+        "FISH AS A HUMAN FOOD",
+        "FISH FARM IMPLEMENTS"
+      ]
+    },
+    {
+      "gloss": "FISH OIL",
+      "category": "COMPOUND",
+      "anchor": [
+        "FISH FIN",
+        "FISH AS A FOOD OF CATTLE",
+        "FISH",
+        "FISH AS A HUMAN FOOD",
+        "FISH FARM IMPLEMENTS"
+      ]
+    },
+    {
+      "gloss": "FISHES FOOD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FISHING FOR DECORATION PURPOSE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FISHING FOR GAMES & SPORTS",
+        "FISHING"
+      ]
+    },
+    {
+      "gloss": "FISHING FOR GAMES & SPORTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FISHING",
+        "FISHING FOR DECORATION PURPOSE"
+      ]
+    },
+    {
+      "gloss": "FLAT GARDENS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLAT RACING",
+        "FLAT WOOD BIT",
+        "FLAT TAX",
+        "FLAT BELT"
+      ]
+    },
+    {
+      "gloss": "FLAVOURED SYRUP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FLOATING PLANTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOATING EXCHANGE RATE SYSTEM",
+        "FLOATING GRAPHICS"
+      ]
+    },
+    {
+      "gloss": "FLOCK MATING",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOCK OF GOATS, HERD OF GOATS, TRIP OF GOATS",
+        "FLOCK OF SHEEP, HERD OF SHEEP, MOB OF SHEEP",
+        "FLOCK OF BIRDS"
+      ]
+    },
+    {
+      "gloss": "FLORICULTURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FLOWER FOR BEAUTIFICATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOWER FOR DEMARCATION OF AREAS",
+        "FLOWER",
+        "FLOWER FOR CONTROLLING SOIL EROSION",
+        "FLOWER FOR CLIMBING",
+        "FLOWER FOR BED PURPOSE"
+      ]
+    },
+    {
+      "gloss": "FLOWER FOR BED PURPOSE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOWER FOR DEMARCATION OF AREAS",
+        "FLOWER",
+        "FLOWER FOR CONTROLLING SOIL EROSION",
+        "FLOWER FOR CLIMBING",
+        "FLOWER FOR BEAUTIFICATION"
+      ]
+    },
+    {
+      "gloss": "FLOWER FOR CLIMBING",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOWER FOR DEMARCATION OF AREAS",
+        "FLOWER",
+        "FLOWER FOR CONTROLLING SOIL EROSION",
+        "FLOWER FOR BED PURPOSE",
+        "FLOWER FOR BEAUTIFICATION"
+      ]
+    },
+    {
+      "gloss": "FLOWER FOR CONTROLLING SOIL EROSION",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOWER FOR DEMARCATION OF AREAS",
+        "FLOWER",
+        "FLOWER FOR CLIMBING",
+        "FLOWER FOR BED PURPOSE",
+        "FLOWER FOR BEAUTIFICATION"
+      ]
+    },
+    {
+      "gloss": "FLOWER FOR DEMARCATION OF AREAS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOWER",
+        "FLOWER FOR CONTROLLING SOIL EROSION",
+        "FLOWER FOR CLIMBING",
+        "FLOWER FOR BED PURPOSE",
+        "FLOWER FOR BEAUTIFICATION"
+      ]
+    },
+    {
+      "gloss": "FLOWER FOR ECONOMIC IMPORTANCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOWER",
+        "FLOWER FOR CONTROLLING SOIL EROSION",
+        "FLOWER FOR CLIMBING",
+        "FLOWER FOR BED PURPOSE",
+        "FLOWER FOR BEAUTIFICATION"
+      ]
+    },
+    {
+      "gloss": "FLOWER FOR FLOWER EXHIBITION",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOWER",
+        "FLOWER FOR CONTROLLING SOIL EROSION",
+        "FLOWER FOR CLIMBING",
+        "FLOWER FOR BED PURPOSE",
+        "FLOWER FOR BEAUTIFICATION"
+      ]
+    },
+    {
+      "gloss": "FLOWER FOR HANGING BASKETS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOWER",
+        "FLOWER FOR CONTROLLING SOIL EROSION",
+        "FLOWER FOR CLIMBING",
+        "FLOWER FOR BED PURPOSE",
+        "FLOWER FOR BEAUTIFICATION"
+      ]
+    },
+    {
+      "gloss": "FLOWER FOR MEDICAL IMPORTANCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOWER",
+        "FLOWER FOR CONTROLLING SOIL EROSION",
+        "FLOWER FOR CLIMBING",
+        "FLOWER FOR BED PURPOSE",
+        "FLOWER FOR BEAUTIFICATION"
+      ]
+    },
+    {
+      "gloss": "FLOWER FOR ORNAMENTAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOWER",
+        "FLOWER FOR CONTROLLING SOIL EROSION",
+        "FLOWER FOR CLIMBING",
+        "FLOWER FOR BED PURPOSE",
+        "FLOWER FOR BEAUTIFICATION"
+      ]
+    },
+    {
+      "gloss": "FLOWER FOR POTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOWER",
+        "FLOWER FOR CONTROLLING SOIL EROSION",
+        "FLOWER FOR CLIMBING",
+        "FLOWER FOR BED PURPOSE",
+        "FLOWER FOR BEAUTIFICATION"
+      ]
+    },
+    {
+      "gloss": "FLOWER FOR RECREATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOWER",
+        "FLOWER FOR CONTROLLING SOIL EROSION",
+        "FLOWER FOR CLIMBING",
+        "FLOWER FOR BED PURPOSE",
+        "FLOWER FOR BEAUTIFICATION"
+      ]
+    },
+    {
+      "gloss": "FLOWER FOR RELIGIOUS & SPIRITUAL IMPORTANCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOWER",
+        "FLOWER FOR CONTROLLING SOIL EROSION",
+        "FLOWER FOR CLIMBING",
+        "FLOWER FOR BED PURPOSE",
+        "FLOWER FOR BEAUTIFICATION"
+      ]
+    },
+    {
+      "gloss": "FLOWER FOR ROCK GARDENS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOWER",
+        "FLOWER FOR CONTROLLING SOIL EROSION",
+        "FLOWER FOR CLIMBING",
+        "FLOWER FOR BED PURPOSE",
+        "FLOWER FOR BEAUTIFICATION"
+      ]
+    },
+    {
+      "gloss": "FLOWERING & FOLIAGE SHRUBS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOWERING HEDGES"
+      ]
+    },
+    {
+      "gloss": "FLOWERING HEDGES",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOWERING & FOLIAGE SHRUBS"
+      ]
+    },
+    {
+      "gloss": "FOR SIGHT READING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FORAGE DISEASE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FORAGE"
+      ]
+    },
+    {
+      "gloss": "FORCED SALE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FOREST WEEDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOREST BEAT OFFICER",
+        "FOREST FLOOR",
+        "FOREST",
+        "FOREST SOIL"
+      ]
+    },
+    {
+      "gloss": "FORKERT BUDDING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FORMATION OF LESIONS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FORMATION OF PUSTULES"
+      ]
+    },
+    {
+      "gloss": "FORMATION OF PUSTULES",
+      "category": "COMPOUND",
+      "anchor": [
+        "FORMATION OF LESIONS"
+      ]
+    },
+    {
+      "gloss": "FOWL POX",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FREE RANGE SYSTEM",
+      "category": "COMPOUND",
+      "anchor": [
+        "FREE ENTERPRISE",
+        "FREE PISTOL",
+        "FREE ON BOARD",
+        "FREE THROW",
+        "FREE"
+      ]
+    },
+    {
+      "gloss": "FRESH WATER FISHERIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "FRESH"
+      ]
+    },
+    {
+      "gloss": "FROAGE CROPS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FROG",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FROST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FRUIT DISEASE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FRUIT PRESERVE",
+        "FRUIT JELLY",
+        "FRUIT SYRUP",
+        "FRUIT FORK"
+      ]
+    },
+    {
+      "gloss": "FRUIT JELLY",
+      "category": "COMPOUND",
+      "anchor": [
+        "FRUIT PRESERVE",
+        "FRUIT SYRUP",
+        "FRUIT DISEASE",
+        "FRUIT FORK"
+      ]
+    },
+    {
+      "gloss": "FRUIT PRESERVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FRUIT JELLY",
+        "FRUIT SYRUP",
+        "FRUIT DISEASE",
+        "FRUIT FORK"
+      ]
+    },
+    {
+      "gloss": "FRUIT SYRUP",
+      "category": "COMPOUND",
+      "anchor": [
+        "FRUIT PRESERVE",
+        "FRUIT JELLY",
+        "FRUIT DISEASE",
+        "FRUIT FORK"
+      ]
+    },
+    {
+      "gloss": "FRUITS CROPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FRUITS"
+      ]
+    },
+    {
+      "gloss": "FRYERS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FUMIGATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FUNGAL DISEASES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FRANCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FACE VALUE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FACE",
+        "FACE CREAM",
+        "FACE SCRUB",
+        "FACE SERUM",
+        "FACE CARDS"
+      ]
+    },
+    {
+      "gloss": "FED RATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FED UP"
+      ]
+    },
+    {
+      "gloss": "FINANCIAL MARKETS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FINANCIAL YEAR",
+        "FINANCIAL SERVICES",
+        "FINANCIAL ADVISOR"
+      ]
+    },
+    {
+      "gloss": "FINANCIAL SERVICES",
+      "category": "COMPOUND",
+      "anchor": [
+        "FINANCIAL MARKETS",
+        "FINANCIAL YEAR",
+        "FINANCIAL ADVISOR"
+      ]
+    },
+    {
+      "gloss": "FIXED INTEREST",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIXED EXCHANGE RATE SYSTEM",
+        "FIXED JOINTS",
+        "FIXED DEPOSIT",
+        "FIXED AUTOMATION"
+      ]
+    },
+    {
+      "gloss": "FOP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FORWARD PRICE, FUTURE PRICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FORWARD SHORT LEG"
+      ]
+    },
+    {
+      "gloss": "FRONT OFFICE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FUND MANAGER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FUNDING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FUTURES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FABRICATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FABRICATED EVIDENCE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FACIAL COMPOSITE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FACIAL",
+        "FACIAL COTTON PADS"
+      ]
+    },
+    {
+      "gloss": "FACSIMILE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FACTUM PROBANDA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FALSE EVIDENCE OR FABRICATED EVIDENCE OR TAINTED EVIDENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FALSE FLOORING",
+        "FALSE EYELASHES",
+        "FALSE POSITIVE",
+        "FALSE NEGATIVE"
+      ]
+    },
+    {
+      "gloss": "FAMILY COURT",
+      "category": "COMPOUND",
+      "anchor": [
+        "FAMILY HISTORY",
+        "FAMILY TREE",
+        "FAMILY THERAPY",
+        "FAMILY PENSION",
+        "FAMILY PROBLEMS"
+      ]
+    },
+    {
+      "gloss": "FAMILY PENSION",
+      "category": "COMPOUND",
+      "anchor": [
+        "FAMILY HISTORY",
+        "FAMILY COURT",
+        "FAMILY TREE",
+        "FAMILY THERAPY",
+        "FAMILY PROBLEMS"
+      ]
+    },
+    {
+      "gloss": "FAMILY TREE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FAMILY HISTORY",
+        "FAMILY COURT",
+        "FAMILY THERAPY",
+        "FAMILY PENSION",
+        "FAMILY PROBLEMS"
+      ]
+    },
+    {
+      "gloss": "FAREWELL ADDRESS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FAST TRACK COURT",
+      "category": "COMPOUND",
+      "anchor": [
+        "FAST GROWING TEMPORARY HEDGES",
+        "FAST UNTO DEATH",
+        "FAST FOOD",
+        "FAST"
+      ]
+    },
+    {
+      "gloss": "FAST UNTO DEATH",
+      "category": "COMPOUND",
+      "anchor": [
+        "FAST GROWING TEMPORARY HEDGES",
+        "FAST TRACK COURT",
+        "FAST FOOD",
+        "FAST"
+      ]
+    },
+    {
+      "gloss": "FATAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FEASIBILITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FELICITATE, FELICITATION CEREMONY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FETICIDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FILE",
+      "category": "CORE",
+      "anchor": [
+        "FILE MOVEMENT REGISTER",
+        "FILE FLAT"
+      ]
+    },
+    {
+      "gloss": "FILE MOVEMENT REGISTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "FILE",
+        "FILE FLAT"
+      ]
+    },
+    {
+      "gloss": "FILLING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FINGERPRINTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FIRE BRIGADE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIRE",
+        "FIRE FIGHTER",
+        "FIRE PROOFING",
+        "FIRE STATION",
+        "FIRE CLASSIFICATION"
+      ]
+    },
+    {
+      "gloss": "FIRE CLASSIFICATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIRE",
+        "FIRE BRIGADE",
+        "FIRE FIGHTER",
+        "FIRE PROOFING",
+        "FIRE STATION"
+      ]
+    },
+    {
+      "gloss": "FIRE PROOFING",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIRE",
+        "FIRE BRIGADE",
+        "FIRE FIGHTER",
+        "FIRE STATION",
+        "FIRE CLASSIFICATION"
+      ]
+    },
+    {
+      "gloss": "FIRING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FIRST HALF, SECOND HALF",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIRST INFORMATION REPORT, FIR NUMBER",
+        "FIRST AID",
+        "FIRST",
+        "FIRST TRIMESTER, SECOND TRIMESTER AND THIRD TRIMESTER",
+        "FIRST WIFE"
+      ]
+    },
+    {
+      "gloss": "FIRST INFORMATION REPORT, FIR NUMBER",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIRST AID",
+        "FIRST HALF, SECOND HALF",
+        "FIRST",
+        "FIRST TRIMESTER, SECOND TRIMESTER AND THIRD TRIMESTER",
+        "FIRST WIFE"
+      ]
+    },
+    {
+      "gloss": "FIRST WIFE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIRST INFORMATION REPORT, FIR NUMBER",
+        "FIRST AID",
+        "FIRST HALF, SECOND HALF",
+        "FIRST",
+        "FIRST TRIMESTER, SECOND TRIMESTER AND THIRD TRIMESTER"
+      ]
+    },
+    {
+      "gloss": "FITNESS CERTIFICATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FITNESS"
+      ]
+    },
+    {
+      "gloss": "FLAYING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FOLLOW UP",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOLLOW THROUGH",
+        "ELBOW CONFORMER",
+        "ADHERE TO",
+        "ABIDE BY, COMPLY WITH, FOLLOW",
+        "FOLLOW"
+      ]
+    },
+    {
+      "gloss": "FOMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FOOT PRINTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOOT OVERBRIDGE",
+        "FOOT MAT, DOORMAT",
+        "FOOT PATH",
+        "FOOT",
+        "FOOT WORK"
+      ]
+    },
+    {
+      "gloss": "FOOTNOTE, ENDNOTE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FORENSIC REPORT",
+      "category": "COMPOUND",
+      "anchor": [
+        "FORENSIC SCIENCE OR CRIMINALISTICS"
+      ]
+    },
+    {
+      "gloss": "FORENSIC SCIENCE OR CRIMINALISTICS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FORENSIC REPORT"
+      ]
+    },
+    {
+      "gloss": "FOREST BEAT OFFICER",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOREST WEEDS",
+        "FOREST FLOOR",
+        "FOREST",
+        "FOREST SOIL"
+      ]
+    },
+    {
+      "gloss": "FORGERY, FORGER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FORGIVE OR PARDON",
+      "category": "COMPOUND",
+      "anchor": [
+        "FORGIVE"
+      ]
+    },
+    {
+      "gloss": "FORM 16",
+      "category": "COMPOUND",
+      "anchor": [
+        "FORM"
+      ]
+    },
+    {
+      "gloss": "FORNICATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FRAMING OF ISSUES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FRANCHISE, FRANCHISOR, FRANCHISEE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FRAUD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FRAUD, FRAUDSTER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FREE ON BOARD",
+      "category": "COMPOUND",
+      "anchor": [
+        "FREE ENTERPRISE",
+        "FREE PISTOL",
+        "FREE RANGE SYSTEM",
+        "FREE THROW",
+        "FREE"
+      ]
+    },
+    {
+      "gloss": "FREEDOM",
+      "category": "CORE",
+      "anchor": [
+        "FREEDOM TO INTERPRET"
+      ]
+    },
+    {
+      "gloss": "FRISKING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FUNDAMENTAL RIGHTS, RIGHTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FUNDAMENTAL RIGHT",
+        "FUNDAMENTAL DUTIES"
+      ]
+    },
+    {
+      "gloss": "FURTHERANCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FARSIGHTEDNESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FEMUR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FETOSCOPE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FETUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FEVER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FIBULA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FILM DRIER",
+      "category": "COMPOUND",
+      "anchor": [
+        "FILM HOPPER"
+      ]
+    },
+    {
+      "gloss": "FILM HOPPER",
+      "category": "COMPOUND",
+      "anchor": [
+        "FILM DRIER"
+      ]
+    },
+    {
+      "gloss": "FIRST AID",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIRST INFORMATION REPORT, FIR NUMBER",
+        "FIRST HALF, SECOND HALF",
+        "FIRST",
+        "FIRST TRIMESTER, SECOND TRIMESTER AND THIRD TRIMESTER",
+        "FIRST WIFE"
+      ]
+    },
+    {
+      "gloss": "FLATFOOT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FLATULENCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FOLEY CATHETER",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOLEY"
+      ]
+    },
+    {
+      "gloss": "FOOD ADULTERANT",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOOD CHAIN",
+        "FOOD INTOLERANCE SIGN",
+        "FOOD INTOLERANCE AND LACTOSE INTOLERANCE",
+        "FOOD POISONING",
+        "FOOD"
+      ]
+    },
+    {
+      "gloss": "FOOD-BORNE DISEASE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FORCEPS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FROSTBITE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FABRIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FAGGOTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FALSE FLOORING",
+      "category": "COMPOUND",
+      "anchor": [
+        "FALSE EYELASHES",
+        "FALSE POSITIVE",
+        "FALSE NEGATIVE",
+        "FALSE EVIDENCE OR FABRICATED EVIDENCE OR TAINTED EVIDENCE"
+      ]
+    },
+    {
+      "gloss": "FAR END CAMERA CONTROL",
+      "category": "COMPOUND",
+      "anchor": [
+        "FAR"
+      ]
+    },
+    {
+      "gloss": "FARADS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FAUCET AERATOR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FEEDER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FEELER GAUGE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FERROCEMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FIBRE GLASS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIBRE REINFORCED CONCRETE",
+        "FIBRE"
+      ]
+    },
+    {
+      "gloss": "FIBRE REINFORCED CONCRETE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIBRE GLASS",
+        "FIBRE"
+      ]
+    },
+    {
+      "gloss": "FILE FLAT",
+      "category": "COMPOUND",
+      "anchor": [
+        "FILE MOVEMENT REGISTER",
+        "FILE"
+      ]
+    },
+    {
+      "gloss": "FILTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FINK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FIRE BRICK",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIRE",
+        "FIRE BRIGADE",
+        "FIRE FIGHTER",
+        "FIRE STATION",
+        "FIRE CLASSIFICATION"
+      ]
+    },
+    {
+      "gloss": "FIRE DETECTION ALARM",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIRE",
+        "FIRE BRIGADE",
+        "FIRE FIGHTER",
+        "FIRE STATION",
+        "FIRE CLASSIFICATION"
+      ]
+    },
+    {
+      "gloss": "FIRE RESISTANT",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIRE",
+        "FIRE BRIGADE",
+        "FIRE FIGHTER",
+        "FIRE STATION",
+        "FIRE CLASSIFICATION"
+      ]
+    },
+    {
+      "gloss": "FIREBOX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FIREWALL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FIRST COAT",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIRST INFORMATION REPORT, FIR NUMBER",
+        "FIRST HALF, SECOND HALF",
+        "FIRST",
+        "FIRST TRIMESTER, SECOND TRIMESTER AND THIRD TRIMESTER",
+        "FIRST WIFE"
+      ]
+    },
+    {
+      "gloss": "FIRST PARTY COOKIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIRST INFORMATION REPORT, FIR NUMBER",
+        "FIRST HALF, SECOND HALF",
+        "FIRST",
+        "FIRST TRIMESTER, SECOND TRIMESTER AND THIRD TRIMESTER",
+        "FIRST WIFE"
+      ]
+    },
+    {
+      "gloss": "FITTED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FITTING CLOTHES",
+      "category": "COMPOUND",
+      "anchor": [
+        "FITTING ROOM"
+      ]
+    },
+    {
+      "gloss": "FIXED AUTOMATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIXED EXCHANGE RATE SYSTEM",
+        "FIXED INTEREST",
+        "FIXED JOINTS",
+        "FIXED DEPOSIT"
+      ]
+    },
+    {
+      "gloss": "FLANGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FLAT BELT",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLAT GARDENS",
+        "FLAT WOOD BIT",
+        "FLAT TAX",
+        "FLAT RACING"
+      ]
+    },
+    {
+      "gloss": "FLAT WOOD BIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLAT RACING",
+        "FLAT GARDENS",
+        "FLAT TAX",
+        "FLAT BELT"
+      ]
+    },
+    {
+      "gloss": "FLEMISH BOND",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FLEXIBLE AUTOMATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLEXIBLE"
+      ]
+    },
+    {
+      "gloss": "FLOAT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FLOATING GRAPHICS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOATING PLANTS",
+        "FLOATING EXCHANGE RATE SYSTEM"
+      ]
+    },
+    {
+      "gloss": "FLOORING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FLOPPY DISK",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOPPY DRIVE"
+      ]
+    },
+    {
+      "gloss": "FLOPPY DRIVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOPPY DISK"
+      ]
+    },
+    {
+      "gloss": "FLOUNCE HEM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FLUSH DOOR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FLUTED PLEATS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FOLDER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FOLDING SCREENS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FOLEY",
+      "category": "CORE",
+      "anchor": [
+        "FOLEY CATHETER"
+      ]
+    },
+    {
+      "gloss": "FONT",
+      "category": "CORE",
+      "anchor": [
+        "FONT WEIGHT"
+      ]
+    },
+    {
+      "gloss": "FONT WEIGHT",
+      "category": "COMPOUND",
+      "anchor": [
+        "FONT"
+      ]
+    },
+    {
+      "gloss": "FOOT PATH",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOOT OVERBRIDGE",
+        "FOOT MAT, DOORMAT",
+        "FOOT",
+        "FOOT WORK",
+        "FOOT PRINTS"
+      ]
+    },
+    {
+      "gloss": "FOOTAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FORKLIFT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FORMAT PAINTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "FORMAT"
+      ]
+    },
+    {
+      "gloss": "FORUMS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FRAME BY FRAME",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FRAY EDGES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FREEZE PANES",
+      "category": "COMPOUND",
+      "anchor": [
+        "FREEZE"
+      ]
+    },
+    {
+      "gloss": "FREEZING",
+      "category": "CORE",
+      "anchor": [
+        "FREEZING POINT"
+      ]
+    },
+    {
+      "gloss": "FRENCH CURVES",
+      "category": "COMPOUND",
+      "anchor": [
+        "FRENCH FRIES",
+        "FRENCH REVOLUTION"
+      ]
+    },
+    {
+      "gloss": "FRICTION DISK",
+      "category": "COMPOUND",
+      "anchor": [
+        "FRICTION"
+      ]
+    },
+    {
+      "gloss": "FULL FRAME",
+      "category": "COMPOUND",
+      "anchor": [
+        "FULL MOON",
+        "FULL STOMACH",
+        "FULL",
+        "FULL STOP, FULL POINT, PERIOD",
+        "FULL TIME"
+      ]
+    },
+    {
+      "gloss": "FULLY AUTOMATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FUNCTION",
+      "category": "CORE",
+      "anchor": [
+        "FUNCTION KEY",
+        "FUNCTION OVERLOADING",
+        "FUNCTION LIBRARY"
+      ]
+    },
+    {
+      "gloss": "FUNCTION KEY",
+      "category": "COMPOUND",
+      "anchor": [
+        "FUNCTION",
+        "FUNCTION OVERLOADING",
+        "FUNCTION LIBRARY"
+      ]
+    },
+    {
+      "gloss": "FUNCTION LIBRARY",
+      "category": "COMPOUND",
+      "anchor": [
+        "FUNCTION",
+        "FUNCTION KEY",
+        "FUNCTION OVERLOADING"
+      ]
+    },
+    {
+      "gloss": "FUNCTION OVERLOADING",
+      "category": "COMPOUND",
+      "anchor": [
+        "FUNCTION",
+        "FUNCTION KEY",
+        "FUNCTION LIBRARY"
+      ]
+    },
+    {
+      "gloss": "FUNNEL NECK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FURNACE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FUSIBLE INTERFACING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FULL MOON",
+      "category": "COMPOUND",
+      "anchor": [
+        "FULL STOMACH",
+        "FULL",
+        "FULL FRAME",
+        "FULL STOP, FULL POINT, PERIOD",
+        "FULL TIME"
+      ]
+    },
+    {
+      "gloss": "FACE CARDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FACE",
+        "FACE CREAM",
+        "FACE SCRUB",
+        "FACE VALUE",
+        "FACE SERUM"
+      ]
+    },
+    {
+      "gloss": "FACILITATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FACTORIAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FALSE NEGATIVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FALSE FLOORING",
+        "FALSE EYELASHES",
+        "FALSE POSITIVE",
+        "FALSE EVIDENCE OR FABRICATED EVIDENCE OR TAINTED EVIDENCE"
+      ]
+    },
+    {
+      "gloss": "FALSE POSITIVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FALSE FLOORING",
+        "FALSE EYELASHES",
+        "FALSE NEGATIVE",
+        "FALSE EVIDENCE OR FABRICATED EVIDENCE OR TAINTED EVIDENCE"
+      ]
+    },
+    {
+      "gloss": "FARE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FAULTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FAVOURABLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FEE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FEMALE TOILET",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FERRY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FEUDAL HIERARCHY",
+      "category": "COMPOUND",
+      "anchor": [
+        "FEUDAL SYSTEM"
+      ]
+    },
+    {
+      "gloss": "FEUDAL SYSTEM",
+      "category": "COMPOUND",
+      "anchor": [
+        "FEUDAL HIERARCHY"
+      ]
+    },
+    {
+      "gloss": "FEUDALISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FIBER OPTIC CABLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIBER CROPS"
+      ]
+    },
+    {
+      "gloss": "FIGURINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FINISHED GOODS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FIRE ENGINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIRE",
+        "FIRE BRIGADE",
+        "FIRE FIGHTER",
+        "FIRE STATION",
+        "FIRE CLASSIFICATION"
+      ]
+    },
+    {
+      "gloss": "FLASHBACK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FLAT RACING",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLAT GARDENS",
+        "FLAT WOOD BIT",
+        "FLAT TAX",
+        "FLAT BELT"
+      ]
+    },
+    {
+      "gloss": "FLATBED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FLEXIBILITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FLIGHT",
+      "category": "CORE",
+      "anchor": [
+        "FLIGHT ATTENDANT",
+        "FLIGHT OF STAIRS"
+      ]
+    },
+    {
+      "gloss": "FLOOR EXERCISE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLOOR"
+      ]
+    },
+    {
+      "gloss": "FOCUS MANAGEMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOCUS",
+        "FOCUS AND EPICENTRE"
+      ]
+    },
+    {
+      "gloss": "FOIL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FOLKLORE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FOOT WORK",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOOT OVERBRIDGE",
+        "FOOT MAT, DOORMAT",
+        "FOOT PATH",
+        "FOOT",
+        "FOOT PRINTS"
+      ]
+    },
+    {
+      "gloss": "FOOTHILLS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FORECASTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FORESHADOWING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FORMULATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FORTUNE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FOSTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FOUL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FRAGILE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FRAMEWORK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FREE THROW",
+      "category": "COMPOUND",
+      "anchor": [
+        "FREE ENTERPRISE",
+        "FREE PISTOL",
+        "FREE ON BOARD",
+        "FREE RANGE SYSTEM",
+        "FREE"
+      ]
+    },
+    {
+      "gloss": "FREE VERSE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FREE ENTERPRISE",
+        "FREE PISTOL",
+        "FREE ON BOARD",
+        "FREE RANGE SYSTEM",
+        "FREE"
+      ]
+    },
+    {
+      "gloss": "FRIENDLY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FRONTIER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FRONTLINE WORKERS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FULL-FLEDGED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FULLNESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FANCY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FANTASY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FASHION DESIGNER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FASHIONISTA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FASTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FINANCIAL ADVISOR",
+      "category": "COMPOUND",
+      "anchor": [
+        "FINANCIAL MARKETS",
+        "FINANCIAL YEAR",
+        "FINANCIAL SERVICES"
+      ]
+    },
+    {
+      "gloss": "FINE MOTOR SKILLS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FINE"
+      ]
+    },
+    {
+      "gloss": "FIREPLACE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FISHERMAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FITTING ROOM",
+      "category": "COMPOUND",
+      "anchor": [
+        "FITTING CLOTHES"
+      ]
+    },
+    {
+      "gloss": "FLABBERGASTED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FLIM DIRECTOR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FLORIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FLOUR MILL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "FOOD PROCESSING",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOOD CHAIN",
+        "FOOD INTOLERANCE SIGN",
+        "FOOD INTOLERANCE AND LACTOSE INTOLERANCE",
+        "FOOD POISONING",
+        "FOOD"
+      ]
+    },
+    {
+      "gloss": "FORBID",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FOREIGN AFFAIRS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FOREIGN",
+        "FOREIGN TOURIST"
+      ]
+    },
+    {
+      "gloss": "FORESTRY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FREELANCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FURNITURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FITNESS",
+      "category": "CORE",
+      "anchor": [
+        "FITNESS CERTIFICATE"
+      ]
+    },
+    {
+      "gloss": "FLEET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FLIGHT OF STAIRS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FLIGHT ATTENDANT",
+        "FLIGHT"
+      ]
+    },
+    {
+      "gloss": "FLOODWAY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FOREIGN",
+      "category": "CORE",
+      "anchor": [
+        "FOREIGN TOURIST",
+        "FOREIGN AFFAIRS"
+      ]
+    },
+    {
+      "gloss": "FORWARDER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FREIGHT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FACTITIOUS DISORDER",
+      "category": "COMPOUND",
+      "anchor": [
+        "FACTITIOUS"
+      ]
+    },
+    {
+      "gloss": "FACTITIOUS",
+      "category": "CORE",
+      "anchor": [
+        "FACTITIOUS DISORDER"
+      ]
+    },
+    {
+      "gloss": "FAMILIAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FAMILY HISTORY",
+      "category": "COMPOUND",
+      "anchor": [
+        "FAMILY COURT",
+        "FAMILY TREE",
+        "FAMILY THERAPY",
+        "FAMILY PENSION",
+        "FAMILY PROBLEMS"
+      ]
+    },
+    {
+      "gloss": "FAMILY PROBLEMS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FAMILY HISTORY",
+        "FAMILY COURT",
+        "FAMILY TREE",
+        "FAMILY THERAPY",
+        "FAMILY PENSION"
+      ]
+    },
+    {
+      "gloss": "FAMILY THERAPY",
+      "category": "COMPOUND",
+      "anchor": [
+        "FAMILY HISTORY",
+        "FAMILY COURT",
+        "FAMILY TREE",
+        "FAMILY PENSION",
+        "FAMILY PROBLEMS"
+      ]
+    },
+    {
+      "gloss": "FEAR OF JUDGEMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "FEAR OF OFFENDING OTHERS",
+        "FEAR",
+        "FEAR OF REJECTION"
+      ]
+    },
+    {
+      "gloss": "FEAR OF OFFENDING OTHERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FEAR OF JUDGEMENT",
+        "FEAR",
+        "FEAR OF REJECTION"
+      ]
+    },
+    {
+      "gloss": "FEAR OF REJECTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "FEAR OF JUDGEMENT",
+        "FEAR OF OFFENDING OTHERS",
+        "FEAR"
+      ]
+    },
+    {
+      "gloss": "FEARFUL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FEEL SAFE",
+      "category": "COMPOUND",
+      "anchor": [
+        "FEEL"
+      ]
+    },
+    {
+      "gloss": "FEELING EMPTY",
+      "category": "COMPOUND",
+      "anchor": [
+        "FEELING",
+        "FEELING UNWORTHY"
+      ]
+    },
+    {
+      "gloss": "FEELING UNWORTHY",
+      "category": "COMPOUND",
+      "anchor": [
+        "FEELING",
+        "FEELING EMPTY"
+      ]
+    },
+    {
+      "gloss": "FIRST RESPONDERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FIRST INFORMATION REPORT, FIR NUMBER",
+        "FIRST HALF, SECOND HALF",
+        "FIRST",
+        "FIRST TRIMESTER, SECOND TRIMESTER AND THIRD TRIMESTER",
+        "FIRST WIFE"
+      ]
+    },
+    {
+      "gloss": "FORGETFULNESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FURIOUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FACE CREAM",
+      "category": "COMPOUND",
+      "anchor": [
+        "FACE",
+        "FACE SCRUB",
+        "FACE VALUE",
+        "FACE SERUM",
+        "FACE CARDS"
+      ]
+    },
+    {
+      "gloss": "FACE SCRUB",
+      "category": "COMPOUND",
+      "anchor": [
+        "FACE",
+        "FACE CREAM",
+        "FACE VALUE",
+        "FACE SERUM",
+        "FACE CARDS"
+      ]
+    },
+    {
+      "gloss": "FACE SERUM",
+      "category": "COMPOUND",
+      "anchor": [
+        "FACE",
+        "FACE CREAM",
+        "FACE SCRUB",
+        "FACE VALUE",
+        "FACE CARDS"
+      ]
+    },
+    {
+      "gloss": "FACIAL",
+      "category": "CORE",
+      "anchor": [
+        "FACIAL COMPOSITE",
+        "FACIAL COTTON PADS"
+      ]
+    },
+    {
+      "gloss": "FACIAL COTTON PADS",
+      "category": "COMPOUND",
+      "anchor": [
+        "FACIAL COMPOSITE",
+        "FACIAL"
+      ]
+    },
+    {
+      "gloss": "FALCON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FALLACY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FALSE EYELASHES",
+      "category": "COMPOUND",
+      "anchor": [
+        "FALSE FLOORING",
+        "FALSE POSITIVE",
+        "FALSE NEGATIVE",
+        "FALSE EVIDENCE OR FABRICATED EVIDENCE OR TAINTED EVIDENCE"
+      ]
+    },
+    {
+      "gloss": "FEARLESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FEEDBACK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FEMINISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FIGMA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FOOLISH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FORCEFUL",
+      "category": "CLASSIFIERS",
+      "anchor": []
+    },
+    {
+      "gloss": "FRANK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FREE WILL",
+      "category": "COMPOUND",
+      "anchor": [
+        "FREE ENTERPRISE",
+        "FREE PISTOL",
+        "FREE ON BOARD",
+        "FREE RANGE SYSTEM",
+        "FREE"
+      ]
+    },
+    {
+      "gloss": "FRIENDSHIP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "FUSELAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "F",
+      "category": "LETTERS",
+      "anchor": []
+    }
+  ]
+}

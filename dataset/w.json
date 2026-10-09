@@ -1,0 +1,2175 @@
+{
+  "metadata": {
+    "total_words": 314,
+    "description": "Words starting with letter W"
+  },
+  "words": [
+    {
+      "gloss": "WAIST",
+      "category": "CORE",
+      "anchor": [
+        "WAIST CHAIN"
+      ]
+    },
+    {
+      "gloss": "WAIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WAIT, HALT, STAY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WAITER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WAKE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WALK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WALL",
+      "category": "CORE",
+      "anchor": [
+        "WALL BARS",
+        "WALL PANEL",
+        "WALL GARDEN"
+      ]
+    },
+    {
+      "gloss": "WALLET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WANT, DESIRE, WISH FOR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WARM",
+      "category": "CORE",
+      "anchor": [
+        "WARM COLOURS"
+      ]
+    },
+    {
+      "gloss": "WARN, ADMONISH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WASH",
+      "category": "CORE",
+      "anchor": [
+        "WASH BASIN"
+      ]
+    },
+    {
+      "gloss": "WASHERMAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WASHING MACHINE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WASHROOM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WASTE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WASTE, EXCESS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WATCH, GUARD, KEEP AN EYE ON",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATCH, WRISTWATCH, TIMEPIECE"
+      ]
+    },
+    {
+      "gloss": "WATCH, WRISTWATCH, TIMEPIECE",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATCH, GUARD, KEEP AN EYE ON"
+      ]
+    },
+    {
+      "gloss": "WATER",
+      "category": "CORE",
+      "anchor": [
+        "WATER SKIING, WAKEBOARDING",
+        "WATER CYCLE",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WATER FILTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER CYCLE",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER"
+      ]
+    },
+    {
+      "gloss": "WATER MOTOR, WATER PUMP",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER CYCLE",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WATER SKIING, WAKEBOARDING",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER CYCLE",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WATER TANKER",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER CYCLE",
+        "WATER MOTOR, WATER PUMP",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WATERFALL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WATERMELON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WATERPROOF, WATER RESISTANT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WAVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WAVY HAIR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WAXING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WAY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WAYS, METHODS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WEAK",
+      "category": "CLASSIFIERS",
+      "anchor": []
+    },
+    {
+      "gloss": "WEALTHY, RICH AFFLUENT, WELL OFF",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WEAPON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WEAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WEATHER",
+      "category": "CORE",
+      "anchor": [
+        "WEATHER CONDITION"
+      ]
+    },
+    {
+      "gloss": "WEAVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WEAVER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WEBSITE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WEDDING",
+      "category": "CORE",
+      "anchor": [
+        "WEDDING RECEPTION"
+      ]
+    },
+    {
+      "gloss": "WEDDING RECEPTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "WEDDING"
+      ]
+    },
+    {
+      "gloss": "WEDNESDAY",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "WEEK, ONE WEEK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WEEKDAY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WEEKEND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WEEKLY",
+      "category": "CORE",
+      "anchor": [
+        "WEEKLY MARKET"
+      ]
+    },
+    {
+      "gloss": "WEIGHT, WEIGH, WEIGHING SCALE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WEIGHTLIFTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WEIRD, ODD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WELCOME",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WELDER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WELL",
+      "category": "CORE",
+      "anchor": [
+        "WELL BEING"
+      ]
+    },
+    {
+      "gloss": "WEST",
+      "category": "CORE",
+      "anchor": [
+        "WEST BENGAL",
+        "WEST INDIES"
+      ]
+    },
+    {
+      "gloss": "WET",
+      "category": "CORE",
+      "anchor": [
+        "WET WIPES",
+        "WET MARKET",
+        "WET CLIMATE",
+        "WET MIX MACADAM"
+      ]
+    },
+    {
+      "gloss": "WHALE",
+      "category": "CORE",
+      "anchor": [
+        "WHALE FISH"
+      ]
+    },
+    {
+      "gloss": "WHAT",
+      "category": "GRAMMAR & FUNCTION",
+      "anchor": [
+        "WHAT TIME",
+        "WHAT IS YOUR NAME",
+        "WHAT HAPPENED"
+      ]
+    },
+    {
+      "gloss": "WHAT HAPPENED",
+      "category": "COMPOUND",
+      "anchor": [
+        "WHAT",
+        "WHAT TIME",
+        "WHAT IS YOUR NAME"
+      ]
+    },
+    {
+      "gloss": "WHAT IS YOUR NAME",
+      "category": "COMPOUND",
+      "anchor": [
+        "WHAT",
+        "WHAT TIME",
+        "WHAT HAPPENED"
+      ]
+    },
+    {
+      "gloss": "WHAT TIME",
+      "category": "COMPOUND",
+      "anchor": [
+        "WHAT",
+        "WHAT IS YOUR NAME",
+        "WHAT HAPPENED"
+      ]
+    },
+    {
+      "gloss": "WHATEVER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WHAT'S UP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WHATSAPP",
+      "category": "CORE",
+      "anchor": [
+        "WHATSAPP NOTIFICATION"
+      ]
+    },
+    {
+      "gloss": "WHEN",
+      "category": "GRAMMAR & FUNCTION",
+      "anchor": []
+    },
+    {
+      "gloss": "WHERE",
+      "category": "GRAMMAR & FUNCTION",
+      "anchor": []
+    },
+    {
+      "gloss": "WHICH",
+      "category": "GRAMMAR & FUNCTION",
+      "anchor": []
+    },
+    {
+      "gloss": "WHILE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WHISK, BEATER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WHISTLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WHITE",
+      "category": "CORE",
+      "anchor": [
+        "WHITE GOODS",
+        "WHITE HAT",
+        "WHITE FLOWERED PLANTS",
+        "WHITE BLOOD CELLS",
+        "WHITE SPACE"
+      ]
+    },
+    {
+      "gloss": "WHITEBOARD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WHO, WHOM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WHY",
+      "category": "GRAMMAR & FUNCTION",
+      "anchor": []
+    },
+    {
+      "gloss": "WICKET",
+      "category": "CORE",
+      "anchor": [
+        "WICKET KEEPER"
+      ]
+    },
+    {
+      "gloss": "WICKET KEEPER",
+      "category": "COMPOUND",
+      "anchor": [
+        "WICKET"
+      ]
+    },
+    {
+      "gloss": "WICKET-KEEPER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WIDE",
+      "category": "CLASSIFIERS",
+      "anchor": [
+        "WIDE FLANGE",
+        "WIDE AREA NETWORK",
+        "WIDE BALL"
+      ]
+    },
+    {
+      "gloss": "WIDE BALL",
+      "category": "COMPOUND",
+      "anchor": [
+        "WIDE",
+        "WIDE AREA NETWORK",
+        "WIDE FLANGE"
+      ]
+    },
+    {
+      "gloss": "WIDE, BROAD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WIFE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WIFI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WIKIPEDIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WIND",
+      "category": "CORE",
+      "anchor": [
+        "WIND BORNE DISEASE",
+        "WIND ENERGY",
+        "WIND VANE",
+        "WIND BREAKERS & SHELTER HEDGES",
+        "WIND EROSION"
+      ]
+    },
+    {
+      "gloss": "WINDOW",
+      "category": "CORE",
+      "anchor": [
+        "WINDOW GARDEN"
+      ]
+    },
+    {
+      "gloss": "WINE",
+      "category": "CORE",
+      "anchor": [
+        "WINE RACK"
+      ]
+    },
+    {
+      "gloss": "WINE RACK",
+      "category": "COMPOUND",
+      "anchor": [
+        "WINE"
+      ]
+    },
+    {
+      "gloss": "WINNER, VICTOR, CHAMPION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WINNERS PODIUM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WINTER",
+      "category": "CORE",
+      "anchor": [
+        "WINTER TREKKING, SNOW TREKKING",
+        "WINTER OR RABI SEASON VEGETABLES",
+        "WINTER SEASON ANNUALS"
+      ]
+    },
+    {
+      "gloss": "WINTER TREKKING, SNOW TREKKING",
+      "category": "COMPOUND",
+      "anchor": [
+        "WINTER SEASON ANNUALS",
+        "WINTER",
+        "WINTER OR RABI SEASON VEGETABLES"
+      ]
+    },
+    {
+      "gloss": "WISE, INTELLIGENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "WISE, KNOWLEDGEABLE"
+      ]
+    },
+    {
+      "gloss": "WISE, KNOWLEDGEABLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "WISE, INTELLIGENT"
+      ]
+    },
+    {
+      "gloss": "WITHDRAW MONEY FROM BANK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WITHOUT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WOLF",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WOMAN, FEMALE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WOOD",
+      "category": "CORE",
+      "anchor": [
+        "WOOD PLANE",
+        "WOOD SCREW"
+      ]
+    },
+    {
+      "gloss": "WOODPECKER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WOOL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WORD",
+      "category": "CORE",
+      "anchor": [
+        "WORD TEMPLATE",
+        "WORD OF MOUTH",
+        "WORD COUNT"
+      ]
+    },
+    {
+      "gloss": "WORK",
+      "category": "CORE",
+      "anchor": [
+        "WORK BENCH"
+      ]
+    },
+    {
+      "gloss": "WORKSHOP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WORLD ASSOCIATION OF SIGN LANGUAGE INTERPRETERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "WORLD FEDERATION OF THE DEAF YOUTH SECTION",
+        "WORLD TOURISM ORGANIZATION",
+        "WORLD FEDERATION OF THE DEAF",
+        "WORLD ECONOMY",
+        "WORLD RECORD"
+      ]
+    },
+    {
+      "gloss": "WORLD FEDERATION OF THE DEAF",
+      "category": "COMPOUND",
+      "anchor": [
+        "WORLD FEDERATION OF THE DEAF YOUTH SECTION",
+        "WORLD TOURISM ORGANIZATION",
+        "WORLD ECONOMY",
+        "WORLD RECORD",
+        "WORLD ASSOCIATION OF SIGN LANGUAGE INTERPRETERS"
+      ]
+    },
+    {
+      "gloss": "WORLD FEDERATION OF THE DEAF YOUTH SECTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "WORLD TOURISM ORGANIZATION",
+        "WORLD FEDERATION OF THE DEAF",
+        "WORLD ECONOMY",
+        "WORLD RECORD",
+        "WORLD ASSOCIATION OF SIGN LANGUAGE INTERPRETERS"
+      ]
+    },
+    {
+      "gloss": "WORLD RECORD",
+      "category": "COMPOUND",
+      "anchor": [
+        "WORLD FEDERATION OF THE DEAF YOUTH SECTION",
+        "WORLD TOURISM ORGANIZATION",
+        "WORLD FEDERATION OF THE DEAF",
+        "WORLD ECONOMY",
+        "WORLD ASSOCIATION OF SIGN LANGUAGE INTERPRETERS"
+      ]
+    },
+    {
+      "gloss": "WORRY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WOUND",
+      "category": "CORE",
+      "anchor": [
+        "WOUND UP"
+      ]
+    },
+    {
+      "gloss": "WRESTLING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WRINKLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WRITE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WRITER, AUTHOR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WRONG, INCORRECT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WADIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WARRIOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WASTEWATER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WATER CYCLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WATER POLLUTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WATER TABLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WATER-BREAKING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WAVES, TIDES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WAXING, WANING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WBC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WEATHERING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WEEDS",
+      "category": "CORE",
+      "anchor": [
+        "WEEDS NEAR TO POND MARGIN"
+      ]
+    },
+    {
+      "gloss": "WEEKLY MARKET",
+      "category": "COMPOUND",
+      "anchor": [
+        "WEEKLY"
+      ]
+    },
+    {
+      "gloss": "WET CLIMATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "WET WIPES",
+        "WET MARKET",
+        "WET MIX MACADAM",
+        "WET"
+      ]
+    },
+    {
+      "gloss": "WHALE FISH",
+      "category": "COMPOUND",
+      "anchor": [
+        "WHALE"
+      ]
+    },
+    {
+      "gloss": "WHIRLPOOL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WHITE BLOOD CELLS",
+      "category": "COMPOUND",
+      "anchor": [
+        "WHITE GOODS",
+        "WHITE HAT",
+        "WHITE",
+        "WHITE FLOWERED PLANTS",
+        "WHITE SPACE"
+      ]
+    },
+    {
+      "gloss": "WHITE GOODS",
+      "category": "COMPOUND",
+      "anchor": [
+        "WHITE HAT",
+        "WHITE",
+        "WHITE FLOWERED PLANTS",
+        "WHITE BLOOD CELLS",
+        "WHITE SPACE"
+      ]
+    },
+    {
+      "gloss": "WHOLE NUMBER",
+      "category": "COMPOUND",
+      "anchor": [
+        "WHOLE SALING"
+      ]
+    },
+    {
+      "gloss": "WIND ENERGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "WIND BORNE DISEASE",
+        "WIND VANE",
+        "WIND",
+        "WIND BREAKERS & SHELTER HEDGES",
+        "WIND EROSION"
+      ]
+    },
+    {
+      "gloss": "WIND VANE",
+      "category": "COMPOUND",
+      "anchor": [
+        "WIND BORNE DISEASE",
+        "WIND ENERGY",
+        "WIND EROSION",
+        "WIND",
+        "WIND BREAKERS & SHELTER HEDGES"
+      ]
+    },
+    {
+      "gloss": "WINDMILL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WINDS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WINNOWING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WITHDRAWAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WORKERS' UNION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WORLD ECONOMY",
+      "category": "COMPOUND",
+      "anchor": [
+        "WORLD FEDERATION OF THE DEAF YOUTH SECTION",
+        "WORLD TOURISM ORGANIZATION",
+        "WORLD FEDERATION OF THE DEAF",
+        "WORLD RECORD",
+        "WORLD ASSOCIATION OF SIGN LANGUAGE INTERPRETERS"
+      ]
+    },
+    {
+      "gloss": "WORLD TOURISM ORGANIZATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "WORLD FEDERATION OF THE DEAF YOUTH SECTION",
+        "WORLD FEDERATION OF THE DEAF",
+        "WORLD ECONOMY",
+        "WORLD RECORD",
+        "WORLD ASSOCIATION OF SIGN LANGUAGE INTERPRETERS"
+      ]
+    },
+    {
+      "gloss": "WORLD TRADE ORGANIZATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "WORLD FEDERATION OF THE DEAF YOUTH SECTION",
+        "WORLD FEDERATION OF THE DEAF",
+        "WORLD ECONOMY",
+        "WORLD RECORD",
+        "WORLD ASSOCIATION OF SIGN LANGUAGE INTERPRETERS"
+      ]
+    },
+    {
+      "gloss": "WALL GARDEN",
+      "category": "COMPOUND",
+      "anchor": [
+        "WALL",
+        "WALL BARS",
+        "WALL PANEL"
+      ]
+    },
+    {
+      "gloss": "WATER & INDIGENOUS BUFFALOW",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WATER EROSION",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WATER GARDEN",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WATER LIFTING EQUIPMENTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WATER LOGGED HEDGES",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WATER LOGGED SOIL WEEDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WEATHER CONDITION",
+      "category": "COMPOUND",
+      "anchor": [
+        "WEATHER"
+      ]
+    },
+    {
+      "gloss": "WEDGE GRAFTING",
+      "category": "COMPOUND",
+      "anchor": [
+        "WEDGE"
+      ]
+    },
+    {
+      "gloss": "WEED",
+      "category": "CORE",
+      "anchor": [
+        "WEED CONTROL",
+        "WEED SCIENCE"
+      ]
+    },
+    {
+      "gloss": "WEED CONTROL",
+      "category": "COMPOUND",
+      "anchor": [
+        "WEED",
+        "WEED SCIENCE"
+      ]
+    },
+    {
+      "gloss": "WEED SCIENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "WEED CONTROL",
+        "WEED"
+      ]
+    },
+    {
+      "gloss": "WEEDS NEAR TO POND MARGIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "WEEDS"
+      ]
+    },
+    {
+      "gloss": "WHEAT RUST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WHITE FLOWERED PLANTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "WHITE GOODS",
+        "WHITE HAT",
+        "WHITE",
+        "WHITE BLOOD CELLS",
+        "WHITE SPACE"
+      ]
+    },
+    {
+      "gloss": "WHOLE SALING",
+      "category": "COMPOUND",
+      "anchor": [
+        "WHOLE NUMBER"
+      ]
+    },
+    {
+      "gloss": "WHOLESALE MERCHANTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WILD SWINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "WILD STRUCTURE"
+      ]
+    },
+    {
+      "gloss": "WILTING COEFFICIENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WIND BORNE DISEASE",
+      "category": "COMPOUND",
+      "anchor": [
+        "WIND ENERGY",
+        "WIND VANE",
+        "WIND",
+        "WIND BREAKERS & SHELTER HEDGES",
+        "WIND EROSION"
+      ]
+    },
+    {
+      "gloss": "WIND BREAKERS & SHELTER HEDGES",
+      "category": "COMPOUND",
+      "anchor": [
+        "WIND BORNE DISEASE",
+        "WIND ENERGY",
+        "WIND VANE",
+        "WIND",
+        "WIND EROSION"
+      ]
+    },
+    {
+      "gloss": "WIND EROSION",
+      "category": "COMPOUND",
+      "anchor": [
+        "WIND BORNE DISEASE",
+        "WIND ENERGY",
+        "WIND VANE",
+        "WIND",
+        "WIND BREAKERS & SHELTER HEDGES"
+      ]
+    },
+    {
+      "gloss": "WINDOW GARDEN",
+      "category": "COMPOUND",
+      "anchor": [
+        "WINDOW"
+      ]
+    },
+    {
+      "gloss": "WINTER OR RABI SEASON VEGETABLES",
+      "category": "COMPOUND",
+      "anchor": [
+        "WINTER TREKKING, SNOW TREKKING",
+        "WINTER",
+        "WINTER SEASON ANNUALS"
+      ]
+    },
+    {
+      "gloss": "WINTER SEASON ANNUALS",
+      "category": "COMPOUND",
+      "anchor": [
+        "WINTER TREKKING, SNOW TREKKING",
+        "WINTER",
+        "WINTER OR RABI SEASON VEGETABLES"
+      ]
+    },
+    {
+      "gloss": "WYE LEVEL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WALES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WEST INDIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "WEST BENGAL",
+        "WEST"
+      ]
+    },
+    {
+      "gloss": "WORKING HOURS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WORD OF MOUTH",
+      "category": "COMPOUND",
+      "anchor": [
+        "WORD TEMPLATE",
+        "WORD",
+        "WORD COUNT"
+      ]
+    },
+    {
+      "gloss": "WANTED, WANTED CRIMINAL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WARRANTY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WATER CANNON",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WIDOW, WIDOWER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WILDCAT STRIKE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WITNESS BOX",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WOMEN JAIL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WORKER'S COMPENSATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WRIT, WRIT PETITION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WRONGFUL CONFINEMENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WALKING FRAME",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WALL BARS",
+      "category": "COMPOUND",
+      "anchor": [
+        "WALL",
+        "WALL PANEL",
+        "WALL GARDEN"
+      ]
+    },
+    {
+      "gloss": "WARD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WARTENBERG WHEEL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WAX BATH",
+      "category": "COMPOUND",
+      "anchor": [
+        "WAX KNIFE"
+      ]
+    },
+    {
+      "gloss": "WAX KNIFE",
+      "category": "COMPOUND",
+      "anchor": [
+        "WAX BATH"
+      ]
+    },
+    {
+      "gloss": "WEIGHING SCALE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WHEEL CHAIR",
+      "category": "COMPOUND",
+      "anchor": [
+        "WHEEL RIM",
+        "WHEEL"
+      ]
+    },
+    {
+      "gloss": "WOMEN'S CANCERS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WEST BENGAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "WEST INDIES",
+        "WEST"
+      ]
+    },
+    {
+      "gloss": "WAITING ROOM",
+      "category": "COMPOUND",
+      "anchor": [
+        "WAITING LIST"
+      ]
+    },
+    {
+      "gloss": "WALL PANEL",
+      "category": "COMPOUND",
+      "anchor": [
+        "WALL",
+        "WALL BARS",
+        "WALL GARDEN"
+      ]
+    },
+    {
+      "gloss": "WAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WARM COLOURS",
+      "category": "COMPOUND",
+      "anchor": [
+        "WARM"
+      ]
+    },
+    {
+      "gloss": "WASHER PLATE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WATCH WINDOW",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WATER CLOSET",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WATER MARK",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WATER PERMEABILITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WATER PIPE",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WATER PUMP",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WATER REDUCING ADMIXTURES",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WATER SOFTENING",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WATER STAGNATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WATERPROOF AIR FILTER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WATT",
+      "category": "CORE",
+      "anchor": [
+        "WATT METER"
+      ]
+    },
+    {
+      "gloss": "WATT METER",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATT"
+      ]
+    },
+    {
+      "gloss": "WAVEFORM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WEB BLOG",
+      "category": "COMPOUND",
+      "anchor": [
+        "WEB CAMERA",
+        "WEB PAGE",
+        "WEB CONTENT ACCESSIBILITY",
+        "WEB ACCESSIBILITY",
+        "WEB BROWSER"
+      ]
+    },
+    {
+      "gloss": "WEB BROWSER",
+      "category": "COMPOUND",
+      "anchor": [
+        "WEB CAMERA",
+        "WEB BLOG",
+        "WEB PAGE",
+        "WEB CONTENT ACCESSIBILITY",
+        "WEB ACCESSIBILITY"
+      ]
+    },
+    {
+      "gloss": "WEB CAMERA",
+      "category": "COMPOUND",
+      "anchor": [
+        "WEB BLOG",
+        "WEB PAGE",
+        "WEB CONTENT ACCESSIBILITY",
+        "WEB ACCESSIBILITY",
+        "WEB BROWSER"
+      ]
+    },
+    {
+      "gloss": "WEB PAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "WEB CAMERA",
+        "WEB BLOG",
+        "WEB CONTENT ACCESSIBILITY",
+        "WEB ACCESSIBILITY",
+        "WEB BROWSER"
+      ]
+    },
+    {
+      "gloss": "WEBEX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WEDGE",
+      "category": "CORE",
+      "anchor": [
+        "WEDGE GRAFTING"
+      ]
+    },
+    {
+      "gloss": "WELDING HAND SCREEN",
+      "category": "COMPOUND",
+      "anchor": [
+        "WELDING ROBOT"
+      ]
+    },
+    {
+      "gloss": "WELDING ROBOT",
+      "category": "COMPOUND",
+      "anchor": [
+        "WELDING HAND SCREEN"
+      ]
+    },
+    {
+      "gloss": "WET MIX MACADAM",
+      "category": "COMPOUND",
+      "anchor": [
+        "WET WIPES",
+        "WET MARKET",
+        "WET CLIMATE",
+        "WET"
+      ]
+    },
+    {
+      "gloss": "WHATSAPP NOTIFICATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "WHATSAPP"
+      ]
+    },
+    {
+      "gloss": "WHEELBARROW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WHEELED ROBOTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "WHEELED WAGON"
+      ]
+    },
+    {
+      "gloss": "WHITE HAT",
+      "category": "COMPOUND",
+      "anchor": [
+        "WHITE GOODS",
+        "WHITE",
+        "WHITE FLOWERED PLANTS",
+        "WHITE BLOOD CELLS",
+        "WHITE SPACE"
+      ]
+    },
+    {
+      "gloss": "WHITE SPACE",
+      "category": "COMPOUND",
+      "anchor": [
+        "WHITE GOODS",
+        "WHITE HAT",
+        "WHITE",
+        "WHITE FLOWERED PLANTS",
+        "WHITE BLOOD CELLS"
+      ]
+    },
+    {
+      "gloss": "WIDE FLANGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "WIDE",
+        "WIDE AREA NETWORK",
+        "WIDE BALL"
+      ]
+    },
+    {
+      "gloss": "WIDOWS AND ORPHANS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WIND LOAD",
+      "category": "COMPOUND",
+      "anchor": [
+        "WIND BORNE DISEASE",
+        "WIND ENERGY",
+        "WIND VANE",
+        "WIND",
+        "WIND BREAKERS & SHELTER HEDGES"
+      ]
+    },
+    {
+      "gloss": "WIRE GAUGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "WIRE STRIPPER"
+      ]
+    },
+    {
+      "gloss": "WIRE STRIPPER",
+      "category": "COMPOUND",
+      "anchor": [
+        "WIRE GAUGE"
+      ]
+    },
+    {
+      "gloss": "WIRED GLASS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WIRELESS POWERPOINT CLICKER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WIREMAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WIRING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WOOD PLANE",
+      "category": "COMPOUND",
+      "anchor": [
+        "WOOD SCREW",
+        "WOOD"
+      ]
+    },
+    {
+      "gloss": "WOOD SCREW",
+      "category": "COMPOUND",
+      "anchor": [
+        "WOOD PLANE",
+        "WOOD"
+      ]
+    },
+    {
+      "gloss": "WORD COUNT",
+      "category": "COMPOUND",
+      "anchor": [
+        "WORD TEMPLATE",
+        "WORD",
+        "WORD OF MOUTH"
+      ]
+    },
+    {
+      "gloss": "WORD TEMPLATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "WORD COUNT",
+        "WORD",
+        "WORD OF MOUTH"
+      ]
+    },
+    {
+      "gloss": "WORDPAD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WORK BENCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "WORK"
+      ]
+    },
+    {
+      "gloss": "WORKSHEET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WORM WHEEL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WOVEN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WRENCH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WATER RETENTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WEAVING",
+      "category": "CORE",
+      "anchor": [
+        "WEAVING LOOM"
+      ]
+    },
+    {
+      "gloss": "WEEDICIDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WILDLIFE",
+      "category": "CORE",
+      "anchor": [
+        "WILDLIFE CORRIDOR"
+      ]
+    },
+    {
+      "gloss": "WINDPIPE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WALKABILITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WALKOUT BOUT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WATER SUPPLY",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WEALTH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WEARABLE ASSISTIVE DEVICES",
+      "category": "COMPOUND",
+      "anchor": [
+        "WEARABLE TECHNOLOGY"
+      ]
+    },
+    {
+      "gloss": "WEB ACCESSIBILITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "WEB CAMERA",
+        "WEB BLOG",
+        "WEB PAGE",
+        "WEB CONTENT ACCESSIBILITY",
+        "WEB BROWSER"
+      ]
+    },
+    {
+      "gloss": "WEB CONTENT ACCESSIBILITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "WEB CAMERA",
+        "WEB BLOG",
+        "WEB PAGE",
+        "WEB ACCESSIBILITY",
+        "WEB BROWSER"
+      ]
+    },
+    {
+      "gloss": "WEIGH STATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WELFARE",
+      "category": "CORE",
+      "anchor": [
+        "WELFARE STATE"
+      ]
+    },
+    {
+      "gloss": "WELFARE STATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "WELFARE"
+      ]
+    },
+    {
+      "gloss": "WET MARKET",
+      "category": "COMPOUND",
+      "anchor": [
+        "WET WIPES",
+        "WET CLIMATE",
+        "WET MIX MACADAM",
+        "WET"
+      ]
+    },
+    {
+      "gloss": "WHARF",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WHEEL",
+      "category": "CORE",
+      "anchor": [
+        "WHEEL RIM",
+        "WHEEL CHAIR"
+      ]
+    },
+    {
+      "gloss": "WHEEL RIM",
+      "category": "COMPOUND",
+      "anchor": [
+        "WHEEL",
+        "WHEEL CHAIR"
+      ]
+    },
+    {
+      "gloss": "WHEELBASE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WHEELCHAIR ACCESSIBLE VEHICLE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WHEELED WAGON",
+      "category": "COMPOUND",
+      "anchor": [
+        "WHEELED ROBOTS"
+      ]
+    },
+    {
+      "gloss": "WHISKERS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WILD STRUCTURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "WILD SWINE"
+      ]
+    },
+    {
+      "gloss": "WINDSHIELD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WORST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WAGES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WAITING LIST",
+      "category": "COMPOUND",
+      "anchor": [
+        "WAITING ROOM"
+      ]
+    },
+    {
+      "gloss": "WAITRESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WALK-IN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WANDER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WARDROBE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WASH BASIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "WASH"
+      ]
+    },
+    {
+      "gloss": "WATER PURIFIER",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WATER TANK",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WATER TAP",
+      "category": "COMPOUND",
+      "anchor": [
+        "WATER",
+        "WATER SKIING, WAKEBOARDING",
+        "WATER MOTOR, WATER PUMP",
+        "WATER TANKER",
+        "WATER FILTER"
+      ]
+    },
+    {
+      "gloss": "WEARY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WESTERN WEAR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WONDER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WORLD WIDE WEB",
+      "category": "COMPOUND",
+      "anchor": [
+        "WORLD FEDERATION OF THE DEAF YOUTH SECTION",
+        "WORLD FEDERATION OF THE DEAF",
+        "WORLD ECONOMY",
+        "WORLD RECORD",
+        "WORLD ASSOCIATION OF SIGN LANGUAGE INTERPRETERS"
+      ]
+    },
+    {
+      "gloss": "WAIVER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WAREHOUSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WAYFINDING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WEARABLE TECHNOLOGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "WEARABLE ASSISTIVE DEVICES"
+      ]
+    },
+    {
+      "gloss": "WEAVING LOOM",
+      "category": "COMPOUND",
+      "anchor": [
+        "WEAVING"
+      ]
+    },
+    {
+      "gloss": "WELLNESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WIDE AREA NETWORK",
+      "category": "COMPOUND",
+      "anchor": [
+        "WIDE",
+        "WIDE FLANGE",
+        "WIDE BALL"
+      ]
+    },
+    {
+      "gloss": "WIPER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WOUND UP",
+      "category": "COMPOUND",
+      "anchor": [
+        "WOUND"
+      ]
+    },
+    {
+      "gloss": "WANDERING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WELL BEING",
+      "category": "COMPOUND",
+      "anchor": [
+        "WELL"
+      ]
+    },
+    {
+      "gloss": "WITHDRAWN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WAIST CHAIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "WAIST"
+      ]
+    },
+    {
+      "gloss": "WATERLOGGING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WATERSHED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WET WIPES",
+      "category": "COMPOUND",
+      "anchor": [
+        "WET MARKET",
+        "WET CLIMATE",
+        "WET MIX MACADAM",
+        "WET"
+      ]
+    },
+    {
+      "gloss": "WETLANDS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WILDLIFE CORRIDOR",
+      "category": "COMPOUND",
+      "anchor": [
+        "WILDLIFE"
+      ]
+    },
+    {
+      "gloss": "WILLING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WINGSPAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WIPE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WIREFRAME",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WISDOM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "WORK-LIFE BALANCE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "WORLD",
+      "category": "CORE",
+      "anchor": [
+        "WORLD FEDERATION OF THE DEAF YOUTH SECTION",
+        "WORLD FEDERATION OF THE DEAF",
+        "WORLD ECONOMY",
+        "WORLD RECORD",
+        "WORLD ASSOCIATION OF SIGN LANGUAGE INTERPRETERS"
+      ]
+    },
+    {
+      "gloss": "WORLDVIEW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "W",
+      "category": "LETTERS",
+      "anchor": []
+    }
+  ]
+}

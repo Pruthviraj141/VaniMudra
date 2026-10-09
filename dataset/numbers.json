@@ -1,0 +1,58 @@
+{
+  "metadata": {
+    "total_words": 10,
+    "description": "Number entries from the original dataset"
+  },
+  "words": [
+    {
+      "gloss": "1",
+      "category": "NUMBERS",
+      "anchor": []
+    },
+    {
+      "gloss": "2",
+      "category": "NUMBERS",
+      "anchor": []
+    },
+    {
+      "gloss": "3",
+      "category": "NUMBERS",
+      "anchor": []
+    },
+    {
+      "gloss": "4",
+      "category": "NUMBERS",
+      "anchor": []
+    },
+    {
+      "gloss": "5",
+      "category": "NUMBERS",
+      "anchor": []
+    },
+    {
+      "gloss": "6",
+      "category": "NUMBERS",
+      "anchor": []
+    },
+    {
+      "gloss": "7",
+      "category": "NUMBERS",
+      "anchor": []
+    },
+    {
+      "gloss": "8",
+      "category": "NUMBERS",
+      "anchor": []
+    },
+    {
+      "gloss": "9",
+      "category": "NUMBERS",
+      "anchor": []
+    },
+    {
+      "gloss": "0",
+      "category": "NUMBERS",
+      "anchor": []
+    }
+  ]
+}

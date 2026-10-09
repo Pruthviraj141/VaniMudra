@@ -1,0 +1,1786 @@
+{
+  "metadata": {
+    "total_words": 272,
+    "description": "Words starting with letter O"
+  },
+  "words": [
+    {
+      "gloss": "OATH, PLEDGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "OATH, AFFIRM, DEPOSE"
+      ]
+    },
+    {
+      "gloss": "OBEY, COMPLY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OBJECT BALL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OBSERVE, WATCH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OCTOBER",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "OCTOPUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OFFER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OFFICE",
+      "category": "CORE",
+      "anchor": [
+        "OFFICE BRANCH",
+        "OFFICE MEMORANDUM",
+        "OFFICE ORDER",
+        "OFFICE AUTOMATION"
+      ]
+    },
+    {
+      "gloss": "OFFICE BRANCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "OFFICE",
+        "OFFICE MEMORANDUM",
+        "OFFICE ORDER",
+        "OFFICE AUTOMATION"
+      ]
+    },
+    {
+      "gloss": "OFFICIAL",
+      "category": "CORE",
+      "anchor": [
+        "OFFICIAL LANGUAGE"
+      ]
+    },
+    {
+      "gloss": "OFF-SIDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OFTEN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OGLE FROM HEAD TO TOE, GAPE, GAWK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OIL",
+      "category": "CORE",
+      "anchor": [
+        "OIL TANKER TRAIN, PETROL TRAIN",
+        "OIL SEED CROPS",
+        "OIL SEED CROP DISEASE",
+        "OIL SLICKS",
+        "OIL SPILL"
+      ]
+    },
+    {
+      "gloss": "OIL TANKER TRAIN, PETROL TRAIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "OIL SEED CROPS",
+        "OIL SEED CROP DISEASE",
+        "OIL SLICKS",
+        "OIL",
+        "OIL SPILL"
+      ]
+    },
+    {
+      "gloss": "OINK, SNORT, SQUEAL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OKAY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OLD",
+      "category": "CORE",
+      "anchor": [
+        "OLD FASHIONED"
+      ]
+    },
+    {
+      "gloss": "OLD FASHIONED",
+      "category": "COMPOUND",
+      "anchor": [
+        "OLD"
+      ]
+    },
+    {
+      "gloss": "OLD, AGED, ELDERLY",
+      "category": "COMPOUND",
+      "anchor": [
+        "OLD, OBSOLETE, OUTDATED, ANCIENT"
+      ]
+    },
+    {
+      "gloss": "OLD, OBSOLETE, OUTDATED, ANCIENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "OLD, AGED, ELDERLY"
+      ]
+    },
+    {
+      "gloss": "OLDER BROTHER, ELDER BROTHER",
+      "category": "COMPOUND",
+      "anchor": [
+        "OLDER SISTER, ELDER SISTER"
+      ]
+    },
+    {
+      "gloss": "OLDER SISTER, ELDER SISTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "OLDER BROTHER, ELDER BROTHER"
+      ]
+    },
+    {
+      "gloss": "ON",
+      "category": "CORE",
+      "anchor": [
+        "ON THE BASIS OF CROPS DISEASE",
+        "ON THE BASIS OF LIFE CYCLE",
+        "ON CLOUD NINE",
+        "ON THE BASIS OF MAJOR CAUSAL AGENTS",
+        "ON THE BALL"
+      ]
+    },
+    {
+      "gloss": "ON CLOUD NINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "ON THE BASIS OF CROPS DISEASE",
+        "ON THE BASIS OF LIFE CYCLE",
+        "ON",
+        "ON THE BASIS OF MAJOR CAUSAL AGENTS",
+        "ON THE BALL"
+      ]
+    },
+    {
+      "gloss": "ON THE BALL",
+      "category": "COMPOUND",
+      "anchor": [
+        "ON THE BASIS OF CROPS DISEASE",
+        "ON THE BASIS OF LIFE CYCLE",
+        "ON CLOUD NINE",
+        "ON",
+        "ON THE BASIS OF MAJOR CAUSAL AGENTS"
+      ]
+    },
+    {
+      "gloss": "ONAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ONCE",
+      "category": "CORE",
+      "anchor": [
+        "ONCE UPON A TIME"
+      ]
+    },
+    {
+      "gloss": "ONCE UPON A TIME",
+      "category": "COMPOUND",
+      "anchor": [
+        "ONCE"
+      ]
+    },
+    {
+      "gloss": "ONE AND A HALF HOURS",
+      "category": "COMPOUND",
+      "anchor": [
+        "ONE WAY",
+        "ONE DAY CRICKET, 50 OVERS FORMAT",
+        "ONE NIGHT STAND",
+        "ONE TIME PAYMENT"
+      ]
+    },
+    {
+      "gloss": "ONE DAY CRICKET, 50 OVERS FORMAT",
+      "category": "COMPOUND",
+      "anchor": [
+        "ONE WAY",
+        "ONE NIGHT STAND",
+        "ONE TIME PAYMENT",
+        "ONE AND A HALF HOURS"
+      ]
+    },
+    {
+      "gloss": "ONEPLUS MOBILE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ONION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ONLINE",
+      "category": "CORE",
+      "anchor": [
+        "ONLINE MEETING",
+        "ONLINE EDITING",
+        "ONLINE SHOPPING"
+      ]
+    },
+    {
+      "gloss": "ONLINE SHOPPING",
+      "category": "COMPOUND",
+      "anchor": [
+        "ONLINE MEETING",
+        "ONLINE",
+        "ONLINE EDITING"
+      ]
+    },
+    {
+      "gloss": "OPEN",
+      "category": "CORE",
+      "anchor": [
+        "OPEN MINDED, BROAD MINDED",
+        "OPEN CURVE",
+        "OPEN JAIL",
+        "OPEN CLASS, CLOSE CLASS",
+        "OPEN AND DISTANCE LEARNING"
+      ]
+    },
+    {
+      "gloss": "OPEN MINDED, BROAD MINDED",
+      "category": "COMPOUND",
+      "anchor": [
+        "OPEN CURVE",
+        "OPEN JAIL",
+        "OPEN CLASS, CLOSE CLASS",
+        "OPEN AND DISTANCE LEARNING",
+        "OPEN"
+      ]
+    },
+    {
+      "gloss": "OPERATION",
+      "category": "CORE",
+      "anchor": [
+        "OPERATION COST"
+      ]
+    },
+    {
+      "gloss": "OPINION",
+      "category": "CORE",
+      "anchor": [
+        "OPINION QUESTION"
+      ]
+    },
+    {
+      "gloss": "OPPO MOBILE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OPPORTUNITY, CHANCE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OPPOSITE, CONTRADICTORY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OPPOSITION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OPPRESS, SUBJUGATE, SUPPRESS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OPPRESSION, INJUSTICE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OPTION, CHOICE, ALTERNATIVE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ORAL, SPOKEN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ORANGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ORCHESTRA, ENSEMBLE, SYMPHONY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ORDER, COMMAND, DIRECT, INSTRUCT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ORGANIZATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ORIENTAL BANK OF COMMERCE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ORIGAMI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ORIYA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OSTRICH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OTHER",
+      "category": "CORE",
+      "anchor": [
+        "OTHER BACKWARD CLASSES"
+      ]
+    },
+    {
+      "gloss": "OUR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OURS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OURSELVES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OUT FOR A DUCK",
+      "category": "COMPOUND",
+      "anchor": [
+        "OUT CROSSING",
+        "OUT THE MONEY",
+        "OUT OF ACTION"
+      ]
+    },
+    {
+      "gloss": "OUT OF ACTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "OUT CROSSING",
+        "OUT THE MONEY",
+        "OUT FOR A DUCK"
+      ]
+    },
+    {
+      "gloss": "OUT, OUTSIDE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OVAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OVER",
+      "category": "CORE",
+      "anchor": [
+        "OVER THE WICKET",
+        "OVER LOCK STITCH"
+      ]
+    },
+    {
+      "gloss": "OVER THE WICKET",
+      "category": "COMPOUND",
+      "anchor": [
+        "OVER",
+        "OVER LOCK STITCH"
+      ]
+    },
+    {
+      "gloss": "OVERTHROW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OVERTIME",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OWE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OWL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OWN, MINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "OWN, POSSESS"
+      ]
+    },
+    {
+      "gloss": "OWN, POSSESS",
+      "category": "COMPOUND",
+      "anchor": [
+        "OWN, MINE"
+      ]
+    },
+    {
+      "gloss": "OWNER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OWNER, LANDLORD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OBJECTIVES",
+      "category": "CORE",
+      "anchor": [
+        "OBJECTIVES OF SHRUBS PLANTATION"
+      ]
+    },
+    {
+      "gloss": "OBJECTIVITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OBSERVER BIAS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OBTUSE ANGLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "OBTUSE ANGLED TRIANGLE"
+      ]
+    },
+    {
+      "gloss": "OBTUSE ANGLED TRIANGLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "OBTUSE ANGLE"
+      ]
+    },
+    {
+      "gloss": "OCEAN THERMAL ENERGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "OCEAN"
+      ]
+    },
+    {
+      "gloss": "OCTAGON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ODD NUMBER",
+      "category": "COMPOUND",
+      "anchor": [
+        "ODD LEG CALIPER"
+      ]
+    },
+    {
+      "gloss": "ODDS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OFFENCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OIL SLICKS",
+      "category": "COMPOUND",
+      "anchor": [
+        "OIL TANKER TRAIN, PETROL TRAIN",
+        "OIL SEED CROPS",
+        "OIL SEED CROP DISEASE",
+        "OIL",
+        "OIL SPILL"
+      ]
+    },
+    {
+      "gloss": "OIL SPILL",
+      "category": "COMPOUND",
+      "anchor": [
+        "OIL TANKER TRAIN, PETROL TRAIN",
+        "OIL SEED CROPS",
+        "OIL SEED CROP DISEASE",
+        "OIL SLICKS",
+        "OIL"
+      ]
+    },
+    {
+      "gloss": "OMNIVORES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ONE-FOURTH",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "ONE-GROUP PRETEST-POST TEST DESIGN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ONES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ONOMATOPOEIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OPEN AND DISTANCE LEARNING",
+      "category": "COMPOUND",
+      "anchor": [
+        "OPEN MINDED, BROAD MINDED",
+        "OPEN CURVE",
+        "OPEN JAIL",
+        "OPEN CLASS, CLOSE CLASS",
+        "OPEN"
+      ]
+    },
+    {
+      "gloss": "OPEN CLASS, CLOSE CLASS",
+      "category": "COMPOUND",
+      "anchor": [
+        "OPEN MINDED, BROAD MINDED",
+        "OPEN CURVE",
+        "OPEN JAIL",
+        "OPEN AND DISTANCE LEARNING",
+        "OPEN"
+      ]
+    },
+    {
+      "gloss": "OPEN CURVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "OPEN MINDED, BROAD MINDED",
+        "OPEN JAIL",
+        "OPEN CLASS, CLOSE CLASS",
+        "OPEN AND DISTANCE LEARNING",
+        "OPEN"
+      ]
+    },
+    {
+      "gloss": "OPEN-RESPONSE ITEMS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OPERATIONAL DEFINITION",
+      "category": "COMPOUND",
+      "anchor": [
+        "OPERATIONAL HOLDING",
+        "OPERATIONAL COSTS"
+      ]
+    },
+    {
+      "gloss": "OPINION QUESTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "OPINION"
+      ]
+    },
+    {
+      "gloss": "OPPOSITE ANGLES",
+      "category": "COMPOUND",
+      "anchor": [
+        "OPPOSITE SIDES"
+      ]
+    },
+    {
+      "gloss": "OPPOSITE SIDES",
+      "category": "COMPOUND",
+      "anchor": [
+        "OPPOSITE ANGLES"
+      ]
+    },
+    {
+      "gloss": "OPTIC NERVE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ORAL STATEMENTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "ORAL REHYDRATION THERAPY",
+        "ORAL EVIDENCE SECTION 60, INDIAN EVIDENCE ACT"
+      ]
+    },
+    {
+      "gloss": "ORALISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ORBIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ORBITAL DIRECTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ORBITER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ORGANELLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ORGANIC",
+      "category": "CORE",
+      "anchor": [
+        "ORGANIC FARMING",
+        "ORGANIC CHEMISTRY",
+        "ORGANIC FOOD"
+      ]
+    },
+    {
+      "gloss": "ORGANIC CHEMISTRY",
+      "category": "COMPOUND",
+      "anchor": [
+        "ORGANIC FARMING",
+        "ORGANIC",
+        "ORGANIC FOOD"
+      ]
+    },
+    {
+      "gloss": "ORGANIC FOOD",
+      "category": "COMPOUND",
+      "anchor": [
+        "ORGANIC FARMING",
+        "ORGANIC",
+        "ORGANIC CHEMISTRY"
+      ]
+    },
+    {
+      "gloss": "ORGANISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ORGANIZATIONAL PSYCHOLOGY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OSCILLATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OSTRACISE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OTHER BACKWARD CLASSES",
+      "category": "COMPOUND",
+      "anchor": [
+        "OTHER"
+      ]
+    },
+    {
+      "gloss": "OUTCOMES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OUTLIER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OUTLINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OVULES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OXYGEN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OZONE DEPLETION",
+      "category": "COMPOUND",
+      "anchor": [
+        "OZONE LAYER"
+      ]
+    },
+    {
+      "gloss": "OZONE LAYER",
+      "category": "COMPOUND",
+      "anchor": [
+        "OZONE DEPLETION"
+      ]
+    },
+    {
+      "gloss": "OBJECTIVES OF SHRUBS PLANTATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "OBJECTIVES"
+      ]
+    },
+    {
+      "gloss": "OBJECTS OF VEGETABLE PRESERVATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OBLIGATE PARASITE",
+      "category": "COMPOUND",
+      "anchor": [
+        "OBLIGATE SAPROPHYTE"
+      ]
+    },
+    {
+      "gloss": "OBLIGATE SAPROPHYTE",
+      "category": "COMPOUND",
+      "anchor": [
+        "OBLIGATE PARASITE"
+      ]
+    },
+    {
+      "gloss": "OFFSET",
+      "category": "CORE",
+      "anchor": [
+        "OFFSET ROD"
+      ]
+    },
+    {
+      "gloss": "OFFSET ROD",
+      "category": "COMPOUND",
+      "anchor": [
+        "OFFSET"
+      ]
+    },
+    {
+      "gloss": "OIL SEED CROP DISEASE",
+      "category": "COMPOUND",
+      "anchor": [
+        "OIL TANKER TRAIN, PETROL TRAIN",
+        "OIL SEED CROPS",
+        "OIL SLICKS",
+        "OIL",
+        "OIL SPILL"
+      ]
+    },
+    {
+      "gloss": "OIL SEED CROPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "OIL TANKER TRAIN, PETROL TRAIN",
+        "OIL SEED CROP DISEASE",
+        "OIL SLICKS",
+        "OIL",
+        "OIL SPILL"
+      ]
+    },
+    {
+      "gloss": "OLERICULTURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OMNIVOVUS FISHES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ON THE BASIS OF CROPS DISEASE",
+      "category": "COMPOUND",
+      "anchor": [
+        "ON THE BASIS OF LIFE CYCLE",
+        "ON CLOUD NINE",
+        "ON",
+        "ON THE BASIS OF MAJOR CAUSAL AGENTS",
+        "ON THE BALL"
+      ]
+    },
+    {
+      "gloss": "ON THE BASIS OF LIFE CYCLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "ON THE BASIS OF CROPS DISEASE",
+        "ON CLOUD NINE",
+        "ON",
+        "ON THE BASIS OF MAJOR CAUSAL AGENTS",
+        "ON THE BALL"
+      ]
+    },
+    {
+      "gloss": "ON THE BASIS OF MAJOR CAUSAL AGENTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "ON THE BASIS OF CROPS DISEASE",
+        "ON THE BASIS OF LIFE CYCLE",
+        "ON CLOUD NINE",
+        "ON",
+        "ON THE BALL"
+      ]
+    },
+    {
+      "gloss": "ON THE BASIS OF ORIGIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "ON THE BASIS OF CROPS DISEASE",
+        "ON THE BASIS OF LIFE CYCLE",
+        "ON CLOUD NINE",
+        "ON",
+        "ON THE BALL"
+      ]
+    },
+    {
+      "gloss": "ON THE BASIS OF POND",
+      "category": "COMPOUND",
+      "anchor": [
+        "ON THE BASIS OF CROPS DISEASE",
+        "ON THE BASIS OF LIFE CYCLE",
+        "ON CLOUD NINE",
+        "ON",
+        "ON THE BALL"
+      ]
+    },
+    {
+      "gloss": "ON THE BASIS OF PROPAGATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "ON THE BASIS OF CROPS DISEASE",
+        "ON THE BASIS OF LIFE CYCLE",
+        "ON CLOUD NINE",
+        "ON",
+        "ON THE BALL"
+      ]
+    },
+    {
+      "gloss": "ON THE BASIS OF USE OF POND",
+      "category": "COMPOUND",
+      "anchor": [
+        "ON THE BASIS OF CROPS DISEASE",
+        "ON THE BASIS OF LIFE CYCLE",
+        "ON CLOUD NINE",
+        "ON",
+        "ON THE BALL"
+      ]
+    },
+    {
+      "gloss": "ON THE BASIS OF USE OF THE BREEDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "ON THE BASIS OF CROPS DISEASE",
+        "ON THE BASIS OF LIFE CYCLE",
+        "ON CLOUD NINE",
+        "ON",
+        "ON THE BALL"
+      ]
+    },
+    {
+      "gloss": "ON THE BASIS OF WATER AREAS",
+      "category": "COMPOUND",
+      "anchor": [
+        "ON THE BASIS OF CROPS DISEASE",
+        "ON THE BASIS OF LIFE CYCLE",
+        "ON CLOUD NINE",
+        "ON",
+        "ON THE BALL"
+      ]
+    },
+    {
+      "gloss": "ON THE BASIS OF WATER IN POND",
+      "category": "COMPOUND",
+      "anchor": [
+        "ON THE BASIS OF CROPS DISEASE",
+        "ON THE BASIS OF LIFE CYCLE",
+        "ON CLOUD NINE",
+        "ON",
+        "ON THE BALL"
+      ]
+    },
+    {
+      "gloss": "OPERATION COST",
+      "category": "COMPOUND",
+      "anchor": [
+        "OPERATION"
+      ]
+    },
+    {
+      "gloss": "OPERATIONAL HOLDING",
+      "category": "COMPOUND",
+      "anchor": [
+        "OPERATIONAL DEFINITION",
+        "OPERATIONAL COSTS"
+      ]
+    },
+    {
+      "gloss": "OPTIMUM HOLDING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OPUNTIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ORNAMENTAL GARDENING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ORNITHOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OUT CROSSING",
+      "category": "COMPOUND",
+      "anchor": [
+        "OUT THE MONEY",
+        "OUT FOR A DUCK",
+        "OUT OF ACTION"
+      ]
+    },
+    {
+      "gloss": "OUTER SHELL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OVERLAPPING CROPPING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OVIPAROUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OVI-VIVIPAROUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OWNERSHIP HOLDING",
+      "category": "COMPOUND",
+      "anchor": [
+        "OWNERSHIP"
+      ]
+    },
+    {
+      "gloss": "OXIDATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ONE TIME PAYMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "ONE WAY",
+        "ONE DAY CRICKET, 50 OVERS FORMAT",
+        "ONE NIGHT STAND",
+        "ONE AND A HALF HOURS"
+      ]
+    },
+    {
+      "gloss": "OPENING BALANCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "OPENING CEREMONY, CLOSING CEREMONY"
+      ]
+    },
+    {
+      "gloss": "OPTION BUYER",
+      "category": "COMPOUND",
+      "anchor": [
+        "OPTION SELLER"
+      ]
+    },
+    {
+      "gloss": "OPTION SELLER",
+      "category": "COMPOUND",
+      "anchor": [
+        "OPTION BUYER"
+      ]
+    },
+    {
+      "gloss": "OPTIONS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ORDER",
+      "category": "CLASSIFIERS",
+      "anchor": []
+    },
+    {
+      "gloss": "OTC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OUT THE MONEY",
+      "category": "COMPOUND",
+      "anchor": [
+        "OUT CROSSING",
+        "OUT FOR A DUCK",
+        "OUT OF ACTION"
+      ]
+    },
+    {
+      "gloss": "OVERDRAFT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OWNERSHIP",
+      "category": "CORE",
+      "anchor": [
+        "OWNERSHIP HOLDING"
+      ]
+    },
+    {
+      "gloss": "ON THE FENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "ON THE BASIS OF CROPS DISEASE",
+        "ON THE BASIS OF LIFE CYCLE",
+        "ON CLOUD NINE",
+        "ON",
+        "ON THE BALL"
+      ]
+    },
+    {
+      "gloss": "OATH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OATH, AFFIRM, DEPOSE",
+      "category": "COMPOUND",
+      "anchor": [
+        "OATH, PLEDGE"
+      ]
+    },
+    {
+      "gloss": "OBLIGATOR, OBLIGEE, OBLIGATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OFFICE MEMORANDUM",
+      "category": "COMPOUND",
+      "anchor": [
+        "OFFICE",
+        "OFFICE BRANCH",
+        "OFFICE ORDER",
+        "OFFICE AUTOMATION"
+      ]
+    },
+    {
+      "gloss": "OFFICE ORDER",
+      "category": "COMPOUND",
+      "anchor": [
+        "OFFICE",
+        "OFFICE BRANCH",
+        "OFFICE MEMORANDUM",
+        "OFFICE AUTOMATION"
+      ]
+    },
+    {
+      "gloss": "OFFICER IN CHARGE OF JAIL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OFFICIAL LANGUAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "OFFICIAL"
+      ]
+    },
+    {
+      "gloss": "OFFICIALESE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OFFICIATING, TEMPORARY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OPEN JAIL",
+      "category": "COMPOUND",
+      "anchor": [
+        "OPEN MINDED, BROAD MINDED",
+        "OPEN CURVE",
+        "OPEN CLASS, CLOSE CLASS",
+        "OPEN AND DISTANCE LEARNING",
+        "OPEN"
+      ]
+    },
+    {
+      "gloss": "OPENING CEREMONY, CLOSING CEREMONY",
+      "category": "COMPOUND",
+      "anchor": [
+        "OPENING BALANCE"
+      ]
+    },
+    {
+      "gloss": "ORAL EVIDENCE SECTION 60, INDIAN EVIDENCE ACT",
+      "category": "COMPOUND",
+      "anchor": [
+        "ORAL REHYDRATION THERAPY",
+        "ORAL STATEMENTS"
+      ]
+    },
+    {
+      "gloss": "ORGANISATIONAL STRUCTURE, SECRETARY, ADDITIONAL SECRETARY, JOINT SECRETARY, DIVISION, DEPUTY SECRETARY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OBESITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OLFACTORY GLANDS, BOWMAN'S GLANDS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ORAL REHYDRATION THERAPY",
+      "category": "COMPOUND",
+      "anchor": [
+        "ORAL STATEMENTS",
+        "ORAL EVIDENCE SECTION 60, INDIAN EVIDENCE ACT"
+      ]
+    },
+    {
+      "gloss": "OSTEOCLAST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OSTEOPOROSIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OVARIAN CYST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OVARY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ODISHA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OOTY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ODD LEG CALIPER",
+      "category": "COMPOUND",
+      "anchor": [
+        "ODD NUMBER"
+      ]
+    },
+    {
+      "gloss": "OFFICE AUTOMATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "OFFICE",
+        "OFFICE BRANCH",
+        "OFFICE MEMORANDUM",
+        "OFFICE ORDER"
+      ]
+    },
+    {
+      "gloss": "OFFLINE EDITING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OIL CAN",
+      "category": "COMPOUND",
+      "anchor": [
+        "OIL TANKER TRAIN, PETROL TRAIN",
+        "OIL SEED CROP DISEASE",
+        "OIL SLICKS",
+        "OIL",
+        "OIL SPILL"
+      ]
+    },
+    {
+      "gloss": "ONLINE EDITING",
+      "category": "COMPOUND",
+      "anchor": [
+        "ONLINE MEETING",
+        "ONLINE",
+        "ONLINE SHOPPING"
+      ]
+    },
+    {
+      "gloss": "ONLINE MEETING",
+      "category": "COMPOUND",
+      "anchor": [
+        "ONLINE",
+        "ONLINE EDITING",
+        "ONLINE SHOPPING"
+      ]
+    },
+    {
+      "gloss": "OPEN BELT DRIVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "OPEN MINDED, BROAD MINDED",
+        "OPEN CURVE",
+        "OPEN CLASS, CLOSE CLASS",
+        "OPEN AND DISTANCE LEARNING",
+        "OPEN"
+      ]
+    },
+    {
+      "gloss": "OPEN CIRCUIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "OPEN MINDED, BROAD MINDED",
+        "OPEN CURVE",
+        "OPEN CLASS, CLOSE CLASS",
+        "OPEN AND DISTANCE LEARNING",
+        "OPEN"
+      ]
+    },
+    {
+      "gloss": "OPEN DRAINAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "OPEN MINDED, BROAD MINDED",
+        "OPEN CURVE",
+        "OPEN CLASS, CLOSE CLASS",
+        "OPEN AND DISTANCE LEARNING",
+        "OPEN"
+      ]
+    },
+    {
+      "gloss": "OPERATING SYSTEM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OPTICAL CHARACTER RECOGNITION",
+      "category": "COMPOUND",
+      "anchor": [
+        "OPTICAL"
+      ]
+    },
+    {
+      "gloss": "ORIGINAL SOUND",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OSCILLOSCOPE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OUTPUT UNIT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OUTSIDE CALIPER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OVER LOCK STITCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "OVER THE WICKET",
+        "OVER"
+      ]
+    },
+    {
+      "gloss": "OCCUPATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ORDERING OF INTEGERS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ORGAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ORIENTATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ORIGIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ORION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OCEAN",
+      "category": "CORE",
+      "anchor": [
+        "OCEAN THERMAL ENERGY"
+      ]
+    },
+    {
+      "gloss": "OPEN-CAST MINING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ORE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ORGANIC FARMING",
+      "category": "COMPOUND",
+      "anchor": [
+        "ORGANIC",
+        "ORGANIC CHEMISTRY",
+        "ORGANIC FOOD"
+      ]
+    },
+    {
+      "gloss": "OFF SIDE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OFFSHOOT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OLIGARCHY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OPEN RACE",
+      "category": "COMPOUND",
+      "anchor": [
+        "OPEN MINDED, BROAD MINDED",
+        "OPEN CURVE",
+        "OPEN CLASS, CLOSE CLASS",
+        "OPEN AND DISTANCE LEARNING",
+        "OPEN"
+      ]
+    },
+    {
+      "gloss": "OPEN ROAD TOLLING",
+      "category": "COMPOUND",
+      "anchor": [
+        "OPEN MINDED, BROAD MINDED",
+        "OPEN CURVE",
+        "OPEN CLASS, CLOSE CLASS",
+        "OPEN AND DISTANCE LEARNING",
+        "OPEN"
+      ]
+    },
+    {
+      "gloss": "OPENNESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OPERABLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OPERATIONAL COSTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "OPERATIONAL DEFINITION",
+        "OPERATIONAL HOLDING"
+      ]
+    },
+    {
+      "gloss": "OPPOSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OPTICAL",
+      "category": "CORE",
+      "anchor": [
+        "OPTICAL CHARACTER RECOGNITION"
+      ]
+    },
+    {
+      "gloss": "ORCHARD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OUTBREAK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OUTSOURCING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OVERHAND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OVERHEAD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OVERSEE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OVERTIME, EXTRA TIME",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OXYMORON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OBSCENE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OBSESSIVE",
+      "category": "CORE",
+      "anchor": [
+        "OBSESSIVE THOUGHTS",
+        "OBSESSIVE - COMPULSIVE DISORDER"
+      ]
+    },
+    {
+      "gloss": "OBSTRUCTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OCCASION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OCCUR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ONE NIGHT STAND",
+      "category": "COMPOUND",
+      "anchor": [
+        "ONE WAY",
+        "ONE DAY CRICKET, 50 OVERS FORMAT",
+        "ONE TIME PAYMENT",
+        "ONE AND A HALF HOURS"
+      ]
+    },
+    {
+      "gloss": "ONE WAY",
+      "category": "COMPOUND",
+      "anchor": [
+        "ONE DAY CRICKET, 50 OVERS FORMAT",
+        "ONE NIGHT STAND",
+        "ONE TIME PAYMENT",
+        "ONE AND A HALF HOURS"
+      ]
+    },
+    {
+      "gloss": "OPEN-HEART SURGERY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OPTIMISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ORNITHOLOGIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ORTHOPEDIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ORTHOTIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OTT PLATFORM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OUTDOOR GAMES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "OUTFIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OVERSIZED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OPERATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OVERPASS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OBSESSIVE THOUGHTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "OBSESSIVE",
+        "OBSESSIVE - COMPULSIVE DISORDER"
+      ]
+    },
+    {
+      "gloss": "OBSESSIVE - COMPULSIVE DISORDER",
+      "category": "COMPOUND",
+      "anchor": [
+        "OBSESSIVE THOUGHTS",
+        "OBSESSIVE"
+      ]
+    },
+    {
+      "gloss": "ORGANISE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OUTPATIENT SERVICES",
+      "category": "COMPOUND",
+      "anchor": [
+        "OUTPATIENT"
+      ]
+    },
+    {
+      "gloss": "OUTPATIENT",
+      "category": "CORE",
+      "anchor": [
+        "OUTPATIENT SERVICES"
+      ]
+    },
+    {
+      "gloss": "OVERWHELMED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OBITUARY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OBJECTIVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ONCOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OPERA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OPHTHALMOLOGIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OPTICIAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OPTOMETRIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ORISON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ORTHODOX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OSPREY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OVERFISHING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OVERFLOW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OVERHARVESTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OVERPOPULATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OVERTURN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "OPTIMISTIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "O",
+      "category": "LETTERS",
+      "anchor": []
+    }
+  ]
+}

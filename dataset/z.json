@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "total_words": 29,
+    "description": "Words starting with letter Z"
+  },
+  "words": [
+    {
+      "gloss": "ZEBRA",
+      "category": "CORE",
+      "anchor": [
+        "ZEBRA CROSSING"
+      ]
+    },
+    {
+      "gloss": "ZEBRA CROSSING",
+      "category": "COMPOUND",
+      "anchor": [
+        "ZEBRA"
+      ]
+    },
+    {
+      "gloss": "ZIGZAG",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ZIP",
+      "category": "CORE",
+      "anchor": [
+        "ZIP FILE"
+      ]
+    },
+    {
+      "gloss": "ZONE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ZOO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ZORBING, GLOBE RIDING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ZAMBIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ZIMBABWE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ZERO COUPON BOND, DEEP DISCOUNT BOND",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ZIMLETS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ZINC SHEET",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ZIP FILE",
+      "category": "COMPOUND",
+      "anchor": [
+        "ZIP"
+      ]
+    },
+    {
+      "gloss": "ZIPPER",
+      "category": "CORE",
+      "anchor": [
+        "ZIPPER FOOT"
+      ]
+    },
+    {
+      "gloss": "ZIPPER FOOT",
+      "category": "COMPOUND",
+      "anchor": [
+        "ZIPPER"
+      ]
+    },
+    {
+      "gloss": "ZOOM",
+      "category": "CORE",
+      "anchor": [
+        "ZOOM PHONE",
+        "ZOOM ROOMS",
+        "ZOOM CLIENT"
+      ]
+    },
+    {
+      "gloss": "ZOOM CLIENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "ZOOM PHONE",
+        "ZOOM",
+        "ZOOM ROOMS"
+      ]
+    },
+    {
+      "gloss": "ZOOM PHONE",
+      "category": "COMPOUND",
+      "anchor": [
+        "ZOOM",
+        "ZOOM ROOMS",
+        "ZOOM CLIENT"
+      ]
+    },
+    {
+      "gloss": "ZOOM ROOMS",
+      "category": "COMPOUND",
+      "anchor": [
+        "ZOOM PHONE",
+        "ZOOM",
+        "ZOOM CLIENT"
+      ]
+    },
+    {
+      "gloss": "ZODIAC SIGN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ZYGOTE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ZONING REGULATIONS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ZIPLINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ZOMATO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ZOOKEEPER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ZEN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ZOROASTRIANISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ZUCCHINI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "Z",
+      "category": "LETTERS",
+      "anchor": []
+    }
+  ]
+}

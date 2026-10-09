@@ -1,0 +1,3234 @@
+{
+  "metadata": {
+    "total_words": 508,
+    "description": "Words starting with letter R"
+  },
+  "words": [
+    {
+      "gloss": "RABINDRANATH TAGORE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RACE",
+      "category": "CORE",
+      "anchor": [
+        "RACE COURSE",
+        "RACE TRACK"
+      ]
+    },
+    {
+      "gloss": "RACE COURSE",
+      "category": "COMPOUND",
+      "anchor": [
+        "RACE TRACK",
+        "RACE"
+      ]
+    },
+    {
+      "gloss": "RACE TRACK",
+      "category": "COMPOUND",
+      "anchor": [
+        "RACE COURSE",
+        "RACE"
+      ]
+    },
+    {
+      "gloss": "RACISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RACK",
+      "category": "CORE",
+      "anchor": [
+        "RACK FOCUS"
+      ]
+    },
+    {
+      "gloss": "RACKET, RACQUET",
+      "category": "COMPOUND",
+      "anchor": [
+        "RACKET, SCAM"
+      ]
+    },
+    {
+      "gloss": "RACKET, SCAM",
+      "category": "COMPOUND",
+      "anchor": [
+        "RACKET, RACQUET"
+      ]
+    },
+    {
+      "gloss": "RADIO",
+      "category": "CORE",
+      "anchor": [
+        "RADIO JOCKEY"
+      ]
+    },
+    {
+      "gloss": "RADISH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RAFT",
+      "category": "CORE",
+      "anchor": [
+        "RAFT FOUNDATION"
+      ]
+    },
+    {
+      "gloss": "RAFTING, WHITE WATER RAFTING, RIVER RAFTING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RAG",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RAILFANNING, RAILFAN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RAILWAY TRACK",
+      "category": "COMPOUND",
+      "anchor": [
+        "RAILWAY OR CACTUS HEDGES",
+        "RAILWAY STATION"
+      ]
+    },
+    {
+      "gloss": "RAIN",
+      "category": "CORE",
+      "anchor": [
+        "RAIN DROP"
+      ]
+    },
+    {
+      "gloss": "RAIN DROP",
+      "category": "COMPOUND",
+      "anchor": [
+        "RAIN"
+      ]
+    },
+    {
+      "gloss": "RAINBOW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RAINCOAT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RAISE",
+      "category": "CORE",
+      "anchor": [
+        "RAISE ONE'S HAND AGAINST SOMEONE"
+      ]
+    },
+    {
+      "gloss": "RAISE ONE'S HAND AGAINST SOMEONE",
+      "category": "COMPOUND",
+      "anchor": [
+        "RAISE"
+      ]
+    },
+    {
+      "gloss": "RAISE, BRING UP, REAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "RAISE, INCREASE",
+        "RAISE, LIFT"
+      ]
+    },
+    {
+      "gloss": "RAISE, INCREASE",
+      "category": "COMPOUND",
+      "anchor": [
+        "RAISE, BRING UP, REAR",
+        "RAISE, LIFT"
+      ]
+    },
+    {
+      "gloss": "RAISE, LIFT",
+      "category": "COMPOUND",
+      "anchor": [
+        "RAISE, INCREASE",
+        "RAISE, BRING UP, REAR"
+      ]
+    },
+    {
+      "gloss": "RAISIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RAITA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RAJDHANI TRAIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "RAJDHANI TRAIN)"
+      ]
+    },
+    {
+      "gloss": "RAJDHANI TRAIN)",
+      "category": "COMPOUND",
+      "anchor": [
+        "RAJDHANI TRAIN"
+      ]
+    },
+    {
+      "gloss": "RAM NAVAMI",
+      "category": "COMPOUND",
+      "anchor": [
+        "RAM"
+      ]
+    },
+    {
+      "gloss": "RAMA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RAMP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RAMP, RUNWAY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RANGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RANK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RANN OF KUTCH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RANVEER SINGH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RAPID FIRE PISTOL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RARE",
+      "category": "CLASSIFIERS",
+      "anchor": []
+    },
+    {
+      "gloss": "RARELY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RASGULLA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RASHTRAPATI BHAWAN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RASHTRIYA JANTA DAL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RAT, MOUSE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RATE, PRICE, COST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RAW",
+      "category": "CORE",
+      "anchor": [
+        "RAW MATERIAL"
+      ]
+    },
+    {
+      "gloss": "RAZOR",
+      "category": "CORE",
+      "anchor": [
+        "RAZOR BLADE"
+      ]
+    },
+    {
+      "gloss": "RAZOR BLADE",
+      "category": "COMPOUND",
+      "anchor": [
+        "RAZOR"
+      ]
+    },
+    {
+      "gloss": "REACH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "READ",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "READY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REAL ESTATE AGENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "REAL EVIDENCE OR PHYSICAL EVIDENCE OR MATERIAL EVIDENCE",
+        "REAL ESTATE",
+        "REAL IMAGE",
+        "REAL NUMBER"
+      ]
+    },
+    {
+      "gloss": "REALIZE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REASON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RECEIPT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RECEIVE",
+      "category": "CORE",
+      "anchor": [
+        "APPROVE",
+        "ACTION TAKEN REPORT",
+        "AGREE, CONCUR, CONSENT"
+      ]
+    },
+    {
+      "gloss": "RECENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RECENTLY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RECEPTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RECHARGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RECIPE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RECOGNIZE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RECORD",
+      "category": "CORE",
+      "anchor": [
+        "RECORD DATE"
+      ]
+    },
+    {
+      "gloss": "RECTANGLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RECURRING DEPOSIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "RECURRING"
+      ]
+    },
+    {
+      "gloss": "RED",
+      "category": "CORE",
+      "anchor": [
+        "RED FORT",
+        "RED BLOOD CELLS",
+        "RED BLOOD CELL",
+        "RED TAPE",
+        "RED FLOWERED PLANT"
+      ]
+    },
+    {
+      "gloss": "RED FORT",
+      "category": "COMPOUND",
+      "anchor": [
+        "RED BLOOD CELLS",
+        "RED BLOOD CELL",
+        "RED TAPE",
+        "RED",
+        "RED FLOWERED PLANT"
+      ]
+    },
+    {
+      "gloss": "RED TAPE",
+      "category": "COMPOUND",
+      "anchor": [
+        "RED FORT",
+        "RED BLOOD CELLS",
+        "RED BLOOD CELL",
+        "RED",
+        "RED FLOWERED PLANT"
+      ]
+    },
+    {
+      "gloss": "REDUCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REFRIGERATOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REGRET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REGULAR",
+      "category": "CLASSIFIERS",
+      "anchor": [
+        "REGULAR REFLECTION"
+      ]
+    },
+    {
+      "gloss": "REHABILITATION",
+      "category": "CORE",
+      "anchor": [
+        "REHABILITATION COUNCIL OF INDIA"
+      ]
+    },
+    {
+      "gloss": "REHEARSAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RELAX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RELAY",
+      "category": "CORE",
+      "anchor": [
+        "RELAY RACE",
+        "RELAY CROPPING"
+      ]
+    },
+    {
+      "gloss": "RELAY RACE",
+      "category": "COMPOUND",
+      "anchor": [
+        "RELAY",
+        "RELAY CROPPING"
+      ]
+    },
+    {
+      "gloss": "RELIANCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RELIGION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REMEMBER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REMOTE",
+      "category": "CORE",
+      "anchor": [
+        "REMOTE CONTROL, REMOTE SUPPORT",
+        "REMOTE LOCALITY OR REMOTE AREA",
+        "REMOTE SENSING"
+      ]
+    },
+    {
+      "gloss": "REMOVE, DELETE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RENT",
+      "category": "CORE",
+      "anchor": [
+        "RENT CONTROL ACT",
+        "RENT IN AGRICULTURE"
+      ]
+    },
+    {
+      "gloss": "REPAIR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REPORT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REPORTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REPRIMAND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REPUBLIC DAY",
+      "category": "COMPOUND",
+      "anchor": [
+        "REPUBLIC"
+      ]
+    },
+    {
+      "gloss": "REQUEST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RESEARCH",
+      "category": "CORE",
+      "anchor": [
+        "RESEARCH DESIGN",
+        "RESEARCH & DEVELOPMENT",
+        "RESEARCH AND INNOVATION",
+        "RESEARCH FARM"
+      ]
+    },
+    {
+      "gloss": "RESEARCHER",
+      "category": "CORE",
+      "anchor": [
+        "RESEARCHER BIAS"
+      ]
+    },
+    {
+      "gloss": "RESERVATION",
+      "category": "CORE",
+      "anchor": [
+        "RESERVATION COUNTER"
+      ]
+    },
+    {
+      "gloss": "RESIDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RESIGN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RESOLVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RESPECT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RESPOND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RESTAURANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RESTRAINED, BOUND, CONFINED, CHAINED",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RESULT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RETIRE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RETURN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REVERSE",
+      "category": "CORE",
+      "anchor": [
+        "REVERSE SPLIT"
+      ]
+    },
+    {
+      "gloss": "REVISE, REVIEW",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "REVOKE DECISION, CANCEL CALL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "REVOLVING CHAIR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "REWARD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RHINOCEROS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RIBBON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RICE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RICH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RIDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RIGHT",
+      "category": "CORE",
+      "anchor": [
+        "RIGHT ANGLE, ACUTE ANGLE AND OBTUSE ANGLE",
+        "RIGHT ANGLED TRIANGLE",
+        "RIGHT ANGLE",
+        "RIGHT AS RAIN",
+        "RIGHT ANGLE TRIANGLE"
+      ]
+    },
+    {
+      "gloss": "RIGHT AS RAIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "RIGHT ANGLE, ACUTE ANGLE AND OBTUSE ANGLE",
+        "RIGHT ANGLED TRIANGLE",
+        "RIGHT ANGLE",
+        "RIGHT",
+        "RIGHT ANGLE TRIANGLE"
+      ]
+    },
+    {
+      "gloss": "RISK, UNCERTAINTY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ROAD",
+      "category": "CORE",
+      "anchor": [
+        "ROAD SEPARATOR",
+        "ROAD BROOM"
+      ]
+    },
+    {
+      "gloss": "ROAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ROAR, GROWL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ROAST, ROASTING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ROCK",
+      "category": "CORE",
+      "anchor": [
+        "ROCK WEATHERING",
+        "ROCK DAM",
+        "ROCK SALT",
+        "ROCK GARDENING OR ROCKERIES",
+        "ROCK CLIMBING"
+      ]
+    },
+    {
+      "gloss": "ROCK CLIMBING",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROCK",
+        "ROCK WEATHERING",
+        "ROCK DAM",
+        "ROCK SALT",
+        "ROCK GARDENING OR ROCKERIES"
+      ]
+    },
+    {
+      "gloss": "ROCKET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ROCKING CHAIR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ROLE",
+      "category": "CORE",
+      "anchor": [
+        "ROLE PLAYING GAME",
+        "ROLE MODEL"
+      ]
+    },
+    {
+      "gloss": "ROLL",
+      "category": "CORE",
+      "anchor": [
+        "ROLL OF PLANT GROWTH REGULATORS IN VEGETABLE PRODUCTION",
+        "ROLL NUMBER"
+      ]
+    },
+    {
+      "gloss": "ROLL, WRAP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ROLLER COASTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROLLER COASTER, ROLLER COASTER TRAIN"
+      ]
+    },
+    {
+      "gloss": "ROLLER COASTER, ROLLER COASTER TRAIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROLLER COASTER"
+      ]
+    },
+    {
+      "gloss": "ROLLS ROYCE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ROOF",
+      "category": "CORE",
+      "anchor": [
+        "ROOF GIRDERS",
+        "ROOF GARDEN"
+      ]
+    },
+    {
+      "gloss": "ROOM",
+      "category": "CORE",
+      "anchor": [
+        "ROOM SERVICE"
+      ]
+    },
+    {
+      "gloss": "ROUND",
+      "category": "CORE",
+      "anchor": [
+        "ROUND THE WICKET",
+        "ROUND BRUSH",
+        "ROUND TRIP",
+        "ROUND OFF"
+      ]
+    },
+    {
+      "gloss": "ROUND THE WICKET",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROUND OFF",
+        "ROUND BRUSH",
+        "ROUND",
+        "ROUND TRIP"
+      ]
+    },
+    {
+      "gloss": "ROUTE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ROYAL ENFIELD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RUBBER STAMP",
+      "category": "COMPOUND",
+      "anchor": [
+        "RUBBER BOOTS"
+      ]
+    },
+    {
+      "gloss": "RUBBER, ERASER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RUDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RUGBY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RULE",
+      "category": "CORE",
+      "anchor": [
+        "RULE OF THIRDS"
+      ]
+    },
+    {
+      "gloss": "RULER, SCALE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RUN",
+      "category": "CORE",
+      "anchor": [
+        "RUN OUT",
+        "RUN COMPATIBILITY CHECKER"
+      ]
+    },
+    {
+      "gloss": "RUN OUT",
+      "category": "COMPOUND",
+      "anchor": [
+        "RUN",
+        "RUN COMPATIBILITY CHECKER"
+      ]
+    },
+    {
+      "gloss": "RUNNER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RUNNING BETWEEN WICKETS",
+      "category": "COMPOUND",
+      "anchor": [
+        "RUNNING CONDENSER",
+        "RUNNING STITCH"
+      ]
+    },
+    {
+      "gloss": "RUNS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RUPEE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RUSH",
+      "category": "CORE",
+      "anchor": [
+        "RUSH HOUR"
+      ]
+    },
+    {
+      "gloss": "RADAR",
+      "category": "CORE",
+      "anchor": [
+        "RADAR CHART"
+      ]
+    },
+    {
+      "gloss": "RADIATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RADIUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RAINFOREST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RAINWATER HARVESTING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RANCH AND RANCHER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RATIO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RATIONAL AND IRRATIONAL NUMBERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "RATIONAL NUMBER"
+      ]
+    },
+    {
+      "gloss": "RATIONAL, RATIONAL BEHAVIOR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RAW MATERIAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "RAW"
+      ]
+    },
+    {
+      "gloss": "RAY, SYMBOL OF RAY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "REAL ESTATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "REAL EVIDENCE OR PHYSICAL EVIDENCE OR MATERIAL EVIDENCE",
+        "REAL ESTATE AGENT",
+        "REAL IMAGE",
+        "REAL NUMBER"
+      ]
+    },
+    {
+      "gloss": "REAR",
+      "category": "CORE",
+      "anchor": [
+        "REAR VIEW MIRROR"
+      ]
+    },
+    {
+      "gloss": "RECIPROCAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RECREATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RECREATIONAL TOURISM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RECRUIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RECTUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RECURRING",
+      "category": "CORE",
+      "anchor": [
+        "RECURRING DEPOSIT"
+      ]
+    },
+    {
+      "gloss": "RECYCLABLES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RED BLOOD CELL",
+      "category": "COMPOUND",
+      "anchor": [
+        "RED FORT",
+        "RED BLOOD CELLS",
+        "RED TAPE",
+        "RED",
+        "RED FLOWERED PLANT"
+      ]
+    },
+    {
+      "gloss": "RED BLOOD CELLS",
+      "category": "COMPOUND",
+      "anchor": [
+        "RED FORT",
+        "RED BLOOD CELL",
+        "RED TAPE",
+        "RED",
+        "RED FLOWERED PLANT"
+      ]
+    },
+    {
+      "gloss": "REFLECTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REFLEX ANGLE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "REFORESTATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REFRACTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REFUGEE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REFUND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REGION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REGIONAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REHABILITATION COUNCIL OF INDIA",
+      "category": "COMPOUND",
+      "anchor": [
+        "REHABILITATION"
+      ]
+    },
+    {
+      "gloss": "RELIABILITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RELIGIOUS DISCRIMINATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "RELIGIOUS TOURISM"
+      ]
+    },
+    {
+      "gloss": "RELIGIOUS TOURISM",
+      "category": "COMPOUND",
+      "anchor": [
+        "RELIGIOUS DISCRIMINATION"
+      ]
+    },
+    {
+      "gloss": "REMAINDER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RENEWABLE",
+      "category": "CORE",
+      "anchor": [
+        "RENEWABLE RESOURCES"
+      ]
+    },
+    {
+      "gloss": "RENEWBLE ENERGY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "REPRODUCTIVE SYSTEM",
+      "category": "COMPOUND",
+      "anchor": [
+        "REPRODUCTIVE MEDICINE",
+        "REPRODUCTIVE HEALTH"
+      ]
+    },
+    {
+      "gloss": "REPUBLIC",
+      "category": "CORE",
+      "anchor": [
+        "REPUBLIC DAY"
+      ]
+    },
+    {
+      "gloss": "RESEARCH & DEVELOPMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "RESEARCH DESIGN",
+        "RESEARCH AND INNOVATION",
+        "RESEARCH FARM",
+        "RESEARCH"
+      ]
+    },
+    {
+      "gloss": "RESEARCH AND INNOVATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "RESEARCH & DEVELOPMENT",
+        "RESEARCH DESIGN",
+        "RESEARCH FARM",
+        "RESEARCH"
+      ]
+    },
+    {
+      "gloss": "RESEARCH DESIGN",
+      "category": "COMPOUND",
+      "anchor": [
+        "RESEARCH & DEVELOPMENT",
+        "RESEARCH AND INNOVATION",
+        "RESEARCH FARM",
+        "RESEARCH"
+      ]
+    },
+    {
+      "gloss": "RESEARCHER BIAS",
+      "category": "COMPOUND",
+      "anchor": [
+        "RESEARCHER"
+      ]
+    },
+    {
+      "gloss": "RESIDUAL WASTE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RESPIRATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RESPIRATORY SYSTEM",
+      "category": "COMPOUND",
+      "anchor": [
+        "RESPIRATORY HYGIENE"
+      ]
+    },
+    {
+      "gloss": "RETICULATE VENATION AND PARALLEL VENATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RETINA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REVOLT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REVOLUTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REVOLVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RHOMBUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RHS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RICHTER SCALE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RIGHT ANGLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "RIGHT ANGLE, ACUTE ANGLE AND OBTUSE ANGLE",
+        "RIGHT ANGLED TRIANGLE",
+        "RIGHT",
+        "RIGHT AS RAIN",
+        "RIGHT ANGLE TRIANGLE"
+      ]
+    },
+    {
+      "gloss": "RIGHT ANGLE TRIANGLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "RIGHT ANGLE, ACUTE ANGLE AND OBTUSE ANGLE",
+        "RIGHT ANGLED TRIANGLE",
+        "RIGHT ANGLE",
+        "RIGHT",
+        "RIGHT AS RAIN"
+      ]
+    },
+    {
+      "gloss": "RIGHT ANGLE, ACUTE ANGLE AND OBTUSE ANGLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "RIGHT ANGLED TRIANGLE",
+        "RIGHT ANGLE",
+        "RIGHT",
+        "RIGHT AS RAIN",
+        "RIGHT ANGLE TRIANGLE"
+      ]
+    },
+    {
+      "gloss": "RIGHT ANGLED TRIANGLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "RIGHT ANGLE, ACUTE ANGLE AND OBTUSE ANGLE",
+        "RIGHT ANGLE",
+        "RIGHT",
+        "RIGHT AS RAIN",
+        "RIGHT ANGLE TRIANGLE"
+      ]
+    },
+    {
+      "gloss": "RIGHT TO CONSTITUTIONAL REMEDIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "RIGHT ANGLE, ACUTE ANGLE AND OBTUSE ANGLE",
+        "RIGHT ANGLE",
+        "RIGHT",
+        "RIGHT AS RAIN",
+        "RIGHT ANGLE TRIANGLE"
+      ]
+    },
+    {
+      "gloss": "RIGHT TO EQUALITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "RIGHT ANGLE, ACUTE ANGLE AND OBTUSE ANGLE",
+        "RIGHT ANGLE",
+        "RIGHT",
+        "RIGHT AS RAIN",
+        "RIGHT ANGLE TRIANGLE"
+      ]
+    },
+    {
+      "gloss": "RIGHT TO FREEDOM",
+      "category": "COMPOUND",
+      "anchor": [
+        "RIGHT ANGLE, ACUTE ANGLE AND OBTUSE ANGLE",
+        "RIGHT ANGLE",
+        "RIGHT",
+        "RIGHT AS RAIN",
+        "RIGHT ANGLE TRIANGLE"
+      ]
+    },
+    {
+      "gloss": "RIGHT TO FREEDOM OF RELIGION",
+      "category": "COMPOUND",
+      "anchor": [
+        "RIGHT ANGLE, ACUTE ANGLE AND OBTUSE ANGLE",
+        "RIGHT ANGLE",
+        "RIGHT",
+        "RIGHT AS RAIN",
+        "RIGHT ANGLE TRIANGLE"
+      ]
+    },
+    {
+      "gloss": "RIGHT TO LIFE",
+      "category": "COMPOUND",
+      "anchor": [
+        "RIGHT ANGLE, ACUTE ANGLE AND OBTUSE ANGLE",
+        "RIGHT ANGLE",
+        "RIGHT",
+        "RIGHT AS RAIN",
+        "RIGHT ANGLE TRIANGLE"
+      ]
+    },
+    {
+      "gloss": "ROCK DAM",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROCK",
+        "ROCK WEATHERING",
+        "ROCK GARDENING OR ROCKERIES",
+        "ROCK SALT",
+        "ROCK CLIMBING"
+      ]
+    },
+    {
+      "gloss": "ROCK SALT",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROCK",
+        "ROCK WEATHERING",
+        "ROCK DAM",
+        "ROCK GARDENING OR ROCKERIES",
+        "ROCK CLIMBING"
+      ]
+    },
+    {
+      "gloss": "ROLE MODEL",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROLE PLAYING GAME",
+        "ROLE"
+      ]
+    },
+    {
+      "gloss": "ROMAN EMPIRE",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROMAN NUMBERS"
+      ]
+    },
+    {
+      "gloss": "ROMAN NUMBERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROMAN EMPIRE"
+      ]
+    },
+    {
+      "gloss": "ROTATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ROUND OFF",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROUND THE WICKET",
+        "ROUND BRUSH",
+        "ROUND",
+        "ROUND TRIP"
+      ]
+    },
+    {
+      "gloss": "ROUTED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ROWLATT ACT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RULER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RULING PARTY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RUNWAY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RURAL AREAS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RUST",
+      "category": "CORE",
+      "anchor": [
+        "RUST DISEASE"
+      ]
+    },
+    {
+      "gloss": "RUSTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RABI CROPS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RACTANGULAR METHOD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RADIENT ENERGY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RAILWAY OR CACTUS HEDGES",
+      "category": "COMPOUND",
+      "anchor": [
+        "RAILWAY STATION",
+        "RAILWAY TRACK"
+      ]
+    },
+    {
+      "gloss": "RAINY OR KHARIF SEASON VEGETABLES",
+      "category": "COMPOUND",
+      "anchor": [
+        "RAINY SEASON ANNUALS"
+      ]
+    },
+    {
+      "gloss": "RAINY SEASON ANNUALS",
+      "category": "COMPOUND",
+      "anchor": [
+        "RAINY OR KHARIF SEASON VEGETABLES"
+      ]
+    },
+    {
+      "gloss": "RAM",
+      "category": "CORE",
+      "anchor": [
+        "RAM NAVAMI"
+      ]
+    },
+    {
+      "gloss": "RANIKHET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RAT CONTROL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "REAPER BAINDER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RECLAMATION OF ALKALLI SOILS",
+      "category": "COMPOUND",
+      "anchor": [
+        "RECLAMATION"
+      ]
+    },
+    {
+      "gloss": "RED FLOWERED PLANT",
+      "category": "COMPOUND",
+      "anchor": [
+        "RED FORT",
+        "RED BLOOD CELLS",
+        "RED BLOOD CELL",
+        "RED TAPE",
+        "RED"
+      ]
+    },
+    {
+      "gloss": "RED ROT OF SUGARCANE",
+      "category": "COMPOUND",
+      "anchor": [
+        "RED FORT",
+        "RED BLOOD CELLS",
+        "RED BLOOD CELL",
+        "RED TAPE",
+        "RED"
+      ]
+    },
+    {
+      "gloss": "REDUCATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RELATIVE WEEDS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RELAY CROPPING",
+      "category": "COMPOUND",
+      "anchor": [
+        "RELAY RACE",
+        "RELAY"
+      ]
+    },
+    {
+      "gloss": "RENT IN AGRICULTURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "RENT",
+        "RENT CONTROL ACT"
+      ]
+    },
+    {
+      "gloss": "REPRODUCTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RESEARCH FARM",
+      "category": "COMPOUND",
+      "anchor": [
+        "RESEARCH DESIGN",
+        "RESEARCH & DEVELOPMENT",
+        "RESEARCH AND INNOVATION",
+        "RESEARCH"
+      ]
+    },
+    {
+      "gloss": "RETENTION OF MOISTURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "RETENTION"
+      ]
+    },
+    {
+      "gloss": "RETURNS TO CAPITAL ENVESTMENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RHIZOME",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RINDERPEST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RING BUDDING",
+      "category": "COMPOUND",
+      "anchor": [
+        "RING LAYERING",
+        "RING GENERALSHIP",
+        "RING SPANNER",
+        "RING STOPPAGE"
+      ]
+    },
+    {
+      "gloss": "RING LAYERING",
+      "category": "COMPOUND",
+      "anchor": [
+        "RING BUDDING",
+        "RING GENERALSHIP",
+        "RING SPANNER",
+        "RING STOPPAGE"
+      ]
+    },
+    {
+      "gloss": "RIVERINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ROASTERS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ROCK GARDENING OR ROCKERIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROCK",
+        "ROCK WEATHERING",
+        "ROCK DAM",
+        "ROCK SALT",
+        "ROCK CLIMBING"
+      ]
+    },
+    {
+      "gloss": "ROCK WEATHERING",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROCK",
+        "ROCK DAM",
+        "ROCK SALT",
+        "ROCK GARDENING OR ROCKERIES",
+        "ROCK CLIMBING"
+      ]
+    },
+    {
+      "gloss": "ROCKERY PLANTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ROGUE WEEDS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ROLL OF PLANT GROWTH REGULATORS IN VEGETABLE PRODUCTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROLL NUMBER",
+        "ROLL"
+      ]
+    },
+    {
+      "gloss": "ROOF GARDEN",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROOF",
+        "ROOF GIRDERS"
+      ]
+    },
+    {
+      "gloss": "ROOT AND TUBER CROPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROOT HAIR",
+        "ROOT PROLIFERATIONS",
+        "ROOT CAP",
+        "ROOT CUTTING",
+        "ROOT GRAFTING"
+      ]
+    },
+    {
+      "gloss": "ROOT CAP",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROOT AND TUBER CROPS",
+        "ROOT HAIR",
+        "ROOT PROLIFERATIONS",
+        "ROOT CUTTING",
+        "ROOT GRAFTING"
+      ]
+    },
+    {
+      "gloss": "ROOT CUTTING",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROOT AND TUBER CROPS",
+        "ROOT HAIR",
+        "ROOT PROLIFERATIONS",
+        "ROOT CAP",
+        "ROOT GRAFTING"
+      ]
+    },
+    {
+      "gloss": "ROOT GRAFTING",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROOT AND TUBER CROPS",
+        "ROOT HAIR",
+        "ROOT PROLIFERATIONS",
+        "ROOT CAP",
+        "ROOT CUTTING"
+      ]
+    },
+    {
+      "gloss": "ROOT PROLIFERATIONS",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROOT AND TUBER CROPS",
+        "ROOT HAIR",
+        "ROOT CAP",
+        "ROOT CUTTING",
+        "ROOT GRAFTING"
+      ]
+    },
+    {
+      "gloss": "ROOTS PROGAGATED WEEDS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ROSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ROT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ROTTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ROUGHAGES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RUST DISEASE",
+      "category": "COMPOUND",
+      "anchor": [
+        "RUST"
+      ]
+    },
+    {
+      "gloss": "RUSSIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RWANDA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RECONCILIATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RECORD DATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "RECORD"
+      ]
+    },
+    {
+      "gloss": "REFERENCE DATA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "REGULATIONS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REGULATOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REMITTANCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RENEWAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RESERVE FUND",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RETAIL BANK",
+      "category": "COMPOUND",
+      "anchor": [
+        "RETAIL"
+      ]
+    },
+    {
+      "gloss": "RETIREMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REVALIDATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REVENUE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REVERSE SPLIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "REVERSE"
+      ]
+    },
+    {
+      "gloss": "RIGHTS ISSUE",
+      "category": "COMPOUND",
+      "anchor": [
+        "RIGHTS"
+      ]
+    },
+    {
+      "gloss": "RANSOM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RDX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REAL EVIDENCE OR PHYSICAL EVIDENCE OR MATERIAL EVIDENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "REAL ESTATE",
+        "REAL ESTATE AGENT",
+        "REAL IMAGE",
+        "REAL NUMBER"
+      ]
+    },
+    {
+      "gloss": "REASONABLE DOUBT",
+      "category": "COMPOUND",
+      "anchor": [
+        "REASONABLE ACCOMMODATION"
+      ]
+    },
+    {
+      "gloss": "RECOVERY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REFERENCING OR REFERENCE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "REGISTERED COMPANY, UNREGISTERED COMPANY",
+      "category": "COMPOUND",
+      "anchor": [
+        "REGISTERED LAND, UNREGISTERED LAND"
+      ]
+    },
+    {
+      "gloss": "REGISTERED LAND, UNREGISTERED LAND",
+      "category": "COMPOUND",
+      "anchor": [
+        "REGISTERED COMPANY, UNREGISTERED COMPANY"
+      ]
+    },
+    {
+      "gloss": "REGISTRY OFFICE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "REIMBURSEMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REMAND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REMARRY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REMOTE LOCALITY OR REMOTE AREA",
+      "category": "COMPOUND",
+      "anchor": [
+        "REMOTE CONTROL, REMOTE SUPPORT",
+        "REMOTE",
+        "REMOTE SENSING"
+      ]
+    },
+    {
+      "gloss": "RENT CONTROL ACT",
+      "category": "COMPOUND",
+      "anchor": [
+        "RENT",
+        "RENT IN AGRICULTURE"
+      ]
+    },
+    {
+      "gloss": "REPORTING OFFICER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RES",
+      "category": "CORE",
+      "anchor": [
+        "RES JUDICATA"
+      ]
+    },
+    {
+      "gloss": "RES JUDICATA",
+      "category": "COMPOUND",
+      "anchor": [
+        "RES"
+      ]
+    },
+    {
+      "gloss": "RESERVED CATEGORY, UNRESERVED CATEGORY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RESIDENCE, DOMICILE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RESPITE",
+      "category": "CORE",
+      "anchor": [
+        "RESPITE CARE"
+      ]
+    },
+    {
+      "gloss": "RESTRICTED HOLIDAY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RIGHT AGAINST EXPLOITATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "RIGHT ANGLE, ACUTE ANGLE AND OBTUSE ANGLE",
+        "RIGHT ANGLE",
+        "RIGHT",
+        "RIGHT AS RAIN",
+        "RIGHT ANGLE TRIANGLE"
+      ]
+    },
+    {
+      "gloss": "RIGHT TO EDUCATION, RIGHT TO EDUCATION ACT2009",
+      "category": "COMPOUND",
+      "anchor": [
+        "RIGHT ANGLE, ACUTE ANGLE AND OBTUSE ANGLE",
+        "RIGHT ANGLE",
+        "RIGHT",
+        "RIGHT AS RAIN",
+        "RIGHT ANGLE TRIANGLE"
+      ]
+    },
+    {
+      "gloss": "RIGHT TO FREEDOM OF RELIGION, CULTURAL AND EDUCATIONAL RIGHTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "RIGHT ANGLE, ACUTE ANGLE AND OBTUSE ANGLE",
+        "RIGHT ANGLE",
+        "RIGHT",
+        "RIGHT AS RAIN",
+        "RIGHT ANGLE TRIANGLE"
+      ]
+    },
+    {
+      "gloss": "RIGHT TO INFORMATION, RIGHT TO INFORMATION ACT2005",
+      "category": "COMPOUND",
+      "anchor": [
+        "RIGHT ANGLE, ACUTE ANGLE AND OBTUSE ANGLE",
+        "RIGHT ANGLE",
+        "RIGHT",
+        "RIGHT AS RAIN",
+        "RIGHT ANGLE TRIANGLE"
+      ]
+    },
+    {
+      "gloss": "RIOTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ROBBERY, ROBBER, DACOITY, DACOIT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RABIES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REGURGITATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RELAXANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RENAL PELVIS AND URETER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "REPRODUCTIVE MEDICINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "REPRODUCTIVE SYSTEM",
+        "REPRODUCTIVE HEALTH"
+      ]
+    },
+    {
+      "gloss": "RESUSCITATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RHINO VIRUS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RIBS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RAIPUR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RAJASTHAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RANCHI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RACK FOCUS",
+      "category": "COMPOUND",
+      "anchor": [
+        "RACK"
+      ]
+    },
+    {
+      "gloss": "RACKS AND PINION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RADAR CHART",
+      "category": "COMPOUND",
+      "anchor": [
+        "RADAR"
+      ]
+    },
+    {
+      "gloss": "RADIAL DESIGNS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RAFT FOUNDATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "RAFT"
+      ]
+    },
+    {
+      "gloss": "RAFTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RAGLAN SLEEVE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RAIL ROAD SWITCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "RAIL",
+        "RAIL SECTION",
+        "RAIL POST"
+      ]
+    },
+    {
+      "gloss": "RAIL SECTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "RAIL",
+        "RAIL ROAD SWITCH",
+        "RAIL POST"
+      ]
+    },
+    {
+      "gloss": "RAKE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RASTER GRAPHICS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "READING PANE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "REAMER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RECYCLE BIN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "REDO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REHEARSE TIMINGS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "REINFORCED CEMENT CONCRETE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "REMARKETING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REMOTE CONTROL, REMOTE SUPPORT",
+      "category": "COMPOUND",
+      "anchor": [
+        "REMOTE LOCALITY OR REMOTE AREA",
+        "REMOTE",
+        "REMOTE SENSING"
+      ]
+    },
+    {
+      "gloss": "RENAME",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RENOVATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REPRESENTATIONAL ART",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RESIDENTIAL BUILDING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RESISTANCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RESTART",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RESTRICT PERMISSION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RETARDER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REVER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RIDGE BOARD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RIGHT INDENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "RIGHT ANGLE, ACUTE ANGLE AND OBTUSE ANGLE",
+        "RIGHT ANGLE",
+        "RIGHT",
+        "RIGHT AS RAIN",
+        "RIGHT ANGLE TRIANGLE"
+      ]
+    },
+    {
+      "gloss": "RING SPANNER",
+      "category": "COMPOUND",
+      "anchor": [
+        "RING STOPPAGE",
+        "RING BUDDING",
+        "RING LAYERING",
+        "RING GENERALSHIP"
+      ]
+    },
+    {
+      "gloss": "RIP OUT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RIPPING HAMMER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RIVET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ROAD BROOM",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROAD",
+        "ROAD SEPARATOR"
+      ]
+    },
+    {
+      "gloss": "ROAD SEPARATOR",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROAD",
+        "ROAD BROOM"
+      ]
+    },
+    {
+      "gloss": "ROCK CRUSHER",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROCK",
+        "ROCK DAM",
+        "ROCK SALT",
+        "ROCK GARDENING OR ROCKERIES",
+        "ROCK CLIMBING"
+      ]
+    },
+    {
+      "gloss": "ROCK DRILL MACHINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROCK",
+        "ROCK DAM",
+        "ROCK SALT",
+        "ROCK GARDENING OR ROCKERIES",
+        "ROCK CLIMBING"
+      ]
+    },
+    {
+      "gloss": "ROCK SPLITTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROCK",
+        "ROCK DAM",
+        "ROCK SALT",
+        "ROCK GARDENING OR ROCKERIES",
+        "ROCK CLIMBING"
+      ]
+    },
+    {
+      "gloss": "ROCKY STRATA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ROLLERPAINT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ROM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ROOF GIRDERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROOF",
+        "ROOF GARDEN"
+      ]
+    },
+    {
+      "gloss": "ROOFING TILES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ROTARY BLADE CUTTER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ROTATING TOOL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ROTOSCOPE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ROUGH CUT",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROUGH"
+      ]
+    },
+    {
+      "gloss": "ROUTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ROW HOUSE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RUBBER BOOTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "RUBBER STAMP"
+      ]
+    },
+    {
+      "gloss": "RUFFLED HEM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RULE OF THIRDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "RULE"
+      ]
+    },
+    {
+      "gloss": "RUN COMPATIBILITY CHECKER",
+      "category": "COMPOUND",
+      "anchor": [
+        "RUN",
+        "RUN OUT"
+      ]
+    },
+    {
+      "gloss": "RUNNING CONDENSER",
+      "category": "COMPOUND",
+      "anchor": [
+        "RUNNING BETWEEN WICKETS",
+        "RUNNING STITCH"
+      ]
+    },
+    {
+      "gloss": "RUNNING STITCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "RUNNING BETWEEN WICKETS",
+        "RUNNING CONDENSER"
+      ]
+    },
+    {
+      "gloss": "RAJPUTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RATIONAL NUMBER",
+      "category": "COMPOUND",
+      "anchor": [
+        "RATIONAL AND IRRATIONAL NUMBERS"
+      ]
+    },
+    {
+      "gloss": "RAY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RAYON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REAL IMAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "REAL EVIDENCE OR PHYSICAL EVIDENCE OR MATERIAL EVIDENCE",
+        "REAL ESTATE",
+        "REAL ESTATE AGENT",
+        "REAL NUMBER"
+      ]
+    },
+    {
+      "gloss": "REAR VIEW MIRROR",
+      "category": "COMPOUND",
+      "anchor": [
+        "REAR"
+      ]
+    },
+    {
+      "gloss": "RECTILINEAR MOTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RED DATA BOOK",
+      "category": "COMPOUND",
+      "anchor": [
+        "RED FORT",
+        "RED BLOOD CELLS",
+        "RED BLOOD CELL",
+        "RED TAPE",
+        "RED"
+      ]
+    },
+    {
+      "gloss": "RED SOIL",
+      "category": "COMPOUND",
+      "anchor": [
+        "RED FORT",
+        "RED BLOOD CELLS",
+        "RED BLOOD CELL",
+        "RED TAPE",
+        "RED"
+      ]
+    },
+    {
+      "gloss": "REELING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REFLECTED RAY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "REGENERATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REGULAR REFLECTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "REGULAR"
+      ]
+    },
+    {
+      "gloss": "REMOTE SENSING",
+      "category": "COMPOUND",
+      "anchor": [
+        "REMOTE CONTROL, REMOTE SUPPORT",
+        "REMOTE LOCALITY OR REMOTE AREA",
+        "REMOTE"
+      ]
+    },
+    {
+      "gloss": "REPRODUCTIVE HEALTH",
+      "category": "COMPOUND",
+      "anchor": [
+        "REPRODUCTIVE MEDICINE",
+        "REPRODUCTIVE SYSTEM"
+      ]
+    },
+    {
+      "gloss": "RIB CAGE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RIGVEDA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RIVER",
+      "category": "CORE",
+      "anchor": [
+        "RIVER GANGA",
+        "RIVER YAMUNA",
+        "RIVER NARMADA"
+      ]
+    },
+    {
+      "gloss": "RIVER GANGA",
+      "category": "COMPOUND",
+      "anchor": [
+        "RIVER YAMUNA",
+        "RIVER",
+        "RIVER NARMADA"
+      ]
+    },
+    {
+      "gloss": "RIVER NARMADA",
+      "category": "COMPOUND",
+      "anchor": [
+        "RIVER GANGA",
+        "RIVER YAMUNA",
+        "RIVER"
+      ]
+    },
+    {
+      "gloss": "RIVER YAMUNA",
+      "category": "COMPOUND",
+      "anchor": [
+        "RIVER GANGA",
+        "RIVER",
+        "RIVER NARMADA"
+      ]
+    },
+    {
+      "gloss": "RODS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ROOT HAIR",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROOT AND TUBER CROPS",
+        "ROOT PROLIFERATIONS",
+        "ROOT CAP",
+        "ROOT CUTTING",
+        "ROOT GRAFTING"
+      ]
+    },
+    {
+      "gloss": "ROUGH",
+      "category": "CORE",
+      "anchor": [
+        "ROUGH CUT"
+      ]
+    },
+    {
+      "gloss": "RUMEN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RUMINANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RUMINATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RUSSIAN REVOLUTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RASHTRAKUTA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REBELLION , REVOLT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "REFINERY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RENEWABLE RESOURCES",
+      "category": "COMPOUND",
+      "anchor": [
+        "RENEWABLE"
+      ]
+    },
+    {
+      "gloss": "RESOURCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RADIATOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RAIL",
+      "category": "CORE",
+      "anchor": [
+        "RAIL ROAD SWITCH",
+        "RAIL SECTION",
+        "RAIL POST"
+      ]
+    },
+    {
+      "gloss": "RAIL POST",
+      "category": "COMPOUND",
+      "anchor": [
+        "RAIL",
+        "RAIL ROAD SWITCH",
+        "RAIL SECTION"
+      ]
+    },
+    {
+      "gloss": "RAILCAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RAILWAY STATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "RAILWAY OR CACTUS HEDGES",
+        "RAILWAY TRACK"
+      ]
+    },
+    {
+      "gloss": "REACHABLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REAL NUMBER",
+      "category": "COMPOUND",
+      "anchor": [
+        "REAL EVIDENCE OR PHYSICAL EVIDENCE OR MATERIAL EVIDENCE",
+        "REAL ESTATE",
+        "REAL ESTATE AGENT",
+        "REAL IMAGE"
+      ]
+    },
+    {
+      "gloss": "REASONABLE ACCOMMODATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "REASONABLE DOUBT"
+      ]
+    },
+    {
+      "gloss": "REBOUND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RECESSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RECIPIENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RECLAMATION",
+      "category": "CORE",
+      "anchor": [
+        "RECLAMATION OF ALKALLI SOILS"
+      ]
+    },
+    {
+      "gloss": "RED POINTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "RED FORT",
+        "RED BLOOD CELLS",
+        "RED BLOOD CELL",
+        "RED TAPE",
+        "RED"
+      ]
+    },
+    {
+      "gloss": "REFERENDUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REFRESHABLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REFRIGERATED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REGULATE",
+      "category": "CORE",
+      "anchor": [
+        "REGULATE EMOTIONS"
+      ]
+    },
+    {
+      "gloss": "REGULATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RELATIVISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RELIABLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RENAISSANCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RESERVATION COUNTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "RESERVATION"
+      ]
+    },
+    {
+      "gloss": "RESOLUTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RESONATOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RESPIRATORY HYGIENE",
+      "category": "COMPOUND",
+      "anchor": [
+        "RESPIRATORY SYSTEM"
+      ]
+    },
+    {
+      "gloss": "RETENTION",
+      "category": "CORE",
+      "anchor": [
+        "RETENTION OF MOISTURE"
+      ]
+    },
+    {
+      "gloss": "REVERSIBLE CHANGE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RHYME",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RHYTHM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RIGHTS",
+      "category": "CORE",
+      "anchor": [
+        "RIGHTS ISSUE"
+      ]
+    },
+    {
+      "gloss": "RING GENERALSHIP",
+      "category": "COMPOUND",
+      "anchor": [
+        "RING BUDDING",
+        "RING LAYERING",
+        "RING SPANNER",
+        "RING STOPPAGE"
+      ]
+    },
+    {
+      "gloss": "RING STOPPAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "RING BUDDING",
+        "RING LAYERING",
+        "RING SPANNER",
+        "RING GENERALSHIP"
+      ]
+    },
+    {
+      "gloss": "ROBUST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ROUGHHOUSING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ROUNDABOUT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RUSH HOUR",
+      "category": "COMPOUND",
+      "anchor": [
+        "RUSH"
+      ]
+    },
+    {
+      "gloss": "RADIOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RAMADAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RAMAYAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REACT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REINCARNATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RELEVANCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REPENTANCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RESIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RESPONSIBILITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RESTRICTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RESUME",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RETAIL",
+      "category": "CORE",
+      "anchor": [
+        "RETAIL BANK"
+      ]
+    },
+    {
+      "gloss": "REVISION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RADIO JOCKEY",
+      "category": "COMPOUND",
+      "anchor": [
+        "RADIO"
+      ]
+    },
+    {
+      "gloss": "ROLL NUMBER",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROLL OF PLANT GROWTH REGULATORS IN VEGETABLE PRODUCTION",
+        "ROLL"
+      ]
+    },
+    {
+      "gloss": "ROOFTOP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ROOM SERVICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROOM"
+      ]
+    },
+    {
+      "gloss": "ROOT VEGETABLES",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROOT AND TUBER CROPS",
+        "ROOT PROLIFERATIONS",
+        "ROOT CAP",
+        "ROOT CUTTING",
+        "ROOT GRAFTING"
+      ]
+    },
+    {
+      "gloss": "ROUND TRIP",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROUND THE WICKET",
+        "ROUND BRUSH",
+        "ROUND",
+        "ROUND OFF"
+      ]
+    },
+    {
+      "gloss": "RUCKUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RUIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RAILING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RECIEVABLE DOWN PAYMENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RESTROOM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RUMBLE STRIP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RECIPROCATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RECKLESS BEHAVIOUR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RED FLAG",
+      "category": "COMPOUND",
+      "anchor": [
+        "RED FORT",
+        "RED BLOOD CELLS",
+        "RED BLOOD CELL",
+        "RED TAPE",
+        "RED"
+      ]
+    },
+    {
+      "gloss": "REFERRALS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REGULATE EMOTIONS",
+      "category": "COMPOUND",
+      "anchor": [
+        "REGULATE"
+      ]
+    },
+    {
+      "gloss": "RELAPSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RELAXATION TRAINING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RELIEF",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REPEATED INTRUSIVE THOUGHTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RESPITE CARE",
+      "category": "COMPOUND",
+      "anchor": [
+        "RESPITE"
+      ]
+    },
+    {
+      "gloss": "RAKSHA BANDHAN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "RAPPORT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RATIONALISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RATIONALITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REALISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RELATIONSHIP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RENDERING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RESORT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RETRIAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REUSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REVEAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REVENGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RITUAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ROLE PLAYING GAME",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROLE MODEL",
+        "ROLE"
+      ]
+    },
+    {
+      "gloss": "ROMANIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ROMANTICISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ROUND BRUSH",
+      "category": "COMPOUND",
+      "anchor": [
+        "ROUND THE WICKET",
+        "ROUND",
+        "ROUND OFF",
+        "ROUND TRIP"
+      ]
+    },
+    {
+      "gloss": "ROUTINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "RUNTIME",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "REBELLION, REVOLT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "R",
+      "category": "LETTERS",
+      "anchor": []
+    }
+  ]
+}

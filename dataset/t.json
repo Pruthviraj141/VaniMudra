@@ -1,0 +1,3544 @@
+{
+  "metadata": {
+    "total_words": 567,
+    "description": "Words starting with letter T"
+  },
+  "words": [
+    {
+      "gloss": "TABLA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TABLE TENNIS",
+      "category": "COMPOUND",
+      "anchor": [
+        "TABLE OF RANDOM NUMBERS"
+      ]
+    },
+    {
+      "gloss": "TABLE, DESK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TADKA, CHAUNK, TEMPERING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TADPOLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TAILLIGHTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TAILOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TAJ HOTEL",
+      "category": "COMPOUND",
+      "anchor": [
+        "TAJ MAHAL"
+      ]
+    },
+    {
+      "gloss": "TAJ MAHAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "TAJ HOTEL"
+      ]
+    },
+    {
+      "gloss": "TAKE",
+      "category": "CORE",
+      "anchor": [
+        "TAKE A PHOTO",
+        "TAKE A LONG TIME AT SOMETHING",
+        "RECEIVE",
+        "TAKE A BATH",
+        "TAKE OFF"
+      ]
+    },
+    {
+      "gloss": "TAKE A BATH",
+      "category": "COMPOUND",
+      "anchor": [
+        "TAKE A PHOTO",
+        "TAKE A LONG TIME AT SOMETHING",
+        "RECEIVE",
+        "TAKE",
+        "TAKE OFF"
+      ]
+    },
+    {
+      "gloss": "TAKE A LONG TIME AT SOMETHING",
+      "category": "COMPOUND",
+      "anchor": [
+        "TAKE A PHOTO",
+        "RECEIVE",
+        "TAKE A BATH",
+        "TAKE",
+        "TAKE OFF"
+      ]
+    },
+    {
+      "gloss": "TAKE A LONG TIME AT SOMETHING, TAKE HOURS AT SOMETHING",
+      "category": "COMPOUND",
+      "anchor": [
+        "TAKE A PHOTO",
+        "TAKE A LONG TIME AT SOMETHING",
+        "RECEIVE",
+        "TAKE A BATH",
+        "TAKE"
+      ]
+    },
+    {
+      "gloss": "TAKE A PHOTO",
+      "category": "COMPOUND",
+      "anchor": [
+        "TAKE A LONG TIME AT SOMETHING",
+        "RECEIVE",
+        "TAKE A BATH",
+        "TAKE",
+        "TAKE OFF"
+      ]
+    },
+    {
+      "gloss": "TAKE OFF",
+      "category": "COMPOUND",
+      "anchor": [
+        "TAKE A PHOTO",
+        "TAKE A LONG TIME AT SOMETHING",
+        "RECEIVE",
+        "TAKE A BATH",
+        "TAKE"
+      ]
+    },
+    {
+      "gloss": "TAKEAWAY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TALK, CHAT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TALL",
+      "category": "CORE",
+      "anchor": [
+        "TALL ORNAMENTAL HEDGES",
+        "TALL PROTECTIVE HEDGES",
+        "TALL SHRUBS"
+      ]
+    },
+    {
+      "gloss": "TAMBOURINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TAMIL",
+      "category": "CORE",
+      "anchor": [
+        "TAMIL NADU"
+      ]
+    },
+    {
+      "gloss": "TAP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TAP, CALL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TAPE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TASTE",
+      "category": "CORE",
+      "anchor": [
+        "TASTE BUDS"
+      ]
+    },
+    {
+      "gloss": "TATA CAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "TATA MOBILE"
+      ]
+    },
+    {
+      "gloss": "TATA MOBILE",
+      "category": "COMPOUND",
+      "anchor": [
+        "TATA CAR"
+      ]
+    },
+    {
+      "gloss": "TATTOO, INKED",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TAWA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TAX",
+      "category": "CORE",
+      "anchor": [
+        "TAX AND TAXPAYER",
+        "TAX SAVING BOND"
+      ]
+    },
+    {
+      "gloss": "TAXI",
+      "category": "CORE",
+      "anchor": [
+        "TAXI SCAM"
+      ]
+    },
+    {
+      "gloss": "TEA",
+      "category": "CORE",
+      "anchor": [
+        "TEA CEREMONY",
+        "TEA STRAINER",
+        "TEA PLANTATIONS"
+      ]
+    },
+    {
+      "gloss": "TEA STRAINER",
+      "category": "COMPOUND",
+      "anchor": [
+        "TEA CEREMONY",
+        "TEA",
+        "TEA PLANTATIONS"
+      ]
+    },
+    {
+      "gloss": "TEACH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TEACHER",
+      "category": "CORE",
+      "anchor": [
+        "TEACHER ELIGIBILITY TEST",
+        "TEACHER EDUCATION INSTITUTION"
+      ]
+    },
+    {
+      "gloss": "TEAM",
+      "category": "CORE",
+      "anchor": [
+        "TEAM VIEWER"
+      ]
+    },
+    {
+      "gloss": "TEAR",
+      "category": "CORE",
+      "anchor": [
+        "TEAR BALL & TEAR GAS"
+      ]
+    },
+    {
+      "gloss": "TECHNICIAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TECHNOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TELEVISION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TELUGU",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TEMPERATURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TEMPLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TEMPORARY",
+      "category": "CORE",
+      "anchor": [
+        "TEMPORARY PRESERVATION",
+        "TEMPORARY RELIEF",
+        "TEMPORARY APPOINTMENT"
+      ]
+    },
+    {
+      "gloss": "TENNIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TENSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TEST",
+      "category": "CORE",
+      "anchor": [
+        "TEST RESULT",
+        "TEST CROSS",
+        "TEST TUBE"
+      ]
+    },
+    {
+      "gloss": "THAILAND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THANK YOU",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "THAT",
+      "category": "GRAMMAR & FUNCTION",
+      "anchor": []
+    },
+    {
+      "gloss": "THEIRS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THEMSELVES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THEORY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THERAPIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THERE",
+      "category": "GRAMMAR & FUNCTION",
+      "anchor": []
+    },
+    {
+      "gloss": "THERMOMETER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THEY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THIEF",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THIN, SKINNY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "THINGS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THINK, CONTEMPLATE, PONDER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "THIRD",
+      "category": "NUMBERS & TIME",
+      "anchor": [
+        "THIRD FINGER",
+        "THIRD PARTY",
+        "THIRD PARTY COOKIES"
+      ]
+    },
+    {
+      "gloss": "THIRSTY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THIS",
+      "category": "GRAMMAR & FUNCTION",
+      "anchor": []
+    },
+    {
+      "gloss": "THREAD",
+      "category": "CORE",
+      "anchor": [
+        "THREAD GAUGE",
+        "THREAD CUTTING TOOL"
+      ]
+    },
+    {
+      "gloss": "THREADING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THREE DAYS AFTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "THREE DAYS BEFORE",
+        "THREE DIMENSIONAL SHAPES",
+        "THREE QUARTERED SLEEVE",
+        "THREE AGE SYSTEM",
+        "THREE PHASE"
+      ]
+    },
+    {
+      "gloss": "THREE DAYS BEFORE",
+      "category": "COMPOUND",
+      "anchor": [
+        "THREE DIMENSIONAL SHAPES",
+        "THREE QUARTERED SLEEVE",
+        "THREE AGE SYSTEM",
+        "THREE PHASE",
+        "THREE DAYS AFTER"
+      ]
+    },
+    {
+      "gloss": "THRICE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THRILL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THROAT",
+      "category": "CORE",
+      "anchor": [
+        "THROAT PLATE",
+        "THROAT CANCER"
+      ]
+    },
+    {
+      "gloss": "THROW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THUNDER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THURSDAY",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "TICKET",
+      "category": "CORE",
+      "anchor": [
+        "TICKET TOUTING",
+        "TICKET COUNTER"
+      ]
+    },
+    {
+      "gloss": "TIE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TIEBREAKER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TIED UP, RESTRAIN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TIFFIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TIGHT",
+      "category": "CORE",
+      "anchor": [
+        "TIGHT TRACKING",
+        "TIGHT FITTING CLOTHES",
+        "TIGHT HUG, TIGHT EMBRACE"
+      ]
+    },
+    {
+      "gloss": "TIGHT FITTING CLOTHES",
+      "category": "COMPOUND",
+      "anchor": [
+        "TIGHT TRACKING",
+        "TIGHT",
+        "TIGHT HUG, TIGHT EMBRACE"
+      ]
+    },
+    {
+      "gloss": "TIGHT HUG, TIGHT EMBRACE",
+      "category": "COMPOUND",
+      "anchor": [
+        "TIGHT TRACKING",
+        "TIGHT FITTING CLOTHES",
+        "TIGHT"
+      ]
+    },
+    {
+      "gloss": "TIME",
+      "category": "NUMBERS & TIME",
+      "anchor": [
+        "TIME TABLE",
+        "TIME TRIAL",
+        "TIME FLIES WHEN YOU ARE HAVING FUN"
+      ]
+    },
+    {
+      "gloss": "TIME FLIES WHEN YOU ARE HAVING FUN",
+      "category": "COMPOUND",
+      "anchor": [
+        "TIME TABLE",
+        "TIME",
+        "TIME TRIAL"
+      ]
+    },
+    {
+      "gloss": "TIME TABLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "TIME TRIAL",
+        "TIME",
+        "TIME FLIES WHEN YOU ARE HAVING FUN"
+      ]
+    },
+    {
+      "gloss": "TIMID",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TINDA, INDIAN SQUASH, APPLE GOURD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TIRED, EXHAUSTED, FATIGUED",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TOASTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TODAY",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "TOENAIL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOFFEE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOGETHER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOILET BRUSH",
+      "category": "COMPOUND",
+      "anchor": [
+        "TOILET CLEANER, TOILET BOWL CLEANER",
+        "TOILET TISSUE, TOILET PAPER ROLL, TISSUE ROLL"
+      ]
+    },
+    {
+      "gloss": "TOILET CLEANER, TOILET BOWL CLEANER",
+      "category": "COMPOUND",
+      "anchor": [
+        "TOILET BRUSH",
+        "TOILET TISSUE, TOILET PAPER ROLL, TISSUE ROLL"
+      ]
+    },
+    {
+      "gloss": "TOILET TISSUE, TOILET PAPER ROLL, TISSUE ROLL",
+      "category": "COMPOUND",
+      "anchor": [
+        "TOILET BRUSH",
+        "TOILET CLEANER, TOILET BOWL CLEANER"
+      ]
+    },
+    {
+      "gloss": "TOLERATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOLL, TOLL ROAD, TOLL BOOTH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TOM AND JERRY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TOMORROW",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "TONGS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TONGUE",
+      "category": "CORE",
+      "anchor": [
+        "TONGUE LAYERING",
+        "TONGUE CLEANER, TONGUE SCRAPER",
+        "TONGUE DEPRESSORS"
+      ]
+    },
+    {
+      "gloss": "TONGUE CLEANER, TONGUE SCRAPER",
+      "category": "COMPOUND",
+      "anchor": [
+        "TONGUE LAYERING",
+        "TONGUE DEPRESSORS",
+        "TONGUE"
+      ]
+    },
+    {
+      "gloss": "TONIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TONIGHT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOOTBRUSH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOOTH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOOTHPASTE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOOTHPICK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOP",
+      "category": "CORE",
+      "anchor": [
+        "TOP STITCHING",
+        "TOP GRAFTING",
+        "TOP VIEW"
+      ]
+    },
+    {
+      "gloss": "TOPIC, SUBJECT, THEME",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TOPS, STUDS EARRINGS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TORCH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TORNADO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TORTOISE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOSS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOSS, COIN TOSS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TOTAL, AGGREGATE, COMPLETE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TOUCH",
+      "category": "CORE",
+      "anchor": [
+        "TOUCH SCREEN"
+      ]
+    },
+    {
+      "gloss": "TOUCH SCREEN",
+      "category": "COMPOUND",
+      "anchor": [
+        "TOUCH"
+      ]
+    },
+    {
+      "gloss": "TOWEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOWN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOY",
+      "category": "CORE",
+      "anchor": [
+        "TOY CAR"
+      ]
+    },
+    {
+      "gloss": "TOY CAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "TOY"
+      ]
+    },
+    {
+      "gloss": "TOYOTA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRACK",
+      "category": "CORE",
+      "anchor": [
+        "TRACK RACE",
+        "TRACK RECORD"
+      ]
+    },
+    {
+      "gloss": "TRACTOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRADER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRADITIONAL",
+      "category": "CORE",
+      "anchor": [
+        "TRADITIONAL HEALING",
+        "TRADITIONAL FUNCTIONS"
+      ]
+    },
+    {
+      "gloss": "TRAFFIC",
+      "category": "CORE",
+      "anchor": [
+        "TRAFFIC LIGHTS",
+        "TRAFFIC JAM"
+      ]
+    },
+    {
+      "gloss": "TRAFFIC LIGHTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRAFFIC",
+        "TRAFFIC JAM"
+      ]
+    },
+    {
+      "gloss": "TRAIN",
+      "category": "CORE",
+      "anchor": [
+        "TRAIN COMMERCE"
+      ]
+    },
+    {
+      "gloss": "TRANSFER FEE, TRANSACTION CHARGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRANSFER MONEY",
+        "TRANSFER OF CHARGE"
+      ]
+    },
+    {
+      "gloss": "TRANSFER MONEY",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRANSFER OF CHARGE",
+        "TRANSFER FEE, TRANSACTION CHARGE"
+      ]
+    },
+    {
+      "gloss": "TRANSGENDER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRANSLATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRANSLATOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRANSPARENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRANSPORT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRAVEL",
+      "category": "CORE",
+      "anchor": [
+        "TRAVEL HISTORY",
+        "TRAVEL PACKAGE",
+        "TRAVEL AGENT"
+      ]
+    },
+    {
+      "gloss": "TRAVEL AGENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRAVEL",
+        "TRAVEL PACKAGE",
+        "TRAVEL HISTORY"
+      ]
+    },
+    {
+      "gloss": "TREADMILL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TREE",
+      "category": "CORE",
+      "anchor": [
+        "TREE TRUNK",
+        "TREE AND PLANTS RESPIRATION"
+      ]
+    },
+    {
+      "gloss": "TRIANGLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRIP, TOUR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TRIPLE",
+      "category": "NUMBERS & TIME",
+      "anchor": [
+        "TRIPLE JUMP"
+      ]
+    },
+    {
+      "gloss": "TRIPLE JUMP",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRIPLE"
+      ]
+    },
+    {
+      "gloss": "TROLLEY",
+      "category": "CORE",
+      "anchor": [
+        "TROLLEY BUS"
+      ]
+    },
+    {
+      "gloss": "TRUCK",
+      "category": "CORE",
+      "anchor": [
+        "TRUCK GARDENING"
+      ]
+    },
+    {
+      "gloss": "TRUE",
+      "category": "CLASSIFIERS",
+      "anchor": [
+        "TRUE COLOUR",
+        "TRUE AQUATIC PLANTS"
+      ]
+    },
+    {
+      "gloss": "TRUE, GENUINE, REAL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TRUMPET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRUST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TUBA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TUBELIGHT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TUBERCULOSIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TUESDAY",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "TURBAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TURMERIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TURN",
+      "category": "CORE",
+      "anchor": [
+        "TURN RIGHT"
+      ]
+    },
+    {
+      "gloss": "TURN RIGHT",
+      "category": "COMPOUND",
+      "anchor": [
+        "TURN"
+      ]
+    },
+    {
+      "gloss": "TVS BIKE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TWIN",
+      "category": "NUMBERS & TIME",
+      "anchor": [
+        "TWIN LEAD WIRE"
+      ]
+    },
+    {
+      "gloss": "TWO DAYS AFTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "TWO DAYS BEFORE",
+        "TWO DIMENSIONAL SHAPES"
+      ]
+    },
+    {
+      "gloss": "TWO DAYS BEFORE",
+      "category": "COMPOUND",
+      "anchor": [
+        "TWO DAYS AFTER",
+        "TWO DIMENSIONAL SHAPES"
+      ]
+    },
+    {
+      "gloss": "TYPIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TYRE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TABLE OF RANDOM NUMBERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "TABLE TENNIS"
+      ]
+    },
+    {
+      "gloss": "TAKEOVER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TALLY MARK",
+      "category": "COMPOUND",
+      "anchor": [
+        "TALLY",
+        "TALLY SHEET"
+      ]
+    },
+    {
+      "gloss": "TALLY SHEET",
+      "category": "COMPOUND",
+      "anchor": [
+        "TALLY MARK",
+        "TALLY"
+      ]
+    },
+    {
+      "gloss": "TAPROOT AND LATERAL ROOTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TARGET",
+      "category": "CORE",
+      "anchor": [
+        "TARGET POPULATION"
+      ]
+    },
+    {
+      "gloss": "TARGET POPULATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "TARGET"
+      ]
+    },
+    {
+      "gloss": "TASTE BUDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "TASTE"
+      ]
+    },
+    {
+      "gloss": "TEA PLANTATIONS",
+      "category": "COMPOUND",
+      "anchor": [
+        "TEA CEREMONY",
+        "TEA",
+        "TEA STRAINER"
+      ]
+    },
+    {
+      "gloss": "TEACHER EDUCATION INSTITUTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "TEACHER ELIGIBILITY TEST",
+        "TEACHER"
+      ]
+    },
+    {
+      "gloss": "TEACHER ELIGIBILITY TEST",
+      "category": "COMPOUND",
+      "anchor": [
+        "TEACHER EDUCATION INSTITUTION",
+        "TEACHER"
+      ]
+    },
+    {
+      "gloss": "TEENAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TEHSIL, TALUKA, BLOCK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TELEGRAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TELESCOPE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TEMPERATE GRASSLAND",
+      "category": "COMPOUND",
+      "anchor": [
+        "TEMPERATE FRUITS"
+      ]
+    },
+    {
+      "gloss": "TEN THOUSANDS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TENS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TENTHS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TERRACE FARMING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TERRACOTTA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TERRAIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TERRARIUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TERRESTRIAL",
+      "category": "CORE",
+      "anchor": [
+        "TERRESTRIAL WEEDS"
+      ]
+    },
+    {
+      "gloss": "TERRITORIES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TEST TUBE",
+      "category": "COMPOUND",
+      "anchor": [
+        "TEST",
+        "TEST RESULT",
+        "TEST CROSS"
+      ]
+    },
+    {
+      "gloss": "THE GREAT BATH",
+      "category": "COMPOUND",
+      "anchor": [
+        "THE LAST STRAW, THE FINAL STRAW",
+        "THE BEST OF BOTH WORLDS",
+        "THE GREAT DEPRESSION",
+        "THE MILKY WAY"
+      ]
+    },
+    {
+      "gloss": "THE GREAT DEPRESSION",
+      "category": "COMPOUND",
+      "anchor": [
+        "THE LAST STRAW, THE FINAL STRAW",
+        "THE BEST OF BOTH WORLDS",
+        "THE MILKY WAY",
+        "THE GREAT BATH"
+      ]
+    },
+    {
+      "gloss": "THE MILKY WAY",
+      "category": "COMPOUND",
+      "anchor": [
+        "THE LAST STRAW, THE FINAL STRAW",
+        "THE BEST OF BOTH WORLDS",
+        "THE GREAT DEPRESSION",
+        "THE GREAT BATH"
+      ]
+    },
+    {
+      "gloss": "THEORY, PRACTICAL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "THOUSANDS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THREE AGE SYSTEM",
+      "category": "COMPOUND",
+      "anchor": [
+        "THREE DAYS BEFORE",
+        "THREE DIMENSIONAL SHAPES",
+        "THREE QUARTERED SLEEVE",
+        "THREE PHASE",
+        "THREE DAYS AFTER"
+      ]
+    },
+    {
+      "gloss": "THREE DIMENSIONAL SHAPES",
+      "category": "COMPOUND",
+      "anchor": [
+        "THREE DAYS BEFORE",
+        "THREE QUARTERED SLEEVE",
+        "THREE AGE SYSTEM",
+        "THREE PHASE",
+        "THREE DAYS AFTER"
+      ]
+    },
+    {
+      "gloss": "THRESHING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TIDAL",
+      "category": "CORE",
+      "anchor": [
+        "TIDAL FLOW"
+      ]
+    },
+    {
+      "gloss": "TIDE, HIGH TIDE AND LOW TIDE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TIMELINE",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "TISSUES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TODDLER AGE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TOOTHED WHEEL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TOPOGRAPHY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOPSOIL, A-HORIZON",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TORRID ZONE, TROPICAL ZONE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TOTAL COMMUNICATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "TOTAL DISSOLVED SOLIDS",
+        "TOTAL"
+      ]
+    },
+    {
+      "gloss": "TOTAL DISSOLVED SOLIDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "TOTAL COMMUNICATION",
+        "TOTAL"
+      ]
+    },
+    {
+      "gloss": "TOU-PIGS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOURISM",
+      "category": "CORE",
+      "anchor": [
+        "TOURISM MANAGEMENT",
+        "TOURISM CARRYING CAPACITY"
+      ]
+    },
+    {
+      "gloss": "TOURISM CARRYING CAPACITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "TOURISM MANAGEMENT",
+        "TOURISM"
+      ]
+    },
+    {
+      "gloss": "TOURISM MANAGEMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "TOURISM",
+        "TOURISM CARRYING CAPACITY"
+      ]
+    },
+    {
+      "gloss": "TOURIST DESTINATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TOWER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRACK RECORD",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRACK",
+        "TRACK RACE"
+      ]
+    },
+    {
+      "gloss": "TRADE",
+      "category": "CORE",
+      "anchor": [
+        "TRADE CAPTURE",
+        "TRADE ALLOCATION",
+        "TRADE LIFE CYCLE",
+        "TRADE CONFIRMATION",
+        "TRADE ENRICHMENT"
+      ]
+    },
+    {
+      "gloss": "TRADITIONAL FUNCTIONS",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRADITIONAL",
+        "TRADITIONAL HEALING"
+      ]
+    },
+    {
+      "gloss": "TRANSHUMANCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRANSMISSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRANSPARENT, TRANSLUCENT AND OPAQUE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TRANSPIRATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRANSPOSING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRANSVERSAL",
+      "category": "CORE",
+      "anchor": [
+        "TRANSVERSAL OF PARALLEL LINES"
+      ]
+    },
+    {
+      "gloss": "TRANSVERSAL OF PARALLEL LINES",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRANSVERSAL"
+      ]
+    },
+    {
+      "gloss": "TRAPEZIUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRAPEZOID",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRAVELLING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRAVELOGUE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TREATED WATER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TREMORS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRIAL",
+      "category": "CORE",
+      "anchor": [
+        "TRIAL LENS"
+      ]
+    },
+    {
+      "gloss": "TRIBAL CHIEF",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRIBAL GROUP"
+      ]
+    },
+    {
+      "gloss": "TRIBAL GROUP",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRIBAL CHIEF"
+      ]
+    },
+    {
+      "gloss": "TRIBALS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRIBES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRIBUTARIES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "T-RNA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TROPIC OF CANCER AND TROPIC OF CAPRICORN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TROPICAL RAINFOREST",
+      "category": "COMPOUND",
+      "anchor": [
+        "TROPICAL FRUITS"
+      ]
+    },
+    {
+      "gloss": "TROPOSPHERE, STRATOSPHERE, MESOSPHERE, THERMOSPHERE, EXOSPHERE AND ATMOSPHERE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TSUNAMI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TUBECTOMY AND VASECTOMY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TUBES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TUNDRA REGION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TURBINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TURNOVER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TWINKLING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TWO DIMENSIONAL SHAPES",
+      "category": "COMPOUND",
+      "anchor": [
+        "TWO DAYS AFTER",
+        "TWO DAYS BEFORE"
+      ]
+    },
+    {
+      "gloss": "TYNDALL EFFECT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TYPHOON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TYRANNY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TABERNAEMONTANA CORONARIA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TAGETUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TAGGING METHOD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TALL ORNAMENTAL HEDGES",
+      "category": "COMPOUND",
+      "anchor": [
+        "TALL",
+        "TALL SHRUBS",
+        "TALL PROTECTIVE HEDGES"
+      ]
+    },
+    {
+      "gloss": "TALL PROTECTIVE HEDGES",
+      "category": "COMPOUND",
+      "anchor": [
+        "TALL",
+        "TALL ORNAMENTAL HEDGES",
+        "TALL SHRUBS"
+      ]
+    },
+    {
+      "gloss": "TALL SHRUBS",
+      "category": "COMPOUND",
+      "anchor": [
+        "TALL",
+        "TALL ORNAMENTAL HEDGES",
+        "TALL PROTECTIVE HEDGES"
+      ]
+    },
+    {
+      "gloss": "TAMARIX GALLICA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TATOOING METHOD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TEASER BULL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TECOMA STANS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TEMPERATE FRUITS",
+      "category": "COMPOUND",
+      "anchor": [
+        "TEMPERATE GRASSLAND"
+      ]
+    },
+    {
+      "gloss": "TEMPORARY PRESERVATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "TEMPORARY",
+        "TEMPORARY RELIEF",
+        "TEMPORARY APPOINTMENT"
+      ]
+    },
+    {
+      "gloss": "TERRESTRIAL WEEDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "TERRESTRIAL"
+      ]
+    },
+    {
+      "gloss": "TEST CROSS",
+      "category": "COMPOUND",
+      "anchor": [
+        "TEST",
+        "TEST RESULT",
+        "TEST TUBE"
+      ]
+    },
+    {
+      "gloss": "THEORETICAL FIELD CAPACITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "THEORETICAL"
+      ]
+    },
+    {
+      "gloss": "THEVETIA NERIEFOLIA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "THIRAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TICK FEVER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TIP LAYERING",
+      "category": "COMPOUND",
+      "anchor": [
+        "TIP 2",
+        "TIP 1",
+        "TIP"
+      ]
+    },
+    {
+      "gloss": "TO CONSUMERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "TO FLATTEN THE CURVE",
+        "TO RETAILERS"
+      ]
+    },
+    {
+      "gloss": "TO RETAILERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "TO CONSUMERS",
+        "TO FLATTEN THE CURVE"
+      ]
+    },
+    {
+      "gloss": "TONGUE LAYERING",
+      "category": "COMPOUND",
+      "anchor": [
+        "TONGUE DEPRESSORS",
+        "TONGUE CLEANER, TONGUE SCRAPER",
+        "TONGUE"
+      ]
+    },
+    {
+      "gloss": "TOP GRAFTING",
+      "category": "COMPOUND",
+      "anchor": [
+        "TOP STITCHING",
+        "TOP VIEW",
+        "TOP"
+      ]
+    },
+    {
+      "gloss": "TRACTIVE WORK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TRANSPLANTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TREE AND PLANTS RESPIRATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "TREE TRUNK",
+        "TREE"
+      ]
+    },
+    {
+      "gloss": "TREES USED FOR BONSAI",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TRENCH LAYERING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TRIANGULAR METHOD",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRIANGULAR FILE"
+      ]
+    },
+    {
+      "gloss": "TRIPALE CROPPING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TROPICAL FRUITS",
+      "category": "COMPOUND",
+      "anchor": [
+        "TROPICAL RAINFOREST"
+      ]
+    },
+    {
+      "gloss": "TRUCK GARDENING",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRUCK"
+      ]
+    },
+    {
+      "gloss": "TRUE AQUATIC PLANTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRUE",
+        "TRUE COLOUR"
+      ]
+    },
+    {
+      "gloss": "TUBE BUDDING",
+      "category": "COMPOUND",
+      "anchor": [
+        "TUBE WELL"
+      ]
+    },
+    {
+      "gloss": "TUBE WELL",
+      "category": "COMPOUND",
+      "anchor": [
+        "TUBE BUDDING"
+      ]
+    },
+    {
+      "gloss": "TURNING POINT",
+      "category": "COMPOUND",
+      "anchor": [
+        "TURNING RADIUS",
+        "TURNING TOOLS"
+      ]
+    },
+    {
+      "gloss": "TWIST LAYERING",
+      "category": "COMPOUND",
+      "anchor": [
+        "TWIST FRONT"
+      ]
+    },
+    {
+      "gloss": "TWISTING OF LEAVES AND STEMS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TYPES OF FARM PLANNING",
+      "category": "COMPOUND",
+      "anchor": [
+        "TYPES OF VEGETABLE GARDENING",
+        "TYPES OF PACKING",
+        "TYPES OF WATER GARDEN"
+      ]
+    },
+    {
+      "gloss": "TYPES OF PACKING",
+      "category": "COMPOUND",
+      "anchor": [
+        "TYPES OF VEGETABLE GARDENING",
+        "TYPES OF FARM PLANNING",
+        "TYPES OF WATER GARDEN"
+      ]
+    },
+    {
+      "gloss": "TYPES OF VEGETABLE GARDENING",
+      "category": "COMPOUND",
+      "anchor": [
+        "TYPES OF PACKING",
+        "TYPES OF FARM PLANNING",
+        "TYPES OF WATER GARDEN"
+      ]
+    },
+    {
+      "gloss": "TYPES OF WATER GARDEN",
+      "category": "COMPOUND",
+      "anchor": [
+        "TYPES OF VEGETABLE GARDENING",
+        "TYPES OF PACKING",
+        "TYPES OF FARM PLANNING"
+      ]
+    },
+    {
+      "gloss": "TAIWAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TANZANIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TUNISIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TURKEY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TAX SAVING BOND",
+      "category": "COMPOUND",
+      "anchor": [
+        "TAX AND TAXPAYER",
+        "TAX"
+      ]
+    },
+    {
+      "gloss": "TAXABLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TERM INSURANCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "TERM"
+      ]
+    },
+    {
+      "gloss": "THIRD PARTY",
+      "category": "COMPOUND",
+      "anchor": [
+        "THIRD FINGER",
+        "THIRD PARTY COOKIES",
+        "THIRD"
+      ]
+    },
+    {
+      "gloss": "TOTAL",
+      "category": "NUMBERS & TIME",
+      "anchor": [
+        "TOTAL COMMUNICATION",
+        "TOTAL DISSOLVED SOLIDS"
+      ]
+    },
+    {
+      "gloss": "TRADE ALLOCATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRADE CAPTURE",
+        "TRADE",
+        "TRADE LIFE CYCLE",
+        "TRADE CONFIRMATION",
+        "TRADE ENRICHMENT"
+      ]
+    },
+    {
+      "gloss": "TRADE CAPTURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRADE",
+        "TRADE ALLOCATION",
+        "TRADE LIFE CYCLE",
+        "TRADE CONFIRMATION",
+        "TRADE ENRICHMENT"
+      ]
+    },
+    {
+      "gloss": "TRADE CONFIRMATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRADE CAPTURE",
+        "TRADE",
+        "TRADE ALLOCATION",
+        "TRADE LIFE CYCLE",
+        "TRADE ENRICHMENT"
+      ]
+    },
+    {
+      "gloss": "TRADE ENRICHMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRADE CAPTURE",
+        "TRADE",
+        "TRADE ALLOCATION",
+        "TRADE LIFE CYCLE",
+        "TRADE CONFIRMATION"
+      ]
+    },
+    {
+      "gloss": "TRADE LIFE CYCLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRADE CAPTURE",
+        "TRADE",
+        "TRADE ALLOCATION",
+        "TRADE CONFIRMATION",
+        "TRADE ENRICHMENT"
+      ]
+    },
+    {
+      "gloss": "TRADERS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRADING",
+      "category": "CORE",
+      "anchor": [
+        "TRADING PLATFORM"
+      ]
+    },
+    {
+      "gloss": "TRADING PLATFORM",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRADING"
+      ]
+    },
+    {
+      "gloss": "TRANSPARENCY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TREASURY",
+      "category": "CORE",
+      "anchor": [
+        "TREASURY BOND"
+      ]
+    },
+    {
+      "gloss": "TREASURY BOND",
+      "category": "COMPOUND",
+      "anchor": [
+        "TREASURY"
+      ]
+    },
+    {
+      "gloss": "THE BEST OF BOTH WORLDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "THE LAST STRAW, THE FINAL STRAW",
+        "THE GREAT DEPRESSION",
+        "THE MILKY WAY",
+        "THE GREAT BATH"
+      ]
+    },
+    {
+      "gloss": "THE LAST STRAW, THE FINAL STRAW",
+      "category": "COMPOUND",
+      "anchor": [
+        "THE BEST OF BOTH WORLDS",
+        "THE GREAT DEPRESSION",
+        "THE MILKY WAY",
+        "THE GREAT BATH"
+      ]
+    },
+    {
+      "gloss": "TAX AND TAXPAYER",
+      "category": "COMPOUND",
+      "anchor": [
+        "TAX SAVING BOND",
+        "TAX"
+      ]
+    },
+    {
+      "gloss": "TAXI SCAM",
+      "category": "COMPOUND",
+      "anchor": [
+        "TAXI"
+      ]
+    },
+    {
+      "gloss": "TDS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TEAR BALL & TEAR GAS",
+      "category": "COMPOUND",
+      "anchor": [
+        "TEAR"
+      ]
+    },
+    {
+      "gloss": "TELE LAW",
+      "category": "COMPOUND",
+      "anchor": [
+        "TELE - COUNSELLING"
+      ]
+    },
+    {
+      "gloss": "TEMPORARY APPOINTMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "TEMPORARY",
+        "TEMPORARY RELIEF",
+        "TEMPORARY PRESERVATION"
+      ]
+    },
+    {
+      "gloss": "TENDER, TENDER ENQUIRY OR INVITING OF TENDER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TERRORISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TERRORIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TESTATE, TESTATOR, TESTATRIX",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TESTIFY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TICKET TOUTING",
+      "category": "COMPOUND",
+      "anchor": [
+        "TICKET COUNTER",
+        "TICKET"
+      ]
+    },
+    {
+      "gloss": "TITLE ABSTRACT, TITLE SEARCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "TITLE BAR"
+      ]
+    },
+    {
+      "gloss": "TITLE, BELONGINGS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TRADEMARK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRANSPORTATION ALLOWANCE OR TRAVELLING ALLOWANCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRANSPORTATION INFRASTRUCTURE"
+      ]
+    },
+    {
+      "gloss": "TREASON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRESPASS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TYPOGRAPHICAL ERROR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TABLET",
+      "category": "CORE",
+      "anchor": [
+        "TABLET COUNTER"
+      ]
+    },
+    {
+      "gloss": "TABLET COUNTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "TABLET"
+      ]
+    },
+    {
+      "gloss": "TACHYCARDIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TELESPECTOMY SET",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TENDON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TESTICULAR CANCER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TESTOSTERONE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THEATRE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THERMOMETERS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THIGH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THIRD FINGER",
+      "category": "COMPOUND",
+      "anchor": [
+        "THIRD PARTY",
+        "THIRD PARTY COOKIES",
+        "THIRD"
+      ]
+    },
+    {
+      "gloss": "THROAT CANCER",
+      "category": "COMPOUND",
+      "anchor": [
+        "THROAT PLATE",
+        "THROAT"
+      ]
+    },
+    {
+      "gloss": "THROMBOCYTOPENIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THUMB",
+      "category": "CORE",
+      "anchor": [
+        "THUMB LUNULA"
+      ]
+    },
+    {
+      "gloss": "THYMOMA AND THYMIC CARCINOMA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "THYMUS GLAND",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "THYROID CANCER",
+      "category": "COMPOUND",
+      "anchor": [
+        "THYROID HORMONE",
+        "THYROID GLAND",
+        "THYROID DISEASE"
+      ]
+    },
+    {
+      "gloss": "THYROID DISEASE",
+      "category": "COMPOUND",
+      "anchor": [
+        "THYROID HORMONE",
+        "THYROID GLAND",
+        "THYROID CANCER"
+      ]
+    },
+    {
+      "gloss": "THYROID GLAND",
+      "category": "COMPOUND",
+      "anchor": [
+        "THYROID HORMONE",
+        "THYROID DISEASE",
+        "THYROID CANCER"
+      ]
+    },
+    {
+      "gloss": "THYROID HORMONE",
+      "category": "COMPOUND",
+      "anchor": [
+        "THYROID GLAND",
+        "THYROID DISEASE",
+        "THYROID CANCER"
+      ]
+    },
+    {
+      "gloss": "THYROXINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TIBIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TINNITUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TONGUE DEPRESSORS",
+      "category": "COMPOUND",
+      "anchor": [
+        "TONGUE LAYERING",
+        "TONGUE CLEANER, TONGUE SCRAPER",
+        "TONGUE"
+      ]
+    },
+    {
+      "gloss": "TONSIL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TONSILLECTOMY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TONSILLITIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOOTHACHE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOURNIQUET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOXICOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRACHEA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRACHEOTOMY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRANSPLANTATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TREMOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRIAL LENS",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRIAL"
+      ]
+    },
+    {
+      "gloss": "TRIPLE-MARKER TEST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TRIPOD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TROUCHER AND CANULLA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TUBERCULIN SKIN TEST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TUMORS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TUNING FORK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TYMPANOMETER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TUG OF WAR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TAMIL NADU",
+      "category": "COMPOUND",
+      "anchor": [
+        "TAMIL"
+      ]
+    },
+    {
+      "gloss": "TELANGANA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THIRUVANANTHAPURAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRIPURA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "T BAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "T",
+        "T SQUARE"
+      ]
+    },
+    {
+      "gloss": "T SQUARE",
+      "category": "COMPOUND",
+      "anchor": [
+        "T",
+        "T BAR"
+      ]
+    },
+    {
+      "gloss": "TAB KEY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TALLY",
+      "category": "CORE",
+      "anchor": [
+        "TALLY MARK",
+        "TALLY SHEET"
+      ]
+    },
+    {
+      "gloss": "TANNING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TASK MANAGER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TEAM VIEWER",
+      "category": "COMPOUND",
+      "anchor": [
+        "TEAM"
+      ]
+    },
+    {
+      "gloss": "TEMPLATE TOOL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TENONS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TERMITE RESISTANT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TEXT WRAPPING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "THATCHED ROOF",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "THEME",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THERMO ELECTRICITY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "THIMBLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THIRD PARTY COOKIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "THIRD FINGER",
+        "THIRD PARTY",
+        "THIRD"
+      ]
+    },
+    {
+      "gloss": "THREAD CUTTING TOOL",
+      "category": "COMPOUND",
+      "anchor": [
+        "THREAD GAUGE",
+        "THREAD"
+      ]
+    },
+    {
+      "gloss": "THREAD GAUGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "THREAD CUTTING TOOL",
+        "THREAD"
+      ]
+    },
+    {
+      "gloss": "THREE PHASE",
+      "category": "COMPOUND",
+      "anchor": [
+        "THREE DAYS BEFORE",
+        "THREE DIMENSIONAL SHAPES",
+        "THREE QUARTERED SLEEVE",
+        "THREE AGE SYSTEM",
+        "THREE DAYS AFTER"
+      ]
+    },
+    {
+      "gloss": "THREE QUARTERED SLEEVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "THREE DAYS BEFORE",
+        "THREE DIMENSIONAL SHAPES",
+        "THREE AGE SYSTEM",
+        "THREE PHASE",
+        "THREE DAYS AFTER"
+      ]
+    },
+    {
+      "gloss": "THROAT PLATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "THROAT CANCER",
+        "THROAT"
+      ]
+    },
+    {
+      "gloss": "THUMB LUNULA",
+      "category": "COMPOUND",
+      "anchor": [
+        "THUMB"
+      ]
+    },
+    {
+      "gloss": "THUMBNAIL SKETCH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TIGHT TRACKING",
+      "category": "COMPOUND",
+      "anchor": [
+        "TIGHT FITTING CLOTHES",
+        "TIGHT",
+        "TIGHT HUG, TIGHT EMBRACE"
+      ]
+    },
+    {
+      "gloss": "TILES CUTTER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TILTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TINTED GLASS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TIPPED TOOL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TITLE BAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "TITLE ABSTRACT, TITLE SEARCH"
+      ]
+    },
+    {
+      "gloss": "TOGGLE BUTTON",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TOILE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOOL",
+      "category": "CORE",
+      "anchor": [
+        "TOOL BAR",
+        "TOOL BELT"
+      ]
+    },
+    {
+      "gloss": "TOOL BAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "TOOL",
+        "TOOL BELT"
+      ]
+    },
+    {
+      "gloss": "TOOL BELT",
+      "category": "COMPOUND",
+      "anchor": [
+        "TOOL",
+        "TOOL BAR"
+      ]
+    },
+    {
+      "gloss": "TOOLBOX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOP STITCHING",
+      "category": "COMPOUND",
+      "anchor": [
+        "TOP VIEW",
+        "TOP GRAFTING",
+        "TOP"
+      ]
+    },
+    {
+      "gloss": "TRACE DEPENDENTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRACE PRECEDENTS"
+      ]
+    },
+    {
+      "gloss": "TRACE PRECEDENTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRACE DEPENDENTS"
+      ]
+    },
+    {
+      "gloss": "TRACKBALL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRACKED ROBOTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TRACKING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRANSFORMER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRANSITION SOUND",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRANSITION SPEED"
+      ]
+    },
+    {
+      "gloss": "TRANSITION SPEED",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRANSITION SOUND"
+      ]
+    },
+    {
+      "gloss": "TRAPUNTO STITCHING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TRASH FOLDER",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRASH TALK"
+      ]
+    },
+    {
+      "gloss": "TRENCHERS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRI SQUARE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TRIANGULAR FILE",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRIANGULAR METHOD"
+      ]
+    },
+    {
+      "gloss": "TRIM",
+      "category": "CORE",
+      "anchor": [
+        "TRIM AREA"
+      ]
+    },
+    {
+      "gloss": "TRIM AREA",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRIM"
+      ]
+    },
+    {
+      "gloss": "TRIPEDAL ROBOT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TRUE COLOUR",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRUE",
+        "TRUE AQUATIC PLANTS"
+      ]
+    },
+    {
+      "gloss": "TRUSSES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TULIP SLEEVE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TUNIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TURNING TOOLS",
+      "category": "COMPOUND",
+      "anchor": [
+        "TURNING RADIUS",
+        "TURNING POINT"
+      ]
+    },
+    {
+      "gloss": "TWEENING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TWEEZERS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TWIN LEAD WIRE",
+      "category": "COMPOUND",
+      "anchor": [
+        "TWIN"
+      ]
+    },
+    {
+      "gloss": "TWIST FRONT",
+      "category": "COMPOUND",
+      "anchor": [
+        "TWIST LAYERING"
+      ]
+    },
+    {
+      "gloss": "TYPOGRAPHY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TENSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TERMINAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THEOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THERMOPLASTICS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THERMOSETTING PLASTICS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TRADITION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRANSFER OF CHARGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRANSFER MONEY",
+        "TRANSFER FEE, TRANSACTION CHARGE"
+      ]
+    },
+    {
+      "gloss": "TUGHLAQ",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TERTIARY ACTIVITY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TIDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TIPU SULTAN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TOMB",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TREATY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TACTICAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TACTILE GRAPHICS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TAGS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TAILGATING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TANGENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TARIFF",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TAXATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TECHNICAL FOUL",
+      "category": "COMPOUND",
+      "anchor": [
+        "TECHNICAL KNOCKOUT"
+      ]
+    },
+    {
+      "gloss": "TECHNICAL KNOCKOUT",
+      "category": "COMPOUND",
+      "anchor": [
+        "TECHNICAL FOUL"
+      ]
+    },
+    {
+      "gloss": "TELECOMMUNICATIONS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TENOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TERM",
+      "category": "CORE",
+      "anchor": [
+        "TERM INSURANCE"
+      ]
+    },
+    {
+      "gloss": "TERMINOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TEST RESULT",
+      "category": "COMPOUND",
+      "anchor": [
+        "TEST",
+        "TEST CROSS",
+        "TEST TUBE"
+      ]
+    },
+    {
+      "gloss": "THEORETICAL",
+      "category": "CORE",
+      "anchor": [
+        "THEORETICAL FIELD CAPACITY"
+      ]
+    },
+    {
+      "gloss": "THREE DAY EVENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "THREE DAYS BEFORE",
+        "THREE DIMENSIONAL SHAPES",
+        "THREE AGE SYSTEM",
+        "THREE PHASE",
+        "THREE DAYS AFTER"
+      ]
+    },
+    {
+      "gloss": "THROW-IN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TICKET COUNTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "TICKET TOUTING",
+        "TICKET"
+      ]
+    },
+    {
+      "gloss": "TIDAL FLOW",
+      "category": "COMPOUND",
+      "anchor": [
+        "TIDAL"
+      ]
+    },
+    {
+      "gloss": "TIME TRIAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "TIME TABLE",
+        "TIME",
+        "TIME FLIES WHEN YOU ARE HAVING FUN"
+      ]
+    },
+    {
+      "gloss": "TIMING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TO FLATTEN THE CURVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "TO CONSUMERS",
+        "TO RETAILERS"
+      ]
+    },
+    {
+      "gloss": "TONE",
+      "category": "CLASSIFIERS",
+      "anchor": []
+    },
+    {
+      "gloss": "TORQUE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOTALITARIANISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRACING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRACK RACE",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRACK",
+        "TRACK RECORD"
+      ]
+    },
+    {
+      "gloss": "TRADE UNION",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRADE CAPTURE",
+        "TRADE",
+        "TRADE ALLOCATION",
+        "TRADE CONFIRMATION",
+        "TRADE ENRICHMENT"
+      ]
+    },
+    {
+      "gloss": "TRAFFIC JAM",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRAFFIC LIGHTS",
+        "TRAFFIC"
+      ]
+    },
+    {
+      "gloss": "TRAGEDY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRAILER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRANSLOADING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRANSPORTATION INFRASTRUCTURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRANSPORTATION ALLOWANCE OR TRAVELLING ALLOWANCE"
+      ]
+    },
+    {
+      "gloss": "TRANSPORTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRAP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRAUMATIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRAVEL HISTORY",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRAVEL",
+        "TRAVEL PACKAGE",
+        "TRAVEL AGENT"
+      ]
+    },
+    {
+      "gloss": "TREAD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TREKKING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRIBUNAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRICK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRIGONOMETRY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TROLLEY BUS",
+      "category": "COMPOUND",
+      "anchor": [
+        "TROLLEY"
+      ]
+    },
+    {
+      "gloss": "TROT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRUMP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRUNK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TURNING RADIUS",
+      "category": "COMPOUND",
+      "anchor": [
+        "TURNING TOOLS",
+        "TURNING POINT"
+      ]
+    },
+    {
+      "gloss": "TURNPIKE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TAGLINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TAILORING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TAMARIND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TEAPOT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TIP",
+      "category": "CORE",
+      "anchor": [
+        "TIP 2",
+        "TIP 1",
+        "TIP LAYERING"
+      ]
+    },
+    {
+      "gloss": "TOLLYWOOD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOP VIEW",
+      "category": "COMPOUND",
+      "anchor": [
+        "TOP STITCHING",
+        "TOP GRAFTING",
+        "TOP"
+      ]
+    },
+    {
+      "gloss": "TOUR GUIDE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TRASH TALK",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRASH FOLDER"
+      ]
+    },
+    {
+      "gloss": "TRAVEL PACKAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRAVEL HISTORY",
+        "TRAVEL",
+        "TRAVEL AGENT"
+      ]
+    },
+    {
+      "gloss": "TREE TRUNK",
+      "category": "COMPOUND",
+      "anchor": [
+        "TREE AND PLANTS RESPIRATION",
+        "TREE"
+      ]
+    },
+    {
+      "gloss": "TROUBLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TROUBLED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TUITION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TUTOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TUXEDO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TWENTY FOUR SEVEN STORE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TENANCY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRAIL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRAIN COMMERCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRAIN"
+      ]
+    },
+    {
+      "gloss": "TRAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRANSIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRANSPLANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TANTRUMS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TELE - COUNSELLING",
+      "category": "COMPOUND",
+      "anchor": [
+        "TELE LAW"
+      ]
+    },
+    {
+      "gloss": "TEMPER TANTRUM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TEMPORARY RELIEF",
+      "category": "COMPOUND",
+      "anchor": [
+        "TEMPORARY",
+        "TEMPORARY APPOINTMENT",
+        "TEMPORARY PRESERVATION"
+      ]
+    },
+    {
+      "gloss": "THOUGHTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRADITIONAL HEALING",
+      "category": "COMPOUND",
+      "anchor": [
+        "TRADITIONAL",
+        "TRADITIONAL FUNCTIONS"
+      ]
+    },
+    {
+      "gloss": "TRAUMA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRIGGER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TACTLESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TAJIKISTAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TAOISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TARGETING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TAXIWAY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TEA CEREMONY",
+      "category": "COMPOUND",
+      "anchor": [
+        "TEA",
+        "TEA PLANTATIONS",
+        "TEA STRAINER"
+      ]
+    },
+    {
+      "gloss": "THEATER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "THERMAL POLLUTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "THREAT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOERING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TONGA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TOXIC",
+      "category": "CORE",
+      "anchor": [
+        "TOXIC WASTE"
+      ]
+    },
+    {
+      "gloss": "TOXIC WASTE",
+      "category": "COMPOUND",
+      "anchor": [
+        "TOXIC"
+      ]
+    },
+    {
+      "gloss": "TRANSCENDENTALISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRANSLATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TREND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRENDY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRILINGUAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TRIPLANE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TROPHIC LEVEL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TRUTH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TURNIP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "TAG LINE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "TIP 1",
+      "category": "COMPOUND",
+      "anchor": [
+        "TIP 2",
+        "TIP LAYERING",
+        "TIP"
+      ]
+    },
+    {
+      "gloss": "TIP 2",
+      "category": "COMPOUND",
+      "anchor": [
+        "TIP 1",
+        "TIP LAYERING",
+        "TIP"
+      ]
+    },
+    {
+      "gloss": "T",
+      "category": "LETTERS",
+      "anchor": [
+        "T SQUARE",
+        "T BAR"
+      ]
+    }
+  ]
+}

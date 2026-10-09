@@ -1,0 +1,3861 @@
+{
+  "metadata": {
+    "total_words": 596,
+    "description": "Words starting with letter M"
+  },
+  "words": [
+    {
+      "gloss": "MAGIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAGICIAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAGNET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAHA SHIVARATRI",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MAHATMA GANDHI",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MAHAVIR",
+      "category": "CORE",
+      "anchor": [
+        "MAHAVIR JAYANTI"
+      ]
+    },
+    {
+      "gloss": "MAHAVIR JAYANTI",
+      "category": "COMPOUND",
+      "anchor": [
+        "MAHAVIR"
+      ]
+    },
+    {
+      "gloss": "MAHENDRA SINGH DHONI",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MAIDEN OVER",
+      "category": "COMPOUND",
+      "anchor": [
+        "MAIDEN HORSE"
+      ]
+    },
+    {
+      "gloss": "MAKE",
+      "category": "CORE",
+      "anchor": [
+        "MAKE A LONG STORY SHORT"
+      ]
+    },
+    {
+      "gloss": "MALAYALAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MALE, MASCULINE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MALL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MANAGE, ADMINISTER, HANDLE, OPERATE, SUPERVISE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MANAGER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MANGO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MANNER, BEHAVIOUR, CONDUCT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MANUAL",
+      "category": "CORE",
+      "anchor": [
+        "MANUAL THERAPY"
+      ]
+    },
+    {
+      "gloss": "MANY, NUMEROUS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MAP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MARATHI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MARGIN, DIFFERENCE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MARIGOLD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MARINADE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MARKET",
+      "category": "CORE",
+      "anchor": [
+        "MARKET CHALLENGER",
+        "MARKET DATA",
+        "MARKET ECONOMY",
+        "MARKET RESEARCH",
+        "MARKET VALUE, CAPITALIZATION"
+      ]
+    },
+    {
+      "gloss": "MARRY, WED",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MARUTI CAR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MARY, VIRGIN MARY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MASH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MASK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MASON",
+      "category": "CORE",
+      "anchor": [
+        "MASON SQUARE"
+      ]
+    },
+    {
+      "gloss": "MASTER",
+      "category": "CORE",
+      "anchor": [
+        "MASTER TRAINER",
+        "MASTER POINT",
+        "MASTER OF EDUCATION",
+        "MASTER OF PHILOSOPHY"
+      ]
+    },
+    {
+      "gloss": "MASTERMIND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MASTURBATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MATCH",
+      "category": "CORE",
+      "anchor": [
+        "MATCH CUT"
+      ]
+    },
+    {
+      "gloss": "MATCHBOX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MATERIAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MATERNAL AUNT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MATERNAL HOME"
+      ]
+    },
+    {
+      "gloss": "MATHS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MATTRESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MATURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAUSI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAXIMUM",
+      "category": "CORE",
+      "anchor": [
+        "MAXIMUM TEMPERATURE"
+      ]
+    },
+    {
+      "gloss": "MAY",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "MAYBE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEASURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEASUREMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEASURING TAPE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEASURING BOX",
+        "MEASURING INSTRUMENTS",
+        "MEASURING WHEEL"
+      ]
+    },
+    {
+      "gloss": "MEAT",
+      "category": "CORE",
+      "anchor": [
+        "MEAT PRODUCT"
+      ]
+    },
+    {
+      "gloss": "MECHANIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEDAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEDICINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEDIOCRE, AVERAGE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MEDITATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEDIUM",
+      "category": "CORE",
+      "anchor": [
+        "MEDIUM SHRUBS",
+        "MEDIUM SIZE CROPS"
+      ]
+    },
+    {
+      "gloss": "MEET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEETING",
+      "category": "CORE",
+      "anchor": [
+        "MEETING REACTIONS",
+        "MEETING POINT",
+        "MEETING TEMPLATE"
+      ]
+    },
+    {
+      "gloss": "MELT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MENSTRUATION, MENSES, MENSTRUAL CYCLE, PERIODS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MENU",
+      "category": "CORE",
+      "anchor": [
+        "MENU BAR"
+      ]
+    },
+    {
+      "gloss": "MEOW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MERCEDES BENZ",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MESSAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MESSAGE, SEND",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MESSAGES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "METAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "METHOD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "METRE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "METRO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEXICO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MI XIAOMI",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MIC, MICROPHONE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MICKEY MOUSE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MICROMAX MOBILE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MICROWAVE, OVEN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MID ON",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MIDDLE",
+      "category": "CORE",
+      "anchor": [
+        "MIDDLE LAYER, B-HORIZON",
+        "MIDDLE OFFICE",
+        "MIDDLE TERM",
+        "MIDDLE FINGER"
+      ]
+    },
+    {
+      "gloss": "MIDWICKET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MIGHT",
+      "category": "GRAMMAR & FUNCTION",
+      "anchor": []
+    },
+    {
+      "gloss": "MILAD-UN-NABI, ID-E-MILAD, BIRTHDAY OF PROPHET MOHAMMAD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MILE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MILK",
+      "category": "CORE",
+      "anchor": [
+        "MILK TEETH",
+        "MILK ADULTRATION",
+        "MILK POWDER",
+        "MILK BOTTLE",
+        "MILK CREAM, MALAI"
+      ]
+    },
+    {
+      "gloss": "MILK BOTTLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MILK TEETH",
+        "MILK ADULTRATION",
+        "MILK POWDER",
+        "MILK CREAM, MALAI",
+        "MILK"
+      ]
+    },
+    {
+      "gloss": "MILK CREAM, MALAI",
+      "category": "COMPOUND",
+      "anchor": [
+        "MILK TEETH",
+        "MILK ADULTRATION",
+        "MILK POWDER",
+        "MILK BOTTLE",
+        "MILK"
+      ]
+    },
+    {
+      "gloss": "MILKMAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MILLILITRE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MILLIONAIRE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MINCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MIND YOUR LANGUAGE, WATCH YOUR LANGUAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MIND"
+      ]
+    },
+    {
+      "gloss": "MINIMUM, LEAST, LOWEST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MINISTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MINISTRY OF SOCIAL JUSTICE AND EMPOWERMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MINISTRY OF WOMEN AND CHILD DEVELOPMENT",
+        "MINISTRY OF EDUCATION",
+        "MINISTRY OF HUMAN RESOURCE DEVELOPMENT",
+        "MINISTRY OF HEALTH AND FAMILY WELFARE"
+      ]
+    },
+    {
+      "gloss": "MINORITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MINUTE",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "MIRROR",
+      "category": "CORE",
+      "anchor": [
+        "MIRROR IMAGE"
+      ]
+    },
+    {
+      "gloss": "MISS, ABSENCE, OMISSION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MISTAKE, ERROR",
+      "category": "COMPOUND",
+      "anchor": [
+        "MISTAKE, ERROR, INACCURACY"
+      ]
+    },
+    {
+      "gloss": "MISTAKE, ERROR, INACCURACY",
+      "category": "COMPOUND",
+      "anchor": [
+        "MISTAKE, ERROR"
+      ]
+    },
+    {
+      "gloss": "MISUNDERSTAND, MISCONSTRUE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MITSUBISHI MOTORS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MIX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOCK, RIDICULE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MODEL",
+      "category": "CORE",
+      "anchor": [
+        "MODEL ANSWER"
+      ]
+    },
+    {
+      "gloss": "MODERN",
+      "category": "CORE",
+      "anchor": [
+        "MODERN INDIA",
+        "MODERN ROOFS",
+        "MODERN HISTORY"
+      ]
+    },
+    {
+      "gloss": "MOLE, BIRTHMARK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MOMOS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MONDAY",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "MONKEY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MONSOON",
+      "category": "CORE",
+      "anchor": [
+        "MONSOON WINDS"
+      ]
+    },
+    {
+      "gloss": "MONTH",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "MOO, LOW",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MOON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MORNING",
+      "category": "NUMBERS & TIME",
+      "anchor": [
+        "MORNING SICKNESS"
+      ]
+    },
+    {
+      "gloss": "MORTAR AND PESTLE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MOSQUE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOSQUITO",
+      "category": "CORE",
+      "anchor": [
+        "MOSQUITO NET"
+      ]
+    },
+    {
+      "gloss": "MOTHER",
+      "category": "CORE",
+      "anchor": [
+        "MOTHER IN LAW",
+        "MOTHER TONGUE, FIRST LANGUAGE"
+      ]
+    },
+    {
+      "gloss": "MOTHER IN LAW",
+      "category": "COMPOUND",
+      "anchor": [
+        "MOTHER",
+        "MOTHER TONGUE, FIRST LANGUAGE"
+      ]
+    },
+    {
+      "gloss": "MOTHER TONGUE, FIRST LANGUAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MOTHER",
+        "MOTHER IN LAW"
+      ]
+    },
+    {
+      "gloss": "MOTIVATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOTOR",
+      "category": "CORE",
+      "anchor": [
+        "MOTOR VEHICLE ACT",
+        "MOTOR SKILLS"
+      ]
+    },
+    {
+      "gloss": "MOTOROLA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOUNTAIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOUSE",
+      "category": "CORE",
+      "anchor": [
+        "MOUSE CLICK",
+        "MOUSE POINTER",
+        "MOUSE PAD"
+      ]
+    },
+    {
+      "gloss": "MOUTH",
+      "category": "CORE",
+      "anchor": [
+        "MOUTH ORGAN",
+        "MOUTH PARTS",
+        "MOUTH SPRAY, BREATH FRESHENER"
+      ]
+    },
+    {
+      "gloss": "MOUTH ORGAN",
+      "category": "COMPOUND",
+      "anchor": [
+        "MOUTH SPRAY, BREATH FRESHENER",
+        "MOUTH PARTS",
+        "MOUTH"
+      ]
+    },
+    {
+      "gloss": "MOUTH SPRAY, BREATH FRESHENER",
+      "category": "COMPOUND",
+      "anchor": [
+        "MOUTH ORGAN",
+        "MOUTH PARTS",
+        "MOUTH"
+      ]
+    },
+    {
+      "gloss": "MOUTHWASH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOVEMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOVIE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOVING WALKWAY, AUTOWALK, TRAVELATOR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MTNL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MUG",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MUHARRAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MULTIPLE",
+      "category": "NUMBERS & TIME",
+      "anchor": [
+        "MULTIPLE FISSION"
+      ]
+    },
+    {
+      "gloss": "MULTIPLY",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "MUSEUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MUSHROOM",
+      "category": "CORE",
+      "anchor": [
+        "MUSHROOM ROCKS",
+        "MUSHROOM PRODUCTION",
+        "MUSHROOM PLEATING",
+        "MUSHROOM STORAGE",
+        "MUSHROOM HARVESTING"
+      ]
+    },
+    {
+      "gloss": "MUSIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MUSICIAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MUST, SHOULD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MUSTACHE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MY",
+      "category": "CORE",
+      "anchor": [
+        "MY NAME IS",
+        "MY GOV"
+      ]
+    },
+    {
+      "gloss": "MY NAME IS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MY",
+        "MY GOV"
+      ]
+    },
+    {
+      "gloss": "MYSELF",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MYSTERY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MACHINE",
+      "category": "CORE",
+      "anchor": [
+        "MACHINE SCREW",
+        "MACHINE CONTROL UNIT",
+        "MACHINE FIELD EFFICIENCY",
+        "MACHINE FIELD CAPACITY",
+        "MACHINE LANGUAGE"
+      ]
+    },
+    {
+      "gloss": "MAGNESIUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAGNETIC FIELD",
+      "category": "COMPOUND",
+      "anchor": [
+        "MAGNETIC VICE",
+        "MAGNETIC FORCE",
+        "MAGNETIC INK CHARACTER RECOGNITION"
+      ]
+    },
+    {
+      "gloss": "MAJORITY",
+      "category": "CORE",
+      "anchor": [
+        "MAJORITY AND OPPOSITION"
+      ]
+    },
+    {
+      "gloss": "MAJORITY AND OPPOSITION",
+      "category": "COMPOUND",
+      "anchor": [
+        "MAJORITY"
+      ]
+    },
+    {
+      "gloss": "MALLEABILITY AND BRITTLENESS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MAMMALS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MANUSCRIPT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MARGIN OR PROFIT MARGIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "MARGIN",
+        "MARGIN CALL"
+      ]
+    },
+    {
+      "gloss": "MARGINALIZATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MARKET CHALLENGER",
+      "category": "COMPOUND",
+      "anchor": [
+        "MARKET DATA",
+        "MARKET ECONOMY",
+        "MARKET",
+        "MARKET RESEARCH",
+        "MARKET VALUE, CAPITALIZATION"
+      ]
+    },
+    {
+      "gloss": "MARKET ECONOMY",
+      "category": "COMPOUND",
+      "anchor": [
+        "MARKET CHALLENGER",
+        "MARKET DATA",
+        "MARKET",
+        "MARKET RESEARCH",
+        "MARKET VALUE, CAPITALIZATION"
+      ]
+    },
+    {
+      "gloss": "MARKING SCHEME",
+      "category": "COMPOUND",
+      "anchor": [
+        "MARKING TABLE"
+      ]
+    },
+    {
+      "gloss": "MARS OR RED PLANET",
+      "category": "COMPOUND",
+      "anchor": [
+        "MARS"
+      ]
+    },
+    {
+      "gloss": "MARSH PLANT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MASS AND WEIGHT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MASS CULTURE",
+        "MASS COMMUNICATION",
+        "MASS TOURISM"
+      ]
+    },
+    {
+      "gloss": "MASS TOURISM",
+      "category": "COMPOUND",
+      "anchor": [
+        "MASS CULTURE",
+        "MASS COMMUNICATION",
+        "MASS AND WEIGHT"
+      ]
+    },
+    {
+      "gloss": "MASTER OF EDUCATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "MASTER TRAINER",
+        "MASTER POINT",
+        "MASTER",
+        "MASTER OF PHILOSOPHY"
+      ]
+    },
+    {
+      "gloss": "MASTER OF PHILOSOPHY",
+      "category": "COMPOUND",
+      "anchor": [
+        "MASTER TRAINER",
+        "MASTER POINT",
+        "MASTER",
+        "MASTER OF EDUCATION"
+      ]
+    },
+    {
+      "gloss": "MASTER TRAINER",
+      "category": "COMPOUND",
+      "anchor": [
+        "MASTER POINT",
+        "MASTER",
+        "MASTER OF EDUCATION",
+        "MASTER OF PHILOSOPHY"
+      ]
+    },
+    {
+      "gloss": "MATRIARCHAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAURYAS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAXIMUM TEMPERATURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MAXIMUM"
+      ]
+    },
+    {
+      "gloss": "MEANDER AND OXBOW LAKE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MEANS OF PRODUCTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MEAT PRODUCT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEAT"
+      ]
+    },
+    {
+      "gloss": "MEDIAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEDIEVAL HISTORY",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEDIEVAL INDIA"
+      ]
+    },
+    {
+      "gloss": "MEETING POINT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEETING REACTIONS",
+        "MEETING",
+        "MEETING TEMPLATE"
+      ]
+    },
+    {
+      "gloss": "MEGALITH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MELANIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MELANOCYTE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEMBERS OF LEGISLATIVE ASSEMBLY",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEMBERS OF PARLIAMENT"
+      ]
+    },
+    {
+      "gloss": "MEMBERS OF PARLIAMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEMBERS OF LEGISLATIVE ASSEMBLY"
+      ]
+    },
+    {
+      "gloss": "MEMORANDUM OF UNDERSTANDING",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEMORANDUM OF ASSOCIATION",
+        "MEMORANDUM OF UNDERSTANDING, MEMORANDUM OF AGREEMENT"
+      ]
+    },
+    {
+      "gloss": "MENTAL AGE, GIFTED CHILDREN",
+      "category": "COMPOUND",
+      "anchor": [
+        "MENTAL DISORDERS",
+        "MENTAL HEALTH LEGISLATION",
+        "MENTAL HEALTH AID",
+        "MENTAL PROCESSES",
+        "MENTAL HEALTH POLICY"
+      ]
+    },
+    {
+      "gloss": "MENTAL PROCESSES",
+      "category": "COMPOUND",
+      "anchor": [
+        "MENTAL DISORDERS",
+        "MENTAL HEALTH LEGISLATION",
+        "MENTAL HEALTH AID",
+        "MENTAL AGE, GIFTED CHILDREN",
+        "MENTAL HEALTH POLICY"
+      ]
+    },
+    {
+      "gloss": "MERCURY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MESOLITHIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "METABOLISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "METALLIC AND NON METALLIC MINERALS",
+      "category": "COMPOUND",
+      "anchor": [
+        "METALLIC MINERALS"
+      ]
+    },
+    {
+      "gloss": "METALLIC MINERALS",
+      "category": "COMPOUND",
+      "anchor": [
+        "METALLIC AND NON METALLIC MINERALS"
+      ]
+    },
+    {
+      "gloss": "METAMORPHIC ROCKS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "METAPHOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "METEOR AND METEORITE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "METEORS, METEORITES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MHRD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MICROBIOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MICROECONOMICS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MICROLITH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MICROSCOPE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MIDDLE LAYER, B-HORIZON",
+      "category": "COMPOUND",
+      "anchor": [
+        "MIDDLE OFFICE",
+        "MIDDLE TERM",
+        "MIDDLE",
+        "MIDDLE FINGER"
+      ]
+    },
+    {
+      "gloss": "MIDDLE TERM",
+      "category": "COMPOUND",
+      "anchor": [
+        "MIDDLE LAYER, B-HORIZON",
+        "MIDDLE OFFICE",
+        "MIDDLE",
+        "MIDDLE FINGER"
+      ]
+    },
+    {
+      "gloss": "MIDDLEMAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MIGRATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MILD HEARING LOSS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MILD STEEL",
+        "MILD STEEL ROD"
+      ]
+    },
+    {
+      "gloss": "MILITARIZE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MILITARY POWER",
+      "category": "COMPOUND",
+      "anchor": [
+        "MILITARY PLANE",
+        "MILITARY ROBOT",
+        "MILITARY",
+        "MILITARY CAMPAIGN"
+      ]
+    },
+    {
+      "gloss": "MILK TEETH",
+      "category": "COMPOUND",
+      "anchor": [
+        "MILK ADULTRATION",
+        "MILK POWDER",
+        "MILK BOTTLE",
+        "MILK CREAM, MALAI",
+        "MILK"
+      ]
+    },
+    {
+      "gloss": "MINERALS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MINIMUM TEMPERATURE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MINISTRY OF EDUCATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "MINISTRY OF SOCIAL JUSTICE AND EMPOWERMENT",
+        "MINISTRY OF WOMEN AND CHILD DEVELOPMENT",
+        "MINISTRY OF HEALTH AND FAMILY WELFARE",
+        "MINISTRY OF HUMAN RESOURCE DEVELOPMENT"
+      ]
+    },
+    {
+      "gloss": "MINISTRY OF HEALTH AND FAMILY WELFARE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MINISTRY OF SOCIAL JUSTICE AND EMPOWERMENT",
+        "MINISTRY OF WOMEN AND CHILD DEVELOPMENT",
+        "MINISTRY OF EDUCATION",
+        "MINISTRY OF HUMAN RESOURCE DEVELOPMENT"
+      ]
+    },
+    {
+      "gloss": "MINISTRY OF HUMAN RESOURCE DEVELOPMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MINISTRY OF SOCIAL JUSTICE AND EMPOWERMENT",
+        "MINISTRY OF WOMEN AND CHILD DEVELOPMENT",
+        "MINISTRY OF EDUCATION",
+        "MINISTRY OF HEALTH AND FAMILY WELFARE"
+      ]
+    },
+    {
+      "gloss": "MINISTRY OF WOMEN AND CHILD DEVELOPMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MINISTRY OF SOCIAL JUSTICE AND EMPOWERMENT",
+        "MINISTRY OF EDUCATION",
+        "MINISTRY OF HUMAN RESOURCE DEVELOPMENT",
+        "MINISTRY OF HEALTH AND FAMILY WELFARE"
+      ]
+    },
+    {
+      "gloss": "MISCARRIAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MISCONCEPT ABOUT DEAFNESS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MIXED FRACTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "MIXED CROPS"
+      ]
+    },
+    {
+      "gloss": "MODE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MODEL ANSWER",
+      "category": "COMPOUND",
+      "anchor": [
+        "MODEL"
+      ]
+    },
+    {
+      "gloss": "MODERATE HEARING LOSS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MODERATELY SEVERE HEARING LOSS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MODERATES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MODERN HISTORY",
+      "category": "COMPOUND",
+      "anchor": [
+        "MODERN INDIA",
+        "MODERN ROOFS",
+        "MODERN"
+      ]
+    },
+    {
+      "gloss": "MODES OF LINGUISTIC COMMUNICATION, AURAL ORAL, VISUAL MANUAL, VISUAL GRAPHICAL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MOHENJODARO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOLECULAR",
+      "category": "CORE",
+      "anchor": [
+        "MOLECULAR BIOLOGY"
+      ]
+    },
+    {
+      "gloss": "MOLECULAR BIOLOGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "MOLECULAR"
+      ]
+    },
+    {
+      "gloss": "MOLECULES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MONARCHY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MONASTERY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MONK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MONOCULTURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MONOPOLY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MORNING SICKNESS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MORNING"
+      ]
+    },
+    {
+      "gloss": "MORPHOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOTION",
+      "category": "CORE",
+      "anchor": [
+        "MOTION CAPTURE"
+      ]
+    },
+    {
+      "gloss": "MOTOR SKILLS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MOTOR VEHICLE ACT",
+        "MOTOR"
+      ]
+    },
+    {
+      "gloss": "MOUTHING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "M-RNA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MUGHAL RULERS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MULBERRY SILK MOTH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MULCHING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MULTICELLULAR AND UNICELLULAR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MULTIDISCIPLINARY EDUCATION AND RESEARCH UNIVERSITIES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MULTI-LEVEL MARKETING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MULTILINGUALISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MULTIPLICATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MUMMIFICATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MUNICIPAL CORPORATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "MUNICIPAL WASTE"
+      ]
+    },
+    {
+      "gloss": "MUNICIPAL WASTE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MUNICIPAL CORPORATION"
+      ]
+    },
+    {
+      "gloss": "MUSCLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MUSHROOM ROCKS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MUSHROOM PRODUCTION",
+        "MUSHROOM",
+        "MUSHROOM PLEATING",
+        "MUSHROOM STORAGE",
+        "MUSHROOM HARVESTING"
+      ]
+    },
+    {
+      "gloss": "MUSLIM LEAGUE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MUTUALISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MYOPIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MACHINE FIELD CAPACITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "MACHINE SCREW",
+        "MACHINE CONTROL UNIT",
+        "MACHINE FIELD EFFICIENCY",
+        "MACHINE LANGUAGE",
+        "MACHINE"
+      ]
+    },
+    {
+      "gloss": "MACHINE FIELD EFFICIENCY",
+      "category": "COMPOUND",
+      "anchor": [
+        "MACHINE SCREW",
+        "MACHINE CONTROL UNIT",
+        "MACHINE FIELD CAPACITY",
+        "MACHINE LANGUAGE",
+        "MACHINE"
+      ]
+    },
+    {
+      "gloss": "MAIN OBJECTIVES OF LAWN",
+      "category": "COMPOUND",
+      "anchor": [
+        "MAIN SPECIALITIES OF LAWN"
+      ]
+    },
+    {
+      "gloss": "MAIN SPECIALITIES OF LAWN",
+      "category": "COMPOUND",
+      "anchor": [
+        "MAIN OBJECTIVES OF LAWN"
+      ]
+    },
+    {
+      "gloss": "MARGINAL WEEDS & DEEP WATER ROOTED PLANTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MARINE FISHERIES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MARKETING OF VEGETABLES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MASTITIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MATING METHOD OF POULTRY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MECHANICAL CONTROL",
+      "category": "COMPOUND",
+      "anchor": [
+        "MECHANICAL WEAR",
+        "MECHANICAL EDGING",
+        "MECHANICAL METHODS"
+      ]
+    },
+    {
+      "gloss": "MECHANICAL EDGING",
+      "category": "COMPOUND",
+      "anchor": [
+        "MECHANICAL CONTROL",
+        "MECHANICAL WEAR",
+        "MECHANICAL METHODS"
+      ]
+    },
+    {
+      "gloss": "MECHANICAL METHODS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MECHANICAL CONTROL",
+        "MECHANICAL WEAR",
+        "MECHANICAL EDGING"
+      ]
+    },
+    {
+      "gloss": "MEDIUM SHRUBS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEDIUM SIZE CROPS",
+        "MEDIUM"
+      ]
+    },
+    {
+      "gloss": "MEDIUM SIZE CROPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEDIUM SHRUBS",
+        "MEDIUM"
+      ]
+    },
+    {
+      "gloss": "METAMORPHOSIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "METHODS OF CANNING",
+      "category": "COMPOUND",
+      "anchor": [
+        "METHODS OF DISPOSAL",
+        "METHODS OF PLANTING LAWN",
+        "METHODS OF DRAINAGE",
+        "METHODS OF PLANTATION"
+      ]
+    },
+    {
+      "gloss": "METHODS OF DISPOSAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "METHODS OF CANNING",
+        "METHODS OF PLANTING LAWN",
+        "METHODS OF DRAINAGE",
+        "METHODS OF PLANTATION"
+      ]
+    },
+    {
+      "gloss": "METHODS OF DRAINAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "METHODS OF CANNING",
+        "METHODS OF DISPOSAL",
+        "METHODS OF PLANTING LAWN",
+        "METHODS OF PLANTATION"
+      ]
+    },
+    {
+      "gloss": "METHODS OF PLANTATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "METHODS OF CANNING",
+        "METHODS OF DISPOSAL",
+        "METHODS OF PLANTING LAWN",
+        "METHODS OF DRAINAGE"
+      ]
+    },
+    {
+      "gloss": "METHODS OF PLANTING LAWN",
+      "category": "COMPOUND",
+      "anchor": [
+        "METHODS OF CANNING",
+        "METHODS OF DISPOSAL",
+        "METHODS OF DRAINAGE",
+        "METHODS OF PLANTATION"
+      ]
+    },
+    {
+      "gloss": "MILK ADULTRATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "MILK TEETH",
+        "MILK POWDER",
+        "MILK BOTTLE",
+        "MILK CREAM, MALAI",
+        "MILK"
+      ]
+    },
+    {
+      "gloss": "MILK POWDER",
+      "category": "COMPOUND",
+      "anchor": [
+        "MILK TEETH",
+        "MILK ADULTRATION",
+        "MILK BOTTLE",
+        "MILK CREAM, MALAI",
+        "MILK"
+      ]
+    },
+    {
+      "gloss": "MILK SECRETION",
+      "category": "COMPOUND",
+      "anchor": [
+        "MILK TEETH",
+        "MILK ADULTRATION",
+        "MILK BOTTLE",
+        "MILK CREAM, MALAI",
+        "MILK"
+      ]
+    },
+    {
+      "gloss": "MIMICRY WEEDS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MINERAL MATTER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MINIATURE GARDEN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MIXED CROPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MIXED FRACTION"
+      ]
+    },
+    {
+      "gloss": "MOISTURE LOVING PLANT OR BOG PLANTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MOISTURE"
+      ]
+    },
+    {
+      "gloss": "MONOCOT LEDONEAE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MONOCOT WEEDS"
+      ]
+    },
+    {
+      "gloss": "MONOCOT WEEDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MONOCOT LEDONEAE"
+      ]
+    },
+    {
+      "gloss": "MONOHYBRID CROSS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MOULD BOARD",
+      "category": "COMPOUND",
+      "anchor": [
+        "MOULD SAND",
+        "MOULD BOX"
+      ]
+    },
+    {
+      "gloss": "MOUNT LAYERING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MOUTH PARTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MOUTH ORGAN",
+        "MOUTH SPRAY, BREATH FRESHENER",
+        "MOUTH"
+      ]
+    },
+    {
+      "gloss": "MUCOSAL DISEASE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MULTIPAL CROPPING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MURRAYA EXOTICA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MUSHROOM HARVESTING",
+      "category": "COMPOUND",
+      "anchor": [
+        "MUSHROOM ROCKS",
+        "MUSHROOM PRODUCTION",
+        "MUSHROOM",
+        "MUSHROOM PLEATING",
+        "MUSHROOM STORAGE"
+      ]
+    },
+    {
+      "gloss": "MUSHROOM PRODUCTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "MUSHROOM ROCKS",
+        "MUSHROOM",
+        "MUSHROOM PLEATING",
+        "MUSHROOM STORAGE",
+        "MUSHROOM HARVESTING"
+      ]
+    },
+    {
+      "gloss": "MUSHROOM STORAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MUSHROOM ROCKS",
+        "MUSHROOM PRODUCTION",
+        "MUSHROOM",
+        "MUSHROOM PLEATING",
+        "MUSHROOM HARVESTING"
+      ]
+    },
+    {
+      "gloss": "MYRTUS COMMUNIS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MACAU",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MADAGASCAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MALAWI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MALAYSIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MALI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAURITIUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MONGOLIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MYANMAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MANDATORY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MARGIN",
+      "category": "CORE",
+      "anchor": [
+        "MARGIN CALL",
+        "MARGIN OR PROFIT MARGIN"
+      ]
+    },
+    {
+      "gloss": "MARGIN CALL",
+      "category": "COMPOUND",
+      "anchor": [
+        "MARGIN",
+        "MARGIN OR PROFIT MARGIN"
+      ]
+    },
+    {
+      "gloss": "MARK TO MARKET MARGIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "MARK ENTRY"
+      ]
+    },
+    {
+      "gloss": "MARKET DATA",
+      "category": "COMPOUND",
+      "anchor": [
+        "MARKET CHALLENGER",
+        "MARKET ECONOMY",
+        "MARKET",
+        "MARKET RESEARCH",
+        "MARKET VALUE, CAPITALIZATION"
+      ]
+    },
+    {
+      "gloss": "MARKET VALUE, CAPITALIZATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "MARKET CHALLENGER",
+        "MARKET DATA",
+        "MARKET ECONOMY",
+        "MARKET",
+        "MARKET RESEARCH"
+      ]
+    },
+    {
+      "gloss": "MICR CODE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MIDDLE OFFICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MIDDLE LAYER, B-HORIZON",
+        "MIDDLE TERM",
+        "MIDDLE",
+        "MIDDLE FINGER"
+      ]
+    },
+    {
+      "gloss": "MISSING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOBILE BANKING",
+      "category": "COMPOUND",
+      "anchor": [
+        "MOBILE HOTSPOT"
+      ]
+    },
+    {
+      "gloss": "MONEY BACK POLICY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MONTHLY INTEREST",
+      "category": "COMPOUND",
+      "anchor": [
+        "MONTHLY PAYMENT"
+      ]
+    },
+    {
+      "gloss": "MONTHLY PAYMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MONTHLY INTEREST"
+      ]
+    },
+    {
+      "gloss": "MORTGAGES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MUNICIPALITY BONDS, MUNIS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MUNICIPALITY"
+      ]
+    },
+    {
+      "gloss": "MUTUAL FUND",
+      "category": "COMPOUND",
+      "anchor": [
+        "MUTUAL INDUCTANCE"
+      ]
+    },
+    {
+      "gloss": "MAKE A LONG STORY SHORT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MAKE"
+      ]
+    },
+    {
+      "gloss": "MAFIA, DON",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MAFROOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAHR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAHRANA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAINSWORN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MALA PRAXIS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MALPRACTICE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MANIFESTO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MARITIME WARFARE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MARRIAGE OFFICER, WITNESSES BY DECLARATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "MARRIAGE REGISTRATION CERTIFICATE"
+      ]
+    },
+    {
+      "gloss": "MARRIAGE REGISTRATION CERTIFICATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MARRIAGE OFFICER, WITNESSES BY DECLARATION"
+      ]
+    },
+    {
+      "gloss": "MARTIAL LAW",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MATERNITY LEAVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MATERNITY"
+      ]
+    },
+    {
+      "gloss": "MATRIMONIAL HOME",
+      "category": "COMPOUND",
+      "anchor": [
+        "MATRIMONIAL WEBSITE"
+      ]
+    },
+    {
+      "gloss": "MEDIA RELEASE OR PRESS RELEASE OR PRESS STATEMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEDIA GATEWAY",
+        "MEDIA"
+      ]
+    },
+    {
+      "gloss": "MEDICAL CERTIFICATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEDICAL ROBOT",
+        "MEDICAL EXAMINATION"
+      ]
+    },
+    {
+      "gloss": "MEDICAL EXAMINATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEDICAL ROBOT",
+        "MEDICAL CERTIFICATE"
+      ]
+    },
+    {
+      "gloss": "MEMORANDUM OF ASSOCIATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEMORANDUM OF UNDERSTANDING, MEMORANDUM OF AGREEMENT",
+        "MEMORANDUM OF UNDERSTANDING"
+      ]
+    },
+    {
+      "gloss": "MEMORANDUM OF UNDERSTANDING, MEMORANDUM OF AGREEMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEMORANDUM OF ASSOCIATION",
+        "MEMORANDUM OF UNDERSTANDING"
+      ]
+    },
+    {
+      "gloss": "MENS REA, ACTUS REUS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MINOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MINUTES OF MEETING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MISBRANDING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MISOGYNIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOTOR VEHICLE ACT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MOTOR SKILLS",
+        "MOTOR"
+      ]
+    },
+    {
+      "gloss": "MUGSHOT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MUKHBIR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MUMBAI UNDERWORLD",
+      "category": "COMPOUND",
+      "anchor": [
+        "MUMBAI"
+      ]
+    },
+    {
+      "gloss": "MURDER AND MURDERER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MUTINY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAMMARY GLAND",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MANIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MATERNITY",
+      "category": "CORE",
+      "anchor": [
+        "MATERNITY LEAVE"
+      ]
+    },
+    {
+      "gloss": "MAXILLA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEASLES VIRUS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MEIBOMIAN GLAND",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MELANOMA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MELATONIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEMORY LOSS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEMORY BANK",
+        "MEMORY",
+        "MEMORY CARD",
+        "MEMORY UNIT"
+      ]
+    },
+    {
+      "gloss": "MENINGITIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MENOPAUSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MIDDLE FINGER",
+      "category": "COMPOUND",
+      "anchor": [
+        "MIDDLE LAYER, B-HORIZON",
+        "MIDDLE OFFICE",
+        "MIDDLE TERM",
+        "MIDDLE"
+      ]
+    },
+    {
+      "gloss": "MIGRAINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MUMPS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MUSCULAR DYSTROPHY",
+      "category": "COMPOUND",
+      "anchor": [
+        "MUSCULAR FORCE"
+      ]
+    },
+    {
+      "gloss": "MYOMECTOMY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MADHYA PRADESH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MAHARASHTRA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MANIPUR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEGHALAYA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MIZORAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MUMBAI",
+      "category": "CORE",
+      "anchor": [
+        "MUMBAI UNDERWORLD"
+      ]
+    },
+    {
+      "gloss": "MYSURU",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "M5",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MACHINE CONTROL UNIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MACHINE SCREW",
+        "MACHINE FIELD EFFICIENCY",
+        "MACHINE FIELD CAPACITY",
+        "MACHINE LANGUAGE",
+        "MACHINE"
+      ]
+    },
+    {
+      "gloss": "MACHINE LANGUAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MACHINE SCREW",
+        "MACHINE CONTROL UNIT",
+        "MACHINE FIELD EFFICIENCY",
+        "MACHINE FIELD CAPACITY",
+        "MACHINE"
+      ]
+    },
+    {
+      "gloss": "MACHINE SCREW",
+      "category": "COMPOUND",
+      "anchor": [
+        "MACHINE CONTROL UNIT",
+        "MACHINE FIELD EFFICIENCY",
+        "MACHINE FIELD CAPACITY",
+        "MACHINE LANGUAGE",
+        "MACHINE"
+      ]
+    },
+    {
+      "gloss": "MACHINE VICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MACHINE CONTROL UNIT",
+        "MACHINE FIELD EFFICIENCY",
+        "MACHINE FIELD CAPACITY",
+        "MACHINE LANGUAGE",
+        "MACHINE"
+      ]
+    },
+    {
+      "gloss": "MACROS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAGNETIC INK CHARACTER RECOGNITION",
+      "category": "COMPOUND",
+      "anchor": [
+        "MAGNETIC FIELD",
+        "MAGNETIC VICE",
+        "MAGNETIC FORCE"
+      ]
+    },
+    {
+      "gloss": "MAGNETIC VICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MAGNETIC FIELD",
+        "MAGNETIC FORCE",
+        "MAGNETIC INK CHARACTER RECOGNITION"
+      ]
+    },
+    {
+      "gloss": "MALE PLUG",
+      "category": "COMPOUND",
+      "anchor": [
+        "MALE TOILET"
+      ]
+    },
+    {
+      "gloss": "MALLET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MARBLE ENGRAVING MACHINE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MARK ENTRY",
+      "category": "COMPOUND",
+      "anchor": [
+        "MARK TO MARKET MARGIN"
+      ]
+    },
+    {
+      "gloss": "MARKING TABLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MARKING SCHEME"
+      ]
+    },
+    {
+      "gloss": "MARKUP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MASON SQUARE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MASON"
+      ]
+    },
+    {
+      "gloss": "MASONRY BIT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MATCH CUT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MATCH"
+      ]
+    },
+    {
+      "gloss": "MAXIMIZE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAYA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAZDOOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEASURING BOX",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEASURING TAPE",
+        "MEASURING INSTRUMENTS",
+        "MEASURING WHEEL"
+      ]
+    },
+    {
+      "gloss": "MEASURING INSTRUMENTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEASURING TAPE",
+        "MEASURING BOX",
+        "MEASURING WHEEL"
+      ]
+    },
+    {
+      "gloss": "MEASURING WHEEL",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEASURING TAPE",
+        "MEASURING BOX",
+        "MEASURING INSTRUMENTS"
+      ]
+    },
+    {
+      "gloss": "MECHANICAL WEAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "MECHANICAL CONTROL",
+        "MECHANICAL EDGING",
+        "MECHANICAL METHODS"
+      ]
+    },
+    {
+      "gloss": "MEDICAL ROBOT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEDICAL EXAMINATION",
+        "MEDICAL CERTIFICATE"
+      ]
+    },
+    {
+      "gloss": "MEETING REACTIONS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEETING",
+        "MEETING POINT",
+        "MEETING TEMPLATE"
+      ]
+    },
+    {
+      "gloss": "MEETING TEMPLATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEETING REACTIONS",
+        "MEETING",
+        "MEETING POINT"
+      ]
+    },
+    {
+      "gloss": "MEGA BYTE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MEMORY BANK",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEMORY UNIT",
+        "MEMORY",
+        "MEMORY LOSS",
+        "MEMORY CARD"
+      ]
+    },
+    {
+      "gloss": "MEMORY CARD",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEMORY BANK",
+        "MEMORY",
+        "MEMORY LOSS",
+        "MEMORY UNIT"
+      ]
+    },
+    {
+      "gloss": "MEMORY UNIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEMORY BANK",
+        "MEMORY",
+        "MEMORY LOSS",
+        "MEMORY CARD"
+      ]
+    },
+    {
+      "gloss": "MENU BAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "MENU"
+      ]
+    },
+    {
+      "gloss": "MERCERIZED COTTON",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "METAMERISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "METROPOLITAN AREA NETWORK",
+      "category": "COMPOUND",
+      "anchor": [
+        "METROPOLITAN DEVELOPMENT AUTHORITY"
+      ]
+    },
+    {
+      "gloss": "METROPOLITAN DEVELOPMENT AUTHORITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "METROPOLITAN AREA NETWORK"
+      ]
+    },
+    {
+      "gloss": "MICRO SD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MICROSOFT EDGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MICROSOFT TEAMS",
+        "MICROSOFT OUTLOOK PLUGIN"
+      ]
+    },
+    {
+      "gloss": "MICROSOFT OUTLOOK PLUGIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "MICROSOFT TEAMS",
+        "MICROSOFT EDGE"
+      ]
+    },
+    {
+      "gloss": "MICROSOFT TEAMS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MICROSOFT OUTLOOK PLUGIN",
+        "MICROSOFT EDGE"
+      ]
+    },
+    {
+      "gloss": "MILD STEEL",
+      "category": "COMPOUND",
+      "anchor": [
+        "MILD HEARING LOSS",
+        "MILD STEEL ROD"
+      ]
+    },
+    {
+      "gloss": "MILD STEEL ROD",
+      "category": "COMPOUND",
+      "anchor": [
+        "MILD STEEL",
+        "MILD HEARING LOSS"
+      ]
+    },
+    {
+      "gloss": "MILITARY ROBOT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MILITARY PLANE",
+        "MILITARY",
+        "MILITARY POWER",
+        "MILITARY CAMPAIGN"
+      ]
+    },
+    {
+      "gloss": "MILLING CUTTER ANGLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MILLING CUTTER CONCAVE",
+        "MILLING CUTTER CONVEX",
+        "MILLING MACHINE"
+      ]
+    },
+    {
+      "gloss": "MILLING CUTTER CONCAVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MILLING CUTTER CONVEX",
+        "MILLING CUTTER ANGLE",
+        "MILLING MACHINE"
+      ]
+    },
+    {
+      "gloss": "MILLING CUTTER CONVEX",
+      "category": "COMPOUND",
+      "anchor": [
+        "MILLING CUTTER CONCAVE",
+        "MILLING CUTTER ANGLE",
+        "MILLING MACHINE"
+      ]
+    },
+    {
+      "gloss": "MILLING MACHINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MILLING CUTTER CONCAVE",
+        "MILLING CUTTER CONVEX",
+        "MILLING CUTTER ANGLE"
+      ]
+    },
+    {
+      "gloss": "MILTER HAT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MILTER STRIPES"
+      ]
+    },
+    {
+      "gloss": "MILTER STRIPES",
+      "category": "COMPOUND",
+      "anchor": [
+        "MILTER HAT"
+      ]
+    },
+    {
+      "gloss": "MINI DRAFT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MINIMIZE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOCKUP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MODERN ROOFS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MODERN INDIA",
+        "MODERN",
+        "MODERN HISTORY"
+      ]
+    },
+    {
+      "gloss": "MONITOR",
+      "category": "CORE",
+      "anchor": [
+        "MONITOR SYMPTOMS",
+        "MONITOR A PATIENT"
+      ]
+    },
+    {
+      "gloss": "MONSTER TRUCK",
+      "category": "COMPOUND",
+      "anchor": [
+        "MONSTER"
+      ]
+    },
+    {
+      "gloss": "MOOD BOARD",
+      "category": "COMPOUND",
+      "anchor": [
+        "MOOD SWINGS",
+        "MOOD"
+      ]
+    },
+    {
+      "gloss": "MOTHERBOARD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOTION CAPTURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MOTION"
+      ]
+    },
+    {
+      "gloss": "MOTORCYCLE AIR FILTER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MOULD BOX",
+      "category": "COMPOUND",
+      "anchor": [
+        "MOULD SAND",
+        "MOULD BOARD"
+      ]
+    },
+    {
+      "gloss": "MOULD SAND",
+      "category": "COMPOUND",
+      "anchor": [
+        "MOULD BOX",
+        "MOULD BOARD"
+      ]
+    },
+    {
+      "gloss": "MOUSE CLICK",
+      "category": "COMPOUND",
+      "anchor": [
+        "MOUSE",
+        "MOUSE POINTER",
+        "MOUSE PAD"
+      ]
+    },
+    {
+      "gloss": "MOUSE PAD",
+      "category": "COMPOUND",
+      "anchor": [
+        "MOUSE",
+        "MOUSE CLICK",
+        "MOUSE POINTER"
+      ]
+    },
+    {
+      "gloss": "MOUSE POINTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "MOUSE",
+        "MOUSE CLICK",
+        "MOUSE PAD"
+      ]
+    },
+    {
+      "gloss": "MS EXCEL",
+      "category": "COMPOUND",
+      "anchor": [
+        "MS VISUAL STUDIO",
+        "MS POWER POINT",
+        "MS WINDOWS",
+        "MS OFFICE",
+        "MS WORD"
+      ]
+    },
+    {
+      "gloss": "MS OFFICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MS VISUAL STUDIO",
+        "MS POWER POINT",
+        "MS WINDOWS",
+        "MS EXCEL",
+        "MS WORD"
+      ]
+    },
+    {
+      "gloss": "MS POWER POINT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MS VISUAL STUDIO",
+        "MS WINDOWS",
+        "MS OFFICE",
+        "MS EXCEL",
+        "MS WORD"
+      ]
+    },
+    {
+      "gloss": "MS VISUAL STUDIO",
+      "category": "COMPOUND",
+      "anchor": [
+        "MS POWER POINT",
+        "MS WINDOWS",
+        "MS OFFICE",
+        "MS EXCEL",
+        "MS WORD"
+      ]
+    },
+    {
+      "gloss": "MS WINDOWS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MS VISUAL STUDIO",
+        "MS POWER POINT",
+        "MS OFFICE",
+        "MS EXCEL",
+        "MS WORD"
+      ]
+    },
+    {
+      "gloss": "MS WORD",
+      "category": "COMPOUND",
+      "anchor": [
+        "MS VISUAL STUDIO",
+        "MS POWER POINT",
+        "MS WINDOWS",
+        "MS OFFICE",
+        "MS EXCEL"
+      ]
+    },
+    {
+      "gloss": "MUFFLER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MULTI STOREY BUILDING",
+      "category": "COMPOUND",
+      "anchor": [
+        "MULTI TASKING",
+        "MULTI TASK"
+      ]
+    },
+    {
+      "gloss": "MULTI TASK",
+      "category": "COMPOUND",
+      "anchor": [
+        "MULTI STOREY BUILDING",
+        "MULTI TASKING"
+      ]
+    },
+    {
+      "gloss": "MULTI TASKING",
+      "category": "COMPOUND",
+      "anchor": [
+        "MULTI STOREY BUILDING",
+        "MULTI TASK"
+      ]
+    },
+    {
+      "gloss": "MUSHROOM PLEATING",
+      "category": "COMPOUND",
+      "anchor": [
+        "MUSHROOM ROCKS",
+        "MUSHROOM PRODUCTION",
+        "MUSHROOM",
+        "MUSHROOM STORAGE",
+        "MUSHROOM HARVESTING"
+      ]
+    },
+    {
+      "gloss": "MUTUAL INDUCTANCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MUTUAL FUND"
+      ]
+    },
+    {
+      "gloss": "MY GOV",
+      "category": "COMPOUND",
+      "anchor": [
+        "MY NAME IS",
+        "MY"
+      ]
+    },
+    {
+      "gloss": "MAGNETIC FORCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MAGNETIC FIELD",
+        "MAGNETIC VICE",
+        "MAGNETIC INK CHARACTER RECOGNITION"
+      ]
+    },
+    {
+      "gloss": "MAGNETITE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAGNIFIED IMAGE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MAGNIFYING GLASS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MALNUTRITION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MANURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEDIA",
+      "category": "CORE",
+      "anchor": [
+        "MEDIA GATEWAY",
+        "MEDIA RELEASE OR PRESS RELEASE OR PRESS STATEMENT"
+      ]
+    },
+    {
+      "gloss": "MEGA-",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "METEOROIDS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MICRO-",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MICROORGANISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MILLI-",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOISTURE",
+      "category": "CORE",
+      "anchor": [
+        "MOISTURE LOVING PLANT OR BOG PLANTS"
+      ]
+    },
+    {
+      "gloss": "MOLAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MONSOON WINDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MONSOON"
+      ]
+    },
+    {
+      "gloss": "MULTIPLE FISSION",
+      "category": "COMPOUND",
+      "anchor": [
+        "MULTIPLE"
+      ]
+    },
+    {
+      "gloss": "MULTIPLICATIVE IDENTITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "MULTIPLICATIVE INVERSE"
+      ]
+    },
+    {
+      "gloss": "MULTIPLICATIVE INVERSE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MULTIPLICATIVE IDENTITY"
+      ]
+    },
+    {
+      "gloss": "MUSCULAR FORCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MUSCULAR DYSTROPHY"
+      ]
+    },
+    {
+      "gloss": "MAGMA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MANTLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MARS",
+      "category": "CORE",
+      "anchor": [
+        "MARS OR RED PLANET"
+      ]
+    },
+    {
+      "gloss": "MEDIEVAL INDIA",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEDIEVAL HISTORY"
+      ]
+    },
+    {
+      "gloss": "MICROBE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MILITARY CAMPAIGN",
+      "category": "COMPOUND",
+      "anchor": [
+        "MILITARY PLANE",
+        "MILITARY",
+        "MILITARY ROBOT",
+        "MILITARY POWER"
+      ]
+    },
+    {
+      "gloss": "MILKY WAY GALAXY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MINING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MODERN INDIA",
+      "category": "COMPOUND",
+      "anchor": [
+        "MODERN ROOFS",
+        "MODERN",
+        "MODERN HISTORY"
+      ]
+    },
+    {
+      "gloss": "MONGOL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MUGHALS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAIDEN HORSE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MAIDEN OVER"
+      ]
+    },
+    {
+      "gloss": "MALE TOILET",
+      "category": "COMPOUND",
+      "anchor": [
+        "MALE PLUG"
+      ]
+    },
+    {
+      "gloss": "MANDATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MARVEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MASS CULTURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MASS COMMUNICATION",
+        "MASS AND WEIGHT",
+        "MASS TOURISM"
+      ]
+    },
+    {
+      "gloss": "MASTER POINT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MASTER TRAINER",
+        "MASTER",
+        "MASTER OF EDUCATION",
+        "MASTER OF PHILOSOPHY"
+      ]
+    },
+    {
+      "gloss": "MATERIALISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MATRIX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAULER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAUSOLEUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEAGRE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MECHANISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEDIA GATEWAY",
+      "category": "COMPOUND",
+      "anchor": [
+        "MEDIA RELEASE OR PRESS RELEASE OR PRESS STATEMENT",
+        "MEDIA"
+      ]
+    },
+    {
+      "gloss": "MELTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEMOIR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEMORIAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MERCHANDISE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "METALLURGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "METICULOUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MICROCIRCUIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MILITARY PLANE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MILITARY",
+        "MILITARY ROBOT",
+        "MILITARY POWER",
+        "MILITARY CAMPAIGN"
+      ]
+    },
+    {
+      "gloss": "MINDMAP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MININET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MIXTURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOBILITY",
+      "category": "CORE",
+      "anchor": [
+        "MOBILITY IMPAIRMENT",
+        "MOBILITY AIDS"
+      ]
+    },
+    {
+      "gloss": "MOBILITY AIDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MOBILITY IMPAIRMENT",
+        "MOBILITY"
+      ]
+    },
+    {
+      "gloss": "MOBILITY IMPAIRMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MOBILITY AIDS",
+        "MOBILITY"
+      ]
+    },
+    {
+      "gloss": "MODULAR CONSTRUCTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MONETARY",
+      "category": "CORE",
+      "anchor": [
+        "MONETARY VALUE"
+      ]
+    },
+    {
+      "gloss": "MONETARY VALUE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MONETARY"
+      ]
+    },
+    {
+      "gloss": "MONEY\u2019S WORTH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MONITOR A PATIENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MONITOR SYMPTOMS",
+        "MONITOR"
+      ]
+    },
+    {
+      "gloss": "MONITOR SYMPTOMS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MONITOR",
+        "MONITOR A PATIENT"
+      ]
+    },
+    {
+      "gloss": "MONITORING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MONTANE FOREST, MOUNTAIN FOREST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MOOD",
+      "category": "CORE",
+      "anchor": [
+        "MOOD SWINGS",
+        "MOOD BOARD"
+      ]
+    },
+    {
+      "gloss": "MOORING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MORAL",
+      "category": "CORE",
+      "anchor": [
+        "MORAL VALUES"
+      ]
+    },
+    {
+      "gloss": "MORDENISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOSS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOTIF",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOTTO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MULTI-TENANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MUNICIPALITY",
+      "category": "CORE",
+      "anchor": [
+        "MUNICIPALITY BONDS, MUNIS"
+      ]
+    },
+    {
+      "gloss": "MYTH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAHABHARAT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAKE-UP ARTIST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MANHOOD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MANKIND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MARITAL STATUS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MASHER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MASS COMMUNICATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "MASS CULTURE",
+        "MASS AND WEIGHT",
+        "MASS TOURISM"
+      ]
+    },
+    {
+      "gloss": "MASSAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MATERNAL HOME",
+      "category": "COMPOUND",
+      "anchor": [
+        "MATERNAL AUNT"
+      ]
+    },
+    {
+      "gloss": "MATRIMONIAL WEBSITE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MATRIMONIAL HOME"
+      ]
+    },
+    {
+      "gloss": "MCDONALD'S",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEMORY",
+      "category": "CORE",
+      "anchor": [
+        "MEMORY BANK",
+        "MEMORY LOSS",
+        "MEMORY CARD",
+        "MEMORY UNIT"
+      ]
+    },
+    {
+      "gloss": "MESH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MILITARY",
+      "category": "CORE",
+      "anchor": [
+        "MILITARY PLANE",
+        "MILITARY ROBOT",
+        "MILITARY POWER",
+        "MILITARY CAMPAIGN"
+      ]
+    },
+    {
+      "gloss": "MINIMARKET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MIRROR IMAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "MIRROR"
+      ]
+    },
+    {
+      "gloss": "MISSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MISTREATED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOBILE HOTSPOT",
+      "category": "COMPOUND",
+      "anchor": [
+        "MOBILE BANKING"
+      ]
+    },
+    {
+      "gloss": "MOCKTAIL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MONGOOSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MORAL VALUES",
+      "category": "COMPOUND",
+      "anchor": [
+        "MORAL"
+      ]
+    },
+    {
+      "gloss": "MOSQUITO NET",
+      "category": "COMPOUND",
+      "anchor": [
+        "MOSQUITO"
+      ]
+    },
+    {
+      "gloss": "MUSEOLOGY, MUSEUM STUDIES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "MUSTARD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MYNTRA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MANIPULATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEDICATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEDITATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MENTAL DISORDERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MENTAL HEALTH LEGISLATION",
+        "MENTAL HEALTH AID",
+        "MENTAL PROCESSES",
+        "MENTAL AGE, GIFTED CHILDREN",
+        "MENTAL HEALTH POLICY"
+      ]
+    },
+    {
+      "gloss": "MENTAL HEALTH AID",
+      "category": "COMPOUND",
+      "anchor": [
+        "MENTAL DISORDERS",
+        "MENTAL HEALTH LEGISLATION",
+        "MENTAL PROCESSES",
+        "MENTAL AGE, GIFTED CHILDREN",
+        "MENTAL HEALTH POLICY"
+      ]
+    },
+    {
+      "gloss": "MENTAL HEALTH LEGISLATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "MENTAL DISORDERS",
+        "MENTAL HEALTH AID",
+        "MENTAL PROCESSES",
+        "MENTAL AGE, GIFTED CHILDREN",
+        "MENTAL HEALTH POLICY"
+      ]
+    },
+    {
+      "gloss": "MENTAL HEALTH POLICY",
+      "category": "COMPOUND",
+      "anchor": [
+        "MENTAL DISORDERS",
+        "MENTAL HEALTH LEGISLATION",
+        "MENTAL HEALTH AID",
+        "MENTAL PROCESSES",
+        "MENTAL AGE, GIFTED CHILDREN"
+      ]
+    },
+    {
+      "gloss": "MENTAL HEALTH PROFESSIONAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "MENTAL DISORDERS",
+        "MENTAL HEALTH LEGISLATION",
+        "MENTAL HEALTH AID",
+        "MENTAL PROCESSES",
+        "MENTAL AGE, GIFTED CHILDREN"
+      ]
+    },
+    {
+      "gloss": "MENTAL HEALTH PROMOTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "MENTAL DISORDERS",
+        "MENTAL HEALTH LEGISLATION",
+        "MENTAL HEALTH AID",
+        "MENTAL PROCESSES",
+        "MENTAL AGE, GIFTED CHILDREN"
+      ]
+    },
+    {
+      "gloss": "MENTAL HEALTH SERVICES",
+      "category": "COMPOUND",
+      "anchor": [
+        "MENTAL DISORDERS",
+        "MENTAL HEALTH LEGISLATION",
+        "MENTAL HEALTH AID",
+        "MENTAL PROCESSES",
+        "MENTAL AGE, GIFTED CHILDREN"
+      ]
+    },
+    {
+      "gloss": "MENTAL HEALTH",
+      "category": "COMPOUND",
+      "anchor": [
+        "MENTAL DISORDERS",
+        "MENTAL HEALTH LEGISLATION",
+        "MENTAL HEALTH AID",
+        "MENTAL PROCESSES",
+        "MENTAL AGE, GIFTED CHILDREN"
+      ]
+    },
+    {
+      "gloss": "MOOD SWINGS",
+      "category": "COMPOUND",
+      "anchor": [
+        "MOOD",
+        "MOOD BOARD"
+      ]
+    },
+    {
+      "gloss": "MOURNING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAKEUP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MALTA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MALWARE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MANGROVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MANICURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MANUAL THERAPY",
+      "category": "COMPOUND",
+      "anchor": [
+        "MANUAL"
+      ]
+    },
+    {
+      "gloss": "MARKET RESEARCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "MARKET CHALLENGER",
+        "MARKET DATA",
+        "MARKET ECONOMY",
+        "MARKET",
+        "MARKET VALUE, CAPITALIZATION"
+      ]
+    },
+    {
+      "gloss": "MASCARA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MEETUP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MENTOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MICROPLASTICS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MIDSUMMER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MILLION",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "MIND",
+      "category": "CORE",
+      "anchor": [
+        "MIND YOUR LANGUAGE, WATCH YOUR LANGUAGE"
+      ]
+    },
+    {
+      "gloss": "MINDFULNESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MINDSET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MINIMALISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MINT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MISERLY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MONOPLANE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MONSTER",
+      "category": "CORE",
+      "anchor": [
+        "MONSTER TRUCK"
+      ]
+    },
+    {
+      "gloss": "MOODY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MORALITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOUSTACHE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MOZAMBIQUE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MULTIPLAYER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MUSICAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "MAINTENANCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "M",
+      "category": "LETTERS",
+      "anchor": []
+    }
+  ]
+}

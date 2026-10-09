@@ -1,0 +1,264 @@
+{
+  "metadata": {
+    "total_words": 43,
+    "description": "Words starting with letter Q"
+  },
+  "words": [
+    {
+      "gloss": "QUACK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "QUALIFICATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "QUALITY",
+      "category": "CORE",
+      "anchor": [
+        "QUALITY OF IRRIGATION WATER"
+      ]
+    },
+    {
+      "gloss": "QUANTITY",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "QUARTER",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "QUEEN",
+      "category": "CORE",
+      "anchor": [
+        "QUEEN POST"
+      ]
+    },
+    {
+      "gloss": "QUERY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "QUESTION",
+      "category": "CORE",
+      "anchor": [
+        "QUESTION PAPER",
+        "QUESTION MARK"
+      ]
+    },
+    {
+      "gloss": "QUEUE",
+      "category": "CORE",
+      "anchor": [
+        "QUEUE JUMP LANE"
+      ]
+    },
+    {
+      "gloss": "QUICKLY, HURRY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "QUIET",
+      "category": "CLASSIFIERS",
+      "anchor": []
+    },
+    {
+      "gloss": "QUTUB MINAR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "QUADRILATERAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "QUALIFIED SCIENTIST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "QUALITATIVE DATA",
+      "category": "COMPOUND",
+      "anchor": [
+        "QUALITATIVE RESEARCH"
+      ]
+    },
+    {
+      "gloss": "QUALITATIVE RESEARCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "QUALITATIVE DATA"
+      ]
+    },
+    {
+      "gloss": "QUARRYING AND QUARRY",
+      "category": "COMPOUND",
+      "anchor": [
+        "QUARRYING"
+      ]
+    },
+    {
+      "gloss": "QUESTION MARK",
+      "category": "COMPOUND",
+      "anchor": [
+        "QUESTION PAPER",
+        "QUESTION"
+      ]
+    },
+    {
+      "gloss": "QUOTA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "QUOTATION MARK",
+      "category": "COMPOUND",
+      "anchor": [
+        "QUOTATION"
+      ]
+    },
+    {
+      "gloss": "QUOTIENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "QUALITY OF IRRIGATION WATER",
+      "category": "COMPOUND",
+      "anchor": [
+        "QUALITY"
+      ]
+    },
+    {
+      "gloss": "QUARTERLY INTEREST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "QUOTATION",
+      "category": "CORE",
+      "anchor": [
+        "QUOTATION MARK"
+      ]
+    },
+    {
+      "gloss": "QUADRIPLEGIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "QUARANTINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "QUICKENING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "QUADRUPEDAL ROBOT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "QUEEN POST",
+      "category": "COMPOUND",
+      "anchor": [
+        "QUEEN"
+      ]
+    },
+    {
+      "gloss": "QUILTED",
+      "category": "CORE",
+      "anchor": [
+        "QUILTED RULER"
+      ]
+    },
+    {
+      "gloss": "QUILTED RULER",
+      "category": "COMPOUND",
+      "anchor": [
+        "QUILTED"
+      ]
+    },
+    {
+      "gloss": "QUARRYING",
+      "category": "CORE",
+      "anchor": [
+        "QUARRYING AND QUARRY"
+      ]
+    },
+    {
+      "gloss": "QUADRATIC",
+      "category": "CORE",
+      "anchor": [
+        "QUADRATIC EQUATION"
+      ]
+    },
+    {
+      "gloss": "QUADRATIC EQUATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "QUADRATIC"
+      ]
+    },
+    {
+      "gloss": "QUATRAIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "QR CODE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "QUESTION PAPER",
+      "category": "COMPOUND",
+      "anchor": [
+        "QUESTION MARK",
+        "QUESTION"
+      ]
+    },
+    {
+      "gloss": "QUESTIONABLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "QUITE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "QUEUE JUMP LANE",
+      "category": "COMPOUND",
+      "anchor": [
+        "QUEUE"
+      ]
+    },
+    {
+      "gloss": "QUADRUPLANE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "QUICK-TEMPERED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "Q",
+      "category": "LETTERS",
+      "anchor": []
+    }
+  ]
+}

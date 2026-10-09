@@ -1,0 +1,813 @@
+{
+  "metadata": {
+    "total_words": 135,
+    "description": "Words starting with letter U"
+  },
+  "words": [
+    {
+      "gloss": "UCO BANK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "UGLY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UMAID BHAWAN PALACE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "UMBRELLA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UMPIRE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNCLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNCOMFORTABLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNDER",
+      "category": "CORE",
+      "anchor": [
+        "UNDER STITCH",
+        "UNDER SECTION",
+        "UNDER THE WEATHER"
+      ]
+    },
+    {
+      "gloss": "UNDER THE WEATHER",
+      "category": "COMPOUND",
+      "anchor": [
+        "UNDER",
+        "UNDER STITCH",
+        "UNDER SECTION"
+      ]
+    },
+    {
+      "gloss": "UNDERCUTTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNDERSTAND, COMPREHEND",
+      "category": "COMPOUND",
+      "anchor": [
+        "UNDERSTAND, COMPREHEND, GRASP"
+      ]
+    },
+    {
+      "gloss": "UNDERSTAND, COMPREHEND, GRASP",
+      "category": "COMPOUND",
+      "anchor": [
+        "UNDERSTAND, COMPREHEND"
+      ]
+    },
+    {
+      "gloss": "UNEMPLOYED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNFEELING, UNCARING, UNEMOTIONAL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "UNHAPPY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNION BANK OF INDIA",
+      "category": "COMPOUND",
+      "anchor": [
+        "UNION",
+        "UNION TERRITORY"
+      ]
+    },
+    {
+      "gloss": "UNITE, UNITY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "UNITED NATIONS",
+      "category": "COMPOUND",
+      "anchor": [
+        "UNITED KINGDOM",
+        "UNITED NATIONS CONVENTION ON THE RIGHTS OF PERSONS WITH DISABILITIES",
+        "UNITED ARAB EMIRATES",
+        "UNITED STATES OF AMERICA"
+      ]
+    },
+    {
+      "gloss": "UNITED NATIONS CONVENTION ON THE RIGHTS OF PERSONS WITH DISABILITIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "UNITED KINGDOM",
+        "UNITED NATIONS",
+        "UNITED ARAB EMIRATES",
+        "UNITED STATES OF AMERICA"
+      ]
+    },
+    {
+      "gloss": "UNIVERSAL DESIGN",
+      "category": "COMPOUND",
+      "anchor": [
+        "UNIVERSAL ADULT FRANCHISE",
+        "UNIVERSAL"
+      ]
+    },
+    {
+      "gloss": "UNIVERSITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNLIMITED, BOUNDLESS, INFINITE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "UNOFFICIAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UPDATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UPPER DIVISION CLERK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "UPSET, DISTURBED",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "URDU",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "URGENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "USE, UTILIZE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "USURY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ULTRAVIOLET RAYS",
+      "category": "COMPOUND",
+      "anchor": [
+        "ULTRAVIOLET RAY GLASS"
+      ]
+    },
+    {
+      "gloss": "UMIAK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNIMODAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNION TERRITORY",
+      "category": "COMPOUND",
+      "anchor": [
+        "UNION BANK OF INDIA",
+        "UNION"
+      ]
+    },
+    {
+      "gloss": "UNIT",
+      "category": "CORE",
+      "anchor": [
+        "UNIT HOLDER"
+      ]
+    },
+    {
+      "gloss": "UNIVERSAL ADULT FRANCHISE",
+      "category": "COMPOUND",
+      "anchor": [
+        "UNIVERSAL DESIGN",
+        "UNIVERSAL"
+      ]
+    },
+    {
+      "gloss": "UNIVERSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNLIKE FRACTIONS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "URANUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "URBANIZATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UTILISATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UMBELLIFEREAE FAMILY OF CROPS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "UNCULTIVATED LAND WEEDS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "UNDERGROUND SYMPTOMS",
+      "category": "COMPOUND",
+      "anchor": [
+        "UNDERGROUND UTILITY"
+      ]
+    },
+    {
+      "gloss": "UNSE OF DISEASE VARIETIES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "UNUSED LAND WEEDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "UNUSED"
+      ]
+    },
+    {
+      "gloss": "UTILITY OF MUSHROOM",
+      "category": "COMPOUND",
+      "anchor": [
+        "UTILITY TRAILER"
+      ]
+    },
+    {
+      "gloss": "UGANDA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UKRAINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNITED ARAB EMIRATES",
+      "category": "COMPOUND",
+      "anchor": [
+        "UNITED KINGDOM",
+        "UNITED NATIONS CONVENTION ON THE RIGHTS OF PERSONS WITH DISABILITIES",
+        "UNITED NATIONS",
+        "UNITED STATES OF AMERICA"
+      ]
+    },
+    {
+      "gloss": "UNITED KINGDOM",
+      "category": "COMPOUND",
+      "anchor": [
+        "UNITED NATIONS CONVENTION ON THE RIGHTS OF PERSONS WITH DISABILITIES",
+        "UNITED NATIONS",
+        "UNITED ARAB EMIRATES",
+        "UNITED STATES OF AMERICA"
+      ]
+    },
+    {
+      "gloss": "UNITED STATES OF AMERICA",
+      "category": "COMPOUND",
+      "anchor": [
+        "UNITED KINGDOM",
+        "UNITED NATIONS CONVENTION ON THE RIGHTS OF PERSONS WITH DISABILITIES",
+        "UNITED NATIONS",
+        "UNITED ARAB EMIRATES"
+      ]
+    },
+    {
+      "gloss": "URUGUAY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UZBEKISTAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNAUTHORISED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNDERLYING ASSET",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "UNIT HOLDER",
+      "category": "COMPOUND",
+      "anchor": [
+        "UNIT"
+      ]
+    },
+    {
+      "gloss": "UNCRPD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNDER SECTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "UNDER",
+        "UNDER STITCH",
+        "UNDER THE WEATHER"
+      ]
+    },
+    {
+      "gloss": "UNDERHAND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNDERSIGNED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNFAIR DISMISSAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "UNFAIR"
+      ]
+    },
+    {
+      "gloss": "UNIFORM CIVIL CODE",
+      "category": "COMPOUND",
+      "anchor": [
+        "UNIFORM MOTION"
+      ]
+    },
+    {
+      "gloss": "UNLAWFUL ASSEMBLY OR SECTION 141 IPC",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "UNPARLIAMENTARY LANGUAGE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "UNPRECEDENTED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNTOUCHABILITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UPGRADATION, DEGRADATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "URGENCY, EMERGENCY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "UTERINE",
+      "category": "CORE",
+      "anchor": [
+        "UTERINE GLANDS",
+        "UTERINE SOUND"
+      ]
+    },
+    {
+      "gloss": "ULCERS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ULTRASONIC SCALAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "ULTRASONIC WASHER"
+      ]
+    },
+    {
+      "gloss": "ULTRASONIC WASHER",
+      "category": "COMPOUND",
+      "anchor": [
+        "ULTRASONIC SCALAR"
+      ]
+    },
+    {
+      "gloss": "ULTRASOUND UNIT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "UMBILICAL CORD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "URETER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "URETHRA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "URINARY INCONTINENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "URINARY RETENTION",
+        "URINARY TRACT INFECTION"
+      ]
+    },
+    {
+      "gloss": "URINARY RETENTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "URINARY TRACT INFECTION",
+        "URINARY INCONTINENCE"
+      ]
+    },
+    {
+      "gloss": "URINARY TRACT INFECTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "URINARY RETENTION",
+        "URINARY INCONTINENCE"
+      ]
+    },
+    {
+      "gloss": "URINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UROLOGIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UROLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "URTICARIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UTERINE GLANDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "UTERINE",
+        "UTERINE SOUND"
+      ]
+    },
+    {
+      "gloss": "UTERINE SOUND",
+      "category": "COMPOUND",
+      "anchor": [
+        "UTERINE GLANDS",
+        "UTERINE"
+      ]
+    },
+    {
+      "gloss": "UTERUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UTTAR PRADESH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "UTTARAKHAND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "U NECK",
+      "category": "COMPOUND",
+      "anchor": [
+        "U"
+      ]
+    },
+    {
+      "gloss": "ULTRAVIOLET RAY GLASS",
+      "category": "COMPOUND",
+      "anchor": [
+        "ULTRAVIOLET RAYS"
+      ]
+    },
+    {
+      "gloss": "UNDER STITCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "UNDER",
+        "UNDER SECTION",
+        "UNDER THE WEATHER"
+      ]
+    },
+    {
+      "gloss": "UNDERLINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNDO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNIX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNPLASTICIZED POLY VINYL CHLORIDE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "URL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "USER TYPE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "UNCOUNTABLE NOUN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "UNDERSTOREY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNIFORM MOTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "UNIFORM CIVIL CODE"
+      ]
+    },
+    {
+      "gloss": "URBAN",
+      "category": "CORE",
+      "anchor": [
+        "URBAN DEVELOPMENT",
+        "URBAN RENEWAL"
+      ]
+    },
+    {
+      "gloss": "URSA MAJOR",
+      "category": "COMPOUND",
+      "anchor": [
+        "URSA MINOR"
+      ]
+    },
+    {
+      "gloss": "URSA MINOR",
+      "category": "COMPOUND",
+      "anchor": [
+        "URSA MAJOR"
+      ]
+    },
+    {
+      "gloss": "UTENSIL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNDERGROUND UTILITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "UNDERGROUND SYMPTOMS"
+      ]
+    },
+    {
+      "gloss": "UNEVEN BAR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "UNION",
+      "category": "CORE",
+      "anchor": [
+        "UNION BANK OF INDIA",
+        "UNION TERRITORY"
+      ]
+    },
+    {
+      "gloss": "UNUSED",
+      "category": "CORE",
+      "anchor": [
+        "UNUSED LAND WEEDS"
+      ]
+    },
+    {
+      "gloss": "UPPERCUT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "URBAN DEVELOPMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "URBAN RENEWAL",
+        "URBAN"
+      ]
+    },
+    {
+      "gloss": "URBAN RENEWAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "URBAN DEVELOPMENT",
+        "URBAN"
+      ]
+    },
+    {
+      "gloss": "USABLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UTILITY TRAILER",
+      "category": "COMPOUND",
+      "anchor": [
+        "UTILITY OF MUSHROOM"
+      ]
+    },
+    {
+      "gloss": "UNCOMMON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNDERGRADUATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNDERWEIGHT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNEASY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNFAIR",
+      "category": "CORE",
+      "anchor": [
+        "UNFAIR DISMISSAL"
+      ]
+    },
+    {
+      "gloss": "UNIQUE DISABILITY ID",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "UNKIND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNSALTED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNSATISFIED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UPGRADE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UPSC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNDERWENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UNIVERSAL",
+      "category": "CORE",
+      "anchor": [
+        "UNIVERSAL ADULT FRANCHISE",
+        "UNIVERSAL DESIGN"
+      ]
+    },
+    {
+      "gloss": "UPRIGHT MONUMENTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "UNFAMILAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UTOPIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UTOPIANISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "UX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "U",
+      "category": "LETTERS",
+      "anchor": [
+        "U NECK"
+      ]
+    }
+  ]
+}

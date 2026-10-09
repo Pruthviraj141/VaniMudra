@@ -1,0 +1,5260 @@
+{
+  "metadata": {
+    "total_words": 837,
+    "description": "Words starting with letter P"
+  },
+  "words": [
+    {
+      "gloss": "PAAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PACE BOWLING, FAST BOWLING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PACK OF WOLVES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PADS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PAIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PAINT",
+      "category": "CORE",
+      "anchor": [
+        "PAINT PAN",
+        "PAINT THINNER"
+      ]
+    },
+    {
+      "gloss": "PAIR",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "PAKORA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PALM TREE",
+      "category": "COMPOUND",
+      "anchor": [
+        "PALM"
+      ]
+    },
+    {
+      "gloss": "PAMPHLET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PAN FRY, PAN FRYING",
+      "category": "COMPOUND",
+      "anchor": [
+        "PAN",
+        "PAN CARD"
+      ]
+    },
+    {
+      "gloss": "PANASONIC MOBILE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PANIC",
+      "category": "CORE",
+      "anchor": [
+        "PANIC ATTACKS"
+      ]
+    },
+    {
+      "gloss": "PANTS, TROUSERS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PAPAD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PAPAYA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PAPER",
+      "category": "CORE",
+      "anchor": [
+        "PAPER CLIP"
+      ]
+    },
+    {
+      "gloss": "PAPER CLIP",
+      "category": "COMPOUND",
+      "anchor": [
+        "PAPER"
+      ]
+    },
+    {
+      "gloss": "PARACHUTE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARADE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARADE, MARCH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PARAGRAPH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARAMEDIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARASAILING, PARASCENDING, PARAKITING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PARATHA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARCEL",
+      "category": "CORE",
+      "anchor": [
+        "PARCEL TRACKING"
+      ]
+    },
+    {
+      "gloss": "PARENTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARKING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARLIAMENT",
+      "category": "CORE",
+      "anchor": [
+        "PARLIAMENT OF INDIA"
+      ]
+    },
+    {
+      "gloss": "PARROT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PART",
+      "category": "CORE",
+      "anchor": [
+        "PART PROGRAM",
+        "PART FILE"
+      ]
+    },
+    {
+      "gloss": "PARTY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PASS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PASSBOOK BANK",
+      "category": "COMPOUND",
+      "anchor": [
+        "PASSBOOK PRINTING MACHINE"
+      ]
+    },
+    {
+      "gloss": "PASSBOOK PRINTING MACHINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "PASSBOOK BANK"
+      ]
+    },
+    {
+      "gloss": "PASSED AWAY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PASSENGER",
+      "category": "CORE",
+      "anchor": [
+        "PASSENGER BOARDING BRIDGE"
+      ]
+    },
+    {
+      "gloss": "PASSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PASSPORT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PAST",
+      "category": "NUMBERS & TIME",
+      "anchor": [
+        "PAST TENSE"
+      ]
+    },
+    {
+      "gloss": "PASTE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PASTRY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PATIENCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PATRIOTIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PAUSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PAVILION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PAY",
+      "category": "CORE",
+      "anchor": [
+        "PAY IN INSTALLMENT, EMI",
+        "PAY COMMISSION"
+      ]
+    },
+    {
+      "gloss": "PAY IN INSTALLMENT, EMI",
+      "category": "COMPOUND",
+      "anchor": [
+        "PAY",
+        "PAY COMMISSION"
+      ]
+    },
+    {
+      "gloss": "PAYMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PAYTM",
+      "category": "CORE",
+      "anchor": [
+        "PAYTM PAYMENTS BANK"
+      ]
+    },
+    {
+      "gloss": "PAYTM PAYMENTS BANK",
+      "category": "COMPOUND",
+      "anchor": [
+        "PAYTM"
+      ]
+    },
+    {
+      "gloss": "PEACOCK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PEANUT",
+      "category": "CORE",
+      "anchor": [
+        "PEANUT BUTTER"
+      ]
+    },
+    {
+      "gloss": "PEANUT BUTTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "PEANUT"
+      ]
+    },
+    {
+      "gloss": "PEAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PEAS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PEDESTRIAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PEE, URINE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PEEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PEELER, VEGETABLE SCRAPER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PEN",
+      "category": "CORE",
+      "anchor": [
+        "PEN MATING",
+        "PEN DRIVE"
+      ]
+    },
+    {
+      "gloss": "PEN DRIVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "PEN MATING",
+        "PEN"
+      ]
+    },
+    {
+      "gloss": "PENALTY CORNER",
+      "category": "COMPOUND",
+      "anchor": [
+        "PENALTY",
+        "PENALTY STROKE",
+        "PENALTY KICK"
+      ]
+    },
+    {
+      "gloss": "PENALTY STROKE",
+      "category": "COMPOUND",
+      "anchor": [
+        "PENALTY CORNER",
+        "PENALTY",
+        "PENALTY KICK"
+      ]
+    },
+    {
+      "gloss": "PENCIL",
+      "category": "CORE",
+      "anchor": [
+        "PENCIL LEG",
+        "PENCIL BOX"
+      ]
+    },
+    {
+      "gloss": "PENCIL BOX",
+      "category": "COMPOUND",
+      "anchor": [
+        "PENCIL LEG",
+        "PENCIL"
+      ]
+    },
+    {
+      "gloss": "PENDING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PENGUIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PEON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PEOPLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PERCENTAGE",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "PERFECT",
+      "category": "CORE",
+      "anchor": [
+        "PERFECT DEAL"
+      ]
+    },
+    {
+      "gloss": "PERFORM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PERIOD TIME",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PERMANENT",
+      "category": "CORE",
+      "anchor": [
+        "PERMANENT WINDS, SEASONAL WINDS AND LOCAL WINDS",
+        "PERMANENT TEETH",
+        "PERMANENT PRESERVATION"
+      ]
+    },
+    {
+      "gloss": "PERMISSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PERMIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PERSON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PERSONAL",
+      "category": "CORE",
+      "anchor": [
+        "PERSONAL DEVELOPMENT",
+        "PERSONAL STAFF MEMBERS OF OFFICERS",
+        "PERSONAL GROWTH",
+        "PERSONAL PROTECTIVE KIT {PPE}",
+        "PERSONAL ROOM"
+      ]
+    },
+    {
+      "gloss": "PERSONALITY",
+      "category": "CORE",
+      "anchor": [
+        "PERSONALITY TRAITS"
+      ]
+    },
+    {
+      "gloss": "PET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHARMACIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHILANTHROPY, PHILANTHROPIST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PHILIPPINES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHONE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHOTGRAPH, PHOTO",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PHOTO FINISH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PHOTOCOPY, XEROX",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PHOTOGRAPHER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PIANO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PICK",
+      "category": "CORE",
+      "anchor": [
+        "PICK AXE",
+        "PICK STITCH"
+      ]
+    },
+    {
+      "gloss": "PICKLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PICTURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PIECE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PIGLET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PILE UP",
+      "category": "COMPOUND",
+      "anchor": [
+        "PILE FOUNDATION",
+        "PILE CAP"
+      ]
+    },
+    {
+      "gloss": "PILGRIM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PILOT",
+      "category": "CORE",
+      "anchor": [
+        "PILOT STUDY",
+        "PILOT IN COMMAND"
+      ]
+    },
+    {
+      "gloss": "PIN",
+      "category": "CORE",
+      "anchor": [
+        "PIN TUCK",
+        "PIN VICE"
+      ]
+    },
+    {
+      "gloss": "PINCH",
+      "category": "CORE",
+      "anchor": [
+        "PINCH HITTER"
+      ]
+    },
+    {
+      "gloss": "PINEAPPLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PINK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PISTA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PIT, SEED",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PITCH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PIZZA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PLACE",
+      "category": "CORE",
+      "anchor": [
+        "PLACE VALUE"
+      ]
+    },
+    {
+      "gloss": "PLAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PLANET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PLATE",
+      "category": "CORE",
+      "anchor": [
+        "PLATE TECTONICS"
+      ]
+    },
+    {
+      "gloss": "PLATFORM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PLAY",
+      "category": "CORE",
+      "anchor": [
+        "PLAY STORE",
+        "PLAY THERAPY"
+      ]
+    },
+    {
+      "gloss": "PLEASANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PLEASE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PLENTY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PLUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PLUMBER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PODIUM",
+      "category": "CORE",
+      "anchor": [
+        "PODIUM MIC"
+      ]
+    },
+    {
+      "gloss": "PODIUM MIC",
+      "category": "COMPOUND",
+      "anchor": [
+        "PODIUM"
+      ]
+    },
+    {
+      "gloss": "POINT",
+      "category": "CORE",
+      "anchor": [
+        "POINT OF INTERSECTION",
+        "POINT SIZE",
+        "POINT OF VIEW",
+        "POINT RACE"
+      ]
+    },
+    {
+      "gloss": "POISON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POLE VAULT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "POLICE",
+      "category": "CORE",
+      "anchor": [
+        "POLICE CLEARANCE CERTIFICATE",
+        "POLICE DOG",
+        "POLICE STATION"
+      ]
+    },
+    {
+      "gloss": "POLICEMAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POLICY",
+      "category": "CORE",
+      "anchor": [
+        "POLICY MAKING"
+      ]
+    },
+    {
+      "gloss": "POLITE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POLITICIAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POLITICS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POLLUTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POLO",
+      "category": "CORE",
+      "anchor": [
+        "POLO SHIRT"
+      ]
+    },
+    {
+      "gloss": "POMEGRANATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POND",
+      "category": "CORE",
+      "anchor": [
+        "POND ON THE BASIS OF SITUATION",
+        "POND CULTURE"
+      ]
+    },
+    {
+      "gloss": "PONY TAIL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "POOL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POPCORN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POSITIVE",
+      "category": "CORE",
+      "anchor": [
+        "POSITIVE CHARGE",
+        "POSITIVE INTEGER",
+        "POSITIVE TERMINAL",
+        "POSITIVE MENTAL HEALTH"
+      ]
+    },
+    {
+      "gloss": "POSSIBLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POST",
+      "category": "CORE",
+      "anchor": [
+        "POST VIDEO",
+        "POST OFFICE",
+        "POST MORTEM"
+      ]
+    },
+    {
+      "gloss": "POST OFFICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "POST",
+        "POST VIDEO",
+        "POST MORTEM"
+      ]
+    },
+    {
+      "gloss": "POST VIDEO",
+      "category": "COMPOUND",
+      "anchor": [
+        "POST",
+        "POST OFFICE",
+        "POST MORTEM"
+      ]
+    },
+    {
+      "gloss": "POSTMAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POSTPONE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POTATO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POTENTIAL",
+      "category": "CORE",
+      "anchor": [
+        "POTENTIAL DIFFERENCE"
+      ]
+    },
+    {
+      "gloss": "POUR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POWER",
+      "category": "CORE",
+      "anchor": [
+        "POWER DUSTER",
+        "POWER STATION OR POWER PLANT OR POWERHOUSE OR GENERATING STATION OR GENERATING PLANT",
+        "POWER LINES",
+        "POWER HACKSAW",
+        "POWER PLAY"
+      ]
+    },
+    {
+      "gloss": "POWER PLAY",
+      "category": "COMPOUND",
+      "anchor": [
+        "POWER DUSTER",
+        "POWER STATION OR POWER PLANT OR POWERHOUSE OR GENERATING STATION OR GENERATING PLANT",
+        "POWER LINES",
+        "POWER HACKSAW",
+        "POWER"
+      ]
+    },
+    {
+      "gloss": "PRACTICE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRAISE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRAISE, CLAP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PRAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRAY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PREDICT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PREFER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PREJUDICE",
+      "category": "CORE",
+      "anchor": [
+        "PREJUDICE AND DISCRIMINATION"
+      ]
+    },
+    {
+      "gloss": "PREPARE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PREPOSITION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRESCRIPTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRESENT",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "PRESIDENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRESSURE COOKER",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRESSURE FOOT",
+        "PRESSURE"
+      ]
+    },
+    {
+      "gloss": "PREVENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRICE",
+      "category": "CORE",
+      "anchor": [
+        "PRICE CEILING AND PRICE FLOOR"
+      ]
+    },
+    {
+      "gloss": "PRIDE OF LIONS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PRIME MINISTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRIME NUMBER",
+        "PRIME FACTORIZATION",
+        "PRIME LENDING RATE",
+        "PRIME NUMBERS",
+        "PRIME MERIDIAN"
+      ]
+    },
+    {
+      "gloss": "PRINCIPAL",
+      "category": "CORE",
+      "anchor": [
+        "PRINCIPAL INVESTIGATOR",
+        "PRINCIPAL AMOUNT, SIMPLE INTEREST, COMPOUND INTEREST"
+      ]
+    },
+    {
+      "gloss": "PRINT",
+      "category": "CORE",
+      "anchor": [
+        "PRINT AREA"
+      ]
+    },
+    {
+      "gloss": "PRINTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRIORITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRIVATE",
+      "category": "CORE",
+      "anchor": [
+        "PRIVATE LIMITED COMPANY",
+        "PRIVATE GARDEN",
+        "PRIVATE HEALTH SERVICES",
+        "PRIVATE TRANSPORT",
+        "PRIVATE GOODS"
+      ]
+    },
+    {
+      "gloss": "PRIYANKA CHOPRA JONAS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PROBLEM",
+      "category": "CORE",
+      "anchor": [
+        "PROBLEM STATEMENT"
+      ]
+    },
+    {
+      "gloss": "PROCESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROCESSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROFESSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROFESSIONAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROFESSOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROFIT",
+      "category": "CORE",
+      "anchor": [
+        "PROFIT & LOSS STATEMENT"
+      ]
+    },
+    {
+      "gloss": "PROGRAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROJECTOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROMISE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROMOTE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROMOTE, ENCOURAGE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PROMOTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRONOUN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROOF",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROPERTY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROPOSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROTECT",
+      "category": "CORE",
+      "anchor": [
+        "PROTECT SHEET",
+        "PROTECT WORKBOOK"
+      ]
+    },
+    {
+      "gloss": "PROTEST, RALLY, MARCH, DEMONSTRATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PROUD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PSYCHOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUBLIC",
+      "category": "CORE",
+      "anchor": [
+        "PUBLIC PROTEST",
+        "PUBLIC GOODS",
+        "PUBLIC LIMITED COMPANY",
+        "PUBLIC PROSECUTOR",
+        "PUBLIC FACILITIES"
+      ]
+    },
+    {
+      "gloss": "PULL",
+      "category": "CORE",
+      "anchor": [
+        "PULL SOMEONE'S LEG",
+        "PULL YOURSELF TOGETHER"
+      ]
+    },
+    {
+      "gloss": "PUMPKIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUNCH",
+      "category": "CORE",
+      "anchor": [
+        "PUNCH MARKED COINS"
+      ]
+    },
+    {
+      "gloss": "PUNCTUAL, ON TIME",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PUNCTURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUNISH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUNJAB NATIONAL BANK",
+      "category": "COMPOUND",
+      "anchor": [
+        "PUNJAB"
+      ]
+    },
+    {
+      "gloss": "PUNJABI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUPPET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUPPY, PUP, WHELP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUREE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUSARLA VENKATA SINDHU",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PUSHING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUT",
+      "category": "CORE",
+      "anchor": [
+        "PUT OPTION",
+        "PUT OUT"
+      ]
+    },
+    {
+      "gloss": "PUZZLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PYJAMA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PYTHON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PALAEOLITHIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PANCHAYAT PRESIDENT, SARPANCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "PANCHAYAT RAJ",
+        "PANCHAYAT"
+      ]
+    },
+    {
+      "gloss": "PANCHTANTRA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PANCREAS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PANDYAS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARADIGM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARALLEL LINES",
+      "category": "COMPOUND",
+      "anchor": [
+        "PARALLEL LINES, SYMBOL OF PARALLEL LINES",
+        "PARALLEL CIRCUIT",
+        "PARALLEL BLOCK",
+        "PARALLEL CROPS",
+        "PARALLEL"
+      ]
+    },
+    {
+      "gloss": "PARALLEL LINES, SYMBOL OF PARALLEL LINES",
+      "category": "COMPOUND",
+      "anchor": [
+        "PARALLEL LINES",
+        "PARALLEL CIRCUIT",
+        "PARALLEL BLOCK",
+        "PARALLEL CROPS",
+        "PARALLEL"
+      ]
+    },
+    {
+      "gloss": "PARALLELOGRAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARAMECIUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARASITE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARASITISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARLIAMENT OF INDIA",
+      "category": "COMPOUND",
+      "anchor": [
+        "PARLIAMENT"
+      ]
+    },
+    {
+      "gloss": "PASSAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PAST TENSE",
+      "category": "COMPOUND",
+      "anchor": [
+        "PAST"
+      ]
+    },
+    {
+      "gloss": "PASTEURIZATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PATENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PATHOGEN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PATRIARCHAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PATWARI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PATWARI, LEKHPAL, KANUNGO, KARAMCHARI, VILLAGE OFFICER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PAYROLL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PEER REVIEW",
+      "category": "COMPOUND",
+      "anchor": [
+        "PEER SUPPORT NETWORKS",
+        "PEER SUPPORT",
+        "PEER"
+      ]
+    },
+    {
+      "gloss": "PENINSULA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PENTAGON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PERCEPTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PERCOLATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PERFORMANCE ASSESSMENT, REVIEW AND ANALYSIS OF KNOWLEDGE FOR HOLISTIC DEVELOPMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "PERFORMANCE REVIEW",
+        "PERFORMANCE ANXIETY"
+      ]
+    },
+    {
+      "gloss": "PERFORMANCE-BASED ASSESSMENTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PERIMETER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PERIODICALLY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PERMANENT TEETH",
+      "category": "COMPOUND",
+      "anchor": [
+        "PERMANENT",
+        "PERMANENT WINDS, SEASONAL WINDS AND LOCAL WINDS",
+        "PERMANENT PRESERVATION"
+      ]
+    },
+    {
+      "gloss": "PERMANENT WINDS, SEASONAL WINDS AND LOCAL WINDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "PERMANENT",
+        "PERMANENT TEETH",
+        "PERMANENT PRESERVATION"
+      ]
+    },
+    {
+      "gloss": "PERPENDICULAR LINES, SYMBOL OF PERPENDICULAR LINES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PESTICIDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PETALS AND SEPALS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PETROLEUM",
+      "category": "CORE",
+      "anchor": [
+        "PETROLEUM REFINERY"
+      ]
+    },
+    {
+      "gloss": "PH",
+      "category": "CORE",
+      "anchor": [
+        "PH VALUE"
+      ]
+    },
+    {
+      "gloss": "PH VALUE",
+      "category": "COMPOUND",
+      "anchor": [
+        "PH"
+      ]
+    },
+    {
+      "gloss": "PHARAOH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHARMACY COUNCIL OF INDIA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PHENOMENON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHILOSOPHY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHLOEM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHOENICIANS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHONETICS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHONOLOGICAL VARIATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PHONOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHOSPHORUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHOTOSYNTHESIS",
+      "category": "CORE",
+      "anchor": [
+        "PHOTOSYNTHESIS PROCESS"
+      ]
+    },
+    {
+      "gloss": "PHOTOTROPISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHRASE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHYSICAL CHANGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "PHYSICAL PROPERTIES",
+        "PHYSICAL DISABILITY",
+        "PHYSICAL MAP",
+        "PHYSICAL MEMORY",
+        "PHYSICAL WEATHERING"
+      ]
+    },
+    {
+      "gloss": "PHYSICAL MAP",
+      "category": "COMPOUND",
+      "anchor": [
+        "PHYSICAL CHANGE",
+        "PHYSICAL PROPERTIES",
+        "PHYSICAL DISABILITY",
+        "PHYSICAL MEMORY",
+        "PHYSICAL WEATHERING"
+      ]
+    },
+    {
+      "gloss": "PHYSICAL PROPERTIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "PHYSICAL CHANGE",
+        "PHYSICAL DISABILITY",
+        "PHYSICAL MAP",
+        "PHYSICAL MEMORY",
+        "PHYSICAL WEATHERING"
+      ]
+    },
+    {
+      "gloss": "PHYSICS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHYSIOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PICTOGRAPH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PIGMENTATION DISORDER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PILOT STUDY",
+      "category": "COMPOUND",
+      "anchor": [
+        "PILOT IN COMMAND",
+        "PILOT"
+      ]
+    },
+    {
+      "gloss": "PIONEER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PISCICULTURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PISTIL, STAMEN AND ANTHER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PIVOT JOINT",
+      "category": "COMPOUND",
+      "anchor": [
+        "PIVOT TABLE"
+      ]
+    },
+    {
+      "gloss": "PLACE VALUE",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLACE"
+      ]
+    },
+    {
+      "gloss": "PLAGIARISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PLANNING COMMISSION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PLANT SOURCES AND ANIMAL SOURCES",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLANT NUTRITION",
+        "PLANT PARASITES OR PATHOGENIC NEMATODES",
+        "PLANT DISEASE DUE TO PLANT",
+        "PLANT BREEDING",
+        "PLANT DISEASE DUE TO ANIMAL"
+      ]
+    },
+    {
+      "gloss": "PLASTIDS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PLATE TECTONICS",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLATE"
+      ]
+    },
+    {
+      "gloss": "PLATEAU",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PLATELET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PLATELETS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PLEASURE TOURISM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "POINT OF INTERSECTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "POINT OF VIEW",
+        "POINT SIZE",
+        "POINT",
+        "POINT RACE"
+      ]
+    },
+    {
+      "gloss": "POINTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POISONOUS OR VENOM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "POLARIZATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POLITICAL MAP",
+      "category": "COMPOUND",
+      "anchor": [
+        "POLITICAL PARTY",
+        "POLITICAL SCIENCE"
+      ]
+    },
+    {
+      "gloss": "POLITICAL PARTY",
+      "category": "COMPOUND",
+      "anchor": [
+        "POLITICAL SCIENCE",
+        "POLITICAL MAP"
+      ]
+    },
+    {
+      "gloss": "POLITICAL SCIENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "POLITICAL PARTY",
+        "POLITICAL MAP"
+      ]
+    },
+    {
+      "gloss": "POLITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POLYETHERSULFONE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POLYGON",
+      "category": "CORE",
+      "anchor": [
+        "POLYGON TOOL"
+      ]
+    },
+    {
+      "gloss": "POLYMERS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POLYPROPYLENE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POLYPS AND CORALS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "POLYSEMY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POLYSULFONE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POLYVINYLIDENE FLUORIDE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "POPULATION DENSITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "POPULATION",
+        "POPULATION DISTRIBUTION"
+      ]
+    },
+    {
+      "gloss": "POSITION PAPERS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "POSITIVE INTEGER",
+      "category": "COMPOUND",
+      "anchor": [
+        "POSITIVE CHARGE",
+        "POSITIVE TERMINAL",
+        "POSITIVE",
+        "POSITIVE MENTAL HEALTH"
+      ]
+    },
+    {
+      "gloss": "POSITIVE TERMINAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "POSITIVE CHARGE",
+        "POSITIVE INTEGER",
+        "POSITIVE",
+        "POSITIVE MENTAL HEALTH"
+      ]
+    },
+    {
+      "gloss": "POTABLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POTASSIUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POVERTY LINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "POVERTY"
+      ]
+    },
+    {
+      "gloss": "POWER STATION OR POWER PLANT OR POWERHOUSE OR GENERATING STATION OR GENERATING PLANT",
+      "category": "COMPOUND",
+      "anchor": [
+        "POWER DUSTER",
+        "POWER LINES",
+        "POWER HACKSAW",
+        "POWER PLAY",
+        "POWER"
+      ]
+    },
+    {
+      "gloss": "PRAGMATICS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRAKRIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRECIPITATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PREDATOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PREDECESSOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PREDICTIONS STUDY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PREFIX, SUFFIX, CIRCUMFIX, INFIX, AFFIX",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PREJUDICE AND DISCRIMINATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "PREJUDICE"
+      ]
+    },
+    {
+      "gloss": "PRENATAL AND POSTNATAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRENATAL SEX DETERMINATION",
+        "PRENATAL COUNSELLING",
+        "PRENATAL"
+      ]
+    },
+    {
+      "gloss": "PRESS CONFERENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRESS KIT"
+      ]
+    },
+    {
+      "gloss": "PRESSURE",
+      "category": "CORE",
+      "anchor": [
+        "PRESSURE FOOT",
+        "PRESSURE COOKER"
+      ]
+    },
+    {
+      "gloss": "PREY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRICE CEILING AND PRICE FLOOR",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRICE"
+      ]
+    },
+    {
+      "gloss": "PRIME FACTORIZATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRIME NUMBER",
+        "PRIME LENDING RATE",
+        "PRIME MINISTER",
+        "PRIME NUMBERS",
+        "PRIME MERIDIAN"
+      ]
+    },
+    {
+      "gloss": "PRIME MERIDIAN",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRIME NUMBER",
+        "PRIME FACTORIZATION",
+        "PRIME LENDING RATE",
+        "PRIME MINISTER",
+        "PRIME NUMBERS"
+      ]
+    },
+    {
+      "gloss": "PRIME NUMBER",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRIME FACTORIZATION",
+        "PRIME LENDING RATE",
+        "PRIME MINISTER",
+        "PRIME NUMBERS",
+        "PRIME MERIDIAN"
+      ]
+    },
+    {
+      "gloss": "PRIME NUMBERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRIME NUMBER",
+        "PRIME FACTORIZATION",
+        "PRIME LENDING RATE",
+        "PRIME MINISTER",
+        "PRIME MERIDIAN"
+      ]
+    },
+    {
+      "gloss": "PRINCIPAL INVESTIGATOR",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRINCIPAL AMOUNT, SIMPLE INTEREST, COMPOUND INTEREST",
+        "PRINCIPAL"
+      ]
+    },
+    {
+      "gloss": "PRISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRIVATE GOODS",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRIVATE LIMITED COMPANY",
+        "PRIVATE GARDEN",
+        "PRIVATE HEALTH SERVICES",
+        "PRIVATE TRANSPORT",
+        "PRIVATE"
+      ]
+    },
+    {
+      "gloss": "PRIVATE HEALTH SERVICES",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRIVATE LIMITED COMPANY",
+        "PRIVATE GARDEN",
+        "PRIVATE TRANSPORT",
+        "PRIVATE",
+        "PRIVATE GOODS"
+      ]
+    },
+    {
+      "gloss": "PRIVATE TRANSPORT",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRIVATE LIMITED COMPANY",
+        "PRIVATE GARDEN",
+        "PRIVATE HEALTH SERVICES",
+        "PRIVATE",
+        "PRIVATE GOODS"
+      ]
+    },
+    {
+      "gloss": "PROBABILITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROBLEM STATEMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "PROBLEM"
+      ]
+    },
+    {
+      "gloss": "PRODUCER",
+      "category": "CORE",
+      "anchor": [
+        "PRODUCER SURPLUS AND CONSUMER SURPLUS"
+      ]
+    },
+    {
+      "gloss": "PRODUCER SURPLUS AND CONSUMER SURPLUS",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRODUCER"
+      ]
+    },
+    {
+      "gloss": "PROFOUND HEARING LOSS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PROGRAMME EVALUATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "PROGRAMME"
+      ]
+    },
+    {
+      "gloss": "PROKARYOTES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROKARYOTIC CELLS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PROMOTION, JOB PROMOTION, SALES PROMOTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PROMPT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROPER FRACTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "PROPER FRACTION AND IMPROPER FRACTION"
+      ]
+    },
+    {
+      "gloss": "PROPER FRACTION AND IMPROPER FRACTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "PROPER FRACTION"
+      ]
+    },
+    {
+      "gloss": "PROPORTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROTEIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROTEINS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROTOCOL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROTOTYPE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROTOZOA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROTRACTOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROVINCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PSYCHOANALYSIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PSYCHOLOGICAL THERAPY",
+      "category": "COMPOUND",
+      "anchor": [
+        "PSYCHOLOGICAL TESTING",
+        "PSYCHOLOGICAL FIRST AID"
+      ]
+    },
+    {
+      "gloss": "PUBERTY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUBLIC FACILITIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "PUBLIC",
+        "PUBLIC PROTEST",
+        "PUBLIC LIMITED COMPANY",
+        "PUBLIC GOODS",
+        "PUBLIC PROSECUTOR"
+      ]
+    },
+    {
+      "gloss": "PUBLIC GOODS",
+      "category": "COMPOUND",
+      "anchor": [
+        "PUBLIC",
+        "PUBLIC PROTEST",
+        "PUBLIC LIMITED COMPANY",
+        "PUBLIC PROSECUTOR",
+        "PUBLIC FACILITIES"
+      ]
+    },
+    {
+      "gloss": "PUBLIC LIMITED COMPANY",
+      "category": "COMPOUND",
+      "anchor": [
+        "PUBLIC",
+        "PUBLIC PROTEST",
+        "PUBLIC GOODS",
+        "PUBLIC PROSECUTOR",
+        "PUBLIC FACILITIES"
+      ]
+    },
+    {
+      "gloss": "PUBLIC PROSECUTOR",
+      "category": "COMPOUND",
+      "anchor": [
+        "PUBLIC",
+        "PUBLIC PROTEST",
+        "PUBLIC LIMITED COMPANY",
+        "PUBLIC GOODS",
+        "PUBLIC FACILITIES"
+      ]
+    },
+    {
+      "gloss": "PUBLIC PROTEST",
+      "category": "COMPOUND",
+      "anchor": [
+        "PUBLIC",
+        "PUBLIC LIMITED COMPANY",
+        "PUBLIC GOODS",
+        "PUBLIC PROSECUTOR",
+        "PUBLIC FACILITIES"
+      ]
+    },
+    {
+      "gloss": "PUBLIC TRANSPORT",
+      "category": "COMPOUND",
+      "anchor": [
+        "PUBLIC",
+        "PUBLIC LIMITED COMPANY",
+        "PUBLIC GOODS",
+        "PUBLIC PROSECUTOR",
+        "PUBLIC FACILITIES"
+      ]
+    },
+    {
+      "gloss": "PUBLISH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUBLISHER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PULSE",
+      "category": "CORE",
+      "anchor": [
+        "PULSE RATE"
+      ]
+    },
+    {
+      "gloss": "PULSE RATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "PULSE"
+      ]
+    },
+    {
+      "gloss": "PUNCH MARKED COINS",
+      "category": "COMPOUND",
+      "anchor": [
+        "PUNCH"
+      ]
+    },
+    {
+      "gloss": "PUNISHMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUPIL",
+      "category": "CORE",
+      "anchor": [
+        "PUPIL TEACHER RATIO"
+      ]
+    },
+    {
+      "gloss": "PUPIL TEACHER RATIO",
+      "category": "COMPOUND",
+      "anchor": [
+        "PUPIL"
+      ]
+    },
+    {
+      "gloss": "PURIFICATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PURNA SWARAJ",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PURPOSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PURPOSIVE SAMPLING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PYGMIES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PYRAMID",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PACING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PACKING",
+      "category": "CORE",
+      "anchor": [
+        "PACKING FOR DISTANT MARKETS",
+        "PACKING FOR CONSUMERS",
+        "PACKING FOR LOCAL MARKETS"
+      ]
+    },
+    {
+      "gloss": "PACKING FOR CONSUMERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "PACKING FOR DISTANT MARKETS",
+        "PACKING",
+        "PACKING FOR LOCAL MARKETS"
+      ]
+    },
+    {
+      "gloss": "PACKING FOR DISTANT MARKETS",
+      "category": "COMPOUND",
+      "anchor": [
+        "PACKING FOR CONSUMERS",
+        "PACKING",
+        "PACKING FOR LOCAL MARKETS"
+      ]
+    },
+    {
+      "gloss": "PACKING FOR LOCAL MARKETS",
+      "category": "COMPOUND",
+      "anchor": [
+        "PACKING FOR CONSUMERS",
+        "PACKING FOR DISTANT MARKETS",
+        "PACKING"
+      ]
+    },
+    {
+      "gloss": "PARALLEL CROPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "PARALLEL LINES",
+        "PARALLEL LINES, SYMBOL OF PARALLEL LINES",
+        "PARALLEL CIRCUIT",
+        "PARALLEL BLOCK",
+        "PARALLEL"
+      ]
+    },
+    {
+      "gloss": "PARASITIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARENT TREE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PARKINSONIA ACULEATA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PARTIAL FARM BUDGETING",
+      "category": "COMPOUND",
+      "anchor": [
+        "PARTIAL AUTOMATION",
+        "PARTIAL"
+      ]
+    },
+    {
+      "gloss": "PASSIVE ABSORPTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PATH OF MOVEMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "PATH"
+      ]
+    },
+    {
+      "gloss": "PEASANT FARMING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PEDIGREE METHOD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PEN MATING",
+      "category": "COMPOUND",
+      "anchor": [
+        "PEN DRIVE",
+        "PEN"
+      ]
+    },
+    {
+      "gloss": "PERENNIAL PLANTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PERMANENT PRESERVATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "PERMANENT",
+        "PERMANENT TEETH",
+        "PERMANENT WINDS, SEASONAL WINDS AND LOCAL WINDS"
+      ]
+    },
+    {
+      "gloss": "PHOTOPERIODISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHOTOSYNTHESIS PROCESS",
+      "category": "COMPOUND",
+      "anchor": [
+        "PHOTOSYNTHESIS"
+      ]
+    },
+    {
+      "gloss": "PHYLLODY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHYSICAL WEATHERING",
+      "category": "COMPOUND",
+      "anchor": [
+        "PHYSICAL CHANGE",
+        "PHYSICAL PROPERTIES",
+        "PHYSICAL DISABILITY",
+        "PHYSICAL MAP",
+        "PHYSICAL MEMORY"
+      ]
+    },
+    {
+      "gloss": "PIERCING AND SUCKING TYPE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PLAIN CAMEL",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLAIN CEMENT CONCRETE",
+        "PLAIN SHEET"
+      ]
+    },
+    {
+      "gloss": "PLANE SURVEY",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLANE SURVEYING"
+      ]
+    },
+    {
+      "gloss": "PLANT BREEDING",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLANT SOURCES AND ANIMAL SOURCES",
+        "PLANT NUTRITION",
+        "PLANT PARASITES OR PATHOGENIC NEMATODES",
+        "PLANT DISEASE DUE TO PLANT",
+        "PLANT DISEASE DUE TO ANIMAL"
+      ]
+    },
+    {
+      "gloss": "PLANT DISEASE DUE TO ANIMAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLANT SOURCES AND ANIMAL SOURCES",
+        "PLANT NUTRITION",
+        "PLANT PARASITES OR PATHOGENIC NEMATODES",
+        "PLANT DISEASE DUE TO PLANT",
+        "PLANT BREEDING"
+      ]
+    },
+    {
+      "gloss": "PLANT DISEASE DUE TO PLANT",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLANT SOURCES AND ANIMAL SOURCES",
+        "PLANT NUTRITION",
+        "PLANT PARASITES OR PATHOGENIC NEMATODES",
+        "PLANT BREEDING",
+        "PLANT DISEASE DUE TO ANIMAL"
+      ]
+    },
+    {
+      "gloss": "PLANT NUTRITION",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLANT SOURCES AND ANIMAL SOURCES",
+        "PLANT PARASITES OR PATHOGENIC NEMATODES",
+        "PLANT DISEASE DUE TO PLANT",
+        "PLANT BREEDING",
+        "PLANT DISEASE DUE TO ANIMAL"
+      ]
+    },
+    {
+      "gloss": "PLANT PARASITES OR PATHOGENIC NEMATODES",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLANT SOURCES AND ANIMAL SOURCES",
+        "PLANT NUTRITION",
+        "PLANT DISEASE DUE TO PLANT",
+        "PLANT BREEDING",
+        "PLANT DISEASE DUE TO ANIMAL"
+      ]
+    },
+    {
+      "gloss": "PLANT PATHOLOGIST",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLANT SOURCES AND ANIMAL SOURCES",
+        "PLANT NUTRITION",
+        "PLANT DISEASE DUE TO PLANT",
+        "PLANT BREEDING",
+        "PLANT DISEASE DUE TO ANIMAL"
+      ]
+    },
+    {
+      "gloss": "PLANT PATHOLOGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLANT SOURCES AND ANIMAL SOURCES",
+        "PLANT NUTRITION",
+        "PLANT DISEASE DUE TO PLANT",
+        "PLANT BREEDING",
+        "PLANT DISEASE DUE TO ANIMAL"
+      ]
+    },
+    {
+      "gloss": "PLANT PHYSIOLOGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLANT SOURCES AND ANIMAL SOURCES",
+        "PLANT NUTRITION",
+        "PLANT DISEASE DUE TO PLANT",
+        "PLANT BREEDING",
+        "PLANT DISEASE DUE TO ANIMAL"
+      ]
+    },
+    {
+      "gloss": "PLANT SOURCES",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLANT SOURCES AND ANIMAL SOURCES",
+        "PLANT NUTRITION",
+        "PLANT DISEASE DUE TO PLANT",
+        "PLANT BREEDING",
+        "PLANT DISEASE DUE TO ANIMAL"
+      ]
+    },
+    {
+      "gloss": "PLANT WATER RELATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLANT SOURCES AND ANIMAL SOURCES",
+        "PLANT NUTRITION",
+        "PLANT DISEASE DUE TO PLANT",
+        "PLANT BREEDING",
+        "PLANT DISEASE DUE TO ANIMAL"
+      ]
+    },
+    {
+      "gloss": "PLANTS NEAR THE MARGIN OF WATER",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLANTS SUITED FOR AQUARIUM"
+      ]
+    },
+    {
+      "gloss": "PLANTS SUITED FOR AQUARIUM",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLANTS NEAR THE MARGIN OF WATER"
+      ]
+    },
+    {
+      "gloss": "PLATY STRUCTURE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PLOUGH BOTTOM",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLOUGH"
+      ]
+    },
+    {
+      "gloss": "POLLINATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POLYALTHIA LONGIFOLIA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "POMOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POND CULTURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "POND",
+        "POND ON THE BASIS OF SITUATION"
+      ]
+    },
+    {
+      "gloss": "POND ON THE BASIS OF SITUATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "POND",
+        "POND CULTURE"
+      ]
+    },
+    {
+      "gloss": "POULTRY FEEDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "POULTRY MASH",
+        "POULTRY SCIENCE",
+        "POULTRY PRODUCTION"
+      ]
+    },
+    {
+      "gloss": "POULTRY MASH",
+      "category": "COMPOUND",
+      "anchor": [
+        "POULTRY SCIENCE",
+        "POULTRY FEEDS",
+        "POULTRY PRODUCTION"
+      ]
+    },
+    {
+      "gloss": "POULTRY PRODUCTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "POULTRY MASH",
+        "POULTRY SCIENCE",
+        "POULTRY FEEDS"
+      ]
+    },
+    {
+      "gloss": "POULTRY SCIENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "POULTRY MASH",
+        "POULTRY FEEDS",
+        "POULTRY PRODUCTION"
+      ]
+    },
+    {
+      "gloss": "POWER DUSTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "POWER STATION OR POWER PLANT OR POWERHOUSE OR GENERATING STATION OR GENERATING PLANT",
+        "POWER LINES",
+        "POWER HACKSAW",
+        "POWER PLAY",
+        "POWER"
+      ]
+    },
+    {
+      "gloss": "PREDACEOUS NEMATODES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PRIMARY TILLAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRIMARY EVIDENCE SECTION 62 INDIAN EVIDENCE ACT , SECONDARY EVIDENCE SECTION 63 OF INDIAN EVIDENCE",
+        "PRIMARY ACTIVITY"
+      ]
+    },
+    {
+      "gloss": "PRIMATIC STRUCTURE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PRIVATE GARDEN",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRIVATE LIMITED COMPANY",
+        "PRIVATE HEALTH SERVICES",
+        "PRIVATE TRANSPORT",
+        "PRIVATE",
+        "PRIVATE GOODS"
+      ]
+    },
+    {
+      "gloss": "PROCESSING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROFILE LEVELLING",
+      "category": "COMPOUND",
+      "anchor": [
+        "PROFILE"
+      ]
+    },
+    {
+      "gloss": "PROPELLER PUMP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PUBLIC GARDENS",
+      "category": "COMPOUND",
+      "anchor": [
+        "PUBLIC",
+        "PUBLIC LIMITED COMPANY",
+        "PUBLIC GOODS",
+        "PUBLIC PROSECUTOR",
+        "PUBLIC FACILITIES"
+      ]
+    },
+    {
+      "gloss": "PULES CROPS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PULLET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PULLORUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUPA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PURPLE FLOWERED PLANTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PAKISTAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PANAMA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARAGUAY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PERU",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POLAND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PORTUGAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARTNERSHIP DEED",
+      "category": "COMPOUND",
+      "anchor": [
+        "PARTNERSHIP FIRM"
+      ]
+    },
+    {
+      "gloss": "PARTNERSHIP FIRM",
+      "category": "COMPOUND",
+      "anchor": [
+        "PARTNERSHIP DEED"
+      ]
+    },
+    {
+      "gloss": "PAYING SLIP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PENSION",
+      "category": "CORE",
+      "anchor": [
+        "PENSION FUND"
+      ]
+    },
+    {
+      "gloss": "PENSION FUND",
+      "category": "COMPOUND",
+      "anchor": [
+        "PENSION"
+      ]
+    },
+    {
+      "gloss": "PLASTIC MONEY",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLASTIC"
+      ]
+    },
+    {
+      "gloss": "POLITICALLY EXPOSED PERSON",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PREMIUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRIME LENDING RATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRIME NUMBER",
+        "PRIME FACTORIZATION",
+        "PRIME MINISTER",
+        "PRIME NUMBERS",
+        "PRIME MERIDIAN"
+      ]
+    },
+    {
+      "gloss": "PRIVATE LIMITED COMPANY",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRIVATE GARDEN",
+        "PRIVATE HEALTH SERVICES",
+        "PRIVATE TRANSPORT",
+        "PRIVATE",
+        "PRIVATE GOODS"
+      ]
+    },
+    {
+      "gloss": "PROGRESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROSPECTUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROVIDENT FUND",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PUT OPTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "PUT OUT",
+        "PUT"
+      ]
+    },
+    {
+      "gloss": "PUTTABLE BOND",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PULL SOMEONE'S LEG",
+      "category": "COMPOUND",
+      "anchor": [
+        "PULL YOURSELF TOGETHER",
+        "PULL"
+      ]
+    },
+    {
+      "gloss": "PULL YOURSELF TOGETHER",
+      "category": "COMPOUND",
+      "anchor": [
+        "PULL SOMEONE'S LEG",
+        "PULL"
+      ]
+    },
+    {
+      "gloss": "PARLIAMENTARIAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PAROLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARRICIDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PART FILE",
+      "category": "COMPOUND",
+      "anchor": [
+        "PART PROGRAM",
+        "PART"
+      ]
+    },
+    {
+      "gloss": "PARTITION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PATERNITY LEAVE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PATRICIDE AND MATRICIDE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PATROL CAR OR POLICE CAR OR COP CAR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PAY COMMISSION",
+      "category": "COMPOUND",
+      "anchor": [
+        "PAY IN INSTALLMENT, EMI",
+        "PAY"
+      ]
+    },
+    {
+      "gloss": "PCR VAN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PECULATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PEDDLING, PEDDLER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PENOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PERJURY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PERSONAL STAFF MEMBERS OF OFFICERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "PERSONAL DEVELOPMENT",
+        "PERSONAL GROWTH",
+        "PERSONAL",
+        "PERSONAL PROTECTIVE KIT {PPE}",
+        "PERSONAL ROOM"
+      ]
+    },
+    {
+      "gloss": "PERSONS WITH DISABILITYOR DISABLED PERSON",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PETITION AND PETITIONER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PETTY OFFENCE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PHISHING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PICKET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PICKPOCKET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PILLORY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PIRACY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PLAINT, PLAINTIFF, APPEAL, APPELLANT, RESPONDENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PLEA BARGAIN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "POACHING & WILDLIFE TRAFFICKING",
+      "category": "COMPOUND",
+      "anchor": [
+        "POACHING"
+      ]
+    },
+    {
+      "gloss": "POLICE CLEARANCE CERTIFICATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "POLICE STATION",
+        "POLICE DOG",
+        "POLICE"
+      ]
+    },
+    {
+      "gloss": "POLICE DOG",
+      "category": "COMPOUND",
+      "anchor": [
+        "POLICE CLEARANCE CERTIFICATE",
+        "POLICE STATION",
+        "POLICE"
+      ]
+    },
+    {
+      "gloss": "POLYGRAPH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POST MORTEM",
+      "category": "COMPOUND",
+      "anchor": [
+        "POST",
+        "POST VIDEO",
+        "POST OFFICE"
+      ]
+    },
+    {
+      "gloss": "PRENATAL SEX DETERMINATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRENATAL COUNSELLING",
+        "PRENATAL AND POSTNATAL",
+        "PRENATAL"
+      ]
+    },
+    {
+      "gloss": "PRESCRIBED HOURS OF ATTENDANCE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PRIMA FACIE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PRIMARY EVIDENCE SECTION 62 INDIAN EVIDENCE ACT , SECONDARY EVIDENCE SECTION 63 OF INDIAN EVIDENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRIMARY ACTIVITY",
+        "PRIMARY TILLAGE"
+      ]
+    },
+    {
+      "gloss": "PRINCIPAL AMOUNT, SIMPLE INTEREST, COMPOUND INTEREST",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRINCIPAL INVESTIGATOR",
+        "PRINCIPAL"
+      ]
+    },
+    {
+      "gloss": "PRIVATE SECRETARY",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRIVATE GARDEN",
+        "PRIVATE HEALTH SERVICES",
+        "PRIVATE TRANSPORT",
+        "PRIVATE",
+        "PRIVATE GOODS"
+      ]
+    },
+    {
+      "gloss": "PRIVY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROBABLE CAUSE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PROBATE, GRANT OF PROBATE, PROBATE REGISTRY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PROBATION PERIOD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PROHIBITED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROMISSORY NOTE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PROSTITUTE AND PROSTITUTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PROTECTIVE ORDER",
+      "category": "COMPOUND",
+      "anchor": [
+        "PROTECTIVE RELAY"
+      ]
+    },
+    {
+      "gloss": "PROVISIONAL REMEDY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PUBLIC INTEREST LITIGATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "PUBLIC",
+        "PUBLIC LIMITED COMPANY",
+        "PUBLIC GOODS",
+        "PUBLIC PROSECUTOR",
+        "PUBLIC FACILITIES"
+      ]
+    },
+    {
+      "gloss": "PUBLIC SAFETY ACT",
+      "category": "COMPOUND",
+      "anchor": [
+        "PUBLIC",
+        "PUBLIC LIMITED COMPANY",
+        "PUBLIC GOODS",
+        "PUBLIC PROSECUTOR",
+        "PUBLIC FACILITIES"
+      ]
+    },
+    {
+      "gloss": "PUBLIC SECTOR UNDERTAKINGS",
+      "category": "COMPOUND",
+      "anchor": [
+        "PUBLIC",
+        "PUBLIC LIMITED COMPANY",
+        "PUBLIC GOODS",
+        "PUBLIC PROSECUTOR",
+        "PUBLIC FACILITIES"
+      ]
+    },
+    {
+      "gloss": "PALLIATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PALM",
+      "category": "CORE",
+      "anchor": [
+        "PALM TREE"
+      ]
+    },
+    {
+      "gloss": "PALPITATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PANCREATIC CANCER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PARALYSIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARANASAL SINUS",
+      "category": "COMPOUND",
+      "anchor": [
+        "PARANASAL SINUS AND NASAL CAVITY CANCER"
+      ]
+    },
+    {
+      "gloss": "PARANASAL SINUS AND NASAL CAVITY CANCER",
+      "category": "COMPOUND",
+      "anchor": [
+        "PARANASAL SINUS"
+      ]
+    },
+    {
+      "gloss": "PAROTID GLAND",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PATELLA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PEDIATRIC MEDICINE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PENILE CANCER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PERSPIRATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PETECHIAE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHARYNGITIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHLEGM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHOBIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHYSICAL DISABILITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "PHYSICAL CHANGE",
+        "PHYSICAL PROPERTIES",
+        "PHYSICAL MAP",
+        "PHYSICAL MEMORY",
+        "PHYSICAL WEATHERING"
+      ]
+    },
+    {
+      "gloss": "PIMPLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PINNA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PLASTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PNEUMATIC EAR SPECULUM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PNEUMONIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POLIOVIRUS VACCINE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "POLYURIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PREGNANCY",
+      "category": "CORE",
+      "anchor": [
+        "PREGNANCY TEST"
+      ]
+    },
+    {
+      "gloss": "PREGNANCY TEST",
+      "category": "COMPOUND",
+      "anchor": [
+        "PREGNANCY"
+      ]
+    },
+    {
+      "gloss": "PRESBYOPIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRETERM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRICKLY HEAT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PROLACTIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROSTAGLANDINS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROSTATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROTEINURIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PSORIASIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PURULENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PANAJI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PANIPAT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PATNA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUDUCHERRY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUNE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUNJAB",
+      "category": "CORE",
+      "anchor": [
+        "PUNJAB NATIONAL BANK"
+      ]
+    },
+    {
+      "gloss": "PAGE LAYOUT",
+      "category": "COMPOUND",
+      "anchor": [
+        "PAGE MAKER",
+        "PAGE"
+      ]
+    },
+    {
+      "gloss": "PAGE MAKER",
+      "category": "COMPOUND",
+      "anchor": [
+        "PAGE LAYOUT",
+        "PAGE"
+      ]
+    },
+    {
+      "gloss": "PAID TRAFFIC",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PAINT PAN",
+      "category": "COMPOUND",
+      "anchor": [
+        "PAINT",
+        "PAINT THINNER"
+      ]
+    },
+    {
+      "gloss": "PAINT THINNER",
+      "category": "COMPOUND",
+      "anchor": [
+        "PAINT",
+        "PAINT PAN"
+      ]
+    },
+    {
+      "gloss": "PALAZZO PANTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PAN",
+      "category": "CORE",
+      "anchor": [
+        "PAN CARD",
+        "PAN FRY, PAN FRYING"
+      ]
+    },
+    {
+      "gloss": "PANEL DOOR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PARALLEL BLOCK",
+      "category": "COMPOUND",
+      "anchor": [
+        "PARALLEL LINES",
+        "PARALLEL LINES, SYMBOL OF PARALLEL LINES",
+        "PARALLEL CIRCUIT",
+        "PARALLEL CROPS",
+        "PARALLEL"
+      ]
+    },
+    {
+      "gloss": "PARALLEL CIRCUIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "PARALLEL LINES",
+        "PARALLEL LINES, SYMBOL OF PARALLEL LINES",
+        "PARALLEL BLOCK",
+        "PARALLEL CROPS",
+        "PARALLEL"
+      ]
+    },
+    {
+      "gloss": "PARAMETER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARAPET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARENTHESES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PART PROGRAM",
+      "category": "COMPOUND",
+      "anchor": [
+        "PART",
+        "PART FILE"
+      ]
+    },
+    {
+      "gloss": "PARTIAL AUTOMATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "PARTIAL FARM BUDGETING",
+        "PARTIAL"
+      ]
+    },
+    {
+      "gloss": "PARTING TOOL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PASSCODE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PATTERN MAKING",
+      "category": "COMPOUND",
+      "anchor": [
+        "PATTERN"
+      ]
+    },
+    {
+      "gloss": "PEDESTAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PENCIL LEG",
+      "category": "COMPOUND",
+      "anchor": [
+        "PENCIL BOX",
+        "PENCIL"
+      ]
+    },
+    {
+      "gloss": "PERFORATED GLASS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PERSONAL ROOM",
+      "category": "COMPOUND",
+      "anchor": [
+        "PERSONAL DEVELOPMENT",
+        "PERSONAL STAFF MEMBERS OF OFFICERS",
+        "PERSONAL GROWTH",
+        "PERSONAL PROTECTIVE KIT {PPE}",
+        "PERSONAL"
+      ]
+    },
+    {
+      "gloss": "PERSONNEL INFORMATION MANAGEMENT SYSTEM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PETER PAN COLLAR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PHYSICAL MEMORY",
+      "category": "COMPOUND",
+      "anchor": [
+        "PHYSICAL CHANGE",
+        "PHYSICAL PROPERTIES",
+        "PHYSICAL DISABILITY",
+        "PHYSICAL MAP",
+        "PHYSICAL WEATHERING"
+      ]
+    },
+    {
+      "gloss": "PICK AXE",
+      "category": "COMPOUND",
+      "anchor": [
+        "PICK STITCH",
+        "PICK"
+      ]
+    },
+    {
+      "gloss": "PICK STITCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "PICK AXE",
+        "PICK"
+      ]
+    },
+    {
+      "gloss": "PICTORIAL DRAWING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PILE CAP",
+      "category": "COMPOUND",
+      "anchor": [
+        "PILE FOUNDATION",
+        "PILE UP"
+      ]
+    },
+    {
+      "gloss": "PILE FOUNDATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "PILE UP",
+        "PILE CAP"
+      ]
+    },
+    {
+      "gloss": "PILLAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PIN TUCK",
+      "category": "COMPOUND",
+      "anchor": [
+        "PIN VICE",
+        "PIN"
+      ]
+    },
+    {
+      "gloss": "PIN VICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "PIN TUCK",
+        "PIN"
+      ]
+    },
+    {
+      "gloss": "PINCER PLIER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PINKING SHEARS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PIPE CUTTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "PIPE WRENCH"
+      ]
+    },
+    {
+      "gloss": "PIPE WRENCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "PIPE CUTTER"
+      ]
+    },
+    {
+      "gloss": "PIPING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PIVOT TABLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "PIVOT JOINT"
+      ]
+    },
+    {
+      "gloss": "PLAIN CEMENT CONCRETE",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLAIN CAMEL",
+        "PLAIN SHEET"
+      ]
+    },
+    {
+      "gloss": "PLAIN SHEET",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLAIN CAMEL",
+        "PLAIN CEMENT CONCRETE"
+      ]
+    },
+    {
+      "gloss": "PLANE SURVEYING",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLANE SURVEY"
+      ]
+    },
+    {
+      "gloss": "PLASTERING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PLAY STORE",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLAY",
+        "PLAY THERAPY"
+      ]
+    },
+    {
+      "gloss": "PLUMB BOB AND LINE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PLUMBING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PLUNGER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PNP TRANSISTOR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PODCASTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POINT SIZE",
+      "category": "COMPOUND",
+      "anchor": [
+        "POINT OF INTERSECTION",
+        "POINT OF VIEW",
+        "POINT",
+        "POINT RACE"
+      ]
+    },
+    {
+      "gloss": "POLARITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POLISHER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POLO SHIRT",
+      "category": "COMPOUND",
+      "anchor": [
+        "POLO"
+      ]
+    },
+    {
+      "gloss": "POLYGON TOOL",
+      "category": "COMPOUND",
+      "anchor": [
+        "POLYGON"
+      ]
+    },
+    {
+      "gloss": "POPUP WINDOW",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PORT",
+      "category": "CORE",
+      "anchor": [
+        "PORT AUTHORITY"
+      ]
+    },
+    {
+      "gloss": "PORTS TAB",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "POTENTIAL DIFFERENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "POTENTIAL"
+      ]
+    },
+    {
+      "gloss": "POWER HACKSAW",
+      "category": "COMPOUND",
+      "anchor": [
+        "POWER DUSTER",
+        "POWER LINES",
+        "POWER STATION OR POWER PLANT OR POWERHOUSE OR GENERATING STATION OR GENERATING PLANT",
+        "POWER PLAY",
+        "POWER"
+      ]
+    },
+    {
+      "gloss": "POWER LINES",
+      "category": "COMPOUND",
+      "anchor": [
+        "POWER DUSTER",
+        "POWER STATION OR POWER PLANT OR POWERHOUSE OR GENERATING STATION OR GENERATING PLANT",
+        "POWER HACKSAW",
+        "POWER PLAY",
+        "POWER"
+      ]
+    },
+    {
+      "gloss": "POWER PLUGS",
+      "category": "COMPOUND",
+      "anchor": [
+        "POWER DUSTER",
+        "POWER STATION OR POWER PLANT OR POWERHOUSE OR GENERATING STATION OR GENERATING PLANT",
+        "POWER HACKSAW",
+        "POWER PLAY",
+        "POWER"
+      ]
+    },
+    {
+      "gloss": "POWER SOCKETS",
+      "category": "COMPOUND",
+      "anchor": [
+        "POWER DUSTER",
+        "POWER STATION OR POWER PLANT OR POWERHOUSE OR GENERATING STATION OR GENERATING PLANT",
+        "POWER HACKSAW",
+        "POWER PLAY",
+        "POWER"
+      ]
+    },
+    {
+      "gloss": "PPI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRESS KIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRESS CONFERENCE"
+      ]
+    },
+    {
+      "gloss": "PRESSURE FOOT",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRESSURE",
+        "PRESSURE COOKER"
+      ]
+    },
+    {
+      "gloss": "PREVIEW EMAIL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PRICK PUNCH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PRIME LOCATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRIME NUMBER",
+        "PRIME FACTORIZATION",
+        "PRIME MINISTER",
+        "PRIME NUMBERS",
+        "PRIME MERIDIAN"
+      ]
+    },
+    {
+      "gloss": "PRINT AREA",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRINT"
+      ]
+    },
+    {
+      "gloss": "PRO CIRCLE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PROGRAMMABLE AUTOMATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PROGRAMME",
+      "category": "CORE",
+      "anchor": [
+        "PROGRAMME EVALUATION"
+      ]
+    },
+    {
+      "gloss": "PROMOTIONS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROPERTIES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROTECT SHEET",
+      "category": "COMPOUND",
+      "anchor": [
+        "PROTECT",
+        "PROTECT WORKBOOK"
+      ]
+    },
+    {
+      "gloss": "PROTECT WORKBOOK",
+      "category": "COMPOUND",
+      "anchor": [
+        "PROTECT SHEET",
+        "PROTECT"
+      ]
+    },
+    {
+      "gloss": "PROTECTIVE RELAY",
+      "category": "COMPOUND",
+      "anchor": [
+        "PROTECTIVE ORDER"
+      ]
+    },
+    {
+      "gloss": "PULLEY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUMP JACK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PUNCHED CARDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "PUNCHED DATA",
+        "PUNCHED TAPES"
+      ]
+    },
+    {
+      "gloss": "PUNCHED DATA",
+      "category": "COMPOUND",
+      "anchor": [
+        "PUNCHED TAPES",
+        "PUNCHED CARDS"
+      ]
+    },
+    {
+      "gloss": "PUNCHED TAPES",
+      "category": "COMPOUND",
+      "anchor": [
+        "PUNCHED DATA",
+        "PUNCHED CARDS"
+      ]
+    },
+    {
+      "gloss": "PUR COLOUR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PURLIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUTTY KNIFE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PANCH, MEMBERS OF PANCHAYAT, WARD MEMBER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PANCHAYAT",
+      "category": "CORE",
+      "anchor": [
+        "PANCHAYAT RAJ",
+        "PANCHAYAT PRESIDENT, SARPANCH"
+      ]
+    },
+    {
+      "gloss": "PANCHAYAT RAJ",
+      "category": "COMPOUND",
+      "anchor": [
+        "PANCHAYAT",
+        "PANCHAYAT PRESIDENT, SARPANCH"
+      ]
+    },
+    {
+      "gloss": "PARTS OF SPEECH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PATTERN",
+      "category": "CLASSIFIERS",
+      "anchor": [
+        "PATTERN MAKING"
+      ]
+    },
+    {
+      "gloss": "PEATY SOIL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PELVIC BONES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PERIODIC MOTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PERSIAN WHEEL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PETROLEUM REFINERY",
+      "category": "COMPOUND",
+      "anchor": [
+        "PETROLEUM"
+      ]
+    },
+    {
+      "gloss": "PHASES OF MOON",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PHOTORECEPTORS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PINHOLE CAMERA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PITUITARY GLAND",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PLASMA",
+      "category": "CORE",
+      "anchor": [
+        "PLASMA MEMBRANE"
+      ]
+    },
+    {
+      "gloss": "PLASMA MEMBRANE",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLASMA"
+      ]
+    },
+    {
+      "gloss": "PLASTIC",
+      "category": "CORE",
+      "anchor": [
+        "PLASTIC MONEY"
+      ]
+    },
+    {
+      "gloss": "PLOT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PLOUGH",
+      "category": "CORE",
+      "anchor": [
+        "PLOUGH BOTTOM"
+      ]
+    },
+    {
+      "gloss": "POLLEN GRAINS",
+      "category": "COMPOUND",
+      "anchor": [
+        "POLLEN TUBE"
+      ]
+    },
+    {
+      "gloss": "POLLEN TUBE",
+      "category": "COMPOUND",
+      "anchor": [
+        "POLLEN GRAINS"
+      ]
+    },
+    {
+      "gloss": "POLLUTANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POLYESTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POLYNOMIAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POLYTHENE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PORE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POSITIVE CHARGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "POSITIVE INTEGER",
+        "POSITIVE TERMINAL",
+        "POSITIVE",
+        "POSITIVE MENTAL HEALTH"
+      ]
+    },
+    {
+      "gloss": "POVERTY",
+      "category": "CORE",
+      "anchor": [
+        "POVERTY LINE"
+      ]
+    },
+    {
+      "gloss": "PREMOLAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRODUCTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROPHET",
+      "category": "CORE",
+      "anchor": [
+        "PROPHET MUHAMMAD"
+      ]
+    },
+    {
+      "gloss": "PROPHET MUHAMMAD",
+      "category": "COMPOUND",
+      "anchor": [
+        "PROPHET"
+      ]
+    },
+    {
+      "gloss": "PUSH",
+      "category": "CORE",
+      "anchor": [
+        "PUSH UP"
+      ]
+    },
+    {
+      "gloss": "PALLAVA KINGS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PHYSICAL",
+      "category": "CORE",
+      "anchor": [
+        "PHYSICAL CHANGE",
+        "PHYSICAL PROPERTIES",
+        "PHYSICAL DISABILITY",
+        "PHYSICAL MAP",
+        "PHYSICAL WEATHERING"
+      ]
+    },
+    {
+      "gloss": "PLUTO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POACHING",
+      "category": "CORE",
+      "anchor": [
+        "POACHING & WILDLIFE TRAFFICKING"
+      ]
+    },
+    {
+      "gloss": "POPULATION",
+      "category": "CORE",
+      "anchor": [
+        "POPULATION DISTRIBUTION",
+        "POPULATION DENSITY"
+      ]
+    },
+    {
+      "gloss": "POPULATION DISTRIBUTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "POPULATION",
+        "POPULATION DENSITY"
+      ]
+    },
+    {
+      "gloss": "PRIMARY ACTIVITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRIMARY EVIDENCE SECTION 62 INDIAN EVIDENCE ACT , SECONDARY EVIDENCE SECTION 63 OF INDIAN EVIDENCE",
+        "PRIMARY TILLAGE"
+      ]
+    },
+    {
+      "gloss": "PRIMOGENITURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROVINCIAL AUTONOMY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PALINDROME",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PANDEMIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARALLEL",
+      "category": "CORE",
+      "anchor": [
+        "PARALLEL LINES",
+        "PARALLEL LINES, SYMBOL OF PARALLEL LINES",
+        "PARALLEL CIRCUIT",
+        "PARALLEL BLOCK",
+        "PARALLEL CROPS"
+      ]
+    },
+    {
+      "gloss": "PARALLEL BAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "PARALLEL LINES",
+        "PARALLEL LINES, SYMBOL OF PARALLEL LINES",
+        "PARALLEL CIRCUIT",
+        "PARALLEL BLOCK",
+        "PARALLEL CROPS"
+      ]
+    },
+    {
+      "gloss": "PARAPHRASE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARCEL TRACKING",
+      "category": "COMPOUND",
+      "anchor": [
+        "PARCEL"
+      ]
+    },
+    {
+      "gloss": "PARODY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PATRIOTISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PEAK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PEER",
+      "category": "CORE",
+      "anchor": [
+        "PEER SUPPORT NETWORKS",
+        "PEER REVIEW",
+        "PEER SUPPORT"
+      ]
+    },
+    {
+      "gloss": "PEER SUPPORT NETWORKS",
+      "category": "COMPOUND",
+      "anchor": [
+        "PEER SUPPORT",
+        "PEER REVIEW",
+        "PEER"
+      ]
+    },
+    {
+      "gloss": "PENALTY KICK",
+      "category": "COMPOUND",
+      "anchor": [
+        "PENALTY CORNER",
+        "PENALTY",
+        "PENALTY STROKE"
+      ]
+    },
+    {
+      "gloss": "PERCEIVABLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PERFECT DEAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "PERFECT"
+      ]
+    },
+    {
+      "gloss": "PERMUTATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PERSONAL PROTECTIVE KIT {PPE}",
+      "category": "COMPOUND",
+      "anchor": [
+        "PERSONAL DEVELOPMENT",
+        "PERSONAL STAFF MEMBERS OF OFFICERS",
+        "PERSONAL GROWTH",
+        "PERSONAL",
+        "PERSONAL ROOM"
+      ]
+    },
+    {
+      "gloss": "PERSONIFICATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PERSPECTIVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PINCH HITTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "PINCH"
+      ]
+    },
+    {
+      "gloss": "PIPELINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PLACARD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PLATINUM POINTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PLODDER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PLURALISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POINT RACE",
+      "category": "COMPOUND",
+      "anchor": [
+        "POINT OF INTERSECTION",
+        "POINT SIZE",
+        "POINT",
+        "POINT OF VIEW"
+      ]
+    },
+    {
+      "gloss": "PORT AUTHORITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "PORT"
+      ]
+    },
+    {
+      "gloss": "POTHOLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POWERTRAIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PREDICATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRESENCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRIMITIVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRIX D\u2019AM\u00c9RIQUE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PRODUCT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROFILE",
+      "category": "CORE",
+      "anchor": [
+        "PROFILE LEVELLING"
+      ]
+    },
+    {
+      "gloss": "PROFITABILITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROLOGUE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROPAGANDA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROPONENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROTAGONIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PURCHASE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUSH UP",
+      "category": "COMPOUND",
+      "anchor": [
+        "PUSH"
+      ]
+    },
+    {
+      "gloss": "PUT OUT",
+      "category": "COMPOUND",
+      "anchor": [
+        "PUT OPTION",
+        "PUT"
+      ]
+    },
+    {
+      "gloss": "PYLON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PAGEVIEW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PAINKILLER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PALLIATIVE",
+      "category": "CORE",
+      "anchor": [
+        "PALLIATIVE CARE AND HOSPICE CARE"
+      ]
+    },
+    {
+      "gloss": "PAN CARD",
+      "category": "COMPOUND",
+      "anchor": [
+        "PAN",
+        "PAN FRY, PAN FRYING"
+      ]
+    },
+    {
+      "gloss": "PAPERWORK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARTIAL",
+      "category": "CORE",
+      "anchor": [
+        "PARTIAL AUTOMATION",
+        "PARTIAL FARM BUDGETING"
+      ]
+    },
+    {
+      "gloss": "PART-TIME JOB",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PASTA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PATIENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PCOD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PEDAGOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PEDIATRICIAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PENALTY",
+      "category": "CORE",
+      "anchor": [
+        "PENALTY CORNER",
+        "PENALTY STROKE",
+        "PENALTY KICK"
+      ]
+    },
+    {
+      "gloss": "PEPPER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PETROL PUMP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PETTICOAT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHARMACOLOGIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PINTEREST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PLUG",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PNR",
+      "category": "CORE",
+      "anchor": [
+        "PNR - PASSENGER NAME RECORD"
+      ]
+    },
+    {
+      "gloss": "POINT OF VIEW",
+      "category": "COMPOUND",
+      "anchor": [
+        "POINT OF INTERSECTION",
+        "POINT SIZE",
+        "POINT",
+        "POINT RACE"
+      ]
+    },
+    {
+      "gloss": "POLAR BEAR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "POLICE STATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "POLICE CLEARANCE CERTIFICATE",
+        "POLICE DOG",
+        "POLICE"
+      ]
+    },
+    {
+      "gloss": "POLICY MAKING",
+      "category": "COMPOUND",
+      "anchor": [
+        "POLICY"
+      ]
+    },
+    {
+      "gloss": "PORCUPINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POSSESSIVENESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POSTGRADUATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRECIOUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRECISE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRIVATIZATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROCRASTINATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRONUNCIATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROSECUTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROSECUTOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PTSD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUNCHLINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUNCTUATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUZZLED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PALLET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARATRANSIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PASSENGER BOARDING BRIDGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "PASSENGER"
+      ]
+    },
+    {
+      "gloss": "PATH",
+      "category": "CORE",
+      "anchor": [
+        "PATH OF MOVEMENT"
+      ]
+    },
+    {
+      "gloss": "PISTON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PLAZA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PALLIATIVE CARE AND HOSPICE CARE",
+      "category": "COMPOUND",
+      "anchor": [
+        "PALLIATIVE"
+      ]
+    },
+    {
+      "gloss": "PALLATIVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PANIC ATTACKS",
+      "category": "COMPOUND",
+      "anchor": [
+        "PANIC"
+      ]
+    },
+    {
+      "gloss": "PARALYZING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARANOIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARENTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PEER SUPPORT",
+      "category": "COMPOUND",
+      "anchor": [
+        "PEER SUPPORT NETWORKS",
+        "PEER REVIEW",
+        "PEER"
+      ]
+    },
+    {
+      "gloss": "PERFORMANCE ANXIETY",
+      "category": "COMPOUND",
+      "anchor": [
+        "PERFORMANCE REVIEW",
+        "PERFORMANCE ASSESSMENT, REVIEW AND ANALYSIS OF KNOWLEDGE FOR HOLISTIC DEVELOPMENT"
+      ]
+    },
+    {
+      "gloss": "PERSONALITY TRAITS",
+      "category": "COMPOUND",
+      "anchor": [
+        "PERSONALITY"
+      ]
+    },
+    {
+      "gloss": "PHYSICAL ABUSE",
+      "category": "COMPOUND",
+      "anchor": [
+        "PHYSICAL CHANGE",
+        "PHYSICAL PROPERTIES",
+        "PHYSICAL DISABILITY",
+        "PHYSICAL MAP",
+        "PHYSICAL WEATHERING"
+      ]
+    },
+    {
+      "gloss": "PHYSICAL SYMPTOMS",
+      "category": "COMPOUND",
+      "anchor": [
+        "PHYSICAL CHANGE",
+        "PHYSICAL PROPERTIES",
+        "PHYSICAL DISABILITY",
+        "PHYSICAL MAP",
+        "PHYSICAL WEATHERING"
+      ]
+    },
+    {
+      "gloss": "PLAY THERAPY",
+      "category": "COMPOUND",
+      "anchor": [
+        "PLAY",
+        "PLAY STORE"
+      ]
+    },
+    {
+      "gloss": "POSITIVE MENTAL HEALTH",
+      "category": "COMPOUND",
+      "anchor": [
+        "POSITIVE CHARGE",
+        "POSITIVE INTEGER",
+        "POSITIVE TERMINAL",
+        "POSITIVE"
+      ]
+    },
+    {
+      "gloss": "POSTNATAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POSTPATRUM DEPRESSION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PRENATAL COUNSELLING",
+      "category": "COMPOUND",
+      "anchor": [
+        "PRENATAL SEX DETERMINATION",
+        "PRENATAL AND POSTNATAL",
+        "PRENATAL"
+      ]
+    },
+    {
+      "gloss": "PRENATAL",
+      "category": "CORE",
+      "anchor": [
+        "PRENATAL SEX DETERMINATION",
+        "PRENATAL COUNSELLING",
+        "PRENATAL AND POSTNATAL"
+      ]
+    },
+    {
+      "gloss": "PSYCHOEDUCATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PSYCHOLOGICAL FIRST AID",
+      "category": "COMPOUND",
+      "anchor": [
+        "PSYCHOLOGICAL TESTING",
+        "PSYCHOLOGICAL THERAPY"
+      ]
+    },
+    {
+      "gloss": "PSYCHOSIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PSYCHOSOCIAL DISABILITIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "PSYCHOSOCIAL SUPPORT"
+      ]
+    },
+    {
+      "gloss": "PSYCHOSOCIAL SUPPORT",
+      "category": "COMPOUND",
+      "anchor": [
+        "PSYCHOSOCIAL DISABILITIES"
+      ]
+    },
+    {
+      "gloss": "PSYCHOTHERAPY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PACIFISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PAGAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PAGE",
+      "category": "CORE",
+      "anchor": [
+        "PAGE MAKER",
+        "PAGE LAYOUT"
+      ]
+    },
+    {
+      "gloss": "PALEONTOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PANTHEON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARTICIPANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PARYUSHANA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PAYLOAD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PC GAME",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PEDIATRICS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PEDICURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PELICAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PENDANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PERFORMANCE REVIEW",
+      "category": "COMPOUND",
+      "anchor": [
+        "PERFORMANCE ANXIETY",
+        "PERFORMANCE ASSESSMENT, REVIEW AND ANALYSIS OF KNOWLEDGE FOR HOLISTIC DEVELOPMENT"
+      ]
+    },
+    {
+      "gloss": "PERMAFROST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PERSEVERING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PERSONAL DEVELOPMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "PERSONAL STAFF MEMBERS OF OFFICERS",
+        "PERSONAL GROWTH",
+        "PERSONAL",
+        "PERSONAL PROTECTIVE KIT {PPE}",
+        "PERSONAL ROOM"
+      ]
+    },
+    {
+      "gloss": "PERSONAL GROWTH",
+      "category": "COMPOUND",
+      "anchor": [
+        "PERSONAL DEVELOPMENT",
+        "PERSONAL STAFF MEMBERS OF OFFICERS",
+        "PERSONAL",
+        "PERSONAL PROTECTIVE KIT {PPE}",
+        "PERSONAL ROOM"
+      ]
+    },
+    {
+      "gloss": "PERSONHOOD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHARMACODYNAMICS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHARMACOKINETICS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PHOTOGRAPHY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PILOT IN COMMAND",
+      "category": "COMPOUND",
+      "anchor": [
+        "PILOT STUDY",
+        "PILOT"
+      ]
+    },
+    {
+      "gloss": "PIOUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POLLINATOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PONGAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PONTIFICATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "POWDER",
+      "category": "CORE",
+      "anchor": [
+        "POWDER PUFF"
+      ]
+    },
+    {
+      "gloss": "POWDER PUFF",
+      "category": "COMPOUND",
+      "anchor": [
+        "POWDER"
+      ]
+    },
+    {
+      "gloss": "PREMISE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRETTY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PREVENTIVE CARE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PRIORITIZE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PRODUCTIVITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PROFIT & LOSS STATEMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "PROFIT"
+      ]
+    },
+    {
+      "gloss": "PROGNOSIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PSYCHIATRIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PSYCHOLOGICAL TESTING",
+      "category": "COMPOUND",
+      "anchor": [
+        "PSYCHOLOGICAL THERAPY",
+        "PSYCHOLOGICAL FIRST AID"
+      ]
+    },
+    {
+      "gloss": "PUBLIC HOLIDAY",
+      "category": "COMPOUND",
+      "anchor": [
+        "PUBLIC",
+        "PUBLIC LIMITED COMPANY",
+        "PUBLIC GOODS",
+        "PUBLIC PROSECUTOR",
+        "PUBLIC FACILITIES"
+      ]
+    },
+    {
+      "gloss": "PURITANICAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PUSHBACK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "PSYCHODYNAMIC THERAPY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "PNR - PASSENGER NAME RECORD",
+      "category": "COMPOUND",
+      "anchor": [
+        "PNR"
+      ]
+    },
+    {
+      "gloss": "PTSD- POST-TRAUMATIC STRESS DISORDER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "P",
+      "category": "LETTERS",
+      "anchor": []
+    }
+  ]
+}

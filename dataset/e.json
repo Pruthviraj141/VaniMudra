@@ -1,0 +1,3173 @@
+[
+  {
+    "gloss": "EACH",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EAGERNESS, WILLINGNESS, PROMPTNESS",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EAGLE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EAR",
+    "category": "CORE",
+    "anchor": [
+      "EAR PLUG",
+      "EAR LOBE",
+      "EAR COKLE DISEASE OF WHEAT",
+      "EAR WITNESS"
+    ]
+  },
+  {
+    "gloss": "EARBUDS, EARPHONES, HEADPHONES",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EARLY",
+    "category": "CORE",
+    "anchor": [
+      "EARLY IDENTIFICATION",
+      "EARLY CHILDHOOD CARE AND EDUCATION",
+      "EARLY INTERVENTION",
+      "EARLY MORNING",
+      "EARLY DEATH"
+    ]
+  },
+  {
+    "gloss": "EARLY MORNING",
+    "category": "COMPOUND",
+    "anchor": [
+      "EARLY IDENTIFICATION",
+      "EARLY",
+      "EARLY CHILDHOOD CARE AND EDUCATION",
+      "EARLY INTERVENTION",
+      "EARLY DEATH"
+    ]
+  },
+  {
+    "gloss": "EARRINGS",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EARTH",
+    "category": "CORE",
+    "anchor": [
+      "EARTH QUAKE LOAD",
+      "EARTH RAMMER"
+    ]
+  },
+  {
+    "gloss": "EARTHQUAKE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EAST",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EASY",
+    "category": "CORE",
+    "anchor": [
+      "EASY MONEY POLICY",
+      "EASY DOES IT"
+    ]
+  },
+  {
+    "gloss": "EAT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "E-BOOK",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ECLIPSE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ECONOMICS",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EDGE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EDIT",
+    "category": "CORE",
+    "anchor": [
+      "EDIT MENU"
+    ]
+  },
+  {
+    "gloss": "EDITOR",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EDUCATION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EFFORT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EGG",
+    "category": "CORE",
+    "anchor": [
+      "EGG SHELLS"
+    ]
+  },
+  {
+    "gloss": "ELECTION",
+    "category": "CORE",
+    "anchor": [
+      "ELECTION UNDER THE WILL"
+    ]
+  },
+  {
+    "gloss": "ELECTRICIAN",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ELECTRICITY",
+    "category": "CORE",
+    "anchor": [
+      "ELECTRICITY OUTLET"
+    ]
+  },
+  {
+    "gloss": "ELEPHANT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ELEVATOR",
+    "category": "CORE",
+    "anchor": [
+      "ELEVATOR SHAFT"
+    ]
+  },
+  {
+    "gloss": "EMAIL",
+    "category": "CORE",
+    "anchor": [
+      "EMAIL NOTIFICATION",
+      "EMAIL COUNSELLING"
+    ]
+  },
+  {
+    "gloss": "EMBARRASS",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EMERGENCY",
+    "category": "CORE",
+    "anchor": [
+      "EMERGENCY MEDICAL TECHNICIAN",
+      "EMERGENCY NOTIFICATION SYSTEM",
+      "EMERGENCY MEDICAL SERVICES",
+      "EMERGENCY ALERT SYSTEM"
+    ]
+  },
+  {
+    "gloss": "EMERGENCY MEDICAL TECHNICIAN",
+    "category": "COMPOUND",
+    "anchor": [
+      "EMERGENCY",
+      "EMERGENCY NOTIFICATION SYSTEM",
+      "EMERGENCY MEDICAL SERVICES",
+      "EMERGENCY ALERT SYSTEM"
+    ]
+  },
+  {
+    "gloss": "EMOTION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EMPHASIZE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EMPLOY",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EMPLOYEE, WORKER",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EMPOWERMENT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENCOURAGE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "END, FINISH",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ENDURE, TOLERATE",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ENEMY",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENERGY",
+    "category": "CORE",
+    "anchor": [
+      "ENERGY INFRASTRUCTURE",
+      "ENERGY METER",
+      "ENERGY MANAGEMENT",
+      "ENERGY STORAGE SYSTEM"
+    ]
+  },
+  {
+    "gloss": "ENGAGEMENT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENGINE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENGINEER",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENGLISH",
+    "category": "CORE",
+    "anchor": [
+      "ENGLISH BOND"
+    ]
+  },
+  {
+    "gloss": "ENJOY",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENOUGH",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENTER",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENTERTAINMENT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENVELOPE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENVIRONMENT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENVIRONMENTAL POLLUTION",
+    "category": "COMPOUND",
+    "anchor": [
+      "ENVIRONMENTAL PROTECTION POLICIES",
+      "ENVIRONMENTAL PSYCHOLOGY",
+      "ENVIRONMENTAL QUALITY",
+      "ENVIRONMENTAL LITERACY",
+      "ENVIRONMENTAL ETHICS"
+    ]
+  },
+  {
+    "gloss": "EQUAL",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EQUIPMENT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ERASER, RUBBER",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ESCALATOR",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ESCAPE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ESSEL WORLD",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ESTABLISH",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ETHICS",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EURO",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EVENING",
+    "category": "NUMBERS & TIME",
+    "anchor": []
+  },
+  {
+    "gloss": "EVENT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EVERYTHING",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EVIL",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXAM",
+    "category": "CORE",
+    "anchor": [
+      "EXAM CRITERIA, STANDARDS"
+    ]
+  },
+  {
+    "gloss": "EXAMPLE",
+    "category": "CLASSIFIERS",
+    "anchor": []
+  },
+  {
+    "gloss": "EXCHANGE",
+    "category": "CORE",
+    "anchor": [
+      "EXCHANGE TRADED"
+    ]
+  },
+  {
+    "gloss": "EXCHANGE, SWAP, TRANSACTION",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EXCITED",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXCLUDE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXCREMENT, FAECES, POTTY",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EXCUSE",
+    "category": "CORE",
+    "anchor": [
+      "EXCUSE ME"
+    ]
+  },
+  {
+    "gloss": "EXCUSE ME",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXCUSE"
+    ]
+  },
+  {
+    "gloss": "EXERCISE",
+    "category": "CORE",
+    "anchor": [
+      "EXERCISE MAT",
+      "EXERCISE OF OPTION",
+      "EXERCISE THERAPY"
+    ]
+  },
+  {
+    "gloss": "EXHAUSTED",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXIT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPENSE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPENSIVE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPERIENCE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPERIMENT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPERT, SPECIALIST",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPIRY",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPLAIN",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPLOIT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPRESS",
+    "category": "CORE",
+    "anchor": [
+      "EXPRESS TRAIN"
+    ]
+  },
+  {
+    "gloss": "EXPRESS TRAIN",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXPRESS"
+    ]
+  },
+  {
+    "gloss": "EXPRESS, CONVEY",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EXTEND",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXTINCT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXTRA",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EYE",
+    "category": "CORE",
+    "anchor": [
+      "EYE LENS",
+      "EYE BANK",
+      "EYE DONORS",
+      "EYE CHART",
+      "EYE HAND COORDINATION"
+    ]
+  },
+  {
+    "gloss": "EYEBROW",
+    "category": "CORE",
+    "anchor": [
+      "EYEBROW PENCIL"
+    ]
+  },
+  {
+    "gloss": "EARDRUM",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EARLY CHILDHOOD CARE AND EDUCATION",
+    "category": "COMPOUND",
+    "anchor": [
+      "EARLY IDENTIFICATION",
+      "EARLY",
+      "EARLY INTERVENTION",
+      "EARLY MORNING",
+      "EARLY DEATH"
+    ]
+  },
+  {
+    "gloss": "EARLY INTERVENTION",
+    "category": "COMPOUND",
+    "anchor": [
+      "EARLY IDENTIFICATION",
+      "EARLY",
+      "EARLY CHILDHOOD CARE AND EDUCATION",
+      "EARLY MORNING",
+      "EARLY DEATH"
+    ]
+  },
+  {
+    "gloss": "EASY MONEY POLICY",
+    "category": "COMPOUND",
+    "anchor": [
+      "EASY DOES IT",
+      "EASY"
+    ]
+  },
+  {
+    "gloss": "ECO",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ECOHOUSE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ECOLABEL",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ECOLOGIST",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ECOLOGY",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ECONOMIC ACTIVITIES",
+    "category": "COMPOUND",
+    "anchor": [
+      "ECONOMIC GROWTH",
+      "ECONOMIC DEVELOPMENT",
+      "ECONOMIC SYSTEM",
+      "ECONOMIC IMPORTANCE OF FISH IN INDIA",
+      "ECONOMIC GOODS"
+    ]
+  },
+  {
+    "gloss": "ECONOMIC DEVELOPMENT",
+    "category": "COMPOUND",
+    "anchor": [
+      "ECONOMIC GROWTH",
+      "ECONOMIC ACTIVITIES",
+      "ECONOMIC SYSTEM",
+      "ECONOMIC IMPORTANCE OF FISH IN INDIA",
+      "ECONOMIC GOODS"
+    ]
+  },
+  {
+    "gloss": "ECONOMIC GOODS",
+    "category": "COMPOUND",
+    "anchor": [
+      "ECONOMIC GROWTH",
+      "ECONOMIC DEVELOPMENT",
+      "ECONOMIC ACTIVITIES",
+      "ECONOMIC SYSTEM",
+      "ECONOMIC IMPORTANCE OF FISH IN INDIA"
+    ]
+  },
+  {
+    "gloss": "ECONOMIC GROWTH",
+    "category": "COMPOUND",
+    "anchor": [
+      "ECONOMIC DEVELOPMENT",
+      "ECONOMIC ACTIVITIES",
+      "ECONOMIC SYSTEM",
+      "ECONOMIC IMPORTANCE OF FISH IN INDIA",
+      "ECONOMIC GOODS"
+    ]
+  },
+  {
+    "gloss": "ECONOMIC SYSTEM",
+    "category": "COMPOUND",
+    "anchor": [
+      "ECONOMIC GROWTH",
+      "ECONOMIC DEVELOPMENT",
+      "ECONOMIC ACTIVITIES",
+      "ECONOMIC IMPORTANCE OF FISH IN INDIA",
+      "ECONOMIC GOODS"
+    ]
+  },
+  {
+    "gloss": "ECONOMIES OF SCALE",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ECOSYSTEM",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ECOTOURISM",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "E-CYCLING",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EDIBLE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EDIBLE, INEDIBLE",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EDUCATIONAL BILINGUALISM",
+    "category": "COMPOUND",
+    "anchor": [
+      "EDUCATIONAL PSYCHOLOGY",
+      "EDUCATIONAL ACCESSIBILITY"
+    ]
+  },
+  {
+    "gloss": "EDUCATIONAL PSYCHOLOGY",
+    "category": "COMPOUND",
+    "anchor": [
+      "EDUCATIONAL BILINGUALISM",
+      "EDUCATIONAL ACCESSIBILITY"
+    ]
+  },
+  {
+    "gloss": "EFFECTIVE ASSESSMENT",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EFFICIENCY",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EFFLUENT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EGESTION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EGG SHELLS",
+    "category": "COMPOUND",
+    "anchor": [
+      "EGG"
+    ]
+  },
+  {
+    "gloss": "EGYPTIAN CIVILIZATION",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ELECTRIC CELL",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRIC BICYCLE",
+      "ELECTRIC DISCHARGE",
+      "ELECTRIC CIRCUIT",
+      "ELECTRIC VEHICLE",
+      "ELECTRIC CURRENT"
+    ]
+  },
+  {
+    "gloss": "ELECTRIC CIRCUIT",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRIC CELL",
+      "ELECTRIC BICYCLE",
+      "ELECTRIC DISCHARGE",
+      "ELECTRIC VEHICLE",
+      "ELECTRIC CURRENT"
+    ]
+  },
+  {
+    "gloss": "ELECTRIC CURRENT",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRIC CELL",
+      "ELECTRIC BICYCLE",
+      "ELECTRIC DISCHARGE",
+      "ELECTRIC CIRCUIT",
+      "ELECTRIC VEHICLE"
+    ]
+  },
+  {
+    "gloss": "ELECTRIC DISCHARGE",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRIC CELL",
+      "ELECTRIC BICYCLE",
+      "ELECTRIC CIRCUIT",
+      "ELECTRIC VEHICLE",
+      "ELECTRIC CURRENT"
+    ]
+  },
+  {
+    "gloss": "ELECTRIC VEHICLE",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRIC CELL",
+      "ELECTRIC BICYCLE",
+      "ELECTRIC DISCHARGE",
+      "ELECTRIC CIRCUIT",
+      "ELECTRIC CURRENT"
+    ]
+  },
+  {
+    "gloss": "ELECTROLYTE",
+    "category": "CORE",
+    "anchor": [
+      "ELECTROLYTE CAPACITOR"
+    ]
+  },
+  {
+    "gloss": "ELECTROMAGNET",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ELECTRON",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ELECTROPLATING",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ELECTROSCOPE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ELECTROSTATIC FORCE",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ELEMENT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ELEMENTS OF WEATHER",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EMIGRANTS AND IMMIGRANTS",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EMINENT EXPERT COMMITTEE",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EMPEROR",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EMPIRE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENDANGERED SPECIES",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ENDEMIC",
+    "category": "CORE",
+    "anchor": [
+      "ENDEMIC DISEASE"
+    ]
+  },
+  {
+    "gloss": "ENDEMIC DISEASE",
+    "category": "COMPOUND",
+    "anchor": [
+      "ENDEMIC"
+    ]
+  },
+  {
+    "gloss": "ENDOCRINE SYSTEM",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ENDOGAMY AND EXOGAMY",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ENDOGENIC AND EXOGENIC FORCE",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ENRICHMENT ACTIVITY",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ENROLMENT",
+    "category": "CORE",
+    "anchor": [
+      "ENROLMENT ACTIVITY"
+    ]
+  },
+  {
+    "gloss": "ENROLMENT ACTIVITY",
+    "category": "COMPOUND",
+    "anchor": [
+      "ENROLMENT"
+    ]
+  },
+  {
+    "gloss": "ENTREPRENEUR AND ENTREPRENEURSHIP",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ENVIRONMENTAL PROTECTION POLICIES",
+    "category": "COMPOUND",
+    "anchor": [
+      "ENVIRONMENTAL PSYCHOLOGY",
+      "ENVIRONMENTAL QUALITY",
+      "ENVIRONMENTAL LITERACY",
+      "ENVIRONMENTAL ETHICS",
+      "ENVIRONMENTAL POLLUTION"
+    ]
+  },
+  {
+    "gloss": "ENVIRONMENTAL PSYCHOLOGY",
+    "category": "COMPOUND",
+    "anchor": [
+      "ENVIRONMENTAL PROTECTION POLICIES",
+      "ENVIRONMENTAL QUALITY",
+      "ENVIRONMENTAL LITERACY",
+      "ENVIRONMENTAL ETHICS",
+      "ENVIRONMENTAL POLLUTION"
+    ]
+  },
+  {
+    "gloss": "ENZYME",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENZYMES",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EPIC",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EPIDERMAL HAIR",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EQUATION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EQUATOR",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EQUILATERAL TRIANGLE",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EQUILIBRIUM LEVEL OF GNP",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EQUINOX",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EQUIVALENT FRACTION",
+    "category": "COMPOUND",
+    "anchor": [
+      "EQUIVALENT FRACTIONS"
+    ]
+  },
+  {
+    "gloss": "EQUIVALENT FRACTIONS",
+    "category": "COMPOUND",
+    "anchor": [
+      "EQUIVALENT FRACTION"
+    ]
+  },
+  {
+    "gloss": "ERECT IMAGE",
+    "category": "COMPOUND",
+    "anchor": [
+      "ERECT WEEDS"
+    ]
+  },
+  {
+    "gloss": "EROSION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ESKIMOS OR INUIT",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ESSAY",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ESTATE TAX",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ESTIMATED DELIVERY DATE OR DUE DATE",
+    "category": "COMPOUND",
+    "anchor": [
+      "ESTIMATED TIME OF ARRIVAL",
+      "ESTIMATED TIME OF DEPARTURE",
+      "ESTIMATED TIME EN-ROUTE"
+    ]
+  },
+  {
+    "gloss": "ESTIMATION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ESTROGEN",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ESTUARY",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ETHNIC GROUPS",
+    "category": "COMPOUND",
+    "anchor": [
+      "ETHNIC WEAR"
+    ]
+  },
+  {
+    "gloss": "EVALUATION",
+    "category": "CORE",
+    "anchor": [
+      "EVALUATION SUMMARY"
+    ]
+  },
+  {
+    "gloss": "EVAPORATE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EVAPORATION",
+    "category": "CORE",
+    "anchor": [
+      "EVAPORATION AND CONDENSATION"
+    ]
+  },
+  {
+    "gloss": "EVAPORATION AND CONDENSATION",
+    "category": "COMPOUND",
+    "anchor": [
+      "EVAPORATION"
+    ]
+  },
+  {
+    "gloss": "EVAPORATION, CONDENSATION AND PRECIPITATION",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EVAPOTRANSPIRATION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EVEN NUMBER",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EVOLUTION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "E-WASTE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EX ANTE DISTRIBUTION",
+    "category": "COMPOUND",
+    "anchor": [
+      "EX PARTE ORDER",
+      "EX OFFICIO"
+    ]
+  },
+  {
+    "gloss": "EXAM CRITERIA, STANDARDS",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXAM"
+    ]
+  },
+  {
+    "gloss": "EXCISE TAX",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EXCLAMATION MARK",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EXCRETION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXCRETORY SYSTEM",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EXCURSIOINIST",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXECUTIVE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXHALATION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXHAUSTIVE EXPENDITURES",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPAND",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPANSION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPEDITION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPENDITURE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPLOITATION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPLORATION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPLOSION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPORT LICENCE",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPRESSION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXTERIOR ANGLE",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXTERIOR OF CURVE"
+    ]
+  },
+  {
+    "gloss": "EXTERIOR OF CURVE",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXTERIOR ANGLE"
+    ]
+  },
+  {
+    "gloss": "EXTERNAL BODY PARTS",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXTERNAL PARASITE",
+      "EXTERNAL APPEARANCE",
+      "EXTERNAL COSTS"
+    ]
+  },
+  {
+    "gloss": "EXTERNAL COSTS",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXTERNAL BODY PARTS",
+      "EXTERNAL PARASITE",
+      "EXTERNAL APPEARANCE"
+    ]
+  },
+  {
+    "gloss": "EXTERNALITY",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXTINCTION",
+    "category": "CORE",
+    "anchor": [
+      "EXTINCTION EVENT"
+    ]
+  },
+  {
+    "gloss": "EXTINCTION EVENT",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXTINCTION"
+    ]
+  },
+  {
+    "gloss": "EXTREME TERM",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EXTRINSIC TOURISTS",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EYE DONORS",
+    "category": "COMPOUND",
+    "anchor": [
+      "EYE LENS",
+      "EYE BANK",
+      "EYE CHART",
+      "EYE",
+      "EYE HAND COORDINATION"
+    ]
+  },
+  {
+    "gloss": "EYE HAND COORDINATION",
+    "category": "COMPOUND",
+    "anchor": [
+      "EYE LENS",
+      "EYE BANK",
+      "EYE DONORS",
+      "EYE CHART",
+      "EYE"
+    ]
+  },
+  {
+    "gloss": "EYE LENS",
+    "category": "COMPOUND",
+    "anchor": [
+      "EYE BANK",
+      "EYE DONORS",
+      "EYE CHART",
+      "EYE",
+      "EYE HAND COORDINATION"
+    ]
+  },
+  {
+    "gloss": "EAR COKLE DISEASE OF WHEAT",
+    "category": "COMPOUND",
+    "anchor": [
+      "EAR WITNESS",
+      "EAR PLUG",
+      "EAR LOBE",
+      "EAR"
+    ]
+  },
+  {
+    "gloss": "ECONOMIC IMPORTANCE OF FISH IN INDIA",
+    "category": "COMPOUND",
+    "anchor": [
+      "ECONOMIC GROWTH",
+      "ECONOMIC DEVELOPMENT",
+      "ECONOMIC ACTIVITIES",
+      "ECONOMIC SYSTEM",
+      "ECONOMIC GOODS"
+    ]
+  },
+  {
+    "gloss": "EDGING",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ELEVATION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EMBRYONIC DEVELOPMENT",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ENTREPOT TRADE",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ERADICATION OF WEEDS",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ERECT WEEDS",
+    "category": "COMPOUND",
+    "anchor": [
+      "ERECT IMAGE"
+    ]
+  },
+  {
+    "gloss": "EUPHORBIA ROYLLEANA",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EUROPEAN HONEY BEE",
+    "category": "COMPOUND",
+    "anchor": [
+      "EUROPEAN OPTION"
+    ]
+  },
+  {
+    "gloss": "EVAPO-TRANSPIRATION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EWE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXOTIC BREEDS OF POULTRY",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXOTIC",
+      "EXOTIC GOAT",
+      "EXOTIC WEEDS",
+      "EXOTIC SHEEP"
+    ]
+  },
+  {
+    "gloss": "EXOTIC GOAT",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXOTIC",
+      "EXOTIC WEEDS",
+      "EXOTIC SHEEP",
+      "EXOTIC BREEDS OF POULTRY"
+    ]
+  },
+  {
+    "gloss": "EXOTIC SHEEP",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXOTIC GOAT",
+      "EXOTIC",
+      "EXOTIC WEEDS",
+      "EXOTIC BREEDS OF POULTRY"
+    ]
+  },
+  {
+    "gloss": "EXOTIC WEEDS",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXOTIC GOAT",
+      "EXOTIC",
+      "EXOTIC SHEEP",
+      "EXOTIC BREEDS OF POULTRY"
+    ]
+  },
+  {
+    "gloss": "EXTERNAL PARASITE",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXTERNAL BODY PARTS",
+      "EXTERNAL APPEARANCE",
+      "EXTERNAL COSTS"
+    ]
+  },
+  {
+    "gloss": "EGYPT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EL SALVADOR",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ENGLAND",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EUROPE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EMBARGOES",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EQUITIES",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EUROPEAN OPTION",
+    "category": "COMPOUND",
+    "anchor": [
+      "EUROPEAN HONEY BEE"
+    ]
+  },
+  {
+    "gloss": "EX-BONUS",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EX-DIVIDEND",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXCHANGE TRADED",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXCHANGE"
+    ]
+  },
+  {
+    "gloss": "EXERCISE OF OPTION",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXERCISE",
+      "EXERCISE MAT",
+      "EXERCISE THERAPY"
+    ]
+  },
+  {
+    "gloss": "EXPIRATION DATE",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EASY DOES IT",
+    "category": "COMPOUND",
+    "anchor": [
+      "EASY MONEY POLICY",
+      "EASY"
+    ]
+  },
+  {
+    "gloss": "E BEAT BOOK",
+    "category": "COMPOUND",
+    "anchor": [
+      "E BEAT BOOK SYSTEM",
+      "E PRISONS",
+      "E COURTS",
+      "E APAR",
+      "E OFFICE"
+    ]
+  },
+  {
+    "gloss": "E BEAT BOOK SYSTEM",
+    "category": "COMPOUND",
+    "anchor": [
+      "E PRISONS",
+      "E COURTS",
+      "E BEAT BOOK",
+      "E APAR",
+      "E OFFICE"
+    ]
+  },
+  {
+    "gloss": "E COURTS",
+    "category": "COMPOUND",
+    "anchor": [
+      "E BEAT BOOK SYSTEM",
+      "E PRISONS",
+      "E BEAT BOOK",
+      "E APAR",
+      "E OFFICE"
+    ]
+  },
+  {
+    "gloss": "E OFFICE",
+    "category": "COMPOUND",
+    "anchor": [
+      "E BEAT BOOK SYSTEM",
+      "E PRISONS",
+      "E COURTS",
+      "E BEAT BOOK",
+      "E APAR"
+    ]
+  },
+  {
+    "gloss": "E PRISONS",
+    "category": "COMPOUND",
+    "anchor": [
+      "E BEAT BOOK SYSTEM",
+      "E COURTS",
+      "E BEAT BOOK",
+      "E APAR",
+      "E OFFICE"
+    ]
+  },
+  {
+    "gloss": "EAR WITNESS",
+    "category": "COMPOUND",
+    "anchor": [
+      "EAR PLUG",
+      "EAR LOBE",
+      "EAR COKLE DISEASE OF WHEAT",
+      "EAR"
+    ]
+  },
+  {
+    "gloss": "EJECTMENT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ELECTION UNDER THE WILL",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTION"
+    ]
+  },
+  {
+    "gloss": "ELECTRONIC SIGNATURE",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRONIC NOTICE BOARD"
+    ]
+  },
+  {
+    "gloss": "ELIGIBLE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EMBEZZLEMENT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EMIGRANTS, IMMIGRANTS",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ENCOUNTER",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENDOWMENT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENTITLEMENT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENTRAPMENT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENTRY",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EQUALITY",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ESTOPPEL",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EUTHANASIA",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EVACUEE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EVICTION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EVIDENCE AND EYEWITNESS",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EX OFFICIO",
+    "category": "COMPOUND",
+    "anchor": [
+      "EX ANTE DISTRIBUTION",
+      "EX PARTE ORDER"
+    ]
+  },
+  {
+    "gloss": "EX PARTE ORDER",
+    "category": "COMPOUND",
+    "anchor": [
+      "EX ANTE DISTRIBUTION",
+      "EX OFFICIO"
+    ]
+  },
+  {
+    "gloss": "EXAMINATION IN CHIEF, CROSS EXAMINATION",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EXCEPTION, EXEMPTION",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EXHIBIT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXTENSION OF LEAVE",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXTENSION BOARD",
+      "EXTENSION"
+    ]
+  },
+  {
+    "gloss": "EXTORTION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXTRADITION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EAR LOBE",
+    "category": "COMPOUND",
+    "anchor": [
+      "EAR WITNESS",
+      "EAR PLUG",
+      "EAR COKLE DISEASE OF WHEAT",
+      "EAR"
+    ]
+  },
+  {
+    "gloss": "EAR PLUG",
+    "category": "COMPOUND",
+    "anchor": [
+      "EAR WITNESS",
+      "EAR LOBE",
+      "EAR COKLE DISEASE OF WHEAT",
+      "EAR"
+    ]
+  },
+  {
+    "gloss": "EARACHE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EARDROPS",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ECG MONITOR",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ECHOCARDIOGRAM",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ECZEMA",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EDEMA, OEDEMA",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ELBOW CONFORMER",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ELECTRO ENCEPHALOGRAPHY",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ELECTRODE",
+    "category": "CORE",
+    "anchor": [
+      "ELECTRODE HOLDER"
+    ]
+  },
+  {
+    "gloss": "ELECTROLYSIS",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ELEPHANTIASIS",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EMBRYO",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EMPYEMA",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENAMEL",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENCEPHALITIS",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENDOSCOPE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENDOTRACHEAL TUBE",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ENT",
+    "category": "CORE",
+    "anchor": [
+      "ENT SPECIALIST"
+    ]
+  },
+  {
+    "gloss": "EPIDEMIC",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EPISTAXIS",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ERYTHROCYTE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ESOPHAGUS",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ESSENTIAL DIETARY MINERALS",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EXERCISE MAT",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXERCISE",
+      "EXERCISE OF OPTION",
+      "EXERCISE THERAPY"
+    ]
+  },
+  {
+    "gloss": "EXERCISER MIRROR",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EYE BANK",
+    "category": "COMPOUND",
+    "anchor": [
+      "EYE LENS",
+      "EYE DONORS",
+      "EYE CHART",
+      "EYE",
+      "EYE HAND COORDINATION"
+    ]
+  },
+  {
+    "gloss": "EYE CHART",
+    "category": "COMPOUND",
+    "anchor": [
+      "EYE BANK",
+      "EYE DONORS",
+      "EYE LENS",
+      "EYE",
+      "EYE HAND COORDINATION"
+    ]
+  },
+  {
+    "gloss": "EYEDROPS",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EYELASH",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "E APAR",
+    "category": "COMPOUND",
+    "anchor": [
+      "E BEAT BOOK SYSTEM",
+      "E COURTS",
+      "E BEAT BOOK",
+      "E PRISONS",
+      "E OFFICE"
+    ]
+  },
+  {
+    "gloss": "E BOOK",
+    "category": "COMPOUND",
+    "anchor": [
+      "E BEAT BOOK SYSTEM",
+      "E COURTS",
+      "E BEAT BOOK",
+      "E PRISONS",
+      "E OFFICE"
+    ]
+  },
+  {
+    "gloss": "E BUSINESS",
+    "category": "COMPOUND",
+    "anchor": [
+      "E BEAT BOOK SYSTEM",
+      "E COURTS",
+      "E BEAT BOOK",
+      "E PRISONS",
+      "E OFFICE"
+    ]
+  },
+  {
+    "gloss": "E GOVERNMENT",
+    "category": "COMPOUND",
+    "anchor": [
+      "E BEAT BOOK SYSTEM",
+      "E COURTS",
+      "E BEAT BOOK",
+      "E PRISONS",
+      "E OFFICE"
+    ]
+  },
+  {
+    "gloss": "E LEAVE",
+    "category": "COMPOUND",
+    "anchor": [
+      "E BEAT BOOK SYSTEM",
+      "E COURTS",
+      "E BEAT BOOK",
+      "E PRISONS",
+      "E OFFICE"
+    ]
+  },
+  {
+    "gloss": "EARTH QUAKE LOAD",
+    "category": "COMPOUND",
+    "anchor": [
+      "EARTH RAMMER",
+      "EARTH"
+    ]
+  },
+  {
+    "gloss": "EARTH RAMMER",
+    "category": "COMPOUND",
+    "anchor": [
+      "EARTH QUAKE LOAD",
+      "EARTH"
+    ]
+  },
+  {
+    "gloss": "EASE IN",
+    "category": "COMPOUND",
+    "anchor": [
+      "EASE OUT"
+    ]
+  },
+  {
+    "gloss": "EASE OUT",
+    "category": "COMPOUND",
+    "anchor": [
+      "EASE IN"
+    ]
+  },
+  {
+    "gloss": "ECONNECT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EDIT MENU",
+    "category": "COMPOUND",
+    "anchor": [
+      "EDIT"
+    ]
+  },
+  {
+    "gloss": "EFILE MISREPORT",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ELASTIC",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ELECTRIC BICYCLE",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRIC CELL",
+      "ELECTRIC DISCHARGE",
+      "ELECTRIC CIRCUIT",
+      "ELECTRIC VEHICLE",
+      "ELECTRIC CURRENT"
+    ]
+  },
+  {
+    "gloss": "ELECTRIC BIKE",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRIC CELL",
+      "ELECTRIC DISCHARGE",
+      "ELECTRIC CIRCUIT",
+      "ELECTRIC VEHICLE",
+      "ELECTRIC CURRENT"
+    ]
+  },
+  {
+    "gloss": "ELECTRIC BUS",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRIC CELL",
+      "ELECTRIC DISCHARGE",
+      "ELECTRIC CIRCUIT",
+      "ELECTRIC VEHICLE",
+      "ELECTRIC CURRENT"
+    ]
+  },
+  {
+    "gloss": "ELECTRIC CAR",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRIC CELL",
+      "ELECTRIC DISCHARGE",
+      "ELECTRIC CIRCUIT",
+      "ELECTRIC VEHICLE",
+      "ELECTRIC CURRENT"
+    ]
+  },
+  {
+    "gloss": "ELECTRIC CHARGE",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRIC CELL",
+      "ELECTRIC DISCHARGE",
+      "ELECTRIC CIRCUIT",
+      "ELECTRIC VEHICLE",
+      "ELECTRIC CURRENT"
+    ]
+  },
+  {
+    "gloss": "ELECTRIC TESTER",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRIC CELL",
+      "ELECTRIC DISCHARGE",
+      "ELECTRIC CIRCUIT",
+      "ELECTRIC VEHICLE",
+      "ELECTRIC CURRENT"
+    ]
+  },
+  {
+    "gloss": "ELECTRICAL APPLIANCES",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRICAL ENGINEERING",
+      "ELECTRICAL CONDUCTORS",
+      "ELECTRICAL BURNS",
+      "ELECTRICAL HORSEPOWER",
+      "ELECTRICAL ENERGY"
+    ]
+  },
+  {
+    "gloss": "ELECTRICAL BURNS",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRICAL APPLIANCES",
+      "ELECTRICAL ENGINEERING",
+      "ELECTRICAL CONDUCTORS",
+      "ELECTRICAL HORSEPOWER",
+      "ELECTRICAL ENERGY"
+    ]
+  },
+  {
+    "gloss": "ELECTRICAL CONDUCTORS",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRICAL APPLIANCES",
+      "ELECTRICAL ENGINEERING",
+      "ELECTRICAL BURNS",
+      "ELECTRICAL HORSEPOWER",
+      "ELECTRICAL ENERGY"
+    ]
+  },
+  {
+    "gloss": "ELECTRICAL ENERGY",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRICAL APPLIANCES",
+      "ELECTRICAL ENGINEERING",
+      "ELECTRICAL CONDUCTORS",
+      "ELECTRICAL BURNS",
+      "ELECTRICAL HORSEPOWER"
+    ]
+  },
+  {
+    "gloss": "ELECTRICAL ENGINEERING",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRICAL APPLIANCES",
+      "ELECTRICAL CONDUCTORS",
+      "ELECTRICAL BURNS",
+      "ELECTRICAL HORSEPOWER",
+      "ELECTRICAL ENERGY"
+    ]
+  },
+  {
+    "gloss": "ELECTRICAL HORSEPOWER",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRICAL APPLIANCES",
+      "ELECTRICAL ENGINEERING",
+      "ELECTRICAL CONDUCTORS",
+      "ELECTRICAL BURNS",
+      "ELECTRICAL ENERGY"
+    ]
+  },
+  {
+    "gloss": "ELECTRICAL LEAKAGE",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRICAL APPLIANCES",
+      "ELECTRICAL ENGINEERING",
+      "ELECTRICAL CONDUCTORS",
+      "ELECTRICAL BURNS",
+      "ELECTRICAL ENERGY"
+    ]
+  },
+  {
+    "gloss": "ELECTRICAL LOAD",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRICAL APPLIANCES",
+      "ELECTRICAL ENGINEERING",
+      "ELECTRICAL CONDUCTORS",
+      "ELECTRICAL BURNS",
+      "ELECTRICAL ENERGY"
+    ]
+  },
+  {
+    "gloss": "ELECTRICAL SERVICE",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRICAL APPLIANCES",
+      "ELECTRICAL ENGINEERING",
+      "ELECTRICAL CONDUCTORS",
+      "ELECTRICAL BURNS",
+      "ELECTRICAL ENERGY"
+    ]
+  },
+  {
+    "gloss": "ELECTRICITY OUTLET",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRICITY"
+    ]
+  },
+  {
+    "gloss": "ELECTROCUTION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ELECTRODE HOLDER",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRODE"
+    ]
+  },
+  {
+    "gloss": "ELECTROLYTE CAPACITOR",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTROLYTE"
+    ]
+  },
+  {
+    "gloss": "ELECTRONIC NOTICE BOARD",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRONIC SIGNATURE"
+    ]
+  },
+  {
+    "gloss": "ELEVATED PLOT",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELEVATED MOOD"
+    ]
+  },
+  {
+    "gloss": "ELLIPSE TOOL",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EMAIL NOTIFICATION",
+    "category": "COMPOUND",
+    "anchor": [
+      "EMAIL",
+      "EMAIL COUNSELLING"
+    ]
+  },
+  {
+    "gloss": "EMD TEMPLATE",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ENCAPSULATED POSTSCRIPT",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ENCRYPTION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENERGY MANAGEMENT",
+    "category": "COMPOUND",
+    "anchor": [
+      "ENERGY",
+      "ENERGY INFRASTRUCTURE",
+      "ENERGY METER",
+      "ENERGY STORAGE SYSTEM"
+    ]
+  },
+  {
+    "gloss": "ENERGY METER",
+    "category": "COMPOUND",
+    "anchor": [
+      "ENERGY",
+      "ENERGY INFRASTRUCTURE",
+      "ENERGY STORAGE SYSTEM",
+      "ENERGY MANAGEMENT"
+    ]
+  },
+  {
+    "gloss": "ENGINEERING COMPASS",
+    "category": "COMPOUND",
+    "anchor": [
+      "ENGINEERING SCALE"
+    ]
+  },
+  {
+    "gloss": "ENGINEERING SCALE",
+    "category": "COMPOUND",
+    "anchor": [
+      "ENGINEERING COMPASS"
+    ]
+  },
+  {
+    "gloss": "ENGLISH BOND",
+    "category": "COMPOUND",
+    "anchor": [
+      "ENGLISH"
+    ]
+  },
+  {
+    "gloss": "EOFFICE PORTAL",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EPAULET",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "E-TOUR",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXCAVATION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPORTING GRAPHICS",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EXTENSION",
+    "category": "CORE",
+    "anchor": [
+      "EXTENSION OF LEAVE",
+      "EXTENSION BOARD"
+    ]
+  },
+  {
+    "gloss": "EXTERNAL APPEARANCE",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXTERNAL BODY PARTS",
+      "EXTERNAL PARASITE",
+      "EXTERNAL COSTS"
+    ]
+  },
+  {
+    "gloss": "EMPORIUM",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EPICENTER",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ECONOMIC SECTORS",
+    "category": "COMPOUND",
+    "anchor": [
+      "ECONOMIC GROWTH",
+      "ECONOMIC DEVELOPMENT",
+      "ECONOMIC ACTIVITIES",
+      "ECONOMIC SYSTEM",
+      "ECONOMIC GOODS"
+    ]
+  },
+  {
+    "gloss": "EDUCATIONAL ACCESSIBILITY",
+    "category": "COMPOUND",
+    "anchor": [
+      "EDUCATIONAL PSYCHOLOGY",
+      "EDUCATIONAL BILINGUALISM"
+    ]
+  },
+  {
+    "gloss": "EIGHT COUNT",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ELECTRIC GRID",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELECTRIC CELL",
+      "ELECTRIC DISCHARGE",
+      "ELECTRIC CIRCUIT",
+      "ELECTRIC VEHICLE",
+      "ELECTRIC CURRENT"
+    ]
+  },
+  {
+    "gloss": "ELEGY",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ELEVATOR SHAFT",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELEVATOR"
+    ]
+  },
+  {
+    "gloss": "ELIMINATE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ELITE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EMANCIPATION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EMERGENCY ALERT SYSTEM",
+    "category": "COMPOUND",
+    "anchor": [
+      "EMERGENCY",
+      "EMERGENCY MEDICAL TECHNICIAN",
+      "EMERGENCY NOTIFICATION SYSTEM",
+      "EMERGENCY MEDICAL SERVICES"
+    ]
+  },
+  {
+    "gloss": "EMERGENCY NOTIFICATION SYSTEM",
+    "category": "COMPOUND",
+    "anchor": [
+      "EMERGENCY",
+      "EMERGENCY MEDICAL TECHNICIAN",
+      "EMERGENCY MEDICAL SERVICES",
+      "EMERGENCY ALERT SYSTEM"
+    ]
+  },
+  {
+    "gloss": "EMERGING",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EMIGRATION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EMISSION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EMPIRICAL",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EMULATION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENDANGER",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENERGY INFRASTRUCTURE",
+    "category": "COMPOUND",
+    "anchor": [
+      "ENERGY",
+      "ENERGY STORAGE SYSTEM",
+      "ENERGY METER",
+      "ENERGY MANAGEMENT"
+    ]
+  },
+  {
+    "gloss": "ENERGY STORAGE SYSTEM",
+    "category": "COMPOUND",
+    "anchor": [
+      "ENERGY",
+      "ENERGY INFRASTRUCTURE",
+      "ENERGY METER",
+      "ENERGY MANAGEMENT"
+    ]
+  },
+  {
+    "gloss": "ENFORCEMENT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENGRAVE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENHANCE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENHANCING",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENJAMBMENT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENLARGEMENT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENQUIRY",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENSHRINE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EPANALEPSIS",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EPILOGUE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EPIPHANY",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EPITHET",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EQUESTRIAN",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EQUITABLE USE",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EQUIVALENCE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ERA",
+    "category": "NUMBERS & TIME",
+    "anchor": []
+  },
+  {
+    "gloss": "ERUPTION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ETHNICITY",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EUPHEMISM",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EVALUATION SUMMARY",
+    "category": "COMPOUND",
+    "anchor": [
+      "EVALUATION"
+    ]
+  },
+  {
+    "gloss": "EXCAVATE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXCAVATOR",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXCURSION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXEMPLIFY",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXERT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXISTENTIALISM",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPANSE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPONENT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPOSURE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPRESSWAY",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXTRACTION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EATING DISORDER",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EDUCATOR",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EGO",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EMBROIDERY",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EMOTIONAL QUOTIENT",
+    "category": "COMPOUND",
+    "anchor": [
+      "EMOTIONAL INTELLIGENCE",
+      "EMOTIONAL MANIPULATION",
+      "EMOTIONAL NUMBNESS",
+      "EMOTIONAL MANAGEMENT",
+      "EMOTIONAL BREAKDOWN"
+    ]
+  },
+  {
+    "gloss": "ENT SPECIALIST",
+    "category": "COMPOUND",
+    "anchor": [
+      "ENT"
+    ]
+  },
+  {
+    "gloss": "EPILEPSY",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ESCALATE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ETHNIC WEAR",
+    "category": "COMPOUND",
+    "anchor": [
+      "ETHNIC GROUPS"
+    ]
+  },
+  {
+    "gloss": "EXCESSIVE BAGGAGE",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXCESSIVE TOUCHING",
+      "EXCESSIVE PLANNING & ORGANIZING",
+      "EXCESSIVE CRYING"
+    ]
+  },
+  {
+    "gloss": "EXORCISM",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXOTIC",
+    "category": "CORE",
+    "anchor": [
+      "EXOTIC GOAT",
+      "EXOTIC WEEDS",
+      "EXOTIC SHEEP",
+      "EXOTIC BREEDS OF POULTRY"
+    ]
+  },
+  {
+    "gloss": "EXTENSION BOARD",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXTENSION OF LEAVE",
+      "EXTENSION"
+    ]
+  },
+  {
+    "gloss": "EXTRAMARITAL AFFAIR",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EYE FLOATERS",
+    "category": "COMPOUND",
+    "anchor": [
+      "EYE BANK",
+      "EYE DONORS",
+      "EYE LENS",
+      "EYE",
+      "EYE HAND COORDINATION"
+    ]
+  },
+  {
+    "gloss": "EYEBROW PENCIL",
+    "category": "COMPOUND",
+    "anchor": [
+      "EYEBROW"
+    ]
+  },
+  {
+    "gloss": "ETHEREUM",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EARLY DEATH",
+    "category": "COMPOUND",
+    "anchor": [
+      "EARLY IDENTIFICATION",
+      "EARLY",
+      "EARLY CHILDHOOD CARE AND EDUCATION",
+      "EARLY INTERVENTION",
+      "EARLY MORNING"
+    ]
+  },
+  {
+    "gloss": "EARLY IDENTIFICATION",
+    "category": "COMPOUND",
+    "anchor": [
+      "EARLY",
+      "EARLY CHILDHOOD CARE AND EDUCATION",
+      "EARLY INTERVENTION",
+      "EARLY MORNING",
+      "EARLY DEATH"
+    ]
+  },
+  {
+    "gloss": "EFFECT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ELEVATED MOOD",
+    "category": "COMPOUND",
+    "anchor": [
+      "ELEVATED PLOT"
+    ]
+  },
+  {
+    "gloss": "EMAIL COUNSELLING",
+    "category": "COMPOUND",
+    "anchor": [
+      "EMAIL",
+      "EMAIL NOTIFICATION"
+    ]
+  },
+  {
+    "gloss": "EMBARRASSING YOURSELF",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EMERGENCY MEDICAL SERVICES",
+    "category": "COMPOUND",
+    "anchor": [
+      "EMERGENCY",
+      "EMERGENCY MEDICAL TECHNICIAN",
+      "EMERGENCY NOTIFICATION SYSTEM",
+      "EMERGENCY ALERT SYSTEM"
+    ]
+  },
+  {
+    "gloss": "EMOTIONAL BREAKDOWN",
+    "category": "COMPOUND",
+    "anchor": [
+      "EMOTIONAL INTELLIGENCE",
+      "EMOTIONAL MANIPULATION",
+      "EMOTIONAL NUMBNESS",
+      "EMOTIONAL MANAGEMENT",
+      "EMOTIONAL QUOTIENT"
+    ]
+  },
+  {
+    "gloss": "EMOTIONAL INTELLIGENCE",
+    "category": "COMPOUND",
+    "anchor": [
+      "EMOTIONAL MANIPULATION",
+      "EMOTIONAL NUMBNESS",
+      "EMOTIONAL MANAGEMENT",
+      "EMOTIONAL BREAKDOWN",
+      "EMOTIONAL QUOTIENT"
+    ]
+  },
+  {
+    "gloss": "EMOTIONAL MANAGEMENT",
+    "category": "COMPOUND",
+    "anchor": [
+      "EMOTIONAL INTELLIGENCE",
+      "EMOTIONAL MANIPULATION",
+      "EMOTIONAL NUMBNESS",
+      "EMOTIONAL BREAKDOWN",
+      "EMOTIONAL QUOTIENT"
+    ]
+  },
+  {
+    "gloss": "EMOTIONAL MANIPULATION",
+    "category": "COMPOUND",
+    "anchor": [
+      "EMOTIONAL INTELLIGENCE",
+      "EMOTIONAL NUMBNESS",
+      "EMOTIONAL MANAGEMENT",
+      "EMOTIONAL BREAKDOWN",
+      "EMOTIONAL QUOTIENT"
+    ]
+  },
+  {
+    "gloss": "EMOTIONAL NUMBNESS",
+    "category": "COMPOUND",
+    "anchor": [
+      "EMOTIONAL INTELLIGENCE",
+      "EMOTIONAL MANIPULATION",
+      "EMOTIONAL MANAGEMENT",
+      "EMOTIONAL BREAKDOWN",
+      "EMOTIONAL QUOTIENT"
+    ]
+  },
+  {
+    "gloss": "EMOTIONAL SUPPORT",
+    "category": "COMPOUND",
+    "anchor": [
+      "EMOTIONAL INTELLIGENCE",
+      "EMOTIONAL MANIPULATION",
+      "EMOTIONAL MANAGEMENT",
+      "EMOTIONAL BREAKDOWN",
+      "EMOTIONAL QUOTIENT"
+    ]
+  },
+  {
+    "gloss": "EMOTIONALLY UNAVAILABLE",
+    "category": "COMPOUND",
+    "anchor": [
+      "EMOTIONALLY VULNERABLE"
+    ]
+  },
+  {
+    "gloss": "EMOTIONALLY VULNERABLE",
+    "category": "COMPOUND",
+    "anchor": [
+      "EMOTIONALLY UNAVAILABLE"
+    ]
+  },
+  {
+    "gloss": "EMOTIONS",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENTIRE IDENTITY",
+    "category": "COMPOUND",
+    "anchor": [
+      "ENTIRE"
+    ]
+  },
+  {
+    "gloss": "EXCESSIVE CRYING",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXCESSIVE TOUCHING",
+      "EXCESSIVE BAGGAGE",
+      "EXCESSIVE PLANNING & ORGANIZING"
+    ]
+  },
+  {
+    "gloss": "EXCESSIVE PLANNING & ORGANIZING",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXCESSIVE TOUCHING",
+      "EXCESSIVE BAGGAGE",
+      "EXCESSIVE CRYING"
+    ]
+  },
+  {
+    "gloss": "EXCESSIVE TOUCHING",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXCESSIVE BAGGAGE",
+      "EXCESSIVE PLANNING & ORGANIZING",
+      "EXCESSIVE CRYING"
+    ]
+  },
+  {
+    "gloss": "EXIST",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPOSED",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXTREMELY AWARE",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "EARNINGS",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EASY-GOING",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ECUADOR",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ELECTROCARDIOGRAM",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EMOTIONAL",
+    "category": "CORE",
+    "anchor": [
+      "EMOTIONAL INTELLIGENCE",
+      "EMOTIONAL MANIPULATION",
+      "EMOTIONAL MANAGEMENT",
+      "EMOTIONAL BREAKDOWN",
+      "EMOTIONAL QUOTIENT"
+    ]
+  },
+  {
+    "gloss": "EMPATHETIC",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EMPATHY",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EMPLOYER",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENDOSCOPY",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENTHUSIASTIC",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENTIRE",
+    "category": "CORE",
+    "anchor": [
+      "ENTIRE IDENTITY"
+    ]
+  },
+  {
+    "gloss": "ENVIRONMENTAL ETHICS",
+    "category": "COMPOUND",
+    "anchor": [
+      "ENVIRONMENTAL PROTECTION POLICIES",
+      "ENVIRONMENTAL PSYCHOLOGY",
+      "ENVIRONMENTAL QUALITY",
+      "ENVIRONMENTAL LITERACY",
+      "ENVIRONMENTAL POLLUTION"
+    ]
+  },
+  {
+    "gloss": "ENVIRONMENTAL LITERACY",
+    "category": "COMPOUND",
+    "anchor": [
+      "ENVIRONMENTAL PROTECTION POLICIES",
+      "ENVIRONMENTAL PSYCHOLOGY",
+      "ENVIRONMENTAL QUALITY",
+      "ENVIRONMENTAL ETHICS",
+      "ENVIRONMENTAL POLLUTION"
+    ]
+  },
+  {
+    "gloss": "ENVIRONMENTAL QUALITY",
+    "category": "COMPOUND",
+    "anchor": [
+      "ENVIRONMENTAL PROTECTION POLICIES",
+      "ENVIRONMENTAL PSYCHOLOGY",
+      "ENVIRONMENTAL LITERACY",
+      "ENVIRONMENTAL ETHICS",
+      "ENVIRONMENTAL POLLUTION"
+    ]
+  },
+  {
+    "gloss": "ENVIRONMENTAL RISK",
+    "category": "COMPOUND",
+    "anchor": [
+      "ENVIRONMENTAL PROTECTION POLICIES",
+      "ENVIRONMENTAL PSYCHOLOGY",
+      "ENVIRONMENTAL LITERACY",
+      "ENVIRONMENTAL ETHICS",
+      "ENVIRONMENTAL POLLUTION"
+    ]
+  },
+  {
+    "gloss": "ENVIRONMENTALIST",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EPISODE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EREMITE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ESCAPISM",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ESPORTS",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ESTIMATED TIME EN-ROUTE",
+    "category": "COMPOUND",
+    "anchor": [
+      "ESTIMATED TIME OF ARRIVAL",
+      "ESTIMATED DELIVERY DATE OR DUE DATE",
+      "ESTIMATED TIME OF DEPARTURE"
+    ]
+  },
+  {
+    "gloss": "ESTIMATED TIME OF ARRIVAL",
+    "category": "COMPOUND",
+    "anchor": [
+      "ESTIMATED DELIVERY DATE OR DUE DATE",
+      "ESTIMATED TIME OF DEPARTURE",
+      "ESTIMATED TIME EN-ROUTE"
+    ]
+  },
+  {
+    "gloss": "ESTIMATED TIME OF DEPARTURE",
+    "category": "COMPOUND",
+    "anchor": [
+      "ESTIMATED TIME OF ARRIVAL",
+      "ESTIMATED DELIVERY DATE OR DUE DATE",
+      "ESTIMATED TIME EN-ROUTE"
+    ]
+  },
+  {
+    "gloss": "ESTONIA",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ETHICAL DILEMMA",
+    "category": "COMPOUND",
+    "anchor": []
+  },
+  {
+    "gloss": "ETHIOPIA",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ETHOS",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EVANGELICAL",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXCELLENCE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXCEPT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXECUTE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXERCISE THERAPY",
+    "category": "COMPOUND",
+    "anchor": [
+      "EXERCISE",
+      "EXERCISE MAT",
+      "EXERCISE OF OPTION"
+    ]
+  },
+  {
+    "gloss": "EXFOLIATE",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXHIBITION",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXPECT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EXTANT",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "EYE PENCIL",
+    "category": "COMPOUND",
+    "anchor": [
+      "EYE BANK",
+      "EYE DONORS",
+      "EYE LENS",
+      "EYE",
+      "EYE HAND COORDINATION"
+    ]
+  },
+  {
+    "gloss": "EYESHADOW",
+    "category": "CORE",
+    "anchor": []
+  },
+  {
+    "gloss": "ENVIRONMENTAL RACISM",
+    "category": "COMPOUND",
+    "anchor": [
+      "ENVIRONMENTAL PROTECTION POLICIES",
+      "ENVIRONMENTAL PSYCHOLOGY",
+      "ENVIRONMENTAL LITERACY",
+      "ENVIRONMENTAL ETHICS",
+      "ENVIRONMENTAL POLLUTION"
+    ]
+  }
+]

@@ -1,0 +1,2379 @@
+{
+  "metadata": {
+    "total_words": 374,
+    "description": "Words starting with letter I"
+  },
+  "words": [
+    {
+      "gloss": "I DON'T KNOW",
+      "category": "COMPOUND",
+      "anchor": [
+        "I UNDERSTAND",
+        "I"
+      ]
+    },
+    {
+      "gloss": "I UNDERSTAND",
+      "category": "COMPOUND",
+      "anchor": [
+        "I DON'T KNOW",
+        "I"
+      ]
+    },
+    {
+      "gloss": "I, ME",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "IBALL MOBILE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ICE CONE, SNOW CONE, GOLA, CHUSKI",
+      "category": "COMPOUND",
+      "anchor": [
+        "ICE AGE",
+        "ICE HOCKEY",
+        "ICE CREAM"
+      ]
+    },
+    {
+      "gloss": "ICE CREAM",
+      "category": "COMPOUND",
+      "anchor": [
+        "ICE AGE",
+        "ICE HOCKEY",
+        "ICE CONE, SNOW CONE, GOLA, CHUSKI"
+      ]
+    },
+    {
+      "gloss": "ICE HOCKEY",
+      "category": "COMPOUND",
+      "anchor": [
+        "ICE AGE",
+        "ICE CREAM",
+        "ICE CONE, SNOW CONE, GOLA, CHUSKI"
+      ]
+    },
+    {
+      "gloss": "ICICI BANK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "IDBI BANK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "IDEA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IDENTITY",
+      "category": "CORE",
+      "anchor": [
+        "IDENTITY CARD",
+        "IDENTITY THEFT"
+      ]
+    },
+    {
+      "gloss": "IDENTITY CARD",
+      "category": "COMPOUND",
+      "anchor": [
+        "IDENTITY THEFT",
+        "IDENTITY"
+      ]
+    },
+    {
+      "gloss": "IDFC BANK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ID-UL-FITR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IFSC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IGNORE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ILLEGAL, UNLAWFUL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "IMAGE, PHOTO",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "IMAGINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IMMEDIATE, INSTANT, SWIFT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "IMPLEMENTATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IMPORTANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IMPOSSIBLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IMPROVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IMPURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IN",
+      "category": "CORE",
+      "anchor": [
+        "IN ABSENTIA, EX PARTE",
+        "IN TOUCH",
+        "IN ADVANCE, BEFOREHAND",
+        "IN CAMERA PROCEEDINGS",
+        "IN THE MONEY"
+      ]
+    },
+    {
+      "gloss": "IN ADVANCE, BEFOREHAND",
+      "category": "COMPOUND",
+      "anchor": [
+        "IN ABSENTIA, EX PARTE",
+        "IN TOUCH",
+        "IN CAMERA PROCEEDINGS",
+        "IN THE MONEY",
+        "IN"
+      ]
+    },
+    {
+      "gloss": "IN TOUCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "IN ABSENTIA, EX PARTE",
+        "IN ADVANCE, BEFOREHAND",
+        "IN CAMERA PROCEEDINGS",
+        "IN THE MONEY",
+        "IN"
+      ]
+    },
+    {
+      "gloss": "IN, UNDER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INAUGURATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INCH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INCITE, IGNITE, INFLAME, INSTIGATE, STIR UP, PROVOKE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INCLUDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INCOME",
+      "category": "CORE",
+      "anchor": [
+        "INCOME TAX",
+        "INCOME CERTIFICATE"
+      ]
+    },
+    {
+      "gloss": "INCREASE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INCREASE, AUGMENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INDEPENDENCE DAY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INDEPENDENT",
+      "category": "CORE",
+      "anchor": [
+        "INDEPENDENT CLAUSE"
+      ]
+    },
+    {
+      "gloss": "INDIA GATE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INDIAN NATIONAL CONGRESS, CONGRESS",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIAN PREMIER LEAGUE",
+        "INDIAN SIGN LANGUAGE",
+        "INDIAN SIGN LANGUAGE TEACHERS ASSOCIATION",
+        "INDIAN SIGN LANGUAGE RESEARCH AND TRAINING CENTRE",
+        "INDIAN SIGN LANGUAGE INTERPRETERS ASSOCIATION"
+      ]
+    },
+    {
+      "gloss": "INDIAN PREMIER LEAGUE",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIAN NATIONAL CONGRESS, CONGRESS",
+        "INDIAN SIGN LANGUAGE",
+        "INDIAN SIGN LANGUAGE TEACHERS ASSOCIATION",
+        "INDIAN SIGN LANGUAGE RESEARCH AND TRAINING CENTRE",
+        "INDIAN SIGN LANGUAGE INTERPRETERS ASSOCIATION"
+      ]
+    },
+    {
+      "gloss": "INDIAN SIGN LANGUAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIAN PREMIER LEAGUE",
+        "INDIAN NATIONAL CONGRESS, CONGRESS",
+        "INDIAN SIGN LANGUAGE TEACHERS ASSOCIATION",
+        "INDIAN SIGN LANGUAGE RESEARCH AND TRAINING CENTRE",
+        "INDIAN SIGN LANGUAGE INTERPRETERS ASSOCIATION"
+      ]
+    },
+    {
+      "gloss": "INDIAN SIGN LANGUAGE INTERPRETERS ASSOCIATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIAN PREMIER LEAGUE",
+        "INDIAN NATIONAL CONGRESS, CONGRESS",
+        "INDIAN SIGN LANGUAGE",
+        "INDIAN SIGN LANGUAGE TEACHERS ASSOCIATION",
+        "INDIAN SIGN LANGUAGE RESEARCH AND TRAINING CENTRE"
+      ]
+    },
+    {
+      "gloss": "INDIAN SIGN LANGUAGE RESEARCH AND TRAINING CENTRE",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIAN PREMIER LEAGUE",
+        "INDIAN NATIONAL CONGRESS, CONGRESS",
+        "INDIAN SIGN LANGUAGE",
+        "INDIAN SIGN LANGUAGE TEACHERS ASSOCIATION",
+        "INDIAN SIGN LANGUAGE INTERPRETERS ASSOCIATION"
+      ]
+    },
+    {
+      "gloss": "INDIAN SIGN LANGUAGE TEACHERS ASSOCIATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIAN PREMIER LEAGUE",
+        "INDIAN NATIONAL CONGRESS, CONGRESS",
+        "INDIAN SIGN LANGUAGE",
+        "INDIAN SIGN LANGUAGE RESEARCH AND TRAINING CENTRE",
+        "INDIAN SIGN LANGUAGE INTERPRETERS ASSOCIATION"
+      ]
+    },
+    {
+      "gloss": "INDIGO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INDIRA GANDHI",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INDIVIDUAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INFINITE, IMMEASURABLE, LIMITLESS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INFLUENCE, AFFECT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INFORM, APPRISE, NOTIFY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INFORMAL, CASUAL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INITIATIVE, DRIVE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INJECTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INJURY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INNINGS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INNOVATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INSECT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INSPIRE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INSTAGRAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INSTIGATE, INCITE, PROVOKE, SPUR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INSTITUTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INSTRUCT, TEACH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INSULT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INSURANCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTELLIGENCE, KNOWLEDGE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INTELLIGENT, BRILLIANT, SMART",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTELLIGENT, KNOWLEDGEABLE"
+      ]
+    },
+    {
+      "gloss": "INTELLIGENT, KNOWLEDGEABLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTELLIGENT, BRILLIANT, SMART"
+      ]
+    },
+    {
+      "gloss": "INTEREST",
+      "category": "CORE",
+      "anchor": [
+        "INTEREST RATE SWAP",
+        "INTEREST RATE",
+        "INTEREST ON SAVINGS ACCOUNT"
+      ]
+    },
+    {
+      "gloss": "INTEREST ON SAVINGS ACCOUNT",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTEREST RATE SWAP",
+        "INTEREST RATE",
+        "INTEREST"
+      ]
+    },
+    {
+      "gloss": "INTERNATIONAL",
+      "category": "CORE",
+      "anchor": [
+        "INTERNATIONAL COLOR CODE",
+        "INTERNATIONAL MASTER",
+        "INTERNATIONAL SIGN",
+        "INTERNATIONAL WEEK OF THE DEAF",
+        "INTERNATIONAL SIGN, INTERNATIONAL SIGN LANGUAGE"
+      ]
+    },
+    {
+      "gloss": "INTERNATIONAL MASTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTERNATIONAL COLOR CODE",
+        "INTERNATIONAL SIGN",
+        "INTERNATIONAL WEEK OF THE DEAF",
+        "INTERNATIONAL",
+        "INTERNATIONAL SIGN, INTERNATIONAL SIGN LANGUAGE"
+      ]
+    },
+    {
+      "gloss": "INTERNATIONAL SIGN",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTERNATIONAL COLOR CODE",
+        "INTERNATIONAL MASTER",
+        "INTERNATIONAL WEEK OF THE DEAF",
+        "INTERNATIONAL",
+        "INTERNATIONAL SIGN, INTERNATIONAL SIGN LANGUAGE"
+      ]
+    },
+    {
+      "gloss": "INTERNATIONAL SIGN, INTERNATIONAL SIGN LANGUAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTERNATIONAL COLOR CODE",
+        "INTERNATIONAL MASTER",
+        "INTERNATIONAL SIGN",
+        "INTERNATIONAL WEEK OF THE DEAF",
+        "INTERNATIONAL"
+      ]
+    },
+    {
+      "gloss": "INTERNATIONAL WEEK OF THE DEAF",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTERNATIONAL COLOR CODE",
+        "INTERNATIONAL MASTER",
+        "INTERNATIONAL SIGN",
+        "INTERNATIONAL",
+        "INTERNATIONAL SIGN, INTERNATIONAL SIGN LANGUAGE"
+      ]
+    },
+    {
+      "gloss": "INTERNET",
+      "category": "CORE",
+      "anchor": [
+        "INTERNET DISCONNECTION",
+        "INTERNET BANKING, ONLINE BANKING, WEB BANKING"
+      ]
+    },
+    {
+      "gloss": "INTERNET BANKING, ONLINE BANKING, WEB BANKING",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTERNET DISCONNECTION",
+        "INTERNET"
+      ]
+    },
+    {
+      "gloss": "INTERPRET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTERPRET, INTERPRETER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INTERSTATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTERVIEW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTRASTATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTRODUCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INVENT, CREATE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INVERTEBRATES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INVITE, WELCOME",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INVOLVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IPHONE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IRON",
+      "category": "CORE",
+      "anchor": [
+        "IRON PILLAR",
+        "IRON SMELTER",
+        "IRON AGE"
+      ]
+    },
+    {
+      "gloss": "IRRITATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ISLAM, MUSLIM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ISLAND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ISSUE",
+      "category": "CORE",
+      "anchor": [
+        "ISSUE PRICE"
+      ]
+    },
+    {
+      "gloss": "IT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IT, THIS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ITCH, SCRATCH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ITS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ITSELF",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ICE AGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "ICE CREAM",
+        "ICE CONE, SNOW CONE, GOLA, CHUSKI",
+        "ICE HOCKEY"
+      ]
+    },
+    {
+      "gloss": "ICONICITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IDEAL",
+      "category": "CORE",
+      "anchor": [
+        "IDEAL FUEL"
+      ]
+    },
+    {
+      "gloss": "IDIOLECT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IDIOMS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IGNEOUS ROCKS",
+      "category": "COMPOUND",
+      "anchor": [
+        "IGNEOUS ROCK"
+      ]
+    },
+    {
+      "gloss": "IMITATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IMMUNE SYSTEM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "IMPERIALISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IMPLEMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IMPORT AND EXPORT",
+      "category": "COMPOUND",
+      "anchor": [
+        "IMPORT LICENCE",
+        "IMPORT DUTY"
+      ]
+    },
+    {
+      "gloss": "IMPORT DUTY",
+      "category": "COMPOUND",
+      "anchor": [
+        "IMPORT LICENCE",
+        "IMPORT AND EXPORT"
+      ]
+    },
+    {
+      "gloss": "IMPORT LICENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "IMPORT AND EXPORT",
+        "IMPORT DUTY"
+      ]
+    },
+    {
+      "gloss": "IMPROPER FRACTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INCENTIVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INCLINATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INCLUSION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INCORPORTATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INDEXING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INDIAN COUNCIL OF AGRICULTURAL RESEARCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIAN PREMIER LEAGUE",
+        "INDIAN NATIONAL CONGRESS, CONGRESS",
+        "INDIAN SIGN LANGUAGE",
+        "INDIAN SIGN LANGUAGE RESEARCH AND TRAINING CENTRE",
+        "INDIAN SIGN LANGUAGE INTERPRETERS ASSOCIATION"
+      ]
+    },
+    {
+      "gloss": "INDIAN COUNCIL OF HISTORICAL RESEARCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIAN PREMIER LEAGUE",
+        "INDIAN NATIONAL CONGRESS, CONGRESS",
+        "INDIAN SIGN LANGUAGE",
+        "INDIAN SIGN LANGUAGE RESEARCH AND TRAINING CENTRE",
+        "INDIAN SIGN LANGUAGE INTERPRETERS ASSOCIATION"
+      ]
+    },
+    {
+      "gloss": "INDIAN COUNCIL OF MEDICAL RESEARCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIAN PREMIER LEAGUE",
+        "INDIAN NATIONAL CONGRESS, CONGRESS",
+        "INDIAN SIGN LANGUAGE",
+        "INDIAN SIGN LANGUAGE RESEARCH AND TRAINING CENTRE",
+        "INDIAN SIGN LANGUAGE INTERPRETERS ASSOCIATION"
+      ]
+    },
+    {
+      "gloss": "INDIAN INSTITUTE OF MANAGEMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIAN PREMIER LEAGUE",
+        "INDIAN NATIONAL CONGRESS, CONGRESS",
+        "INDIAN SIGN LANGUAGE",
+        "INDIAN SIGN LANGUAGE RESEARCH AND TRAINING CENTRE",
+        "INDIAN SIGN LANGUAGE INTERPRETERS ASSOCIATION"
+      ]
+    },
+    {
+      "gloss": "INDIAN INSTITUTE OF TECHNOLOGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIAN PREMIER LEAGUE",
+        "INDIAN NATIONAL CONGRESS, CONGRESS",
+        "INDIAN SIGN LANGUAGE",
+        "INDIAN SIGN LANGUAGE RESEARCH AND TRAINING CENTRE",
+        "INDIAN SIGN LANGUAGE INTERPRETERS ASSOCIATION"
+      ]
+    },
+    {
+      "gloss": "INDIAN INSTITUTE OF TRANSLATION AND INTERPRETATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIAN PREMIER LEAGUE",
+        "INDIAN NATIONAL CONGRESS, CONGRESS",
+        "INDIAN SIGN LANGUAGE",
+        "INDIAN SIGN LANGUAGE RESEARCH AND TRAINING CENTRE",
+        "INDIAN SIGN LANGUAGE INTERPRETERS ASSOCIATION"
+      ]
+    },
+    {
+      "gloss": "INDIAN NATIONAL MOVEMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIAN PREMIER LEAGUE",
+        "INDIAN NATIONAL CONGRESS, CONGRESS",
+        "INDIAN SIGN LANGUAGE",
+        "INDIAN SIGN LANGUAGE RESEARCH AND TRAINING CENTRE",
+        "INDIAN SIGN LANGUAGE INTERPRETERS ASSOCIATION"
+      ]
+    },
+    {
+      "gloss": "INDICATOR",
+      "category": "CORE",
+      "anchor": [
+        "INDICATOR CROPS"
+      ]
+    },
+    {
+      "gloss": "INDIGESTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INDIRECT ASSESSMENT METHODS",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIRECT CONTACT"
+      ]
+    },
+    {
+      "gloss": "INDUCTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INDUS VALLEY CIVILIZATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INDUSTRIAL TRAINING INSTITUTE",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDUSTRIAL AUTOMATION",
+        "INDUSTRIAL BUILDING",
+        "INDUSTRIAL VISIT",
+        "INDUSTRIAL REVOLUTION"
+      ]
+    },
+    {
+      "gloss": "INERTIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INFANT",
+      "category": "CORE",
+      "anchor": [
+        "INFANT INDUSTRY",
+        "INFANT WEIGHING SCALE"
+      ]
+    },
+    {
+      "gloss": "INFANT INDUSTRY",
+      "category": "COMPOUND",
+      "anchor": [
+        "INFANT WEIGHING SCALE",
+        "INFANT"
+      ]
+    },
+    {
+      "gloss": "INFILTRATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INFLAMMABLE",
+      "category": "CORE",
+      "anchor": [
+        "INFLAMMABLE SUBSTANCE"
+      ]
+    },
+    {
+      "gloss": "INFORMATION AND COMMUNICATION TECHNOLOGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "INFORMATION AND FACILITATION CENTRE"
+      ]
+    },
+    {
+      "gloss": "INGREDIENTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INHALATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INNATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INSECTICIDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INSECTIVOROUS",
+      "category": "CORE",
+      "anchor": [
+        "INSECTIVOROUS PLANTS"
+      ]
+    },
+    {
+      "gloss": "INSTITUTIONAL DEVELOPMENT PLAN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INSTRINISIC TOURISTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INSULATOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTEGER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTELLIGENCE",
+      "category": "CORE",
+      "anchor": [
+        "INTELLIGENCE QUOTIENT"
+      ]
+    },
+    {
+      "gloss": "INTELLIGENCE QUOTIENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTELLIGENCE"
+      ]
+    },
+    {
+      "gloss": "INTERCONNECTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTER-CROPPING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTERIOR OF CURVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTERIOR DESIGN"
+      ]
+    },
+    {
+      "gloss": "INTERLOCKING AND LUBRICANT",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTERLOCKING"
+      ]
+    },
+    {
+      "gloss": "INTERNAL BODY PARTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INTERNSHIP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTERPRETING ETHICS",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTERPRETING PRACTICES"
+      ]
+    },
+    {
+      "gloss": "INTERPRETING PRACTICES",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTERPRETING ETHICS"
+      ]
+    },
+    {
+      "gloss": "INTERRELATIONSHIP OF PLANT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INTERSECTING LINES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INTERSECTION POINT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INTERSTELLAR SPACE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INTROSPECTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INVESTMENT",
+      "category": "CORE",
+      "anchor": [
+        "INVESTMENT BANKS"
+      ]
+    },
+    {
+      "gloss": "IRON AGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "IRON",
+        "IRON PILLAR",
+        "IRON SMELTER"
+      ]
+    },
+    {
+      "gloss": "IRON PILLAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "IRON",
+        "IRON SMELTER",
+        "IRON AGE"
+      ]
+    },
+    {
+      "gloss": "ISOSCELES TRIANGLE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "IMPORTANCE OF FISH ON FOOD",
+      "category": "COMPOUND",
+      "anchor": [
+        "IMPORTANCE OF VEGETABLES",
+        "IMPORTANCE OF PHOTOSYNTHESIS"
+      ]
+    },
+    {
+      "gloss": "IMPORTANCE OF PHOTOSYNTHESIS",
+      "category": "COMPOUND",
+      "anchor": [
+        "IMPORTANCE OF FISH ON FOOD",
+        "IMPORTANCE OF VEGETABLES"
+      ]
+    },
+    {
+      "gloss": "IMPORTANCE OF VEGETABLES",
+      "category": "COMPOUND",
+      "anchor": [
+        "IMPORTANCE OF FISH ON FOOD",
+        "IMPORTANCE OF PHOTOSYNTHESIS"
+      ]
+    },
+    {
+      "gloss": "INANIMATE CAUSES",
+      "category": "COMPOUND",
+      "anchor": [
+        "INANIMATE"
+      ]
+    },
+    {
+      "gloss": "INARCHING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INBREEDING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INDICATOR CROPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDICATOR"
+      ]
+    },
+    {
+      "gloss": "INDIGENOUS BREEDS OF POULTRY",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIGENOUS OR DOMESTIC SWINE",
+        "INDIGENOUS GOAT",
+        "INDIGENOUS SHEEP",
+        "INDIGENOUS WEEDS"
+      ]
+    },
+    {
+      "gloss": "INDIGENOUS GOAT",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIGENOUS OR DOMESTIC SWINE",
+        "INDIGENOUS WEEDS",
+        "INDIGENOUS SHEEP",
+        "INDIGENOUS BREEDS OF POULTRY"
+      ]
+    },
+    {
+      "gloss": "INDIGENOUS OR DOMESTIC SWINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIGENOUS GOAT",
+        "INDIGENOUS SHEEP",
+        "INDIGENOUS WEEDS",
+        "INDIGENOUS BREEDS OF POULTRY"
+      ]
+    },
+    {
+      "gloss": "INDIGENOUS SHEEP",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIGENOUS OR DOMESTIC SWINE",
+        "INDIGENOUS GOAT",
+        "INDIGENOUS WEEDS",
+        "INDIGENOUS BREEDS OF POULTRY"
+      ]
+    },
+    {
+      "gloss": "INDIGENOUS WEEDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIGENOUS OR DOMESTIC SWINE",
+        "INDIGENOUS GOAT",
+        "INDIGENOUS SHEEP",
+        "INDIGENOUS BREEDS OF POULTRY"
+      ]
+    },
+    {
+      "gloss": "INDOOR GARDENING",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDOOR GAMES",
+        "INDOOR"
+      ]
+    },
+    {
+      "gloss": "INFECTIOUS CHICK BRONCHITIS",
+      "category": "COMPOUND",
+      "anchor": [
+        "INFECTIOUS DISEASE"
+      ]
+    },
+    {
+      "gloss": "INFECTIOUS DISEASE",
+      "category": "COMPOUND",
+      "anchor": [
+        "INFECTIOUS CHICK BRONCHITIS"
+      ]
+    },
+    {
+      "gloss": "INGADULICIS SP.",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INNER SHELL MEMBRANE",
+      "category": "COMPOUND",
+      "anchor": [
+        "INNER CHILD"
+      ]
+    },
+    {
+      "gloss": "INSECTIVOROUS PLANTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "INSECTIVOROUS"
+      ]
+    },
+    {
+      "gloss": "INTEGRATED PEST MANAGEMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTEGRATED CIRCUIT"
+      ]
+    },
+    {
+      "gloss": "INTERCROPPING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INVERTED T",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "IPOMEA CORNEA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "IRRIGATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ICELAND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INDONESIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IRAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IRAQ",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IRELAND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ISRAEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ITALY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IN THE MONEY",
+      "category": "COMPOUND",
+      "anchor": [
+        "IN ABSENTIA, EX PARTE",
+        "IN TOUCH",
+        "IN ADVANCE, BEFOREHAND",
+        "IN CAMERA PROCEEDINGS",
+        "IN"
+      ]
+    },
+    {
+      "gloss": "INDEX",
+      "category": "CORE",
+      "anchor": [
+        "INDEX FINGER"
+      ]
+    },
+    {
+      "gloss": "INITIAL MARGIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "INITIAL PUBLIC OFFER"
+      ]
+    },
+    {
+      "gloss": "INITIAL PUBLIC OFFER",
+      "category": "COMPOUND",
+      "anchor": [
+        "INITIAL MARGIN"
+      ]
+    },
+    {
+      "gloss": "INTERBANK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTEREST RATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTEREST RATE SWAP",
+        "INTEREST ON SAVINGS ACCOUNT",
+        "INTEREST"
+      ]
+    },
+    {
+      "gloss": "INTEREST RATE SWAP",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTEREST RATE",
+        "INTEREST ON SAVINGS ACCOUNT",
+        "INTEREST"
+      ]
+    },
+    {
+      "gloss": "INVESTMENT BANKS",
+      "category": "COMPOUND",
+      "anchor": [
+        "INVESTMENT"
+      ]
+    },
+    {
+      "gloss": "INVESTOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ISSUE PRICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "ISSUE"
+      ]
+    },
+    {
+      "gloss": "IT'S A PIECE OF CAKE",
+      "category": "COMPOUND",
+      "anchor": [
+        "IT'S NOT ROCKET SCIENCE",
+        "IT'S RAINING CATS AND DOGS"
+      ]
+    },
+    {
+      "gloss": "IT'S NOT ROCKET SCIENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "IT'S RAINING CATS AND DOGS",
+        "IT'S A PIECE OF CAKE"
+      ]
+    },
+    {
+      "gloss": "IT'S RAINING CATS AND DOGS",
+      "category": "COMPOUND",
+      "anchor": [
+        "IT'S NOT ROCKET SCIENCE",
+        "IT'S A PIECE OF CAKE"
+      ]
+    },
+    {
+      "gloss": "IDDAT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IDENTIFICATION",
+      "category": "CORE",
+      "anchor": [
+        "IDENTIFICATION PARADE"
+      ]
+    },
+    {
+      "gloss": "IDENTIFICATION PARADE",
+      "category": "COMPOUND",
+      "anchor": [
+        "IDENTIFICATION"
+      ]
+    },
+    {
+      "gloss": "IDENTITY THEFT",
+      "category": "COMPOUND",
+      "anchor": [
+        "IDENTITY CARD",
+        "IDENTITY"
+      ]
+    },
+    {
+      "gloss": "ILLEGAL DRUG TRADE OR DRUG TRAFFICKING, DRUG PEDDELING, DRUG PEDDLER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "IMMATERIAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IMMOVABLE PROPERTY, MOVABLE PROPERTY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "IMPEACHMENT",
+      "category": "CORE",
+      "anchor": [
+        "IMPEACHMENT OF WITNESS"
+      ]
+    },
+    {
+      "gloss": "IMPEACHMENT OF WITNESS",
+      "category": "COMPOUND",
+      "anchor": [
+        "IMPEACHMENT"
+      ]
+    },
+    {
+      "gloss": "IMPREST MONEY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "IN ABSENTIA, EX PARTE",
+      "category": "COMPOUND",
+      "anchor": [
+        "IN TOUCH",
+        "IN ADVANCE, BEFOREHAND",
+        "IN CAMERA PROCEEDINGS",
+        "IN THE MONEY",
+        "IN"
+      ]
+    },
+    {
+      "gloss": "IN CAMERA PROCEEDINGS",
+      "category": "COMPOUND",
+      "anchor": [
+        "IN ABSENTIA, EX PARTE",
+        "IN TOUCH",
+        "IN ADVANCE, BEFOREHAND",
+        "IN THE MONEY",
+        "IN"
+      ]
+    },
+    {
+      "gloss": "IN FORMA PAUPERIS",
+      "category": "COMPOUND",
+      "anchor": [
+        "IN ABSENTIA, EX PARTE",
+        "IN TOUCH",
+        "IN ADVANCE, BEFOREHAND",
+        "IN THE MONEY",
+        "IN"
+      ]
+    },
+    {
+      "gloss": "INCOME CERTIFICATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "INCOME TAX",
+        "INCOME"
+      ]
+    },
+    {
+      "gloss": "INCUMBRANCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INDIAN PENAL CODE",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIAN PREMIER LEAGUE",
+        "INDIAN NATIONAL CONGRESS, CONGRESS",
+        "INDIAN SIGN LANGUAGE",
+        "INDIAN SIGN LANGUAGE RESEARCH AND TRAINING CENTRE",
+        "INDIAN SIGN LANGUAGE INTERPRETERS ASSOCIATION"
+      ]
+    },
+    {
+      "gloss": "INFANTICIDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INFORMATION AND FACILITATION CENTRE",
+      "category": "COMPOUND",
+      "anchor": [
+        "INFORMATION AND COMMUNICATION TECHNOLOGY"
+      ]
+    },
+    {
+      "gloss": "INMATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INNOCENT UNTIL PROVED GUILTY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INTER DEPARTMENTAL NOTE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INTERCEPTOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTERROGATORY, INTERROGATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INTESTATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INVENTORY",
+      "category": "CORE",
+      "anchor": [
+        "INVENTORY MANAGEMENT"
+      ]
+    },
+    {
+      "gloss": "INVENTORY MANAGEMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "INVENTORY"
+      ]
+    },
+    {
+      "gloss": "ITINERARY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ICU",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IMPLANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INDEX FINGER",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDEX"
+      ]
+    },
+    {
+      "gloss": "INFANT WEIGHING SCALE",
+      "category": "COMPOUND",
+      "anchor": [
+        "INFANT INDUSTRY",
+        "INFANT"
+      ]
+    },
+    {
+      "gloss": "INFECTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INFERTILITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INFLAMMATORY BOWEL DISEASE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INFLUENZA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INFRA RED RADIATIONCRADLE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INFUSION STAND",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "IRIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ICON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IDLER PULLEY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "IMPORTING GRAPHICS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INBUILT MACHINE CONTROL UNIT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INCOGNITO WINDOW",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INDENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INDUCTOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INDUSTRIAL AUTOMATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDUSTRIAL BUILDING",
+        "INDUSTRIAL VISIT",
+        "INDUSTRIAL REVOLUTION",
+        "INDUSTRIAL TRAINING INSTITUTE"
+      ]
+    },
+    {
+      "gloss": "INDUSTRIAL BUILDING",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDUSTRIAL AUTOMATION",
+        "INDUSTRIAL VISIT",
+        "INDUSTRIAL REVOLUTION",
+        "INDUSTRIAL TRAINING INSTITUTE"
+      ]
+    },
+    {
+      "gloss": "INHERITANCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INKJET PRINTER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INLINE GRAPHICS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INPUT UNIT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INSIDE CALIPER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INSPECT DOCUMENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INSTALL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INSULATORS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTEGRATED CIRCUIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTEGRATED PEST MANAGEMENT"
+      ]
+    },
+    {
+      "gloss": "INTERLINING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTERNATIONAL COLOR CODE",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTERNATIONAL MASTER",
+        "INTERNATIONAL SIGN",
+        "INTERNATIONAL WEEK OF THE DEAF",
+        "INTERNATIONAL",
+        "INTERNATIONAL SIGN, INTERNATIONAL SIGN LANGUAGE"
+      ]
+    },
+    {
+      "gloss": "INTERNET DISCONNECTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTERNET BANKING, ONLINE BANKING, WEB BANKING",
+        "INTERNET"
+      ]
+    },
+    {
+      "gloss": "INTRUSION DETECTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INVERTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INVISIBLE CUT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INVITATION EMAIL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "IP ADDRESS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "IPAD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ISOLATED FOUNDATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ITALICS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IDEAL FUEL",
+      "category": "COMPOUND",
+      "anchor": [
+        "IDEAL"
+      ]
+    },
+    {
+      "gloss": "IGNITION TEMPERATURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "IGNITION"
+      ]
+    },
+    {
+      "gloss": "INCIDENT RAY",
+      "category": "COMPOUND",
+      "anchor": [
+        "INCIDENT MANAGEMENT"
+      ]
+    },
+    {
+      "gloss": "INCISOR TEETH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INDEFINITE ARTICLE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INFLAMMABLE SUBSTANCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "INFLAMMABLE"
+      ]
+    },
+    {
+      "gloss": "INGESTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INSCRIPTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INSULIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTERJECTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTERLOCKING",
+      "category": "CORE",
+      "anchor": [
+        "INTERLOCKING AND LUBRICANT"
+      ]
+    },
+    {
+      "gloss": "INVERSE PROPORTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "IRON SMELTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "IRON",
+        "IRON PILLAR",
+        "IRON AGE"
+      ]
+    },
+    {
+      "gloss": "IGNEOUS ROCK",
+      "category": "COMPOUND",
+      "anchor": [
+        "IGNEOUS ROCKS"
+      ]
+    },
+    {
+      "gloss": "IDEOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IGNITION",
+      "category": "CORE",
+      "anchor": [
+        "IGNITION TEMPERATURE"
+      ]
+    },
+    {
+      "gloss": "IMAGERY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IMITATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IMMENSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IMMIGRATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IMMUNITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IMPAIRMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INANIMATE",
+      "category": "CORE",
+      "anchor": [
+        "INANIMATE CAUSES"
+      ]
+    },
+    {
+      "gloss": "INCARNATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INCINERATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INCONCLUSIVE TEST RESULT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INCUBATION PERIOD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INDEPENDENT CLAUSE",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDEPENDENT"
+      ]
+    },
+    {
+      "gloss": "INDIAN STANDARD TIME",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIAN PREMIER LEAGUE",
+        "INDIAN NATIONAL CONGRESS, CONGRESS",
+        "INDIAN SIGN LANGUAGE",
+        "INDIAN SIGN LANGUAGE RESEARCH AND TRAINING CENTRE",
+        "INDIAN SIGN LANGUAGE INTERPRETERS ASSOCIATION"
+      ]
+    },
+    {
+      "gloss": "INDIRECT CONTACT",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIRECT ASSESSMENT METHODS"
+      ]
+    },
+    {
+      "gloss": "INDOOR",
+      "category": "CORE",
+      "anchor": [
+        "INDOOR GARDENING",
+        "INDOOR GAMES"
+      ]
+    },
+    {
+      "gloss": "INDUSTRIAL REVOLUTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDUSTRIAL AUTOMATION",
+        "INDUSTRIAL BUILDING",
+        "INDUSTRIAL VISIT",
+        "INDUSTRIAL TRAINING INSTITUTE"
+      ]
+    },
+    {
+      "gloss": "INDUSTRIAL VISIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDUSTRIAL AUTOMATION",
+        "INDUSTRIAL BUILDING",
+        "INDUSTRIAL REVOLUTION",
+        "INDUSTRIAL TRAINING INSTITUTE"
+      ]
+    },
+    {
+      "gloss": "INDUSTRIALIZATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INEQUALITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INFRASTRUCTURE",
+      "category": "CORE",
+      "anchor": [
+        "INFRASTRUCTURE RESILIENCE",
+        "INFRASTRUCTURE AUTOMATION",
+        "INFRASTRUCTURE ASSESSMENT"
+      ]
+    },
+    {
+      "gloss": "INFRASTRUCTURE ASSESSMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "INFRASTRUCTURE RESILIENCE",
+        "INFRASTRUCTURE",
+        "INFRASTRUCTURE AUTOMATION"
+      ]
+    },
+    {
+      "gloss": "INHABIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INHABITANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INNOVATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INSPECTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTELLECTUAL",
+      "category": "CORE",
+      "anchor": [
+        "INTELLECTUAL DISABILITY"
+      ]
+    },
+    {
+      "gloss": "INTERCEPT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTERCHANGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTER-CITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTERDEPENDENCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTERNATIONAL DATE LINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTERNATIONAL MASTER",
+        "INTERNATIONAL SIGN",
+        "INTERNATIONAL WEEK OF THE DEAF",
+        "INTERNATIONAL",
+        "INTERNATIONAL SIGN, INTERNATIONAL SIGN LANGUAGE"
+      ]
+    },
+    {
+      "gloss": "INTIMIDATING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTRIGUE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INVADER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INVOCATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INVOICE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IRONY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IRREVERSIBLE CHANGE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ISOLATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INDIAN ADMINSTRATIVE SERVICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIAN PREMIER LEAGUE",
+        "INDIAN NATIONAL CONGRESS, CONGRESS",
+        "INDIAN SIGN LANGUAGE",
+        "INDIAN SIGN LANGUAGE RESEARCH AND TRAINING CENTRE",
+        "INDIAN SIGN LANGUAGE INTERPRETERS ASSOCIATION"
+      ]
+    },
+    {
+      "gloss": "IMPRISONMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INCLUSIVE EDUCATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INCOME TAX",
+      "category": "COMPOUND",
+      "anchor": [
+        "INCOME",
+        "INCOME CERTIFICATE"
+      ]
+    },
+    {
+      "gloss": "INDOOR GAMES",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDOOR GARDENING",
+        "INDOOR"
+      ]
+    },
+    {
+      "gloss": "INSPECTOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INSTRUCTIONS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTEGRITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INDIAN POLICE SERVICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "INDIAN PREMIER LEAGUE",
+        "INDIAN NATIONAL CONGRESS, CONGRESS",
+        "INDIAN SIGN LANGUAGE",
+        "INDIAN SIGN LANGUAGE RESEARCH AND TRAINING CENTRE",
+        "INDIAN SIGN LANGUAGE INTERPRETERS ASSOCIATION"
+      ]
+    },
+    {
+      "gloss": "ILLUMINATING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IN-BOND SHIPMENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INCIDENT MANAGEMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "INCIDENT RAY"
+      ]
+    },
+    {
+      "gloss": "INFRASTRUCTURE AUTOMATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "INFRASTRUCTURE RESILIENCE",
+        "INFRASTRUCTURE",
+        "INFRASTRUCTURE ASSESSMENT"
+      ]
+    },
+    {
+      "gloss": "INFRASTRUCTURE RESILIENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "INFRASTRUCTURE",
+        "INFRASTRUCTURE AUTOMATION",
+        "INFRASTRUCTURE ASSESSMENT"
+      ]
+    },
+    {
+      "gloss": "INNERVIEW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IMPULSIVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INNER CHILD",
+      "category": "COMPOUND",
+      "anchor": [
+        "INNER SHELL MEMBRANE"
+      ]
+    },
+    {
+      "gloss": "INSOMNIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTELLECTUAL DISABILITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTELLECTUAL"
+      ]
+    },
+    {
+      "gloss": "IRRITABILITY/ IRRITABLE MOOD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "ICONOGRAPHY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ILLUMINATI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IMMANENCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IMPATIENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IMPLICATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INDICT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INFERENCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INFLAMMATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INFOGRAPHICS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INFORMED CONSENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INSTALLATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INTAKE ASSESSMENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "INTERIOR DESIGN",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTERIOR OF CURVE"
+      ]
+    },
+    {
+      "gloss": "INTERNATIONAL AIRPORT",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTERNATIONAL MASTER",
+        "INTERNATIONAL SIGN",
+        "INTERNATIONAL WEEK OF THE DEAF",
+        "INTERNATIONAL",
+        "INTERNATIONAL SIGN, INTERNATIONAL SIGN LANGUAGE"
+      ]
+    },
+    {
+      "gloss": "INTERNATIONAL FLIGHT",
+      "category": "COMPOUND",
+      "anchor": [
+        "INTERNATIONAL MASTER",
+        "INTERNATIONAL SIGN",
+        "INTERNATIONAL WEEK OF THE DEAF",
+        "INTERNATIONAL",
+        "INTERNATIONAL SIGN, INTERNATIONAL SIGN LANGUAGE"
+      ]
+    },
+    {
+      "gloss": "INTONATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INVALIDITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INVENTOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "IRRESPONSIBLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "ITERATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "INVASIVE SPECIES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "IAS - INDIAN ADMINSTRATIVE SERVICE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "IPS - INDIAN POLICE SERVICE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "I",
+      "category": "LETTERS",
+      "anchor": [
+        "I UNDERSTAND",
+        "I DON'T KNOW"
+      ]
+    }
+  ]
+}

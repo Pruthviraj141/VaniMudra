@@ -1,0 +1,8073 @@
+{
+  "metadata": {
+    "total_words": 1214,
+    "description": "Words starting with letter S"
+  },
+  "words": [
+    {
+      "gloss": "SACHIN TENDULKAR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SACRIFICE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SAD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SAFE",
+      "category": "CORE",
+      "anchor": [
+        "SAFE AREA"
+      ]
+    },
+    {
+      "gloss": "SAI BABA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SAILBOAT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SAILOR",
+      "category": "CORE",
+      "anchor": [
+        "SAILOR COLLAR",
+        "SAILOR PANTS"
+      ]
+    },
+    {
+      "gloss": "SAINA NEHWAL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SALARY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SALESMAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SALMAN KHAN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SALT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SALWAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SAMAJWADI PARTY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SAME",
+      "category": "CORE",
+      "anchor": [
+        "SAME AS LAST ONE, SAME AS LAST TIME"
+      ]
+    },
+    {
+      "gloss": "SAME AS LAST ONE, SAME AS LAST TIME",
+      "category": "COMPOUND",
+      "anchor": [
+        "SAME"
+      ]
+    },
+    {
+      "gloss": "SAMOSA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SAMSUNG",
+      "category": "CORE",
+      "anchor": [
+        "SAMSUNG MOBILE"
+      ]
+    },
+    {
+      "gloss": "SAMSUNG MOBILE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SAMSUNG"
+      ]
+    },
+    {
+      "gloss": "SAND",
+      "category": "CORE",
+      "anchor": [
+        "SAND PAPER",
+        "SAND SCREEN MACHINE"
+      ]
+    },
+    {
+      "gloss": "SANDWICH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SANITARY PAD",
+      "category": "COMPOUND",
+      "anchor": [
+        "SANITARY ENGINEERING"
+      ]
+    },
+    {
+      "gloss": "SANJAY DUTT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SARASWATI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SARI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SARVEPALLI RADHAKRISHNAN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SATISFIED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SATURDAY",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "SAUCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SAUTEING, STIR FRY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SCAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCENT, PERFUME",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SCHEDULE",
+      "category": "CORE",
+      "anchor": [
+        "SCHEDULE PRIVILEGE"
+      ]
+    },
+    {
+      "gloss": "SCHOOL",
+      "category": "CORE",
+      "anchor": [
+        "SCHOOL DEVELOPMENT PLAN",
+        "SCHOOL UNIFORM",
+        "SCHOOL BAG",
+        "SCHOOL MANAGEMENT COMMITTEE",
+        "SCHOOL OF FISH"
+      ]
+    },
+    {
+      "gloss": "SCHOOL BAG",
+      "category": "COMPOUND",
+      "anchor": [
+        "SCHOOL DEVELOPMENT PLAN",
+        "SCHOOL",
+        "SCHOOL UNIFORM",
+        "SCHOOL MANAGEMENT COMMITTEE",
+        "SCHOOL OF FISH"
+      ]
+    },
+    {
+      "gloss": "SCHOOL OF FISH",
+      "category": "COMPOUND",
+      "anchor": [
+        "SCHOOL DEVELOPMENT PLAN",
+        "SCHOOL",
+        "SCHOOL UNIFORM",
+        "SCHOOL BAG",
+        "SCHOOL MANAGEMENT COMMITTEE"
+      ]
+    },
+    {
+      "gloss": "SCHOOL UNIFORM",
+      "category": "COMPOUND",
+      "anchor": [
+        "SCHOOL DEVELOPMENT PLAN",
+        "SCHOOL",
+        "SCHOOL BAG",
+        "SCHOOL MANAGEMENT COMMITTEE",
+        "SCHOOL OF FISH"
+      ]
+    },
+    {
+      "gloss": "SCIENCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCIENTIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCISSORS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCOLD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCOOP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCOOTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCORE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCORPION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCRATCH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCREAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCREAM, CHATTER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SCREECH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCUBA DIVING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SCULPTOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEA",
+      "category": "CORE",
+      "anchor": [
+        "SEA LIFE, MARINE LIFE, OCEAN LIFE",
+        "SEA BREEZE",
+        "SEA MAMMALS",
+        "SEA LEVEL",
+        "SEA CAVE, SEA ARCH, STACK AND SEA CLIFF"
+      ]
+    },
+    {
+      "gloss": "SEAMER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEARCH",
+      "category": "CORE",
+      "anchor": [
+        "SEARCH ENGINE",
+        "SEARCH OPERATION"
+      ]
+    },
+    {
+      "gloss": "SEASON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SECOND",
+      "category": "NUMBERS & TIME",
+      "anchor": [
+        "SECOND IN COMMAND",
+        "SECOND PARTY COOKIES"
+      ]
+    },
+    {
+      "gloss": "SECRET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SECRETARY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SECTION",
+      "category": "CORE",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC",
+        "SECTION 232 IPC"
+      ]
+    },
+    {
+      "gloss": "SECURITY GUARD",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECURITY BIT",
+        "SECURITY",
+        "SECURITY AND ACCESS CONTROL",
+        "SECURITY ZONE"
+      ]
+    },
+    {
+      "gloss": "SEE",
+      "category": "CORE",
+      "anchor": [
+        "SEE YOU TOMORROW",
+        "SEE EYE TO EYE"
+      ]
+    },
+    {
+      "gloss": "SEE YOU TOMORROW",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEE EYE TO EYE",
+        "SEE"
+      ]
+    },
+    {
+      "gloss": "SEED",
+      "category": "CORE",
+      "anchor": [
+        "SEED DISPERSAL",
+        "SEED BORNE DISEASE",
+        "SEED PLANTER"
+      ]
+    },
+    {
+      "gloss": "SELECT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SELF",
+      "category": "CORE",
+      "anchor": [
+        "SELF DEFENCE",
+        "SELF POSSESSION",
+        "SELF FINANCING",
+        "SELF APPRAISAL OR SELF ASSESSMENT",
+        "SELF COMPACTING CONCRETE"
+      ]
+    },
+    {
+      "gloss": "SELFISH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SELF-REFLECT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SELL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEMICIRCLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEMINAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SENTENCE",
+      "category": "CORE",
+      "anchor": [
+        "SENTENCE STRUCTURE"
+      ]
+    },
+    {
+      "gloss": "SENTENCE STRUCTURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SENTENCE"
+      ]
+    },
+    {
+      "gloss": "SEPARATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEPARATED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEPTEMBER",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "SEQUENTIAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SERIAL",
+      "category": "CORE",
+      "anchor": [
+        "SERIAL KILLER",
+        "SERIAL MONOGAMY",
+        "SERIAL RAPIST"
+      ]
+    },
+    {
+      "gloss": "SERIOUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SERVANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SERVICE",
+      "category": "CORE",
+      "anchor": [
+        "SERVICE COURT",
+        "SERVICE ROAD",
+        "SERVICE ANIMAL"
+      ]
+    },
+    {
+      "gloss": "SERVICE COURT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SERVICE",
+        "SERVICE ROAD",
+        "SERVICE ANIMAL"
+      ]
+    },
+    {
+      "gloss": "SET",
+      "category": "CORE",
+      "anchor": [
+        "SET SQUARE"
+      ]
+    },
+    {
+      "gloss": "SEVENTH",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "SEW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEWING MACHINE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SEX",
+      "category": "CORE",
+      "anchor": [
+        "SEX TRAFFICKING",
+        "SEX CHROMOSOMES",
+        "SEX RATIO",
+        "SEX OFFENDER",
+        "SEX DETERMINATION"
+      ]
+    },
+    {
+      "gloss": "SHAH RUKH KHAN",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHAH JAHAN"
+      ]
+    },
+    {
+      "gloss": "SHAHEED BHAGAT SINGH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SHAHRUKH KHAN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SHALLOW",
+      "category": "CORE",
+      "anchor": [
+        "SHALLOW ROOTED",
+        "SHALLOW BEDS"
+      ]
+    },
+    {
+      "gloss": "SHAPE",
+      "category": "CLASSIFIERS",
+      "anchor": []
+    },
+    {
+      "gloss": "SHARE",
+      "category": "CORE",
+      "anchor": [
+        "SHARE CAPITAL",
+        "SHARE MARKET"
+      ]
+    },
+    {
+      "gloss": "SHARE MARKET",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHARE",
+        "SHARE CAPITAL"
+      ]
+    },
+    {
+      "gloss": "SHARK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHARP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHARPENER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHATABDI EXPRESS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SHAVING BLADE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHAVING BRUSH",
+        "SHAVING TRIMMER",
+        "SHAVING RAZOR"
+      ]
+    },
+    {
+      "gloss": "SHAVING BRUSH",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHAVING TRIMMER",
+        "SHAVING RAZOR",
+        "SHAVING BLADE"
+      ]
+    },
+    {
+      "gloss": "SHAVING RAZOR",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHAVING BRUSH",
+        "SHAVING TRIMMER",
+        "SHAVING BLADE"
+      ]
+    },
+    {
+      "gloss": "SHAVING TRIMMER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHAVING BRUSH",
+        "SHAVING RAZOR",
+        "SHAVING BLADE"
+      ]
+    },
+    {
+      "gloss": "SHAWL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHED, COWSHED",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SHEEP",
+      "category": "CORE",
+      "anchor": [
+        "SHEEP FARMING"
+      ]
+    },
+    {
+      "gloss": "SHIFT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHIP",
+      "category": "CORE",
+      "anchor": [
+        "SHIP BERTHING"
+      ]
+    },
+    {
+      "gloss": "SHIRT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHIV SENA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SHIVA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHIVER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHOCK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHOCKED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHOE RACK",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHOE POLISH"
+      ]
+    },
+    {
+      "gloss": "SHOELACE, LACE SHOESTRING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SHOES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHOOT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHOOTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHOP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHOPKEEPER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHORT",
+      "category": "CLASSIFIERS",
+      "anchor": [
+        "SHORT CIRCUIT",
+        "SHORT CORNER",
+        "SHORT TERM CAPITAL GAINS",
+        "SHORT TERM"
+      ]
+    },
+    {
+      "gloss": "SHORT CORNER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHORT",
+        "SHORT CIRCUIT",
+        "SHORT TERM CAPITAL GAINS",
+        "SHORT TERM"
+      ]
+    },
+    {
+      "gloss": "SHORT TERM",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHORT",
+        "SHORT CIRCUIT",
+        "SHORT CORNER",
+        "SHORT TERM CAPITAL GAINS"
+      ]
+    },
+    {
+      "gloss": "SHOT",
+      "category": "CORE",
+      "anchor": [
+        "SHOT PUT",
+        "SHOT LIST"
+      ]
+    },
+    {
+      "gloss": "SHOT PUT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHOT LIST",
+        "SHOT"
+      ]
+    },
+    {
+      "gloss": "SHOULD",
+      "category": "GRAMMAR & FUNCTION",
+      "anchor": []
+    },
+    {
+      "gloss": "SHOULDER",
+      "category": "CORE",
+      "anchor": [
+        "SHOULDER PADS",
+        "SHOULDER BONE"
+      ]
+    },
+    {
+      "gloss": "SHOW",
+      "category": "CORE",
+      "anchor": [
+        "SHOW JUMPING"
+      ]
+    },
+    {
+      "gloss": "SHOWER",
+      "category": "CORE",
+      "anchor": [
+        "SHOWER GEL"
+      ]
+    },
+    {
+      "gloss": "SHRED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHUT",
+      "category": "CORE",
+      "anchor": [
+        "SHUT DOWN",
+        "SHUT UP, STOP TALKING"
+      ]
+    },
+    {
+      "gloss": "SHUT UP, STOP TALKING",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHUT DOWN",
+        "SHUT"
+      ]
+    },
+    {
+      "gloss": "SHUTTLECOCK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SIBLING",
+      "category": "CORE",
+      "anchor": [
+        "SIBLING OF DEAF ADULT"
+      ]
+    },
+    {
+      "gloss": "SICK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SIDE",
+      "category": "CORE",
+      "anchor": [
+        "SIDE GRAFTING",
+        "SIDE MIRROR"
+      ]
+    },
+    {
+      "gloss": "SIEVE, STRAINER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SIFT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SIGHTSEEING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SIGN",
+      "category": "CORE",
+      "anchor": [
+        "SIGN LANGUAGE",
+        "SIGN LANGUAGE DAY",
+        "SIGN LANGUAGE INSTRUCTOR"
+      ]
+    },
+    {
+      "gloss": "SIGN LANGUAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SIGN LANGUAGE DAY",
+        "SIGN",
+        "SIGN LANGUAGE INSTRUCTOR"
+      ]
+    },
+    {
+      "gloss": "SIGN LANGUAGE DAY",
+      "category": "COMPOUND",
+      "anchor": [
+        "SIGN LANGUAGE",
+        "SIGN",
+        "SIGN LANGUAGE INSTRUCTOR"
+      ]
+    },
+    {
+      "gloss": "SIGNAL LIGHTS, TURN LIGHTS, BLINKERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SIGNAL TIMING",
+        "SIGNAL"
+      ]
+    },
+    {
+      "gloss": "SIGNATURE BRIDGE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SIGNATURE, SIGN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SIKHISM, SIKH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SILK",
+      "category": "CORE",
+      "anchor": [
+        "SILK ROUTE"
+      ]
+    },
+    {
+      "gloss": "SILLY POINT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SILVER",
+      "category": "CORE",
+      "anchor": [
+        "SILVER POINTS"
+      ]
+    },
+    {
+      "gloss": "SIM CARD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SIMILAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SIMMER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SIMULTANEOUS",
+      "category": "CORE",
+      "anchor": [
+        "SIMULTANEOUS LANGUAGE ACQUISITION"
+      ]
+    },
+    {
+      "gloss": "SIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SINCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SINGER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SINGLE, ONE RUN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SISTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SITAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SITUATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SIX",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "SIXER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SIZE",
+      "category": "CLASSIFIERS",
+      "anchor": [
+        "SIZE OF SEED"
+      ]
+    },
+    {
+      "gloss": "SKATING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SKIING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SKIN",
+      "category": "CORE",
+      "anchor": [
+        "SKIN DISEASE",
+        "SKIN CANCER"
+      ]
+    },
+    {
+      "gloss": "SKIRT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SKY",
+      "category": "CORE",
+      "anchor": [
+        "SKY DIVING"
+      ]
+    },
+    {
+      "gloss": "SKY DIVING",
+      "category": "COMPOUND",
+      "anchor": [
+        "SKY"
+      ]
+    },
+    {
+      "gloss": "SLAP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SLAUGHTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SLEDGING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SLEEP",
+      "category": "CORE",
+      "anchor": [
+        "SLEEP APNEA"
+      ]
+    },
+    {
+      "gloss": "SLICE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SLIP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SLIPPERS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SLOPE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SLOW",
+      "category": "CLASSIFIERS",
+      "anchor": [
+        "SLOW PASSENGER TRAIN"
+      ]
+    },
+    {
+      "gloss": "SLOW PASSENGER TRAIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "SLOW"
+      ]
+    },
+    {
+      "gloss": "SMALL",
+      "category": "CORE",
+      "anchor": [
+        "SMALL SCALE INDUSTRIES",
+        "SMALL INTESTINE",
+        "SMALL INTESTINE CANCER",
+        "SMALL SIZE SEED CROPS",
+        "SMALL CELL LUNG CANCER"
+      ]
+    },
+    {
+      "gloss": "SMALLPOX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SMASH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SMELL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SMILE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SMOG",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SMOKE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SNAIL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SNAKE",
+      "category": "CORE",
+      "anchor": [
+        "SNAKE VENOM"
+      ]
+    },
+    {
+      "gloss": "SNATCH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SNEAKERS, SPORTS SHOES, TRAINERS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SNORKELLING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SNOW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SO FAR, SO GOOD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SOAP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOCIAL",
+      "category": "CORE",
+      "anchor": [
+        "SOCIAL CONTRACT",
+        "SOCIAL PSYCHOLOGY",
+        "SOCIAL TOURISM",
+        "SOCIAL REFORM",
+        "SOCIAL NETWORKING SITE"
+      ]
+    },
+    {
+      "gloss": "SOCIAL NETWORKING SITE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOCIAL CONTRACT",
+        "SOCIAL",
+        "SOCIAL PSYCHOLOGY",
+        "SOCIAL TOURISM",
+        "SOCIAL REFORM"
+      ]
+    },
+    {
+      "gloss": "SOCIETY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOCKET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOCKS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOFA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOFT",
+      "category": "CORE",
+      "anchor": [
+        "SOFT HAMMER",
+        "SOFT TOY, STUFFED TOY"
+      ]
+    },
+    {
+      "gloss": "SOFT TOY, STUFFED TOY",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOFT",
+        "SOFT HAMMER"
+      ]
+    },
+    {
+      "gloss": "SOFTWARE DEVELOPER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SOIL",
+      "category": "CORE",
+      "anchor": [
+        "SOIL WATER STORAGE",
+        "SOIL BORNE DISEASES",
+        "SOIL AERATION",
+        "SOIL AIR",
+        "SOIL EROSION"
+      ]
+    },
+    {
+      "gloss": "SOLDIER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOLO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOLVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOME",
+      "category": "GRAMMAR & FUNCTION",
+      "anchor": [
+        "SOME SIGNS OF MANIPUR - PART 2",
+        "SOME SIGNS OF KOLKATA",
+        "SOME SIGNS OF MANIPUR - PART 1",
+        "SOME SIGNS OF HYDERABAD"
+      ]
+    },
+    {
+      "gloss": "SOMETHING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOMETIMES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SONY MOBILE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SOON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SORRY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOUP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOUTH",
+      "category": "CORE",
+      "anchor": [
+        "SOUTH AMERICA",
+        "SOUTH AFRICA",
+        "SOUTH INDIAN BANK",
+        "SOUTH KOREA",
+        "SOUTH POLE"
+      ]
+    },
+    {
+      "gloss": "SOUTH INDIAN BANK",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOUTH AMERICA",
+        "SOUTH AFRICA",
+        "SOUTH",
+        "SOUTH KOREA",
+        "SOUTH POLE"
+      ]
+    },
+    {
+      "gloss": "SPARROW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPEAK, SPEECH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SPEAKERS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPECIAL",
+      "category": "CORE",
+      "anchor": [
+        "SPECIAL EDUCATION ZONE",
+        "SPECIAL MARRIAGE ACT",
+        "SPECIAL COMPENSATORY REMOTE LOCALITY ALLOWANCE",
+        "SPECIAL WEAPONS AND TACTICS TEAM",
+        "SPECIAL JAIL"
+      ]
+    },
+    {
+      "gloss": "SPECTACLES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPEECH THERAPIST",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPEECH THERAPY",
+        "SPEECH AND LANGUAGE DISORDERS"
+      ]
+    },
+    {
+      "gloss": "SPEED BREAKER, SPEED BUMP",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPEED",
+        "SPEED LIMIT"
+      ]
+    },
+    {
+      "gloss": "SPELL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPEND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPERM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPHERE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPICE JET",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPICE ROUTES"
+      ]
+    },
+    {
+      "gloss": "SPICES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPICY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPINACH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPINNING TOP",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPINNING WHEEL",
+        "SPINNING"
+      ]
+    },
+    {
+      "gloss": "SPIRAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPOON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPORTS CAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPORTS TOURISM",
+        "SPORTS SHOES, SNEAKERS, TRAINERS, ATHLETIC SHOES",
+        "SPORTS PSYCHOLOGY"
+      ]
+    },
+    {
+      "gloss": "SPORTS SHOES, SNEAKERS, TRAINERS, ATHLETIC SHOES",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPORTS TOURISM",
+        "SPORTS CAR",
+        "SPORTS PSYCHOLOGY"
+      ]
+    },
+    {
+      "gloss": "SPOT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SQUARE LEG",
+      "category": "COMPOUND",
+      "anchor": [
+        "SQUARE ROOT",
+        "SQUARE",
+        "SQUARE FILE",
+        "SQUARE NUMBER"
+      ]
+    },
+    {
+      "gloss": "SQUAWK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SQUEAK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SQUIRREL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STABLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STAGE",
+      "category": "CORE",
+      "anchor": [
+        "STAGE OF DEVELOPMENT"
+      ]
+    },
+    {
+      "gloss": "STAIRS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STALEMATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STAND",
+      "category": "CORE",
+      "anchor": [
+        "STAND ALONE MACHINE CONTROL UNIT"
+      ]
+    },
+    {
+      "gloss": "STANDARD RIFLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "STANDARD CUT",
+        "STANDARD OF LIVING"
+      ]
+    },
+    {
+      "gloss": "STANDARD, STANDARDIZATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STAPLER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STAPOO, HOPSCOTCH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STARFISH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "START, BEGIN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STARTLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STARVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STATE",
+      "category": "CORE",
+      "anchor": [
+        "STATE DATA CENTRE",
+        "STATE CURRICULAR FRAMEWORK",
+        "STATE COUNCIL OF EDUCATIONAL RESEARCH AND TRAINING",
+        "STATE INSTITUTES OF OPEN SCHOOLING",
+        "STATE BANK OF INDIA"
+      ]
+    },
+    {
+      "gloss": "STATE BANK OF INDIA",
+      "category": "COMPOUND",
+      "anchor": [
+        "STATE DATA CENTRE",
+        "STATE",
+        "STATE CURRICULAR FRAMEWORK",
+        "STATE COUNCIL OF EDUCATIONAL RESEARCH AND TRAINING",
+        "STATE INSTITUTES OF OPEN SCHOOLING"
+      ]
+    },
+    {
+      "gloss": "STATES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STATIONARY BIKE",
+      "category": "COMPOUND",
+      "anchor": [
+        "STATIONARY WORK"
+      ]
+    },
+    {
+      "gloss": "STATIONERY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STAY",
+      "category": "CORE",
+      "anchor": [
+        "STAY ORDER"
+      ]
+    },
+    {
+      "gloss": "STEAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STEAM, STEAMING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STEEL",
+      "category": "CORE",
+      "anchor": [
+        "STEEL REINFORCEMENT",
+        "STEEL RACK"
+      ]
+    },
+    {
+      "gloss": "STEEP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STEP DOWN",
+      "category": "COMPOUND",
+      "anchor": [
+        "STEP COUNT",
+        "STEP CONE PULLEY",
+        "STEP"
+      ]
+    },
+    {
+      "gloss": "STEPFATHER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STICK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STICKY NOTE, POST IT NOTE",
+      "category": "COMPOUND",
+      "anchor": [
+        "STICKY CONSISTENCY",
+        "STICKY"
+      ]
+    },
+    {
+      "gloss": "STILL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STINK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STIR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STOCK, COMMODITIES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STOMACH",
+      "category": "CORE",
+      "anchor": [
+        "STOMACH INSECTICIDE"
+      ]
+    },
+    {
+      "gloss": "STONE",
+      "category": "CORE",
+      "anchor": [
+        "STONE GRAFTING",
+        "STONE MASONRY"
+      ]
+    },
+    {
+      "gloss": "STOP",
+      "category": "CORE",
+      "anchor": [
+        "ADDICTED, DEPENDENT, HOOKED",
+        "ACQUIT",
+        "CEASE, DISCONTINUE, HALT, STOP",
+        "ABORT, DISCONTINUE, HALT"
+      ]
+    },
+    {
+      "gloss": "STORM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STRAIGHT",
+      "category": "CORE",
+      "anchor": [
+        "STRAIGHT ANGLE",
+        "STRAIGHT EDGE",
+        "STRAIGHT PEIN HAMMER",
+        "STRAIGHT LINE"
+      ]
+    },
+    {
+      "gloss": "STRANGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STRENGTH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STRESS",
+      "category": "CORE",
+      "anchor": [
+        "STRESS MANAGEMENT TECHNIQUES"
+      ]
+    },
+    {
+      "gloss": "STRESSED, PRESSURED, FRUSTRATED",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STRICT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STRIKING CIRCLE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STROKE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STUCK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STUDENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STUDIO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STUDY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STUMP",
+      "category": "CORE",
+      "anchor": [
+        "STUMP OUT"
+      ]
+    },
+    {
+      "gloss": "STUMP OUT",
+      "category": "COMPOUND",
+      "anchor": [
+        "STUMP"
+      ]
+    },
+    {
+      "gloss": "STUMPS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STUPID",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUBHAS CHANDRA BOSE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SUBTITLES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUBTRACT",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "SUBWAY",
+      "category": "CORE",
+      "anchor": [
+        "SUBWAY TILE"
+      ]
+    },
+    {
+      "gloss": "SUCCESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUDDEN",
+      "category": "CORE",
+      "anchor": [
+        "SUDDEN DEATH"
+      ]
+    },
+    {
+      "gloss": "SUDDEN DEATH",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUDDEN"
+      ]
+    },
+    {
+      "gloss": "SUDDEN, UNEXPECTED, UNFORESEEN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SUFFER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUGAR",
+      "category": "CORE",
+      "anchor": [
+        "SUGAR CROPS"
+      ]
+    },
+    {
+      "gloss": "SUGGEST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUMMARY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUMMER",
+      "category": "CORE",
+      "anchor": [
+        "SUMMER OR ZAID SEASON VEGETABLE",
+        "SUMMER PLOUGHING",
+        "SUMMER SEASON ANNUALS"
+      ]
+    },
+    {
+      "gloss": "SUN",
+      "category": "CORE",
+      "anchor": [
+        "SUN TAN"
+      ]
+    },
+    {
+      "gloss": "SUNDAY",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "SUNFLOWER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUNNY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUNRISE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUNSET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUPERFAST EXPRESS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SUPERFICIAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUPERMAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUPERSTITION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUPERVISOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUPPORT",
+      "category": "CORE",
+      "anchor": [
+        "AFRAID, SCARED",
+        "ASSISTANT"
+      ]
+    },
+    {
+      "gloss": "SURFACE",
+      "category": "CORE",
+      "anchor": [
+        "SURFACE CHART",
+        "SURFACE EROISN",
+        "SURFACE IRRIGATION",
+        "SURFACE WATER",
+        "SURFACE RUNOFF"
+      ]
+    },
+    {
+      "gloss": "SURFING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SURGEON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SURNAME",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SURPRISE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SURPRISED, SHOCKED",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SURRENDER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUSPECT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUZUKI CAR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SWALLOW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SWAMI VIVEKANANDA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SWARM OF BEES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SWAZILAND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SWEAT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SWEATER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SWEET",
+      "category": "CORE",
+      "anchor": [
+        "SWEET POTATO",
+        "SWEET LIME"
+      ]
+    },
+    {
+      "gloss": "SWEET LIME",
+      "category": "COMPOUND",
+      "anchor": [
+        "SWEET",
+        "SWEET POTATO"
+      ]
+    },
+    {
+      "gloss": "SWEETS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SWIM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SWIMMING",
+      "category": "CORE",
+      "anchor": [
+        "SWIMMING COSTUME"
+      ]
+    },
+    {
+      "gloss": "SWING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SWITCH",
+      "category": "CORE",
+      "anchor": [
+        "SWITCH WINDOWS",
+        "SWITCH BOX"
+      ]
+    },
+    {
+      "gloss": "SYMPATHY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SYSTEM",
+      "category": "CORE",
+      "anchor": [
+        "SYSTEM OF FEEDING POULTRY",
+        "SYSTEM SOFTWARE"
+      ]
+    },
+    {
+      "gloss": "SABARMATI RIVER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SALES TAX",
+      "category": "COMPOUND",
+      "anchor": [
+        "SALES MANAGER"
+      ]
+    },
+    {
+      "gloss": "SALINE WATER, SALTWATER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SALINE SOILS",
+        "SALINE SOIL"
+      ]
+    },
+    {
+      "gloss": "SALIVARY GLANDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SALIVARY GLAND"
+      ]
+    },
+    {
+      "gloss": "SAMPLE",
+      "category": "CLASSIFIERS",
+      "anchor": []
+    },
+    {
+      "gloss": "SAMUDRAGUPTA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SANGAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SANITATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SAPROTROPHS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SARPANCH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SARVA SHIKSHA ABHIYAN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SATAVAHANAS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SATELLITE",
+      "category": "CORE",
+      "anchor": [
+        "SATELLITE COMMUNICATION"
+      ]
+    },
+    {
+      "gloss": "SAVANNAHS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCALE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCALENE TRIANGLE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SCAVENGERS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCHEDULED CASTE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SCHEDULED TRIBES"
+      ]
+    },
+    {
+      "gloss": "SCHEDULED TRIBES",
+      "category": "COMPOUND",
+      "anchor": [
+        "SCHEDULED CASTE"
+      ]
+    },
+    {
+      "gloss": "SCHEME",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCHOOL DEVELOPMENT PLAN",
+      "category": "COMPOUND",
+      "anchor": [
+        "SCHOOL",
+        "SCHOOL UNIFORM",
+        "SCHOOL BAG",
+        "SCHOOL MANAGEMENT COMMITTEE",
+        "SCHOOL OF FISH"
+      ]
+    },
+    {
+      "gloss": "SCHOOL MANAGEMENT COMMITTEE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SCHOOL DEVELOPMENT PLAN",
+        "SCHOOL",
+        "SCHOOL BAG",
+        "SCHOOL UNIFORM",
+        "SCHOOL OF FISH"
+      ]
+    },
+    {
+      "gloss": "SCHOOL QUALITY ASSESSMENT AND ACCREDITATION FRAMEWORK",
+      "category": "COMPOUND",
+      "anchor": [
+        "SCHOOL DEVELOPMENT PLAN",
+        "SCHOOL",
+        "SCHOOL BAG",
+        "SCHOOL UNIFORM",
+        "SCHOOL OF FISH"
+      ]
+    },
+    {
+      "gloss": "SCOURING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCRIBE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEA BREEZE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEA",
+        "SEA LIFE, MARINE LIFE, OCEAN LIFE",
+        "SEA MAMMALS",
+        "SEA LEVEL",
+        "SEA CAVE, SEA ARCH, STACK AND SEA CLIFF"
+      ]
+    },
+    {
+      "gloss": "SEA CAVE, SEA ARCH, STACK AND SEA CLIFF",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEA",
+        "SEA LIFE, MARINE LIFE, OCEAN LIFE",
+        "SEA BREEZE",
+        "SEA MAMMALS",
+        "SEA LEVEL"
+      ]
+    },
+    {
+      "gloss": "SEA LEVEL",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEA",
+        "SEA LIFE, MARINE LIFE, OCEAN LIFE",
+        "SEA BREEZE",
+        "SEA MAMMALS",
+        "SEA CAVE, SEA ARCH, STACK AND SEA CLIFF"
+      ]
+    },
+    {
+      "gloss": "SEA LIFE, MARINE LIFE, OCEAN LIFE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEA",
+        "SEA BREEZE",
+        "SEA MAMMALS",
+        "SEA LEVEL",
+        "SEA CAVE, SEA ARCH, STACK AND SEA CLIFF"
+      ]
+    },
+    {
+      "gloss": "SEA MAMMALS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEA",
+        "SEA LIFE, MARINE LIFE, OCEAN LIFE",
+        "SEA BREEZE",
+        "SEA LEVEL",
+        "SEA CAVE, SEA ARCH, STACK AND SEA CLIFF"
+      ]
+    },
+    {
+      "gloss": "SEA URCHINS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEA",
+        "SEA LIFE, MARINE LIFE, OCEAN LIFE",
+        "SEA BREEZE",
+        "SEA LEVEL",
+        "SEA CAVE, SEA ARCH, STACK AND SEA CLIFF"
+      ]
+    },
+    {
+      "gloss": "SEAHORSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEAL, SEALING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SEASHORE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEASONS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SECTOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SECULAR",
+      "category": "CORE",
+      "anchor": [
+        "SECULAR COUNTRY"
+      ]
+    },
+    {
+      "gloss": "SECULAR COUNTRY",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECULAR"
+      ]
+    },
+    {
+      "gloss": "SECULARISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEDIMENTARY ROCKS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SEDIMENTATION AND DECANTATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SEEDS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEGMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEISMIC WAVES",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEISMIC RETROFIT"
+      ]
+    },
+    {
+      "gloss": "SEISMO GRAPH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SEISMOLOGIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEISMOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEMANTICS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEMI-CIRCLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEMICOLON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SENSATION, PERCEPTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SENSE ORGANS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SENSORINEURAL HEARING LOSS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SENTENCES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEPARATION OF POWER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEPARATION THROUGH EVAPORATION"
+      ]
+    },
+    {
+      "gloss": "SEPARATION THROUGH EVAPORATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEPARATION OF POWER"
+      ]
+    },
+    {
+      "gloss": "SERICULTURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SET SQUARE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SET"
+      ]
+    },
+    {
+      "gloss": "SETTLEMENT",
+      "category": "CORE",
+      "anchor": [
+        "SETTLEMENT CYCLE",
+        "SETTLEMENT DAY",
+        "SETTLEMENT DEFERMENT"
+      ]
+    },
+    {
+      "gloss": "SEVERE HEARING LOSS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SEWAGE",
+      "category": "CORE",
+      "anchor": [
+        "SEWAGE OR DOMESTIC WASTEWATER OR MUNICIPAL WASTEWATER",
+        "SEWAGE TREATMENT"
+      ]
+    },
+    {
+      "gloss": "SEWAGE OR DOMESTIC WASTEWATER OR MUNICIPAL WASTEWATER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEWAGE",
+        "SEWAGE TREATMENT"
+      ]
+    },
+    {
+      "gloss": "SEWAGE TREATMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEWAGE",
+        "SEWAGE OR DOMESTIC WASTEWATER OR MUNICIPAL WASTEWATER"
+      ]
+    },
+    {
+      "gloss": "SEX RATIO",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEX",
+        "SEX TRAFFICKING",
+        "SEX CHROMOSOMES",
+        "SEX OFFENDER",
+        "SEX DETERMINATION"
+      ]
+    },
+    {
+      "gloss": "SEXUAL HARASSMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEXUAL REPRODUCTION",
+        "SEXUAL ASSAULT",
+        "SEXUAL ABUSE"
+      ]
+    },
+    {
+      "gloss": "SEXUAL REPRODUCTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEXUAL ABUSE",
+        "SEXUAL ASSAULT",
+        "SEXUAL HARASSMENT"
+      ]
+    },
+    {
+      "gloss": "SHADOW, UMBRA AND PENUMBRA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SHALLOW BEDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHALLOW",
+        "SHALLOW ROOTED"
+      ]
+    },
+    {
+      "gloss": "SHEARING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHELTER BELTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SHRINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHRUB",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHUDRA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SIBLING OF DEAF ADULT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SIBLING"
+      ]
+    },
+    {
+      "gloss": "SIEVING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SIGN LANGUAGE INSTRUCTOR",
+      "category": "COMPOUND",
+      "anchor": [
+        "SIGN LANGUAGE",
+        "SIGN LANGUAGE DAY",
+        "SIGN"
+      ]
+    },
+    {
+      "gloss": "SILICON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SILK ROUTE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SILK"
+      ]
+    },
+    {
+      "gloss": "SILT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SIMILE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SIMON COMMISSION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SIMPLE CURVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SIMPLE FOOTING",
+        "SIMPLE LAYERING",
+        "SIMPLE SENTENCE",
+        "SIMPLE EQUATION",
+        "SIMPLE INTEREST"
+      ]
+    },
+    {
+      "gloss": "SIMPLE EQUATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "SIMPLE FOOTING",
+        "SIMPLE CURVE",
+        "SIMPLE LAYERING",
+        "SIMPLE SENTENCE",
+        "SIMPLE INTEREST"
+      ]
+    },
+    {
+      "gloss": "SIMPLE SENTENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SIMPLE FOOTING",
+        "SIMPLE CURVE",
+        "SIMPLE LAYERING",
+        "SIMPLE EQUATION",
+        "SIMPLE INTEREST"
+      ]
+    },
+    {
+      "gloss": "SIMULTANEOUS LANGUAGE ACQUISITION",
+      "category": "COMPOUND",
+      "anchor": [
+        "SIMULTANEOUS"
+      ]
+    },
+    {
+      "gloss": "SINGLE CELL",
+      "category": "COMPOUND",
+      "anchor": [
+        "SINGLE PHASE",
+        "SINGLE"
+      ]
+    },
+    {
+      "gloss": "SINGULAR, PLURAL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SINK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SITE",
+      "category": "CORE",
+      "anchor": [
+        "SITE CLEARANCE"
+      ]
+    },
+    {
+      "gloss": "SLAVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SLIDE",
+      "category": "CORE",
+      "anchor": [
+        "SLIDE MASTER"
+      ]
+    },
+    {
+      "gloss": "SLIDING FRICTION AND ROLLING FRICTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SMALL INTESTINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SMALL SCALE INDUSTRIES",
+        "SMALL",
+        "SMALL INTESTINE CANCER",
+        "SMALL SIZE SEED CROPS",
+        "SMALL CELL LUNG CANCER"
+      ]
+    },
+    {
+      "gloss": "SMALLEST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SMOKELESS FUEL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SOCIAL PSYCHOLOGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOCIAL CONTRACT",
+        "SOCIAL",
+        "SOCIAL TOURISM",
+        "SOCIAL REFORM",
+        "SOCIAL NETWORKING SITE"
+      ]
+    },
+    {
+      "gloss": "SOCIAL REFORM",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOCIAL CONTRACT",
+        "SOCIAL",
+        "SOCIAL PSYCHOLOGY",
+        "SOCIAL TOURISM",
+        "SOCIAL NETWORKING SITE"
+      ]
+    },
+    {
+      "gloss": "SOCIAL TOURISM",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOCIAL CONTRACT",
+        "SOCIAL",
+        "SOCIAL PSYCHOLOGY",
+        "SOCIAL REFORM",
+        "SOCIAL NETWORKING SITE"
+      ]
+    },
+    {
+      "gloss": "SOCIO-ECONOMICALLY DISADVANTAGED GROUP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SOCIOLINGUISTICS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SODICITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SODIUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOIL EROSION",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOIL WATER STORAGE",
+        "SOIL BORNE DISEASES",
+        "SOIL AERATION",
+        "SOIL",
+        "SOIL AIR"
+      ]
+    },
+    {
+      "gloss": "SOIL WATER STORAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOIL BORNE DISEASES",
+        "SOIL AERATION",
+        "SOIL",
+        "SOIL AIR",
+        "SOIL EROSION"
+      ]
+    },
+    {
+      "gloss": "SOLAR CELL",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOLAR PANEL",
+        "SOLAR ECLIPSE",
+        "SOLAR ENERGY",
+        "SOLAR PLATE",
+        "SOLAR COOKER"
+      ]
+    },
+    {
+      "gloss": "SOLAR COOKER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOLAR PANEL",
+        "SOLAR ECLIPSE",
+        "SOLAR CELL",
+        "SOLAR ENERGY",
+        "SOLAR PLATE"
+      ]
+    },
+    {
+      "gloss": "SOLAR ECLIPSE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOLAR PANEL",
+        "SOLAR CELL",
+        "SOLAR ENERGY",
+        "SOLAR PLATE",
+        "SOLAR COOKER"
+      ]
+    },
+    {
+      "gloss": "SOLAR ENERGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOLAR PANEL",
+        "SOLAR ECLIPSE",
+        "SOLAR CELL",
+        "SOLAR PLATE",
+        "SOLAR COOKER"
+      ]
+    },
+    {
+      "gloss": "SOLAR PANEL",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOLAR ECLIPSE",
+        "SOLAR CELL",
+        "SOLAR ENERGY",
+        "SOLAR PLATE",
+        "SOLAR COOKER"
+      ]
+    },
+    {
+      "gloss": "SOLAR PLATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOLAR PANEL",
+        "SOLAR ECLIPSE",
+        "SOLAR CELL",
+        "SOLAR ENERGY",
+        "SOLAR COOKER"
+      ]
+    },
+    {
+      "gloss": "SOLAR SYSTEM",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOLAR PANEL",
+        "SOLAR ECLIPSE",
+        "SOLAR CELL",
+        "SOLAR ENERGY",
+        "SOLAR COOKER"
+      ]
+    },
+    {
+      "gloss": "SOLID",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOLUBLE AND INSOLUBLE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SOLUTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SONAR SYSTEM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SONOROUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SORTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOURCE",
+      "category": "CORE",
+      "anchor": [
+        "SOURCE CODE"
+      ]
+    },
+    {
+      "gloss": "SOUTH POLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOUTH AMERICA",
+        "SOUTH AFRICA",
+        "SOUTH",
+        "SOUTH INDIAN BANK",
+        "SOUTH KOREA"
+      ]
+    },
+    {
+      "gloss": "SOVEREIGNTY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPACE CRAFT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SPEAKER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPECIAL EDUCATION ZONE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPECIAL MARRIAGE ACT",
+        "SPECIAL COMPENSATORY REMOTE LOCALITY ALLOWANCE",
+        "SPECIAL WEAPONS AND TACTICS TEAM",
+        "SPECIAL JAIL",
+        "SPECIAL"
+      ]
+    },
+    {
+      "gloss": "SPECIALIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPECIFICITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPECTRUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPEED",
+      "category": "CORE",
+      "anchor": [
+        "SPEED BREAKER, SPEED BUMP",
+        "SPEED LIMIT"
+      ]
+    },
+    {
+      "gloss": "SPHERICAL LENSES",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPHERICAL STRUCTURE"
+      ]
+    },
+    {
+      "gloss": "SPHINX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPICE ROUTES",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPICE JET"
+      ]
+    },
+    {
+      "gloss": "SPINNING",
+      "category": "CORE",
+      "anchor": [
+        "SPINNING WHEEL",
+        "SPINNING TOP"
+      ]
+    },
+    {
+      "gloss": "SPORTS PSYCHOLOGY",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPORTS TOURISM",
+        "SPORTS CAR",
+        "SPORTS SHOES, SNEAKERS, TRAINERS, ATHLETIC SHOES"
+      ]
+    },
+    {
+      "gloss": "SPORTS TOURISM",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPORTS CAR",
+        "SPORTS SHOES, SNEAKERS, TRAINERS, ATHLETIC SHOES",
+        "SPORTS PSYCHOLOGY"
+      ]
+    },
+    {
+      "gloss": "SPRING TIDES",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPRING WASHER",
+        "SPRING ONION",
+        "SPRING"
+      ]
+    },
+    {
+      "gloss": "SPRINKLER SYSTEM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SPROUTS, SPROUTING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SQ CM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SQUARE",
+      "category": "CORE",
+      "anchor": [
+        "SQUARE ROOT",
+        "SQUARE FILE",
+        "SQUARE NUMBER",
+        "SQUARE LEG"
+      ]
+    },
+    {
+      "gloss": "SQUARE ROOT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SQUARE",
+        "SQUARE FILE",
+        "SQUARE NUMBER",
+        "SQUARE LEG"
+      ]
+    },
+    {
+      "gloss": "STANDARD OF LIVING",
+      "category": "COMPOUND",
+      "anchor": [
+        "STANDARD RIFLE",
+        "STANDARD CUT"
+      ]
+    },
+    {
+      "gloss": "STANZA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STARVATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STATE COUNCIL OF EDUCATIONAL RESEARCH AND TRAINING",
+      "category": "COMPOUND",
+      "anchor": [
+        "STATE DATA CENTRE",
+        "STATE",
+        "STATE CURRICULAR FRAMEWORK",
+        "STATE INSTITUTES OF OPEN SCHOOLING",
+        "STATE BANK OF INDIA"
+      ]
+    },
+    {
+      "gloss": "STATE CURRICULAR FRAMEWORK",
+      "category": "COMPOUND",
+      "anchor": [
+        "STATE DATA CENTRE",
+        "STATE",
+        "STATE COUNCIL OF EDUCATIONAL RESEARCH AND TRAINING",
+        "STATE INSTITUTES OF OPEN SCHOOLING",
+        "STATE BANK OF INDIA"
+      ]
+    },
+    {
+      "gloss": "STATE INSTITUTES OF OPEN SCHOOLING",
+      "category": "COMPOUND",
+      "anchor": [
+        "STATE DATA CENTRE",
+        "STATE",
+        "STATE CURRICULAR FRAMEWORK",
+        "STATE COUNCIL OF EDUCATIONAL RESEARCH AND TRAINING",
+        "STATE BANK OF INDIA"
+      ]
+    },
+    {
+      "gloss": "STATIC FRICTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STATISTICS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STEPWELL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STEREOTYPE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STOCKS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STOMA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STOMATA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STRAIGHT ANGLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "STRAIGHT LINE",
+        "STRAIGHT EDGE",
+        "STRAIGHT",
+        "STRAIGHT PEIN HAMMER"
+      ]
+    },
+    {
+      "gloss": "STRATEGIC ENVIRONMENTAL ASSESSMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "STRATEGIC MERIT"
+      ]
+    },
+    {
+      "gloss": "STROM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STRUCTURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STRUCTURED INTERVIEW",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STUPA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STYLE, REGISTER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SUBCONTINENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUBJECT AND OBJECT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUBJECT"
+      ]
+    },
+    {
+      "gloss": "SUBMARINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUBTRACTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUCCESSOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUFISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SULPHUR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SULPHURIC ACID",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SUMERIAN CIVILIZATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SUMMATIVE ASSESSMENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SUPPLEMENTARY ANGLES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SURDOPHOBIA AND SURDOPHOBE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SURVEY STUDY, RESEARCH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SURVIVOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUSTAINABLE DEVELOPMENT GOAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUSTAINABLE DEVELOPMENT"
+      ]
+    },
+    {
+      "gloss": "SUSTAINING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SWADESHI MOVEMENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SYLLABUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SYMBOL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SYMBOLIC CONGRUENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SYMBOLS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SYMMETRY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SYNONYMY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SYNTAX",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SADDLE GRAFTING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SALINE SOILS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SALINE WATER, SALTWATER",
+        "SALINE SOIL"
+      ]
+    },
+    {
+      "gloss": "SALTED BRACKISH WATER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SALYX BABYLONICA",
+      "category": "COMPOUND",
+      "anchor": [
+        "SALYX TETRA SPERMA"
+      ]
+    },
+    {
+      "gloss": "SALYX TETRA SPERMA",
+      "category": "COMPOUND",
+      "anchor": [
+        "SALYX BABYLONICA"
+      ]
+    },
+    {
+      "gloss": "SAPROPHYTE OF PLANTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SAPROPHYTIC NEMATODES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SECONDARY MARKET",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECONDARY ACTIVITY",
+        "SECONDARY TILLAGE"
+      ]
+    },
+    {
+      "gloss": "SECONDARY TILLAGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECONDARY MARKET",
+        "SECONDARY ACTIVITY"
+      ]
+    },
+    {
+      "gloss": "SEDIMENTRY ROCKS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SEED BORNE DISEASE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEED DISPERSAL",
+        "SEED",
+        "SEED PLANTER"
+      ]
+    },
+    {
+      "gloss": "SEED PLANTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEED DISPERSAL",
+        "SEED",
+        "SEED BORNE DISEASE"
+      ]
+    },
+    {
+      "gloss": "SELECTION OF SEED",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SELF FINANCING",
+      "category": "COMPOUND",
+      "anchor": [
+        "SELF DEFENCE",
+        "SELF POSSESSION",
+        "SELF",
+        "SELF APPRAISAL OR SELF ASSESSMENT",
+        "SELF COMPACTING CONCRETE"
+      ]
+    },
+    {
+      "gloss": "SEMI INTENSIVE SYSTEM",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEMI ANNUAL INTEREST",
+        "SEMI CONDUCTORS",
+        "SEMI ANILINE SKIM"
+      ]
+    },
+    {
+      "gloss": "SESBENIA AEGYPTIACA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SEX DETERMINATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEX",
+        "SEX TRAFFICKING",
+        "SEX CHROMOSOMES",
+        "SEX RATIO",
+        "SEX OFFENDER"
+      ]
+    },
+    {
+      "gloss": "SHALLOW ROOTED",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHALLOW",
+        "SHALLOW BEDS"
+      ]
+    },
+    {
+      "gloss": "SHEEP FARMING",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHEEP"
+      ]
+    },
+    {
+      "gloss": "SHRUBS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SIDE GRAFTING",
+      "category": "COMPOUND",
+      "anchor": [
+        "SIDE",
+        "SIDE MIRROR"
+      ]
+    },
+    {
+      "gloss": "SILAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SIMPLE LAYERING",
+      "category": "COMPOUND",
+      "anchor": [
+        "SIMPLE FOOTING",
+        "SIMPLE CURVE",
+        "SIMPLE SENTENCE",
+        "SIMPLE EQUATION",
+        "SIMPLE INTEREST"
+      ]
+    },
+    {
+      "gloss": "SIZE OF SEED",
+      "category": "COMPOUND",
+      "anchor": [
+        "SIZE"
+      ]
+    },
+    {
+      "gloss": "SMALL SIZE SEED CROPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SMALL SCALE INDUSTRIES",
+        "SMALL INTESTINE",
+        "SMALL",
+        "SMALL INTESTINE CANCER",
+        "SMALL CELL LUNG CANCER"
+      ]
+    },
+    {
+      "gloss": "SOIL AERATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOIL WATER STORAGE",
+        "SOIL BORNE DISEASES",
+        "SOIL",
+        "SOIL AIR",
+        "SOIL EROSION"
+      ]
+    },
+    {
+      "gloss": "SOIL AIR",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOIL WATER STORAGE",
+        "SOIL BORNE DISEASES",
+        "SOIL AERATION",
+        "SOIL",
+        "SOIL EROSION"
+      ]
+    },
+    {
+      "gloss": "SOIL BORNE DISEASES",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOIL WATER STORAGE",
+        "SOIL AERATION",
+        "SOIL",
+        "SOIL AIR",
+        "SOIL EROSION"
+      ]
+    },
+    {
+      "gloss": "SOIL COMPONETS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOIL WATER STORAGE",
+        "SOIL AERATION",
+        "SOIL",
+        "SOIL AIR",
+        "SOIL EROSION"
+      ]
+    },
+    {
+      "gloss": "SOIL DENSITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOIL WATER STORAGE",
+        "SOIL AERATION",
+        "SOIL",
+        "SOIL AIR",
+        "SOIL EROSION"
+      ]
+    },
+    {
+      "gloss": "SOIL FORMATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOIL WATER STORAGE",
+        "SOIL AERATION",
+        "SOIL",
+        "SOIL AIR",
+        "SOIL EROSION"
+      ]
+    },
+    {
+      "gloss": "SOIL FORMING MINERALS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOIL WATER STORAGE",
+        "SOIL AERATION",
+        "SOIL",
+        "SOIL AIR",
+        "SOIL EROSION"
+      ]
+    },
+    {
+      "gloss": "SOIL FUMIGATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOIL WATER STORAGE",
+        "SOIL AERATION",
+        "SOIL",
+        "SOIL AIR",
+        "SOIL EROSION"
+      ]
+    },
+    {
+      "gloss": "SOIL ORGANISMA PLANTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOIL WATER STORAGE",
+        "SOIL AERATION",
+        "SOIL",
+        "SOIL AIR",
+        "SOIL EROSION"
+      ]
+    },
+    {
+      "gloss": "SOIL ORGANISMS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOIL WATER STORAGE",
+        "SOIL AERATION",
+        "SOIL",
+        "SOIL AIR",
+        "SOIL EROSION"
+      ]
+    },
+    {
+      "gloss": "SOIL ORGANISMS ANIMALS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOIL WATER STORAGE",
+        "SOIL AERATION",
+        "SOIL",
+        "SOIL AIR",
+        "SOIL EROSION"
+      ]
+    },
+    {
+      "gloss": "SOIL PHYSICS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOIL WATER STORAGE",
+        "SOIL AERATION",
+        "SOIL",
+        "SOIL AIR",
+        "SOIL EROSION"
+      ]
+    },
+    {
+      "gloss": "SOIL PROFILE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOIL WATER STORAGE",
+        "SOIL AERATION",
+        "SOIL",
+        "SOIL AIR",
+        "SOIL EROSION"
+      ]
+    },
+    {
+      "gloss": "SOIL SCIENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOIL WATER STORAGE",
+        "SOIL AERATION",
+        "SOIL",
+        "SOIL AIR",
+        "SOIL EROSION"
+      ]
+    },
+    {
+      "gloss": "SOIL SURVEY",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOIL WATER STORAGE",
+        "SOIL AERATION",
+        "SOIL",
+        "SOIL AIR",
+        "SOIL EROSION"
+      ]
+    },
+    {
+      "gloss": "SOIL WATER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOIL WATER STORAGE",
+        "SOIL AERATION",
+        "SOIL",
+        "SOIL AIR",
+        "SOIL EROSION"
+      ]
+    },
+    {
+      "gloss": "SPECIFIC MICRO CLIMATE WEEDS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SPEEDOMETER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPHERICAL STRUCTURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPHERICAL LENSES"
+      ]
+    },
+    {
+      "gloss": "STAGE OF DEVELOPMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "STAGE"
+      ]
+    },
+    {
+      "gloss": "STAGS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STATION",
+      "category": "CORE",
+      "anchor": [
+        "STATION LEAVE"
+      ]
+    },
+    {
+      "gloss": "STATIONARY WORK",
+      "category": "COMPOUND",
+      "anchor": [
+        "STATIONARY BIKE"
+      ]
+    },
+    {
+      "gloss": "STEAM TRACTOR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STEM CUTTING",
+      "category": "COMPOUND",
+      "anchor": [
+        "STEM REPRODUCED WEEDS",
+        "STEM ROOT OF GROUNDNUT",
+        "STEM ROT"
+      ]
+    },
+    {
+      "gloss": "STEM REPRODUCED WEEDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "STEM ROOT OF GROUNDNUT",
+        "STEM ROT",
+        "STEM CUTTING"
+      ]
+    },
+    {
+      "gloss": "STEM ROOT OF GROUNDNUT",
+      "category": "COMPOUND",
+      "anchor": [
+        "STEM REPRODUCED WEEDS",
+        "STEM ROT",
+        "STEM CUTTING"
+      ]
+    },
+    {
+      "gloss": "STEM ROT",
+      "category": "COMPOUND",
+      "anchor": [
+        "STEM REPRODUCED WEEDS",
+        "STEM ROOT OF GROUNDNUT",
+        "STEM CUTTING"
+      ]
+    },
+    {
+      "gloss": "STERILIZATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STICKY CONSISTENCY",
+      "category": "COMPOUND",
+      "anchor": [
+        "STICKY NOTE, POST IT NOTE",
+        "STICKY"
+      ]
+    },
+    {
+      "gloss": "STIMULANT CROPS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STOMACH INSECTICIDE",
+      "category": "COMPOUND",
+      "anchor": [
+        "STOMACH"
+      ]
+    },
+    {
+      "gloss": "STONE GRAFTING",
+      "category": "COMPOUND",
+      "anchor": [
+        "STONE",
+        "STONE MASONRY"
+      ]
+    },
+    {
+      "gloss": "STOOL LAYERING",
+      "category": "COMPOUND",
+      "anchor": [
+        "STOOL FRAME"
+      ]
+    },
+    {
+      "gloss": "STRIPES & STREAKS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STUD MATING",
+      "category": "COMPOUND",
+      "anchor": [
+        "STUD BOLT"
+      ]
+    },
+    {
+      "gloss": "STUNTING OR REDUCED GROWTH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STUNTINY OF SPECIFIC PLANT PARTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SUB SURFACE IRRIGATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUB JUDICE",
+        "SUB CUSTODIAN",
+        "SUB JAIL",
+        "SUB DIRECTORY"
+      ]
+    },
+    {
+      "gloss": "SUBMERGED WEEDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUBMERGED ARC WELDING"
+      ]
+    },
+    {
+      "gloss": "SUBMERSIBLE PUMP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SUBSISTENCE FARM",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUBSISTENCE FARMING"
+      ]
+    },
+    {
+      "gloss": "SUBSISTENCE FARMING",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUBSISTENCE FARM"
+      ]
+    },
+    {
+      "gloss": "SUBTROPICAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUCKER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUGAR CROPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUGAR"
+      ]
+    },
+    {
+      "gloss": "SUMMER OR ZAID SEASON VEGETABLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUMMER PLOUGHING",
+        "SUMMER",
+        "SUMMER SEASON ANNUALS"
+      ]
+    },
+    {
+      "gloss": "SUMMER PLOUGHING",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUMMER OR ZAID SEASON VEGETABLE",
+        "SUMMER",
+        "SUMMER SEASON ANNUALS"
+      ]
+    },
+    {
+      "gloss": "SUMMER SEASON ANNUALS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUMMER OR ZAID SEASON VEGETABLE",
+        "SUMMER PLOUGHING",
+        "SUMMER"
+      ]
+    },
+    {
+      "gloss": "SUPERFLUOUS WATER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SUQUARE METHOD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SURFACE EROISN",
+      "category": "COMPOUND",
+      "anchor": [
+        "SURFACE CHART",
+        "SURFACE IRRIGATION",
+        "SURFACE",
+        "SURFACE WATER",
+        "SURFACE RUNOFF"
+      ]
+    },
+    {
+      "gloss": "SURFACE IRRIGATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "SURFACE CHART",
+        "SURFACE EROISN",
+        "SURFACE",
+        "SURFACE WATER",
+        "SURFACE RUNOFF"
+      ]
+    },
+    {
+      "gloss": "SURFACE RUNOFF",
+      "category": "COMPOUND",
+      "anchor": [
+        "SURFACE CHART",
+        "SURFACE EROISN",
+        "SURFACE IRRIGATION",
+        "SURFACE WATER",
+        "SURFACE"
+      ]
+    },
+    {
+      "gloss": "SURFACE WATER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SURFACE CHART",
+        "SURFACE EROISN",
+        "SURFACE IRRIGATION",
+        "SURFACE",
+        "SURFACE RUNOFF"
+      ]
+    },
+    {
+      "gloss": "SURPENTINE OR COMPOUND LAYERING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SWELLINGS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SWINE FARMING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SWOMP OR EXOTIC BUFFALOW",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SYMBIOTIC PLANTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SYMPTOMS OF NEMATODE DISEASES OF PLANTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SYMPTOMS"
+      ]
+    },
+    {
+      "gloss": "SYSTEM OF FEEDING POULTRY",
+      "category": "COMPOUND",
+      "anchor": [
+        "SYSTEM",
+        "SYSTEM SOFTWARE"
+      ]
+    },
+    {
+      "gloss": "SYSTEMIC DISEASE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SYSTEMIC INSECTICIDE"
+      ]
+    },
+    {
+      "gloss": "SYSTEMIC INSECTICIDE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SYSTEMIC DISEASE"
+      ]
+    },
+    {
+      "gloss": "SAUDI ARABIA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SCOTLAND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEYCHELLES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SINGAPORE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SLOVAKIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOUTH AFRICA",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOUTH AMERICA",
+        "SOUTH",
+        "SOUTH INDIAN BANK",
+        "SOUTH KOREA",
+        "SOUTH POLE"
+      ]
+    },
+    {
+      "gloss": "SOUTH AMERICA",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOUTH AFRICA",
+        "SOUTH",
+        "SOUTH INDIAN BANK",
+        "SOUTH KOREA",
+        "SOUTH POLE"
+      ]
+    },
+    {
+      "gloss": "SOUTH KOREA",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOUTH AMERICA",
+        "SOUTH AFRICA",
+        "SOUTH",
+        "SOUTH INDIAN BANK",
+        "SOUTH POLE"
+      ]
+    },
+    {
+      "gloss": "SPAIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SRI LANKA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SUDAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SWEDEN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SWITZERLAND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SYRIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SANCTIONS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SAVINGS ACCOUNT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SECURITIES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEMI ANNUAL INTEREST",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEMI INTENSIVE SYSTEM",
+        "SEMI CONDUCTORS",
+        "SEMI ANILINE SKIM"
+      ]
+    },
+    {
+      "gloss": "SETTLEMENT CYCLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SETTLEMENT DAY",
+        "SETTLEMENT DEFERMENT",
+        "SETTLEMENT"
+      ]
+    },
+    {
+      "gloss": "SETTLEMENT DAY",
+      "category": "COMPOUND",
+      "anchor": [
+        "SETTLEMENT CYCLE",
+        "SETTLEMENT DEFERMENT",
+        "SETTLEMENT"
+      ]
+    },
+    {
+      "gloss": "SETTLEMENT DEFERMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SETTLEMENT CYCLE",
+        "SETTLEMENT DAY",
+        "SETTLEMENT"
+      ]
+    },
+    {
+      "gloss": "SHARE CAPITAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHARE",
+        "SHARE MARKET"
+      ]
+    },
+    {
+      "gloss": "SHAREHOLDER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHORT TERM CAPITAL GAINS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHORT",
+        "SHORT CIRCUIT",
+        "SHORT CORNER",
+        "SHORT TERM"
+      ]
+    },
+    {
+      "gloss": "SIGNATORY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SIMPLE INTEREST",
+      "category": "COMPOUND",
+      "anchor": [
+        "SIMPLE CURVE",
+        "SIMPLE LAYERING",
+        "SIMPLE SENTENCE",
+        "SIMPLE EQUATION",
+        "SIMPLE FOOTING"
+      ]
+    },
+    {
+      "gloss": "SOLE PROPRIETORSHIP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SPECULATOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STOCK",
+      "category": "CORE",
+      "anchor": [
+        "STOCK SPLIT",
+        "STOCK BOOK",
+        "STOCK DIVIDEND, BONUS SHARES",
+        "STOCK CHART",
+        "STOCK EXCHANGE"
+      ]
+    },
+    {
+      "gloss": "STOCK BOOK",
+      "category": "COMPOUND",
+      "anchor": [
+        "STOCK SPLIT",
+        "STOCK DIVIDEND, BONUS SHARES",
+        "STOCK CHART",
+        "STOCK EXCHANGE",
+        "STOCK"
+      ]
+    },
+    {
+      "gloss": "STOCK DIVIDEND, BONUS SHARES",
+      "category": "COMPOUND",
+      "anchor": [
+        "STOCK SPLIT",
+        "STOCK BOOK",
+        "STOCK CHART",
+        "STOCK EXCHANGE",
+        "STOCK"
+      ]
+    },
+    {
+      "gloss": "STOCK EXCHANGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "STOCK SPLIT",
+        "STOCK BOOK",
+        "STOCK DIVIDEND, BONUS SHARES",
+        "STOCK CHART",
+        "STOCK"
+      ]
+    },
+    {
+      "gloss": "STOCK SPLIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "STOCK BOOK",
+        "STOCK DIVIDEND, BONUS SHARES",
+        "STOCK CHART",
+        "STOCK EXCHANGE",
+        "STOCK"
+      ]
+    },
+    {
+      "gloss": "STRIKE PRICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "STRIKE"
+      ]
+    },
+    {
+      "gloss": "SUB CUSTODIAN",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUB JAIL",
+        "SUB JUDICE",
+        "SUB SURFACE IRRIGATION",
+        "SUB DIRECTORY"
+      ]
+    },
+    {
+      "gloss": "SUBSCRIBED CAPITAL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SUBSIDIARY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUM ASSURED",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUM"
+      ]
+    },
+    {
+      "gloss": "SWAPS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SYSTEMATIC INVESTMENT PLAN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SEE EYE TO EYE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEE YOU TOMORROW",
+        "SEE"
+      ]
+    },
+    {
+      "gloss": "SABBATICAL LEAVE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SALE DEED",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SEARCH OPERATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEARCH ENGINE",
+        "SEARCH"
+      ]
+    },
+    {
+      "gloss": "SECTION 143 IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 232 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 144 IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 143 IPC",
+        "SECTION 232 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 145 IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC",
+        "SECTION 232 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 166A IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC",
+        "SECTION 232 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 232 IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 302 IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 304 A IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 304 B IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 304 IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 306 IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 307 IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 312 IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 313 IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 314 IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 316 IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 317 IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 318 IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 370 IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 372 IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 374 IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 375",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 376",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 376 A",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 376 B",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 376 C",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 376 D",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 376 E",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 377 OF IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 46CRPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 66 A IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 82 IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION 97 IPC",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION ADMIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SECTION OFFICER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECTION 166A IPC",
+        "SECTION",
+        "SECTION 145 IPC",
+        "SECTION 144 IPC",
+        "SECTION 143 IPC"
+      ]
+    },
+    {
+      "gloss": "SEIZE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SELF APPRAISAL OR SELF ASSESSMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SELF DEFENCE",
+        "SELF POSSESSION",
+        "SELF",
+        "SELF FINANCING",
+        "SELF COMPACTING CONCRETE"
+      ]
+    },
+    {
+      "gloss": "SELF DEFENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SELF POSSESSION",
+        "SELF",
+        "SELF FINANCING",
+        "SELF APPRAISAL OR SELF ASSESSMENT",
+        "SELF COMPACTING CONCRETE"
+      ]
+    },
+    {
+      "gloss": "SERIAL KILLER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SERIAL RAPIST",
+        "SERIAL MONOGAMY",
+        "SERIAL"
+      ]
+    },
+    {
+      "gloss": "SERIAL MONOGAMY",
+      "category": "COMPOUND",
+      "anchor": [
+        "SERIAL KILLER",
+        "SERIAL",
+        "SERIAL RAPIST"
+      ]
+    },
+    {
+      "gloss": "SERIAL RAPIST",
+      "category": "COMPOUND",
+      "anchor": [
+        "SERIAL KILLER",
+        "SERIAL MONOGAMY",
+        "SERIAL"
+      ]
+    },
+    {
+      "gloss": "SEX OFFENDER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEX",
+        "SEX TRAFFICKING",
+        "SEX CHROMOSOMES",
+        "SEX RATIO",
+        "SEX DETERMINATION"
+      ]
+    },
+    {
+      "gloss": "SEX TRAFFICKING",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEX",
+        "SEX CHROMOSOMES",
+        "SEX RATIO",
+        "SEX OFFENDER",
+        "SEX DETERMINATION"
+      ]
+    },
+    {
+      "gloss": "SEXUAL ASSAULT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEXUAL REPRODUCTION",
+        "SEXUAL ABUSE",
+        "SEXUAL HARASSMENT"
+      ]
+    },
+    {
+      "gloss": "SLEEPING PARTNER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SMUGGLING, SMUGGLER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SOMNAMBULIST OR SLEEPWALKER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SPECIAL COMPENSATORY REMOTE LOCALITY ALLOWANCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPECIAL EDUCATION ZONE",
+        "SPECIAL MARRIAGE ACT",
+        "SPECIAL WEAPONS AND TACTICS TEAM",
+        "SPECIAL JAIL",
+        "SPECIAL"
+      ]
+    },
+    {
+      "gloss": "SPECIAL JAIL",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPECIAL EDUCATION ZONE",
+        "SPECIAL MARRIAGE ACT",
+        "SPECIAL COMPENSATORY REMOTE LOCALITY ALLOWANCE",
+        "SPECIAL WEAPONS AND TACTICS TEAM",
+        "SPECIAL"
+      ]
+    },
+    {
+      "gloss": "SPECIAL MARRIAGE ACT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPECIAL EDUCATION ZONE",
+        "SPECIAL COMPENSATORY REMOTE LOCALITY ALLOWANCE",
+        "SPECIAL WEAPONS AND TACTICS TEAM",
+        "SPECIAL JAIL",
+        "SPECIAL"
+      ]
+    },
+    {
+      "gloss": "SPECIAL WEAPONS AND TACTICS TEAM",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPECIAL EDUCATION ZONE",
+        "SPECIAL MARRIAGE ACT",
+        "SPECIAL COMPENSATORY REMOTE LOCALITY ALLOWANCE",
+        "SPECIAL JAIL",
+        "SPECIAL"
+      ]
+    },
+    {
+      "gloss": "SPEEDING TICKET",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STAFF OFFICER OR PRINCIPAL PRIVATE SECRETARY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STALKING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STARE DECISIS, CITATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STATION LEAVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "STATION"
+      ]
+    },
+    {
+      "gloss": "STATUTORY RAPE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STAY ORDER",
+      "category": "COMPOUND",
+      "anchor": [
+        "STAY"
+      ]
+    },
+    {
+      "gloss": "STENOGRAPHER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUB JAIL",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUB JUDICE",
+        "SUB CUSTODIAN",
+        "SUB SURFACE IRRIGATION",
+        "SUB DIRECTORY"
+      ]
+    },
+    {
+      "gloss": "SUB JUDICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUB JAIL",
+        "SUB CUSTODIAN",
+        "SUB SURFACE IRRIGATION",
+        "SUB DIRECTORY"
+      ]
+    },
+    {
+      "gloss": "SUBPOENA AND CONTEMPT OF COURT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SUMMON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUO MOTU",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SUPERVISOR, SUPERVISE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SUPREME COURT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SURCHARGE",
+      "category": "CORE",
+      "anchor": [
+        "SURCHARGE WAIVER"
+      ]
+    },
+    {
+      "gloss": "SURGICAL STRIKE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SURVIVAL SEX",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SWEAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SALIVA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SALIVARY GLAND",
+      "category": "COMPOUND",
+      "anchor": [
+        "SALIVARY GLANDS"
+      ]
+    },
+    {
+      "gloss": "SCABIES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCALP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCAPULA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCIATICA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCOLIOSIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCRABBLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEDATIVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEIZURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEPSIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEXUALLY TRANSMITTED DISEASE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SHIGELLA DYSENTERIE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SHORTWAVE DIATHERMY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SINUSITIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SKELETON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SKIN CANCER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SKIN",
+        "SKIN DISEASE"
+      ]
+    },
+    {
+      "gloss": "SKIN DISEASE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SKIN",
+        "SKIN CANCER"
+      ]
+    },
+    {
+      "gloss": "SKULL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SLEEP APNEA",
+      "category": "COMPOUND",
+      "anchor": [
+        "SLEEP"
+      ]
+    },
+    {
+      "gloss": "SLEEPWALKING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SMALL CELL LUNG CANCER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SMALL SCALE INDUSTRIES",
+        "SMALL INTESTINE",
+        "SMALL",
+        "SMALL INTESTINE CANCER",
+        "SMALL SIZE SEED CROPS"
+      ]
+    },
+    {
+      "gloss": "SMALL INTESTINE CANCER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SMALL SCALE INDUSTRIES",
+        "SMALL INTESTINE",
+        "SMALL",
+        "SMALL SIZE SEED CROPS",
+        "SMALL CELL LUNG CANCER"
+      ]
+    },
+    {
+      "gloss": "SNEEZE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SNORE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOMATOSTATIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPASM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPEECH AND LANGUAGE DISORDERS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPEECH THERAPY",
+        "SPEECH THERAPIST"
+      ]
+    },
+    {
+      "gloss": "SPINAL CORD INJURY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SPINE BACKBONE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SPLEEN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPONDYLITIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPRAIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPUTUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SQUAMOUS CELL CARCINOMA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SQUINT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STARVTION DITE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STEMGNOSIS SET",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STERILISING DRUM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STERILIZER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STEROID",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STETHOSCOPE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STIMULATOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STOMACHCANCER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STOOL FRAME",
+      "category": "COMPOUND",
+      "anchor": [
+        "STOOL LAYERING"
+      ]
+    },
+    {
+      "gloss": "STRETCHER",
+      "category": "CORE",
+      "anchor": [
+        "STRETCHER WITH IV POLE"
+      ]
+    },
+    {
+      "gloss": "STRETCHER WITH IV POLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "STRETCHER"
+      ]
+    },
+    {
+      "gloss": "SUCTION MACHINE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SUICIDE",
+      "category": "CORE",
+      "anchor": [
+        "SUICIDE PREVENTION CENTRES",
+        "SUICIDE ATTEMPT"
+      ]
+    },
+    {
+      "gloss": "SUN TAN",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUN"
+      ]
+    },
+    {
+      "gloss": "SUNBURN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUNSCREEN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SURFORM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUTURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SWAB",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SWELLING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SYMPTOM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SYNCOPE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SYNDROME",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SYNOVIAL FLUID",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SYPHILIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SYRINGE",
+      "category": "CORE",
+      "anchor": [
+        "SYRINGE AND NEEDLE"
+      ]
+    },
+    {
+      "gloss": "SYRINGE AND NEEDLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SYRINGE"
+      ]
+    },
+    {
+      "gloss": "SYRUP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOME SIGNS OF HYDERABAD",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOME SIGNS OF MANIPUR - PART 2",
+        "SOME SIGNS OF KOLKATA",
+        "SOME SIGNS OF MANIPUR - PART 1",
+        "SOME"
+      ]
+    },
+    {
+      "gloss": "SOME SIGNS OF KOLKATA",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOME SIGNS OF MANIPUR - PART 2",
+        "SOME SIGNS OF MANIPUR - PART 1",
+        "SOME",
+        "SOME SIGNS OF HYDERABAD"
+      ]
+    },
+    {
+      "gloss": "SOME SIGNS OF MANIPUR - PART 1",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOME SIGNS OF MANIPUR - PART 2",
+        "SOME SIGNS OF KOLKATA",
+        "SOME",
+        "SOME SIGNS OF HYDERABAD"
+      ]
+    },
+    {
+      "gloss": "SOME SIGNS OF MANIPUR - PART 2",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOME SIGNS OF KOLKATA",
+        "SOME SIGNS OF MANIPUR - PART 1",
+        "SOME",
+        "SOME SIGNS OF HYDERABAD"
+      ]
+    },
+    {
+      "gloss": "SHILLONG",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHIMLA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SIKKIM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SONIPAT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SRINAGAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SURAT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SAFE AREA",
+      "category": "COMPOUND",
+      "anchor": [
+        "SAFE"
+      ]
+    },
+    {
+      "gloss": "SAFETY GOOGLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SAFETY HELMET",
+        "SAFETY PIN"
+      ]
+    },
+    {
+      "gloss": "SAFETY HELMET",
+      "category": "COMPOUND",
+      "anchor": [
+        "SAFETY GOOGLE",
+        "SAFETY PIN"
+      ]
+    },
+    {
+      "gloss": "SAILOR COLLAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "SAILOR",
+        "SAILOR PANTS"
+      ]
+    },
+    {
+      "gloss": "SAILOR PANTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SAILOR",
+        "SAILOR COLLAR"
+      ]
+    },
+    {
+      "gloss": "SAN SERIF",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SAND PAPER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SAND",
+        "SAND SCREEN MACHINE"
+      ]
+    },
+    {
+      "gloss": "SAND SCREEN MACHINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SAND PAPER",
+        "SAND"
+      ]
+    },
+    {
+      "gloss": "SANDER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SANDY SOIL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SANITARY ENGINEERING",
+      "category": "COMPOUND",
+      "anchor": [
+        "SANITARY PAD"
+      ]
+    },
+    {
+      "gloss": "SARONG SKIRT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SATURATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCALLOPED EDGE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SCALPEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCHEDULE PRIVILEGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SCHEDULE"
+      ]
+    },
+    {
+      "gloss": "SCRAPING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCRATCHER TOOL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SCREEN",
+      "category": "CORE",
+      "anchor": [
+        "SCREEN RESOLUTION",
+        "SCREEN MAGNIFIER",
+        "SCREEN SAVER",
+        "SCREEN SHARE"
+      ]
+    },
+    {
+      "gloss": "SCREEN RESOLUTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "SCREEN MAGNIFIER",
+        "SCREEN SAVER",
+        "SCREEN SHARE",
+        "SCREEN"
+      ]
+    },
+    {
+      "gloss": "SCREEN SAVER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SCREEN RESOLUTION",
+        "SCREEN MAGNIFIER",
+        "SCREEN SHARE",
+        "SCREEN"
+      ]
+    },
+    {
+      "gloss": "SCREEN SHARE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SCREEN RESOLUTION",
+        "SCREEN MAGNIFIER",
+        "SCREEN SAVER",
+        "SCREEN"
+      ]
+    },
+    {
+      "gloss": "SCREW DRIVER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SCRIBER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEALENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEAM ALLOWANCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEAM GAUGE",
+        "SEAM WELDING",
+        "SEAM GRADING",
+        "SEAM RIPPER",
+        "SEAM BINDING"
+      ]
+    },
+    {
+      "gloss": "SEAM BINDING",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEAM GAUGE",
+        "SEAM WELDING",
+        "SEAM GRADING",
+        "SEAM RIPPER",
+        "SEAM ALLOWANCE"
+      ]
+    },
+    {
+      "gloss": "SEAM GAUGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEAM WELDING",
+        "SEAM GRADING",
+        "SEAM RIPPER",
+        "SEAM BINDING",
+        "SEAM ALLOWANCE"
+      ]
+    },
+    {
+      "gloss": "SEAM GRADING",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEAM GAUGE",
+        "SEAM WELDING",
+        "SEAM RIPPER",
+        "SEAM BINDING",
+        "SEAM ALLOWANCE"
+      ]
+    },
+    {
+      "gloss": "SEAM RIPPER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEAM GAUGE",
+        "SEAM WELDING",
+        "SEAM GRADING",
+        "SEAM BINDING",
+        "SEAM ALLOWANCE"
+      ]
+    },
+    {
+      "gloss": "SEAM WELDING",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEAM GAUGE",
+        "SEAM GRADING",
+        "SEAM RIPPER",
+        "SEAM BINDING",
+        "SEAM ALLOWANCE"
+      ]
+    },
+    {
+      "gloss": "SEAMLINE POCKET",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SECOND PARTY COOKIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECOND IN COMMAND",
+        "SECOND"
+      ]
+    },
+    {
+      "gloss": "SECURITY AND ACCESS CONTROL",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECURITY BIT",
+        "SECURITY",
+        "SECURITY GUARD",
+        "SECURITY ZONE"
+      ]
+    },
+    {
+      "gloss": "SECURITY BIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECURITY",
+        "SECURITY AND ACCESS CONTROL",
+        "SECURITY GUARD",
+        "SECURITY ZONE"
+      ]
+    },
+    {
+      "gloss": "SELF COMPACTING CONCRETE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SELF DEFENCE",
+        "SELF POSSESSION",
+        "SELF",
+        "SELF FINANCING",
+        "SELF APPRAISAL OR SELF ASSESSMENT"
+      ]
+    },
+    {
+      "gloss": "SELVAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEM \u2013 SEARCH ENGINE MARKETING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SEMI ANILINE SKIM",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEMI ANNUAL INTEREST",
+        "SEMI INTENSIVE SYSTEM",
+        "SEMI CONDUCTORS"
+      ]
+    },
+    {
+      "gloss": "SEMI CONDUCTORS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEMI ANNUAL INTEREST",
+        "SEMI INTENSIVE SYSTEM",
+        "SEMI ANILINE SKIM"
+      ]
+    },
+    {
+      "gloss": "SEMI\u2013DETACHED HOUSE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SEPTIC TANK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SERIES CIRCUIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SERIES"
+      ]
+    },
+    {
+      "gloss": "SERIF",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SERVICE ROAD",
+      "category": "COMPOUND",
+      "anchor": [
+        "SERVICE",
+        "SERVICE ANIMAL",
+        "SERVICE COURT"
+      ]
+    },
+    {
+      "gloss": "SETTING OF CEMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SETTING"
+      ]
+    },
+    {
+      "gloss": "SHADE",
+      "category": "CLASSIFIERS",
+      "anchor": []
+    },
+    {
+      "gloss": "SHADING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHAFT",
+      "category": "CORE",
+      "anchor": [
+        "SHAFT MININIG"
+      ]
+    },
+    {
+      "gloss": "SHANK BUTTON",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SHAPING MACHINE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SHARPENING STONE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SHEARLING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHEARS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHEET BENDING MACHINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHEET PILES"
+      ]
+    },
+    {
+      "gloss": "SHEET PILES",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHEET BENDING MACHINE"
+      ]
+    },
+    {
+      "gloss": "SHELL TOP",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SHIRRING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHORT CIRCUIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHORT",
+        "SHORT CORNER",
+        "SHORT TERM CAPITAL GAINS",
+        "SHORT TERM"
+      ]
+    },
+    {
+      "gloss": "SHOT LIST",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHOT PUT",
+        "SHOT"
+      ]
+    },
+    {
+      "gloss": "SHOULDER PADS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHOULDER",
+        "SHOULDER BONE"
+      ]
+    },
+    {
+      "gloss": "SHOVEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHUT DOWN",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHUT UP, STOP TALKING",
+        "SHUT"
+      ]
+    },
+    {
+      "gloss": "SHUTTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SIDE MIRROR",
+      "category": "COMPOUND",
+      "anchor": [
+        "SIDE",
+        "SIDE GRAFTING"
+      ]
+    },
+    {
+      "gloss": "SIGNED IN DEVICES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SILHOUETTE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SIMPLE FOOTING",
+      "category": "COMPOUND",
+      "anchor": [
+        "SIMPLE CURVE",
+        "SIMPLE LAYERING",
+        "SIMPLE SENTENCE",
+        "SIMPLE EQUATION",
+        "SIMPLE INTEREST"
+      ]
+    },
+    {
+      "gloss": "SIMULATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SINGLE PHASE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SINGLE",
+        "SINGLE CELL"
+      ]
+    },
+    {
+      "gloss": "SITE CLEARANCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SITE"
+      ]
+    },
+    {
+      "gloss": "SLEDGE HAMMER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SLEEVE BAND",
+      "category": "COMPOUND",
+      "anchor": [
+        "SLEEVE BOARD"
+      ]
+    },
+    {
+      "gloss": "SLEEVE BOARD",
+      "category": "COMPOUND",
+      "anchor": [
+        "SLEEVE BAND"
+      ]
+    },
+    {
+      "gloss": "SLIDE MASTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SLIDE"
+      ]
+    },
+    {
+      "gloss": "SLOPED FOOTING",
+      "category": "COMPOUND",
+      "anchor": [
+        "SLOPED ROOF"
+      ]
+    },
+    {
+      "gloss": "SLOPED ROOF",
+      "category": "COMPOUND",
+      "anchor": [
+        "SLOPED FOOTING"
+      ]
+    },
+    {
+      "gloss": "SLUG",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SMART AIR CONDITIONER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SMART THERMOSTAT",
+        "SMART DOOR LOCK",
+        "SMART BATHROOM APPLIANCES"
+      ]
+    },
+    {
+      "gloss": "SMART BATHROOM APPLIANCES",
+      "category": "COMPOUND",
+      "anchor": [
+        "SMART THERMOSTAT",
+        "SMART AIR CONDITIONER",
+        "SMART DOOR LOCK"
+      ]
+    },
+    {
+      "gloss": "SMART DOOR LOCK",
+      "category": "COMPOUND",
+      "anchor": [
+        "SMART THERMOSTAT",
+        "SMART AIR CONDITIONER",
+        "SMART BATHROOM APPLIANCES"
+      ]
+    },
+    {
+      "gloss": "SMART THERMOSTAT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SMART DOOR LOCK",
+        "SMART AIR CONDITIONER",
+        "SMART BATHROOM APPLIANCES"
+      ]
+    },
+    {
+      "gloss": "SMOOTH FILE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SMS NOTIFICATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SNIPPETS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SNOOZED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOFT HAMMER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOFT",
+        "SOFT TOY, STUFFED TOY"
+      ]
+    },
+    {
+      "gloss": "SOLDERING IRON",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SOUND INSULATING MATERIALS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOUND NOTIFICATION"
+      ]
+    },
+    {
+      "gloss": "SOUND NOTIFICATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOUND INSULATING MATERIALS"
+      ]
+    },
+    {
+      "gloss": "SPAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPANNER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPIDER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPIRIT LEVEL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SPLIT PULLEY",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPLIT SHIRT"
+      ]
+    },
+    {
+      "gloss": "SPLIT SHIRT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPLIT PULLEY"
+      ]
+    },
+    {
+      "gloss": "SPRING WASHER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPRING",
+        "SPRING TIDES",
+        "SPRING ONION"
+      ]
+    },
+    {
+      "gloss": "SPUR GEAR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SQUARE FILE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SQUARE ROOT",
+        "SQUARE",
+        "SQUARE NUMBER",
+        "SQUARE LEG"
+      ]
+    },
+    {
+      "gloss": "STAINLESS STEEL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STAIR TREAD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STAND ALONE MACHINE CONTROL UNIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "STAND"
+      ]
+    },
+    {
+      "gloss": "STANDARD CUT",
+      "category": "COMPOUND",
+      "anchor": [
+        "STANDARD RIFLE",
+        "STANDARD OF LIVING"
+      ]
+    },
+    {
+      "gloss": "STARRED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "START CAPACITOR",
+      "category": "COMPOUND",
+      "anchor": [
+        "DEBUT, LAUNCH, FIRST PERFORMANCE, FIRST APPEARANCE",
+        "START MENU"
+      ]
+    },
+    {
+      "gloss": "START MENU",
+      "category": "COMPOUND",
+      "anchor": [
+        "START CAPACITOR",
+        "DEBUT, LAUNCH, FIRST PERFORMANCE, FIRST APPEARANCE"
+      ]
+    },
+    {
+      "gloss": "STATE DATA CENTRE",
+      "category": "COMPOUND",
+      "anchor": [
+        "STATE",
+        "STATE CURRICULAR FRAMEWORK",
+        "STATE COUNCIL OF EDUCATIONAL RESEARCH AND TRAINING",
+        "STATE INSTITUTES OF OPEN SCHOOLING",
+        "STATE BANK OF INDIA"
+      ]
+    },
+    {
+      "gloss": "STATUS BAR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STEADY CURRENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STEEL RACK",
+      "category": "COMPOUND",
+      "anchor": [
+        "STEEL",
+        "STEEL REINFORCEMENT"
+      ]
+    },
+    {
+      "gloss": "STEEL REINFORCEMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "STEEL",
+        "STEEL RACK"
+      ]
+    },
+    {
+      "gloss": "STEERING WHEEL",
+      "category": "COMPOUND",
+      "anchor": [
+        "STEERING"
+      ]
+    },
+    {
+      "gloss": "STENCIL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STEP CONE PULLEY",
+      "category": "COMPOUND",
+      "anchor": [
+        "STEP DOWN",
+        "STEP COUNT",
+        "STEP"
+      ]
+    },
+    {
+      "gloss": "STEPPED FOOTING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STEREO AUDIO",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STOCK CHART",
+      "category": "COMPOUND",
+      "anchor": [
+        "STOCK SPLIT",
+        "STOCK BOOK",
+        "STOCK DIVIDEND, BONUS SHARES",
+        "STOCK EXCHANGE",
+        "STOCK"
+      ]
+    },
+    {
+      "gloss": "STONE MASONRY",
+      "category": "COMPOUND",
+      "anchor": [
+        "STONE",
+        "STONE GRAFTING"
+      ]
+    },
+    {
+      "gloss": "STOREY SKYSCRAPER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STORYBOARD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STRAIGHT EDGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "STRAIGHT ANGLE",
+        "STRAIGHT LINE",
+        "STRAIGHT",
+        "STRAIGHT PEIN HAMMER"
+      ]
+    },
+    {
+      "gloss": "STRAIGHT PEIN HAMMER",
+      "category": "COMPOUND",
+      "anchor": [
+        "STRAIGHT ANGLE",
+        "STRAIGHT EDGE",
+        "STRAIGHT",
+        "STRAIGHT LINE"
+      ]
+    },
+    {
+      "gloss": "STREAMING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STRUCTURAL GLASS",
+      "category": "COMPOUND",
+      "anchor": [
+        "STRUCTURAL STEEL"
+      ]
+    },
+    {
+      "gloss": "STRUCTURAL STEEL",
+      "category": "COMPOUND",
+      "anchor": [
+        "STRUCTURAL GLASS"
+      ]
+    },
+    {
+      "gloss": "STUD BOLT",
+      "category": "COMPOUND",
+      "anchor": [
+        "STUD MATING"
+      ]
+    },
+    {
+      "gloss": "SUB DIRECTORY",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUB JAIL",
+        "SUB JUDICE",
+        "SUB CUSTODIAN",
+        "SUB SURFACE IRRIGATION"
+      ]
+    },
+    {
+      "gloss": "SUBMERGED ARC WELDING",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUBMERGED WEEDS"
+      ]
+    },
+    {
+      "gloss": "SUBSTATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUPER BUILT UP AREA",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUPER COMPUTER"
+      ]
+    },
+    {
+      "gloss": "SUPER COMPUTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUPER BUILT UP AREA"
+      ]
+    },
+    {
+      "gloss": "SUPERIMPOSING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SURFACE CHART",
+      "category": "COMPOUND",
+      "anchor": [
+        "SURFACE EROISN",
+        "SURFACE IRRIGATION",
+        "SURFACE",
+        "SURFACE WATER",
+        "SURFACE RUNOFF"
+      ]
+    },
+    {
+      "gloss": "SURFACE GAUGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SURFACE EROISN",
+        "SURFACE IRRIGATION",
+        "SURFACE",
+        "SURFACE WATER",
+        "SURFACE RUNOFF"
+      ]
+    },
+    {
+      "gloss": "SURFACE PLATE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SURFACE EROISN",
+        "SURFACE IRRIGATION",
+        "SURFACE",
+        "SURFACE WATER",
+        "SURFACE RUNOFF"
+      ]
+    },
+    {
+      "gloss": "SWEEP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SWITCH BOX",
+      "category": "COMPOUND",
+      "anchor": [
+        "SWITCH",
+        "SWITCH WINDOWS"
+      ]
+    },
+    {
+      "gloss": "SWITCH WINDOWS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SWITCH",
+        "SWITCH BOX"
+      ]
+    },
+    {
+      "gloss": "SWIVEL MACHINE CONTROL UNIT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SYMMETRICAL DESIGN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SYSTEM SOFTWARE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SYSTEM",
+        "SYSTEM OF FEEDING POULTRY"
+      ]
+    },
+    {
+      "gloss": "SALINE SOIL",
+      "category": "COMPOUND",
+      "anchor": [
+        "SALINE SOILS",
+        "SALINE WATER, SALTWATER"
+      ]
+    },
+    {
+      "gloss": "SAMA VEDA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SANCTUARY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SAPROTROPHIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SATURATED SOLUTION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SCRIPT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCURVY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEED DISPERSAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEED",
+        "SEED PLANTER",
+        "SEED BORNE DISEASE"
+      ]
+    },
+    {
+      "gloss": "SERVICES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEWER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEWERAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEX CHROMOSOMES",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEX",
+        "SEX TRAFFICKING",
+        "SEX RATIO",
+        "SEX OFFENDER",
+        "SEX DETERMINATION"
+      ]
+    },
+    {
+      "gloss": "SHIA MUSLIMS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SHOULDER BONE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHOULDER PADS",
+        "SHOULDER"
+      ]
+    },
+    {
+      "gloss": "SI UNIT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SILO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SILTY SOIL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SIMPLE PENDULUM",
+      "category": "COMPOUND",
+      "anchor": [
+        "SIMPLE CURVE",
+        "SIMPLE LAYERING",
+        "SIMPLE SENTENCE",
+        "SIMPLE EQUATION",
+        "SIMPLE INTEREST"
+      ]
+    },
+    {
+      "gloss": "SKILL",
+      "category": "CORE",
+      "anchor": [
+        "SKILL SET",
+        "SKILL DEVELOPMENT"
+      ]
+    },
+    {
+      "gloss": "SLANTING LINE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SLUDGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOCIALISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOWING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPECIES",
+      "category": "CLASSIFIERS",
+      "anchor": []
+    },
+    {
+      "gloss": "SPINNING WHEEL",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPINNING",
+        "SPINNING TOP"
+      ]
+    },
+    {
+      "gloss": "SPIRACLES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPORANGIUM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPORE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STARCH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STATE GOVERNMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "STATE",
+        "STATE CURRICULAR FRAMEWORK",
+        "STATE COUNCIL OF EDUCATIONAL RESEARCH AND TRAINING",
+        "STATE INSTITUTES OF OPEN SCHOOLING",
+        "STATE BANK OF INDIA"
+      ]
+    },
+    {
+      "gloss": "STIGMA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STIMULUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STORAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STRAIGHT LINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "STRAIGHT ANGLE",
+        "STRAIGHT EDGE",
+        "STRAIGHT",
+        "STRAIGHT PEIN HAMMER"
+      ]
+    },
+    {
+      "gloss": "STREAMLINED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUBJECT",
+      "category": "CORE",
+      "anchor": [
+        "SUBJECT AND OBJECT"
+      ]
+    },
+    {
+      "gloss": "SUNNI MUSLIMS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SURFACE AREA",
+      "category": "COMPOUND",
+      "anchor": [
+        "SURFACE EROISN",
+        "SURFACE IRRIGATION",
+        "SURFACE",
+        "SURFACE WATER",
+        "SURFACE RUNOFF"
+      ]
+    },
+    {
+      "gloss": "SYNTHETIC FIBRE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SALINITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SATURN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEA CLIFF",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEA",
+        "SEA LIFE, MARINE LIFE, OCEAN LIFE",
+        "SEA BREEZE",
+        "SEA LEVEL",
+        "SEA CAVE, SEA ARCH, STACK AND SEA CLIFF"
+      ]
+    },
+    {
+      "gloss": "SEA ROUTE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEA",
+        "SEA LIFE, MARINE LIFE, OCEAN LIFE",
+        "SEA BREEZE",
+        "SEA LEVEL",
+        "SEA CAVE, SEA ARCH, STACK AND SEA CLIFF"
+      ]
+    },
+    {
+      "gloss": "SEASONAL WINDS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SECONDARY ACTIVITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECONDARY MARKET",
+        "SECONDARY TILLAGE"
+      ]
+    },
+    {
+      "gloss": "SEDIMENTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEISMOGRAPH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHAFT MININIG",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHAFT"
+      ]
+    },
+    {
+      "gloss": "SHAH JAHAN",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHAH RUKH KHAN"
+      ]
+    },
+    {
+      "gloss": "SHIFTING CULTIVATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SHIVAJI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SMALL SCALE INDUSTRIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "SMALL INTESTINE",
+        "SMALL",
+        "SMALL INTESTINE CANCER",
+        "SMALL SIZE SEED CROPS",
+        "SMALL CELL LUNG CANCER"
+      ]
+    },
+    {
+      "gloss": "SUSTAINABLE DEVELOPMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUSTAINABLE DEVELOPMENT GOAL"
+      ]
+    },
+    {
+      "gloss": "SMASH, SHOT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SATELLITE COMMUNICATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "SATELLITE"
+      ]
+    },
+    {
+      "gloss": "SCADA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCENARIO",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCREEN MAGNIFIER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SCREEN RESOLUTION",
+        "SCREEN SAVER",
+        "SCREEN SHARE",
+        "SCREEN"
+      ]
+    },
+    {
+      "gloss": "SEALED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEAT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEATBELT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SECURITY",
+      "category": "CORE",
+      "anchor": [
+        "SECURITY BIT",
+        "SECURITY AND ACCESS CONTROL",
+        "SECURITY GUARD",
+        "SECURITY ZONE"
+      ]
+    },
+    {
+      "gloss": "SECURITY ZONE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECURITY BIT",
+        "SECURITY",
+        "SECURITY AND ACCESS CONTROL",
+        "SECURITY GUARD"
+      ]
+    },
+    {
+      "gloss": "SEISMIC RETROFIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEISMIC WAVES"
+      ]
+    },
+    {
+      "gloss": "SEMANTIC HTML",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SENIOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SENSOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SERVICE ANIMAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "SERVICE",
+        "SERVICE ROAD",
+        "SERVICE COURT"
+      ]
+    },
+    {
+      "gloss": "SETTING",
+      "category": "CORE",
+      "anchor": [
+        "SETTING OF CEMENT"
+      ]
+    },
+    {
+      "gloss": "SHIP BERTHING",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHIP"
+      ]
+    },
+    {
+      "gloss": "SHOW JUMPING",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHOW"
+      ]
+    },
+    {
+      "gloss": "SHUNPIKING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SIDEBACK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SIDING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SIGNAL",
+      "category": "CORE",
+      "anchor": [
+        "SIGNAL TIMING",
+        "SIGNAL LIGHTS, TURN LIGHTS, BLINKERS"
+      ]
+    },
+    {
+      "gloss": "SIGNAL TIMING",
+      "category": "COMPOUND",
+      "anchor": [
+        "SIGNAL LIGHTS, TURN LIGHTS, BLINKERS",
+        "SIGNAL"
+      ]
+    },
+    {
+      "gloss": "SILVER POINTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SILVER"
+      ]
+    },
+    {
+      "gloss": "SITEIMPROVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SITUATIONAL ACCESSIBILITY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SIT-UP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SKATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SKILL DEVELOPMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SKILL",
+        "SKILL SET"
+      ]
+    },
+    {
+      "gloss": "SKILL SET",
+      "category": "COMPOUND",
+      "anchor": [
+        "SKILL",
+        "SKILL DEVELOPMENT"
+      ]
+    },
+    {
+      "gloss": "SLEEPER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SMALL SLAM",
+      "category": "COMPOUND",
+      "anchor": [
+        "SMALL INTESTINE",
+        "SMALL",
+        "SMALL INTESTINE CANCER",
+        "SMALL SIZE SEED CROPS",
+        "SMALL CELL LUNG CANCER"
+      ]
+    },
+    {
+      "gloss": "SOCIAL CONTRACT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOCIAL",
+        "SOCIAL PSYCHOLOGY",
+        "SOCIAL TOURISM",
+        "SOCIAL REFORM",
+        "SOCIAL NETWORKING SITE"
+      ]
+    },
+    {
+      "gloss": "SOCIAL MOBILITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOCIAL",
+        "SOCIAL PSYCHOLOGY",
+        "SOCIAL TOURISM",
+        "SOCIAL REFORM",
+        "SOCIAL NETWORKING SITE"
+      ]
+    },
+    {
+      "gloss": "SOCIETAL IMPACT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SOCIOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOIL POLLUTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOIL WATER STORAGE",
+        "SOIL AERATION",
+        "SOIL",
+        "SOIL AIR",
+        "SOIL EROSION"
+      ]
+    },
+    {
+      "gloss": "SOLILOQUY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SONNET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOURCE CODE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOURCE"
+      ]
+    },
+    {
+      "gloss": "SOUTHPAW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPADES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPAGHETTI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPEED LIMIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPEED BREAKER, SPEED BUMP",
+        "SPEED"
+      ]
+    },
+    {
+      "gloss": "SPOILER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPRINT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SQUARE NUMBER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SQUARE ROOT",
+        "SQUARE",
+        "SQUARE FILE",
+        "SQUARE LEG"
+      ]
+    },
+    {
+      "gloss": "STABLEMATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STARTUP COMPANY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STEEPLECHASE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STEERING",
+      "category": "CORE",
+      "anchor": [
+        "STEERING WHEEL"
+      ]
+    },
+    {
+      "gloss": "STEP",
+      "category": "CORE",
+      "anchor": [
+        "STEP DOWN",
+        "STEP COUNT",
+        "STEP CONE PULLEY"
+      ]
+    },
+    {
+      "gloss": "STOPPER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STRAP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STRATEGIC MERIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "STRATEGIC ENVIRONMENTAL ASSESSMENT"
+      ]
+    },
+    {
+      "gloss": "STRIKE",
+      "category": "CORE",
+      "anchor": [
+        "STRIKE PRICE"
+      ]
+    },
+    {
+      "gloss": "STROAD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUBWAY TILE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUBWAY"
+      ]
+    },
+    {
+      "gloss": "SUFFRAGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUM",
+      "category": "NUMBERS & TIME",
+      "anchor": [
+        "SUM ASSURED"
+      ]
+    },
+    {
+      "gloss": "SUNDIAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUNROOF",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUPERSTREET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SURCHARGE WAIVER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SURCHARGE"
+      ]
+    },
+    {
+      "gloss": "SUSPENSION",
+      "category": "CORE",
+      "anchor": [
+        "SUSPENSION SYSTEM"
+      ]
+    },
+    {
+      "gloss": "SUSPENSION SYSTEM",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUSPENSION"
+      ]
+    },
+    {
+      "gloss": "SWATH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SWIMMING COSTUME",
+      "category": "COMPOUND",
+      "anchor": [
+        "SWIMMING"
+      ]
+    },
+    {
+      "gloss": "SYLLABLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SYMPTOMATIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SYNCHRONIZATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SYNOPSIS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SAFETY PIN",
+      "category": "COMPOUND",
+      "anchor": [
+        "SAFETY GOOGLE",
+        "SAFETY HELMET"
+      ]
+    },
+    {
+      "gloss": "SALAD BAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "SALAD"
+      ]
+    },
+    {
+      "gloss": "SALES MANAGER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SALES TAX"
+      ]
+    },
+    {
+      "gloss": "SALVATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SANDALWOOD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SARCASM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SAVOURY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SAW CUTTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SAW MILL"
+      ]
+    },
+    {
+      "gloss": "SAW MILL",
+      "category": "COMPOUND",
+      "anchor": [
+        "SAW CUTTER"
+      ]
+    },
+    {
+      "gloss": "SCRIPTURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEARCH ENGINE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEARCH OPERATION",
+        "SEARCH"
+      ]
+    },
+    {
+      "gloss": "SELF-EMPLOYED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SELF POSSESSION",
+      "category": "COMPOUND",
+      "anchor": [
+        "SELF DEFENCE",
+        "SELF",
+        "SELF FINANCING",
+        "SELF APPRAISAL OR SELF ASSESSMENT",
+        "SELF COMPACTING CONCRETE"
+      ]
+    },
+    {
+      "gloss": "SELF RESPECT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SELF DEFENCE",
+        "SELF",
+        "SELF FINANCING",
+        "SELF APPRAISAL OR SELF ASSESSMENT",
+        "SELF COMPACTING CONCRETE"
+      ]
+    },
+    {
+      "gloss": "SELF-LEARNING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SELF-SERVICE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEXUALITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHELF",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHOE POLISH",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHOE RACK"
+      ]
+    },
+    {
+      "gloss": "SHOPPING CART",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SIREN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SKORT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SKYPE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SLOTH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SNAKE VENOM",
+      "category": "COMPOUND",
+      "anchor": [
+        "SNAKE"
+      ]
+    },
+    {
+      "gloss": "SNAPCHAT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOB",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOCIAL MEDIA",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOCIAL",
+        "SOCIAL PSYCHOLOGY",
+        "SOCIAL TOURISM",
+        "SOCIAL REFORM",
+        "SOCIAL NETWORKING SITE"
+      ]
+    },
+    {
+      "gloss": "SOCIAL MEDIA INFLUENCER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOCIAL",
+        "SOCIAL PSYCHOLOGY",
+        "SOCIAL TOURISM",
+        "SOCIAL REFORM",
+        "SOCIAL NETWORKING SITE"
+      ]
+    },
+    {
+      "gloss": "SOCIAL STUDIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOCIAL",
+        "SOCIAL PSYCHOLOGY",
+        "SOCIAL TOURISM",
+        "SOCIAL REFORM",
+        "SOCIAL NETWORKING SITE"
+      ]
+    },
+    {
+      "gloss": "SOCIAL WORK",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOCIAL",
+        "SOCIAL PSYCHOLOGY",
+        "SOCIAL TOURISM",
+        "SOCIAL REFORM",
+        "SOCIAL NETWORKING SITE"
+      ]
+    },
+    {
+      "gloss": "SOCIO-EMOTIONAL DEVELOPMENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SPA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPECIAL EDUCATOR",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPECIAL EDUCATION ZONE",
+        "SPECIAL MARRIAGE ACT",
+        "SPECIAL COMPENSATORY REMOTE LOCALITY ALLOWANCE",
+        "SPECIAL JAIL",
+        "SPECIAL"
+      ]
+    },
+    {
+      "gloss": "SPECIALITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPEECH THERAPY",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPEECH AND LANGUAGE DISORDERS",
+        "SPEECH THERAPIST"
+      ]
+    },
+    {
+      "gloss": "SPIRITUAL LEADER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPIRITUAL"
+      ]
+    },
+    {
+      "gloss": "SPONGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPOUSE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPREAD",
+      "category": "CORE",
+      "anchor": [
+        "SPREAD 2",
+        "SPREAD 1"
+      ]
+    },
+    {
+      "gloss": "SPRING",
+      "category": "CORE",
+      "anchor": [
+        "SPRING WASHER",
+        "SPRING TIDES",
+        "SPRING ONION"
+      ]
+    },
+    {
+      "gloss": "STALLING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STATE PUBLIC SERVICE COMMISSION",
+      "category": "COMPOUND",
+      "anchor": [
+        "STATE",
+        "STATE CURRICULAR FRAMEWORK",
+        "STATE COUNCIL OF EDUCATIONAL RESEARCH AND TRAINING",
+        "STATE INSTITUTES OF OPEN SCHOOLING",
+        "STATE BANK OF INDIA"
+      ]
+    },
+    {
+      "gloss": "STEP COUNT",
+      "category": "COMPOUND",
+      "anchor": [
+        "STEP DOWN",
+        "STEP CONE PULLEY",
+        "STEP"
+      ]
+    },
+    {
+      "gloss": "STORYTELLING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STRAINED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STREETLIGHT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STRETCHABLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUBMISSIVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUBSCRIBER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUBSCRIPTION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUBSTANCE USE DISORDER",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUBSTANCE USE"
+      ]
+    },
+    {
+      "gloss": "SUBSTITUTE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUITE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUPERVISION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUSPEND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SWIGGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SAMPLING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCENIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCORECARD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SENSORY",
+      "category": "CORE",
+      "anchor": [
+        "SENSORY ACCESSIBILITY"
+      ]
+    },
+    {
+      "gloss": "SENSORY ACCESSIBILITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "SENSORY"
+      ]
+    },
+    {
+      "gloss": "SINGLE",
+      "category": "NUMBERS & TIME",
+      "anchor": [
+        "SINGLE PHASE",
+        "SINGLE CELL"
+      ]
+    },
+    {
+      "gloss": "SOAPSTONE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOLENOID",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOLUTIONS ARCHITECT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SURFACTANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SYNCHRONOUS ACCESSIBILITY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SCHIZOPHRENIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEDATED",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SELF AWARENESS",
+      "category": "COMPOUND",
+      "anchor": [
+        "SELF DEFENCE",
+        "SELF",
+        "SELF FINANCING",
+        "SELF APPRAISAL OR SELF ASSESSMENT",
+        "SELF COMPACTING CONCRETE"
+      ]
+    },
+    {
+      "gloss": "SELF ESTEEM",
+      "category": "COMPOUND",
+      "anchor": [
+        "SELF DEFENCE",
+        "SELF",
+        "SELF FINANCING",
+        "SELF APPRAISAL OR SELF ASSESSMENT",
+        "SELF COMPACTING CONCRETE"
+      ]
+    },
+    {
+      "gloss": "SELF-CARE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SELF-HARM / SUICIDE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SELF-HELP GROUPS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SENSITIVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEXUAL ABUSE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SEXUAL REPRODUCTION",
+        "SEXUAL ASSAULT",
+        "SEXUAL HARASSMENT"
+      ]
+    },
+    {
+      "gloss": "SHORT-STAY HOME",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SICKNESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SLURRED SPEECH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SOCIAL NETWORK",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOCIAL",
+        "SOCIAL PSYCHOLOGY",
+        "SOCIAL TOURISM",
+        "SOCIAL REFORM",
+        "SOCIAL NETWORKING SITE"
+      ]
+    },
+    {
+      "gloss": "SOCIAL WELLBEING",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOCIAL",
+        "SOCIAL PSYCHOLOGY",
+        "SOCIAL TOURISM",
+        "SOCIAL REFORM",
+        "SOCIAL NETWORKING SITE"
+      ]
+    },
+    {
+      "gloss": "SOCIAL WITHDRAWAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "SOCIAL",
+        "SOCIAL PSYCHOLOGY",
+        "SOCIAL TOURISM",
+        "SOCIAL REFORM",
+        "SOCIAL NETWORKING SITE"
+      ]
+    },
+    {
+      "gloss": "SOMATOFORM DISORDER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STRESS MANAGEMENT TECHNIQUES",
+      "category": "COMPOUND",
+      "anchor": [
+        "STRESS"
+      ]
+    },
+    {
+      "gloss": "SUBSTANCE USE",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUBSTANCE USE DISORDER"
+      ]
+    },
+    {
+      "gloss": "SUICIDAL THOUGHTS/ IDEATION/ BEHAVIOUR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SUICIDE ATTEMPT",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUICIDE",
+        "SUICIDE PREVENTION CENTRES"
+      ]
+    },
+    {
+      "gloss": "SUICIDE PREVENTION CENTRES",
+      "category": "COMPOUND",
+      "anchor": [
+        "SUICIDE",
+        "SUICIDE ATTEMPT"
+      ]
+    },
+    {
+      "gloss": "SUSPICIOUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SYMPTOMS",
+      "category": "CORE",
+      "anchor": [
+        "SYMPTOMS OF NEMATODE DISEASES OF PLANTS"
+      ]
+    },
+    {
+      "gloss": "SALAD",
+      "category": "CORE",
+      "anchor": [
+        "SALAD BAR"
+      ]
+    },
+    {
+      "gloss": "SALUTE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SANCTIMONY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCRUB",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SCULPTURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEAGULL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SECOND IN COMMAND",
+      "category": "COMPOUND",
+      "anchor": [
+        "SECOND PARTY COOKIES",
+        "SECOND"
+      ]
+    },
+    {
+      "gloss": "SECRETIVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEEK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SEGMENTATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SELF-IMPROVEMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SENEGAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SERBIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SERIES",
+      "category": "CORE",
+      "anchor": [
+        "SERIES CIRCUIT"
+      ]
+    },
+    {
+      "gloss": "SEVERAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SHOWER GEL",
+      "category": "COMPOUND",
+      "anchor": [
+        "SHOWER"
+      ]
+    },
+    {
+      "gloss": "SIDELINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SIGNIFICANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SKEPTICISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SNOWY OWL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SOUL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOUNDNESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPHYGMOMANOMETER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPIRITUAL",
+      "category": "CORE",
+      "anchor": [
+        "SPIRITUAL LEADER"
+      ]
+    },
+    {
+      "gloss": "SPIRITUALISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SPRING ONION",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPRING WASHER",
+        "SPRING TIDES",
+        "SPRING"
+      ]
+    },
+    {
+      "gloss": "STAND-UP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STARBOARD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STATEMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STICKER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STOICISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STORK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "STUBBORN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUBJECTIVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SUBURBAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SURREALISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SWEET POTATO",
+      "category": "COMPOUND",
+      "anchor": [
+        "SWEET",
+        "SWEET LIME"
+      ]
+    },
+    {
+      "gloss": "SYMPATHETIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SYNCRETISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "SOLUTION-FOCUSED BRIEF THERAPY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "STICKY",
+      "category": "CORE",
+      "anchor": [
+        "STICKY CONSISTENCY",
+        "STICKY NOTE, POST IT NOTE"
+      ]
+    },
+    {
+      "gloss": "SELF- EMPLOYED",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "SPREAD 1",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPREAD 2",
+        "SPREAD"
+      ]
+    },
+    {
+      "gloss": "SPREAD 2",
+      "category": "COMPOUND",
+      "anchor": [
+        "SPREAD 1",
+        "SPREAD"
+      ]
+    },
+    {
+      "gloss": "S",
+      "category": "LETTERS",
+      "anchor": []
+    }
+  ]
+}

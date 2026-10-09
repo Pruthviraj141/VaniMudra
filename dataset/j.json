@@ -1,0 +1,643 @@
+{
+  "metadata": {
+    "total_words": 113,
+    "description": "Words starting with letter J"
+  },
+  "words": [
+    {
+      "gloss": "J K BANK",
+      "category": "COMPOUND",
+      "anchor": [
+        "J CUT",
+        "J"
+      ]
+    },
+    {
+      "gloss": "JACKET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JACKFRUIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JACKPOT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JAGANNATH RATHA YATRA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JAIL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JAINISM, JAIN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JAL MAHAL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JALEBI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JAM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JAMA MASJID",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JAMMED, STUCK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JAMMU AND KASHMIR PEOPLE'S DEMOCRATIC PARTY",
+      "category": "COMPOUND",
+      "anchor": [
+        "JAMMU & KASHMIR"
+      ]
+    },
+    {
+      "gloss": "JAMUN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JANITOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JANMASHTAMI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JANTA DAL UNITED",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JANTAR MANTAR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JANUARY",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "JASMINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JAUNDICE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JAVELIN THROW",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JAWAHARLAL NEHRU",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JEALOUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JELLYFISH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JERK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JESUS CHRIST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JET AIRWAYS",
+      "category": "COMPOUND",
+      "anchor": [
+        "JET",
+        "JET SKI"
+      ]
+    },
+    {
+      "gloss": "JEW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JEWELERY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JEWELLER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JIGSAW PUZZLE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JOB",
+      "category": "CORE",
+      "anchor": [
+        "JOB ACCOMMODATION NETWORK"
+      ]
+    },
+    {
+      "gloss": "JOBLESS, UNEMPLOYED",
+      "category": "COMPOUND",
+      "anchor": [
+        "JOBLESS, UNEMPLOYED, OUT OF WORK"
+      ]
+    },
+    {
+      "gloss": "JOBLESS, UNEMPLOYED, OUT OF WORK",
+      "category": "COMPOUND",
+      "anchor": [
+        "JOBLESS, UNEMPLOYED"
+      ]
+    },
+    {
+      "gloss": "JOCKEY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JOEY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JOHN ABRAHAM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JOIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JOKE, FUNNY, TEASE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JOURNALIST, REPORTER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JOURNEY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JUDAISM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JUHU BEACH",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JUICE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JULIENNE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JULY",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "JUMP",
+      "category": "CORE",
+      "anchor": [
+        "JUMP CUT"
+      ]
+    },
+    {
+      "gloss": "JUNE",
+      "category": "NUMBERS & TIME",
+      "anchor": []
+    },
+    {
+      "gloss": "JUTTI, MOJRI",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JANA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JATAKA KATHA AND PANCHTANTRA",
+      "category": "COMPOUND",
+      "anchor": [
+        "JATAKA STORIES"
+      ]
+    },
+    {
+      "gloss": "JATAKA STORIES",
+      "category": "COMPOUND",
+      "anchor": [
+        "JATAKA KATHA AND PANCHTANTRA"
+      ]
+    },
+    {
+      "gloss": "JOINT FAMILY",
+      "category": "COMPOUND",
+      "anchor": [
+        "JOINT VENTURE",
+        "JOINT CUSTODY",
+        "JOINT"
+      ]
+    },
+    {
+      "gloss": "JOINT VENTURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "JOINT FAMILY",
+        "JOINT CUSTODY",
+        "JOINT"
+      ]
+    },
+    {
+      "gloss": "JOINTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JUDICIARY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JUPITER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JUSTICE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JUVENILE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JAPANESE GARDEN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JASMINUM SAMBAC",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JAMAICA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JAPAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JORDAN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JOINING REPORT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JOINT CUSTODY",
+      "category": "COMPOUND",
+      "anchor": [
+        "JOINT FAMILY",
+        "JOINT VENTURE",
+        "JOINT"
+      ]
+    },
+    {
+      "gloss": "JUDGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JUDGEMENT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JUDICIAL EVIDENCE, NON JUDICIAL EVIDENCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "JUDICIAL SERVICE CENTRE"
+      ]
+    },
+    {
+      "gloss": "JUDICIAL SERVICE CENTRE",
+      "category": "COMPOUND",
+      "anchor": [
+        "JUDICIAL EVIDENCE, NON JUDICIAL EVIDENCE"
+      ]
+    },
+    {
+      "gloss": "JAW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JOINT",
+      "category": "CORE",
+      "anchor": [
+        "JOINT FAMILY",
+        "JOINT VENTURE",
+        "JOINT CUSTODY"
+      ]
+    },
+    {
+      "gloss": "JAIPUR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JAMMU & KASHMIR",
+      "category": "COMPOUND",
+      "anchor": [
+        "JAMMU AND KASHMIR PEOPLE'S DEMOCRATIC PARTY"
+      ]
+    },
+    {
+      "gloss": "JHARKHAND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "J CUT",
+      "category": "COMPOUND",
+      "anchor": [
+        "J",
+        "J K BANK"
+      ]
+    },
+    {
+      "gloss": "JABOT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JACK",
+      "category": "CORE",
+      "anchor": [
+        "JACK PLANE"
+      ]
+    },
+    {
+      "gloss": "JACK PLANE",
+      "category": "COMPOUND",
+      "anchor": [
+        "JACK"
+      ]
+    },
+    {
+      "gloss": "JAMS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JEWEL NECKLINE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JEWELLERY LASER ENGRAVING MACHINE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JODHPUR PANTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "JODHPUR"
+      ]
+    },
+    {
+      "gloss": "JOINTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JOYSTICK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JPEG",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JULIET SLEEVE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JUMP CUT",
+      "category": "COMPOUND",
+      "anchor": [
+        "JUMP"
+      ]
+    },
+    {
+      "gloss": "JUNCTION BOX",
+      "category": "COMPOUND",
+      "anchor": [
+        "JUNCTION"
+      ]
+    },
+    {
+      "gloss": "JUSTIFY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JANPAD PANCHAYAT, PANCHAYAT SAMITI",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JATS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JUTE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JAHANGIR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JAB",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JACKING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JET",
+      "category": "CORE",
+      "anchor": [
+        "JET SKI",
+        "JET AIRWAYS"
+      ]
+    },
+    {
+      "gloss": "JET SKI",
+      "category": "COMPOUND",
+      "anchor": [
+        "JET",
+        "JET AIRWAYS"
+      ]
+    },
+    {
+      "gloss": "JUDICIOUSLY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JUNCTION",
+      "category": "CORE",
+      "anchor": [
+        "JUNCTION BOX"
+      ]
+    },
+    {
+      "gloss": "JUNIOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JURISPRUDENCE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JUXTAPOSITION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JEEP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JUMPY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JUNK FOOD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "JOB ACCOMMODATION NETWORK",
+      "category": "COMPOUND",
+      "anchor": [
+        "JOB"
+      ]
+    },
+    {
+      "gloss": "JUDGMENTAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JAVA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "JODHPUR",
+      "category": "CORE",
+      "anchor": [
+        "JODHPUR PANTS"
+      ]
+    },
+    {
+      "gloss": "J",
+      "category": "LETTERS",
+      "anchor": [
+        "J CUT",
+        "J K BANK"
+      ]
+    }
+  ]
+}

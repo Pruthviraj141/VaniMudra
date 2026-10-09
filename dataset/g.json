@@ -1,0 +1,2485 @@
+{
+  "metadata": {
+    "total_words": 375,
+    "description": "Words starting with letter G"
+  },
+  "words": [
+    {
+      "gloss": "GAFFE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GAG, MUZZLE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GALA, CELEBRATION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GALE, WINDSTORM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GALLOWS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GAMBIT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GAME PLAN, STRATEGY, BLUEPRINT",
+      "category": "COMPOUND",
+      "anchor": [
+        "GAME POINT"
+      ]
+    },
+    {
+      "gloss": "GAME POINT",
+      "category": "COMPOUND",
+      "anchor": [
+        "GAME PLAN, STRATEGY, BLUEPRINT"
+      ]
+    },
+    {
+      "gloss": "GANGSTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GAP, DISPARITY",
+      "category": "COMPOUND",
+      "anchor": [
+        "GAP, SPACE",
+        "GAP, LACK"
+      ]
+    },
+    {
+      "gloss": "GAP, LACK",
+      "category": "COMPOUND",
+      "anchor": [
+        "GAP, DISPARITY",
+        "GAP, SPACE"
+      ]
+    },
+    {
+      "gloss": "GAP, SPACE",
+      "category": "COMPOUND",
+      "anchor": [
+        "GAP, DISPARITY",
+        "GAP, LACK"
+      ]
+    },
+    {
+      "gloss": "GARAGE",
+      "category": "CORE",
+      "anchor": [
+        "GARAGE DOOR OPENER"
+      ]
+    },
+    {
+      "gloss": "GARDEN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GARDENER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GARGLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GARIB RATH EXPRESS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GARLAND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GARLIC",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GARNISH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GAS",
+      "category": "CORE",
+      "anchor": [
+        "GAS WELDING",
+        "GAS STOVE",
+        "GAS LIGHTER",
+        "GAS TRACTOR",
+        "GAS PIPE"
+      ]
+    },
+    {
+      "gloss": "GAS LIGHTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "GAS WELDING",
+        "GAS STOVE",
+        "GAS",
+        "GAS TRACTOR",
+        "GAS PIPE"
+      ]
+    },
+    {
+      "gloss": "GAS STOVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "GAS WELDING",
+        "GAS LIGHTER",
+        "GAS",
+        "GAS TRACTOR",
+        "GAS PIPE"
+      ]
+    },
+    {
+      "gloss": "GATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GATECRASH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GATHER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GELD, NEUTER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GEM, JEWEL, PRECIOUS STONE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GENDER",
+      "category": "CORE",
+      "anchor": [
+        "GENDER BIAS",
+        "GENDER DISCRIMINATION"
+      ]
+    },
+    {
+      "gloss": "GENEALOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GENERAL",
+      "category": "CLASSIFIERS",
+      "anchor": [
+        "GENERAL EDUCATION COUNCIL",
+        "GENERAL CHARACTERISTICS OF FISH",
+        "GENERAL FINANCIAL RULE",
+        "GENERAL SECRETARY",
+        "GENERAL STORE, KIRANA STORE"
+      ]
+    },
+    {
+      "gloss": "GENERAL SECRETARY",
+      "category": "COMPOUND",
+      "anchor": [
+        "GENERAL EDUCATION COUNCIL",
+        "GENERAL CHARACTERISTICS OF FISH",
+        "GENERAL",
+        "GENERAL FINANCIAL RULE",
+        "GENERAL STORE, KIRANA STORE"
+      ]
+    },
+    {
+      "gloss": "GENERAL STORE, KIRANA STORE",
+      "category": "COMPOUND",
+      "anchor": [
+        "GENERAL EDUCATION COUNCIL",
+        "GENERAL CHARACTERISTICS OF FISH",
+        "GENERAL",
+        "GENERAL FINANCIAL RULE",
+        "GENERAL SECRETARY"
+      ]
+    },
+    {
+      "gloss": "GENIUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GENRE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GENTLE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GENUINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GEOGRAPHY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GET",
+      "category": "CORE",
+      "anchor": [
+        "GET ON",
+        "GET UP, WAKE UP",
+        "GET OUT OF HAND",
+        "GET OFF"
+      ]
+    },
+    {
+      "gloss": "GET UP, WAKE UP",
+      "category": "COMPOUND",
+      "anchor": [
+        "GET ON",
+        "GET OFF",
+        "GET OUT OF HAND",
+        "GET"
+      ]
+    },
+    {
+      "gloss": "GHAT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GIANT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GIFT",
+      "category": "CORE",
+      "anchor": [
+        "GIFT TAX"
+      ]
+    },
+    {
+      "gloss": "GIFTWRAP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GINGER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GIONEE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GIRL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GIRLFRIEND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GIVE",
+      "category": "CORE",
+      "anchor": [
+        "GIVE SOMEONE THE BENEFIT OF THE DOUBT",
+        "GIVE SOMEONE THE COLD SHOULDER"
+      ]
+    },
+    {
+      "gloss": "GLAD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GLARE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GLARE, GLOWER, SCOWL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GLASS",
+      "category": "CORE",
+      "anchor": [
+        "GLASS JAW",
+        "GLASS PRISM",
+        "GLASS BLOCK",
+        "GLASS CUTTER"
+      ]
+    },
+    {
+      "gloss": "GLIMMER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GLINT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GLITTER, SPARKLE, TWINKLE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GLOBE",
+      "category": "CORE",
+      "anchor": [
+        "GLOBE AND MAP"
+      ]
+    },
+    {
+      "gloss": "GLOOM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GLOOMY, SOMBER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GLOSS OVER SOMETHING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GLOVES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GLOW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GLUE",
+      "category": "CORE",
+      "anchor": [
+        "GLUE GUN"
+      ]
+    },
+    {
+      "gloss": "GLUTTON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GO",
+      "category": "CORE",
+      "anchor": [
+        "GO AIR",
+        "GO OUT OF BUSINESS",
+        "GO BACK TO THE DRAWING BOARD",
+        "GO BALLISTIC"
+      ]
+    },
+    {
+      "gloss": "GO AIR",
+      "category": "COMPOUND",
+      "anchor": [
+        "GO BACK TO THE DRAWING BOARD",
+        "GO OUT OF BUSINESS",
+        "GO",
+        "GO BALLISTIC"
+      ]
+    },
+    {
+      "gloss": "GO BACK TO THE DRAWING BOARD",
+      "category": "COMPOUND",
+      "anchor": [
+        "GO AIR",
+        "GO OUT OF BUSINESS",
+        "GO",
+        "GO BALLISTIC"
+      ]
+    },
+    {
+      "gloss": "GO BALLISTIC",
+      "category": "COMPOUND",
+      "anchor": [
+        "GO AIR",
+        "GO OUT OF BUSINESS",
+        "GO BACK TO THE DRAWING BOARD",
+        "GO"
+      ]
+    },
+    {
+      "gloss": "GO OUT OF BUSINESS",
+      "category": "COMPOUND",
+      "anchor": [
+        "GO AIR",
+        "GO BACK TO THE DRAWING BOARD",
+        "GO",
+        "GO BALLISTIC"
+      ]
+    },
+    {
+      "gloss": "GOAT",
+      "category": "CORE",
+      "anchor": [
+        "GOAT FARMING"
+      ]
+    },
+    {
+      "gloss": "GOD",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GOLD",
+      "category": "CORE",
+      "anchor": [
+        "GOLD POINTS"
+      ]
+    },
+    {
+      "gloss": "GOLDEN TEMPLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOLDEN AGE"
+      ]
+    },
+    {
+      "gloss": "GOLDFISH",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GOLF",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GOLGAPPE, PANI PURI",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GOOD",
+      "category": "CORE",
+      "anchor": [
+        "GOOD FAITH",
+        "GOOD NIGHT",
+        "GOOD MORNING",
+        "GOOD AFTERNOON"
+      ]
+    },
+    {
+      "gloss": "GOOD AFTERNOON",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOOD NIGHT",
+        "GOOD MORNING",
+        "GOOD",
+        "GOOD FAITH"
+      ]
+    },
+    {
+      "gloss": "GOOD MORNING",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOOD NIGHT",
+        "GOOD FAITH",
+        "GOOD",
+        "GOOD AFTERNOON"
+      ]
+    },
+    {
+      "gloss": "GOOD NIGHT",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOOD FAITH",
+        "GOOD MORNING",
+        "GOOD",
+        "GOOD AFTERNOON"
+      ]
+    },
+    {
+      "gloss": "GOOGLY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GOOSEBUMPS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GOSSIP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GOSSIP, WHISPERS, IDLE TALK",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GOVERNMENT",
+      "category": "CORE",
+      "anchor": [
+        "GOVERNMENT TRANSFER PAYMENTS",
+        "GOVERNMENT BOND",
+        "GOVERNMENT DEPARTMENT",
+        "GOVERNMENT FAILURE",
+        "GOVERNMENT EXPENDITURES"
+      ]
+    },
+    {
+      "gloss": "GRADUAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRAIN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRAM",
+      "category": "CORE",
+      "anchor": [
+        "GRAM SABHA",
+        "GRAM NYAYALAYA"
+      ]
+    },
+    {
+      "gloss": "GRAMMAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRAMOPHONE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRAND SLAM",
+      "category": "COMPOUND",
+      "anchor": [
+        "GRAND NATIONAL"
+      ]
+    },
+    {
+      "gloss": "GRANDDAUGHTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRANDFATHER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRANDMASTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRANDMOTHER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRANDSON",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRAPES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRASS",
+      "category": "CORE",
+      "anchor": [
+        "GRASS COURT"
+      ]
+    },
+    {
+      "gloss": "GRASS COURT",
+      "category": "COMPOUND",
+      "anchor": [
+        "GRASS"
+      ]
+    },
+    {
+      "gloss": "GRATE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRATER, SHREDDER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GRATIS, FREE OF CHARGE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GRATITUDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRAVE, BURIAL PLACE",
+      "category": "COMPOUND",
+      "anchor": [
+        "GRAVE, SERIOUS"
+      ]
+    },
+    {
+      "gloss": "GRAVE, SERIOUS",
+      "category": "COMPOUND",
+      "anchor": [
+        "GRAVE, BURIAL PLACE"
+      ]
+    },
+    {
+      "gloss": "GREASE, LUBRICANT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GREAT GRANDAUGHTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "GREAT HORNED OWL",
+        "GREAT GRANDMOTHER",
+        "GREAT GRANDSON",
+        "GREAT GRANDFATHER"
+      ]
+    },
+    {
+      "gloss": "GREAT GRANDFATHER",
+      "category": "COMPOUND",
+      "anchor": [
+        "GREAT GRANDAUGHTER",
+        "GREAT GRANDMOTHER",
+        "GREAT GRANDSON",
+        "GREAT HORNED OWL"
+      ]
+    },
+    {
+      "gloss": "GREAT GRANDMOTHER",
+      "category": "COMPOUND",
+      "anchor": [
+        "GREAT GRANDAUGHTER",
+        "GREAT HORNED OWL",
+        "GREAT GRANDSON",
+        "GREAT GRANDFATHER"
+      ]
+    },
+    {
+      "gloss": "GREAT GRANDSON",
+      "category": "COMPOUND",
+      "anchor": [
+        "GREAT GRANDAUGHTER",
+        "GREAT HORNED OWL",
+        "GREAT GRANDMOTHER",
+        "GREAT GRANDFATHER"
+      ]
+    },
+    {
+      "gloss": "GREEDY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GREEN",
+      "category": "CORE",
+      "anchor": [
+        "GREEN EAR DISEASE",
+        "GREEN VEGETABLE JUICE",
+        "GREEN ROOM",
+        "GREEN REVOLUTION",
+        "GREEN BEAN"
+      ]
+    },
+    {
+      "gloss": "GREEN BEAN",
+      "category": "COMPOUND",
+      "anchor": [
+        "GREEN",
+        "GREEN EAR DISEASE",
+        "GREEN VEGETABLE JUICE",
+        "GREEN ROOM",
+        "GREEN REVOLUTION"
+      ]
+    },
+    {
+      "gloss": "GREEN ROOM",
+      "category": "COMPOUND",
+      "anchor": [
+        "GREEN",
+        "GREEN EAR DISEASE",
+        "GREEN VEGETABLE JUICE",
+        "GREEN REVOLUTION",
+        "GREEN BEAN"
+      ]
+    },
+    {
+      "gloss": "GREEN VEGETABLE JUICE",
+      "category": "COMPOUND",
+      "anchor": [
+        "GREEN",
+        "GREEN EAR DISEASE",
+        "GREEN ROOM",
+        "GREEN REVOLUTION",
+        "GREEN BEAN"
+      ]
+    },
+    {
+      "gloss": "GREY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRIEF, SORROW, SADNESS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GRILL, GRILLE, GRILLWORK",
+      "category": "COMPOUND",
+      "anchor": [
+        "GRILL, GRILLING, BARBEQUE"
+      ]
+    },
+    {
+      "gloss": "GRILL, GRILLING, BARBEQUE",
+      "category": "COMPOUND",
+      "anchor": [
+        "GRILL, GRILLE, GRILLWORK"
+      ]
+    },
+    {
+      "gloss": "GRIND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GROPE, FONDLE, MOLEST",
+      "category": "COMPOUND",
+      "anchor": [
+        "GROPE, ROOT AROUND, FUMBLE, CAST ABOUT, SCRABBLE"
+      ]
+    },
+    {
+      "gloss": "GROPE, ROOT AROUND, FUMBLE, CAST ABOUT, SCRABBLE",
+      "category": "COMPOUND",
+      "anchor": [
+        "GROPE, FONDLE, MOLEST"
+      ]
+    },
+    {
+      "gloss": "GROUP",
+      "category": "CORE",
+      "anchor": [
+        "GROUP THERAPY"
+      ]
+    },
+    {
+      "gloss": "GROW",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GROWL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRUDGE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GUAVA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GUESS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GUEST",
+      "category": "CORE",
+      "anchor": [
+        "GUEST OF HONOUR"
+      ]
+    },
+    {
+      "gloss": "GUIDE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GUILT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GUITAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GUJARATI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GULAB JAMUN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GULLY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GUN",
+      "category": "CORE",
+      "anchor": [
+        "GUN METAL"
+      ]
+    },
+    {
+      "gloss": "GURU NANAK",
+      "category": "COMPOUND",
+      "anchor": [
+        "GURU NANAK JAYANTI"
+      ]
+    },
+    {
+      "gloss": "GURU NANAK JAYANTI",
+      "category": "COMPOUND",
+      "anchor": [
+        "GURU NANAK"
+      ]
+    },
+    {
+      "gloss": "GURUDWARA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GUTKA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GUTTER, DITCH, CULVERT, DRAIN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GYMNASTICS RING, UNEVEN BARS, BALANCE BEAM",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GALL BLADDER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GALVANIZATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GANA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GASES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GENDER DISCRIMINATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "GENDER BIAS",
+        "GENDER"
+      ]
+    },
+    {
+      "gloss": "GENERAL EDUCATION COUNCIL",
+      "category": "COMPOUND",
+      "anchor": [
+        "GENERAL CHARACTERISTICS OF FISH",
+        "GENERAL",
+        "GENERAL FINANCIAL RULE",
+        "GENERAL SECRETARY",
+        "GENERAL STORE, KIRANA STORE"
+      ]
+    },
+    {
+      "gloss": "GENERAL FINANCIAL RULE",
+      "category": "COMPOUND",
+      "anchor": [
+        "GENERAL EDUCATION COUNCIL",
+        "GENERAL CHARACTERISTICS OF FISH",
+        "GENERAL",
+        "GENERAL SECRETARY",
+        "GENERAL STORE, KIRANA STORE"
+      ]
+    },
+    {
+      "gloss": "GENES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GENOCIDE AND HOLOCAUST",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GENOME",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GEOGRAPHICAL FACTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GEOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GEOMETRICAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GEOMETRY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GEOSYNCLINE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GEOTHERMAL ENERGY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GERMINATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GERMS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GHETTOISATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GIFT TAX",
+      "category": "COMPOUND",
+      "anchor": [
+        "GIFT"
+      ]
+    },
+    {
+      "gloss": "GIFTED CHILDREN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GILLS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GINNING MILL",
+      "category": "COMPOUND",
+      "anchor": [
+        "GINNING"
+      ]
+    },
+    {
+      "gloss": "GLACIAL MORAINES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GLASS PRISM",
+      "category": "COMPOUND",
+      "anchor": [
+        "GLASS JAW",
+        "GLASS CUTTER",
+        "GLASS",
+        "GLASS BLOCK"
+      ]
+    },
+    {
+      "gloss": "GLOBAL CITIZENSHIP EDUCATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "GLOBAL ECONOMY",
+        "GLOBAL WARMING",
+        "GLOBAL",
+        "GLOBAL ACCESSIBILITY AWARENESS DAY"
+      ]
+    },
+    {
+      "gloss": "GLOBAL ECONOMY",
+      "category": "COMPOUND",
+      "anchor": [
+        "GLOBAL CITIZENSHIP EDUCATION",
+        "GLOBAL WARMING",
+        "GLOBAL",
+        "GLOBAL ACCESSIBILITY AWARENESS DAY"
+      ]
+    },
+    {
+      "gloss": "GLOBALISATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GLOBE AND MAP",
+      "category": "COMPOUND",
+      "anchor": [
+        "GLOBE"
+      ]
+    },
+    {
+      "gloss": "GNP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GOALS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GOLDEN AGE",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOLDEN TEMPLE"
+      ]
+    },
+    {
+      "gloss": "GOODS AND SERVICES TAX",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOODS"
+      ]
+    },
+    {
+      "gloss": "GOTRAS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GOVERNMENT DEPARTMENT",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOVERNMENT TRANSFER PAYMENTS",
+        "GOVERNMENT BOND",
+        "GOVERNMENT FAILURE",
+        "GOVERNMENT EXPENDITURES",
+        "GOVERNMENT"
+      ]
+    },
+    {
+      "gloss": "GOVERNMENT EXPENDITURES",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOVERNMENT TRANSFER PAYMENTS",
+        "GOVERNMENT BOND",
+        "GOVERNMENT DEPARTMENT",
+        "GOVERNMENT FAILURE",
+        "GOVERNMENT"
+      ]
+    },
+    {
+      "gloss": "GOVERNMENT FAILURE",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOVERNMENT TRANSFER PAYMENTS",
+        "GOVERNMENT BOND",
+        "GOVERNMENT DEPARTMENT",
+        "GOVERNMENT EXPENDITURES",
+        "GOVERNMENT"
+      ]
+    },
+    {
+      "gloss": "GOVERNMENT TRANSFER PAYMENTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOVERNMENT BOND",
+        "GOVERNMENT DEPARTMENT",
+        "GOVERNMENT FAILURE",
+        "GOVERNMENT EXPENDITURES",
+        "GOVERNMENT"
+      ]
+    },
+    {
+      "gloss": "GRADING",
+      "category": "CORE",
+      "anchor": [
+        "GRADING UP"
+      ]
+    },
+    {
+      "gloss": "GRAM SABHA",
+      "category": "COMPOUND",
+      "anchor": [
+        "GRAM NYAYALAYA",
+        "GRAM"
+      ]
+    },
+    {
+      "gloss": "GRANARY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRASSLANDS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRAVITATIONAL",
+      "category": "CORE",
+      "anchor": [
+        "GRAVITATIONAL FORCE",
+        "GRAVITATIONAL WATER"
+      ]
+    },
+    {
+      "gloss": "GRAVITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GREATER THAN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GREATEST",
+      "category": "CORE",
+      "anchor": [
+        "GREATEST COMMON FACTOR"
+      ]
+    },
+    {
+      "gloss": "GREATEST COMMON FACTOR",
+      "category": "COMPOUND",
+      "anchor": [
+        "GREATEST"
+      ]
+    },
+    {
+      "gloss": "GREEK ALPHABETS",
+      "category": "COMPOUND",
+      "anchor": [
+        "GREEK CIVILIZATION"
+      ]
+    },
+    {
+      "gloss": "GREEK CIVILIZATION",
+      "category": "COMPOUND",
+      "anchor": [
+        "GREEK ALPHABETS"
+      ]
+    },
+    {
+      "gloss": "GREEN REVOLUTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "GREEN",
+        "GREEN EAR DISEASE",
+        "GREEN VEGETABLE JUICE",
+        "GREEN ROOM",
+        "GREEN BEAN"
+      ]
+    },
+    {
+      "gloss": "GREENHOUSE EFFECTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "GREENHOUSE GASES",
+        "GREENHOUSE FARMING"
+      ]
+    },
+    {
+      "gloss": "GREYWATER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GROSS DOMESTIC PRODUCT",
+      "category": "COMPOUND",
+      "anchor": [
+        "GROSS INCOME",
+        "GROSS MOTOR SKILLS"
+      ]
+    },
+    {
+      "gloss": "GROUND WATER",
+      "category": "COMPOUND",
+      "anchor": [
+        "GROUND POWER UNIT",
+        "GROUND FAULT CIRCUIT INTERRUPTER"
+      ]
+    },
+    {
+      "gloss": "GUILTY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GUPTA RULERS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GAS TRACTOR",
+      "category": "COMPOUND",
+      "anchor": [
+        "GAS WELDING",
+        "GAS STOVE",
+        "GAS LIGHTER",
+        "GAS",
+        "GAS PIPE"
+      ]
+    },
+    {
+      "gloss": "GENERAL CHARACTERISTICS OF FISH",
+      "category": "COMPOUND",
+      "anchor": [
+        "GENERAL EDUCATION COUNCIL",
+        "GENERAL",
+        "GENERAL FINANCIAL RULE",
+        "GENERAL SECRETARY",
+        "GENERAL STORE, KIRANA STORE"
+      ]
+    },
+    {
+      "gloss": "GEODETIC SURVEY",
+      "category": "COMPOUND",
+      "anchor": [
+        "GEODETIC SURVEYING"
+      ]
+    },
+    {
+      "gloss": "GOAT FARMING",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOAT"
+      ]
+    },
+    {
+      "gloss": "GOOTEE OR AIR LAYERING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GRADING UP",
+      "category": "COMPOUND",
+      "anchor": [
+        "GRADING"
+      ]
+    },
+    {
+      "gloss": "GRAFTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRAVITATIONAL WATER",
+      "category": "COMPOUND",
+      "anchor": [
+        "GRAVITATIONAL FORCE",
+        "GRAVITATIONAL"
+      ]
+    },
+    {
+      "gloss": "GREEN EAR DISEASE",
+      "category": "COMPOUND",
+      "anchor": [
+        "GREEN",
+        "GREEN ROOM",
+        "GREEN VEGETABLE JUICE",
+        "GREEN REVOLUTION",
+        "GREEN BEAN"
+      ]
+    },
+    {
+      "gloss": "GREEN MANURE CROPS",
+      "category": "COMPOUND",
+      "anchor": [
+        "GREEN",
+        "GREEN ROOM",
+        "GREEN VEGETABLE JUICE",
+        "GREEN REVOLUTION",
+        "GREEN BEAN"
+      ]
+    },
+    {
+      "gloss": "GROSS INCOME",
+      "category": "COMPOUND",
+      "anchor": [
+        "GROSS DOMESTIC PRODUCT",
+        "GROSS MOTOR SKILLS"
+      ]
+    },
+    {
+      "gloss": "GROWER HOUSE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GROWER'S MANAGEMENT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GUARD, BORDER CROPS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GUTTATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GEORGIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GERMANY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GHANA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GUINEA",
+      "category": "CORE",
+      "anchor": [
+        "GUINEA PIG"
+      ]
+    },
+    {
+      "gloss": "GOVERNMENT BOND",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOVERNMENT TRANSFER PAYMENTS",
+        "GOVERNMENT DEPARTMENT",
+        "GOVERNMENT FAILURE",
+        "GOVERNMENT EXPENDITURES",
+        "GOVERNMENT"
+      ]
+    },
+    {
+      "gloss": "GREEN SHOE OPTION",
+      "category": "COMPOUND",
+      "anchor": [
+        "GREEN",
+        "GREEN ROOM",
+        "GREEN VEGETABLE JUICE",
+        "GREEN REVOLUTION",
+        "GREEN BEAN"
+      ]
+    },
+    {
+      "gloss": "GET OUT OF HAND",
+      "category": "COMPOUND",
+      "anchor": [
+        "GET UP, WAKE UP",
+        "GET ON",
+        "GET",
+        "GET OFF"
+      ]
+    },
+    {
+      "gloss": "GIVE SOMEONE THE BENEFIT OF THE DOUBT",
+      "category": "COMPOUND",
+      "anchor": [
+        "GIVE",
+        "GIVE SOMEONE THE COLD SHOULDER"
+      ]
+    },
+    {
+      "gloss": "GIVE SOMEONE THE COLD SHOULDER",
+      "category": "COMPOUND",
+      "anchor": [
+        "GIVE SOMEONE THE BENEFIT OF THE DOUBT",
+        "GIVE"
+      ]
+    },
+    {
+      "gloss": "GREEN WITH ENVY",
+      "category": "COMPOUND",
+      "anchor": [
+        "GREEN",
+        "GREEN ROOM",
+        "GREEN VEGETABLE JUICE",
+        "GREEN REVOLUTION",
+        "GREEN BEAN"
+      ]
+    },
+    {
+      "gloss": "GALLANTRY AWARD",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GAZETTE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GAZZETED HOLIDAY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GENDER BIAS",
+      "category": "COMPOUND",
+      "anchor": [
+        "GENDER",
+        "GENDER DISCRIMINATION"
+      ]
+    },
+    {
+      "gloss": "GENERAL DAMAGES",
+      "category": "COMPOUND",
+      "anchor": [
+        "GENERAL EDUCATION COUNCIL",
+        "GENERAL",
+        "GENERAL FINANCIAL RULE",
+        "GENERAL SECRETARY",
+        "GENERAL STORE, KIRANA STORE"
+      ]
+    },
+    {
+      "gloss": "GESTURE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GOOD FAITH",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOOD NIGHT",
+        "GOOD MORNING",
+        "GOOD",
+        "GOOD AFTERNOON"
+      ]
+    },
+    {
+      "gloss": "GOVERNMENT E MARKET PLACE",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOVERNMENT TRANSFER PAYMENTS",
+        "GOVERNMENT DEPARTMENT",
+        "GOVERNMENT FAILURE",
+        "GOVERNMENT EXPENDITURES",
+        "GOVERNMENT"
+      ]
+    },
+    {
+      "gloss": "GRAM NYAYALAYA",
+      "category": "COMPOUND",
+      "anchor": [
+        "GRAM SABHA",
+        "GRAM"
+      ]
+    },
+    {
+      "gloss": "GRANT IN AID",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GRATUITY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRAVE MISCONDUCT",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GREEN HAND",
+      "category": "COMPOUND",
+      "anchor": [
+        "GREEN",
+        "GREEN ROOM",
+        "GREEN VEGETABLE JUICE",
+        "GREEN REVOLUTION",
+        "GREEN BEAN"
+      ]
+    },
+    {
+      "gloss": "GRENADE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GREYLIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRIEVANCE REDRESSAL CELL",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GRIEVOUS HURT, GRIEVOUS INJURY",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GROOM ABDUCTION OR GROOM KIDNAPPING",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GUARANTOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GUARD OF HONOUR",
+      "category": "COMPOUND",
+      "anchor": [
+        "GUARD"
+      ]
+    },
+    {
+      "gloss": "GUEST OF HONOUR",
+      "category": "COMPOUND",
+      "anchor": [
+        "GUEST"
+      ]
+    },
+    {
+      "gloss": "GALLSTONE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GENERAL X-RAY UNIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "GENERAL EDUCATION COUNCIL",
+        "GENERAL",
+        "GENERAL FINANCIAL RULE",
+        "GENERAL SECRETARY",
+        "GENERAL STORE, KIRANA STORE"
+      ]
+    },
+    {
+      "gloss": "GERMAN MEASLES",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GLOVE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GONORRHOEA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GOUT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRAFT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRANULATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GUINEA PIG",
+      "category": "COMPOUND",
+      "anchor": [
+        "GUINEA"
+      ]
+    },
+    {
+      "gloss": "GYNECOMASTIA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GANDHINAGAR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GANGTOK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GOA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GUJARAT",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "G BOARDS",
+      "category": "COMPOUND",
+      "anchor": [
+        "G"
+      ]
+    },
+    {
+      "gloss": "GANG BOX",
+      "category": "COMPOUND",
+      "anchor": [
+        "GANG WAR"
+      ]
+    },
+    {
+      "gloss": "GARAGE DOOR OPENER",
+      "category": "COMPOUND",
+      "anchor": [
+        "GARAGE"
+      ]
+    },
+    {
+      "gloss": "GAS PIPE",
+      "category": "COMPOUND",
+      "anchor": [
+        "GAS WELDING",
+        "GAS STOVE",
+        "GAS LIGHTER",
+        "GAS",
+        "GAS TRACTOR"
+      ]
+    },
+    {
+      "gloss": "GAS WELDING",
+      "category": "COMPOUND",
+      "anchor": [
+        "GAS STOVE",
+        "GAS LIGHTER",
+        "GAS",
+        "GAS TRACTOR",
+        "GAS PIPE"
+      ]
+    },
+    {
+      "gloss": "GAUCHO PANTS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GAUGES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GEAR",
+      "category": "CORE",
+      "anchor": [
+        "GEAR BOX"
+      ]
+    },
+    {
+      "gloss": "GEAR BOX",
+      "category": "COMPOUND",
+      "anchor": [
+        "GEAR"
+      ]
+    },
+    {
+      "gloss": "GENERATOR",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GEODETIC SURVEYING",
+      "category": "COMPOUND",
+      "anchor": [
+        "GEODETIC SURVEY"
+      ]
+    },
+    {
+      "gloss": "GIF",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GIGA BYTE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GLASS BLOCK",
+      "category": "COMPOUND",
+      "anchor": [
+        "GLASS JAW",
+        "GLASS PRISM",
+        "GLASS",
+        "GLASS CUTTER"
+      ]
+    },
+    {
+      "gloss": "GLASS CUTTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "GLASS JAW",
+        "GLASS PRISM",
+        "GLASS",
+        "GLASS BLOCK"
+      ]
+    },
+    {
+      "gloss": "GLOSSY EXTERIOR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GLUE GUN",
+      "category": "COMPOUND",
+      "anchor": [
+        "GLUE"
+      ]
+    },
+    {
+      "gloss": "GODET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GOOGLE ADS",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOOGLE ASSISTANT",
+        "GOOGLE ALERTS",
+        "GOOGLE CHAT",
+        "GOOGLE CLASS ROOM",
+        "GOOGLE CAST"
+      ]
+    },
+    {
+      "gloss": "GOOGLE ALERTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOOGLE ASSISTANT",
+        "GOOGLE CHAT",
+        "GOOGLE CLASS ROOM",
+        "GOOGLE CAST",
+        "GOOGLE ADS"
+      ]
+    },
+    {
+      "gloss": "GOOGLE ASSISTANT",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOOGLE ALERTS",
+        "GOOGLE CHAT",
+        "GOOGLE CLASS ROOM",
+        "GOOGLE CAST",
+        "GOOGLE ADS"
+      ]
+    },
+    {
+      "gloss": "GOOGLE CAST",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOOGLE ASSISTANT",
+        "GOOGLE ALERTS",
+        "GOOGLE CHAT",
+        "GOOGLE CLASS ROOM",
+        "GOOGLE ADS"
+      ]
+    },
+    {
+      "gloss": "GOOGLE CHAT",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOOGLE ASSISTANT",
+        "GOOGLE ALERTS",
+        "GOOGLE CLASS ROOM",
+        "GOOGLE CAST",
+        "GOOGLE ADS"
+      ]
+    },
+    {
+      "gloss": "GOOGLE CLASS ROOM",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOOGLE ASSISTANT",
+        "GOOGLE ALERTS",
+        "GOOGLE CHAT",
+        "GOOGLE CAST",
+        "GOOGLE ADS"
+      ]
+    },
+    {
+      "gloss": "GOOGLE DRIVE",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOOGLE ASSISTANT",
+        "GOOGLE ALERTS",
+        "GOOGLE CHAT",
+        "GOOGLE CAST",
+        "GOOGLE ADS"
+      ]
+    },
+    {
+      "gloss": "GOOGLE GLASS",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOOGLE ASSISTANT",
+        "GOOGLE ALERTS",
+        "GOOGLE CHAT",
+        "GOOGLE CAST",
+        "GOOGLE ADS"
+      ]
+    },
+    {
+      "gloss": "GOOGLE MAP",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOOGLE ASSISTANT",
+        "GOOGLE ALERTS",
+        "GOOGLE CHAT",
+        "GOOGLE CAST",
+        "GOOGLE ADS"
+      ]
+    },
+    {
+      "gloss": "GOOGLE PAY",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOOGLE ASSISTANT",
+        "GOOGLE ALERTS",
+        "GOOGLE CHAT",
+        "GOOGLE CAST",
+        "GOOGLE ADS"
+      ]
+    },
+    {
+      "gloss": "GOOGLE STORE",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOOGLE ASSISTANT",
+        "GOOGLE ALERTS",
+        "GOOGLE CHAT",
+        "GOOGLE CAST",
+        "GOOGLE ADS"
+      ]
+    },
+    {
+      "gloss": "GOOGLE VOICE SEARCH",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOOGLE ASSISTANT",
+        "GOOGLE ALERTS",
+        "GOOGLE CHAT",
+        "GOOGLE CAST",
+        "GOOGLE ADS"
+      ]
+    },
+    {
+      "gloss": "GOV.IN",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GPRS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRADE OF CONCRETE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GRADERS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRAPHICS",
+      "category": "CORE",
+      "anchor": [
+        "GRAPHICS TABLET OR DIGITIZER"
+      ]
+    },
+    {
+      "gloss": "GRAPHICS TABLET OR DIGITIZER",
+      "category": "COMPOUND",
+      "anchor": [
+        "GRAPHICS"
+      ]
+    },
+    {
+      "gloss": "GRAY SCALE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GRID",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRILL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRINDING MACHINE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GROMMETS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GROUND FAULT CIRCUIT INTERRUPTER",
+      "category": "COMPOUND",
+      "anchor": [
+        "GROUND WATER",
+        "GROUND POWER UNIT"
+      ]
+    },
+    {
+      "gloss": "GROUPING OF ROOMS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GUN METAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "GUN"
+      ]
+    },
+    {
+      "gloss": "GUSSET PLATE",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GUTTER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GAIT OF ANIMALS",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GEMINI",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GEOGRAPHER",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GIGA-",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GINNING",
+      "category": "CORE",
+      "anchor": [
+        "GINNING MILL"
+      ]
+    },
+    {
+      "gloss": "GLAND",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GLYCEROL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GOODS",
+      "category": "CORE",
+      "anchor": [
+        "GOODS AND SERVICES TAX"
+      ]
+    },
+    {
+      "gloss": "GRAPHS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRAVITATIONAL FORCE",
+      "category": "COMPOUND",
+      "anchor": [
+        "GRAVITATIONAL WATER",
+        "GRAVITATIONAL"
+      ]
+    },
+    {
+      "gloss": "GALAXY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GARRISON TOWN",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GLOBAL WARMING",
+      "category": "COMPOUND",
+      "anchor": [
+        "GLOBAL CITIZENSHIP EDUCATION",
+        "GLOBAL ECONOMY",
+        "GLOBAL",
+        "GLOBAL ACCESSIBILITY AWARENESS DAY"
+      ]
+    },
+    {
+      "gloss": "GONDS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GALLOP",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GENERATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GENETICS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GENTRIFICATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GENTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GEOMETRIC SEQUENCE, GEOMETRIC PROGESSION",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GEOPOLITICS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GEOSPATIAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GET OFF",
+      "category": "COMPOUND",
+      "anchor": [
+        "GET ON",
+        "GET UP, WAKE UP",
+        "GET OUT OF HAND",
+        "GET"
+      ]
+    },
+    {
+      "gloss": "GLASS JAW",
+      "category": "COMPOUND",
+      "anchor": [
+        "GLASS PRISM",
+        "GLASS",
+        "GLASS BLOCK",
+        "GLASS CUTTER"
+      ]
+    },
+    {
+      "gloss": "GLOBAL",
+      "category": "CORE",
+      "anchor": [
+        "GLOBAL CITIZENSHIP EDUCATION",
+        "GLOBAL ECONOMY",
+        "GLOBAL WARMING",
+        "GLOBAL ACCESSIBILITY AWARENESS DAY"
+      ]
+    },
+    {
+      "gloss": "GLOBALIZATION",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GOAL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GOLD POINTS",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOLD"
+      ]
+    },
+    {
+      "gloss": "GRAND NATIONAL",
+      "category": "COMPOUND",
+      "anchor": [
+        "GRAND SLAM"
+      ]
+    },
+    {
+      "gloss": "GREENHOUSE FARMING",
+      "category": "COMPOUND",
+      "anchor": [
+        "GREENHOUSE EFFECTS",
+        "GREENHOUSE GASES"
+      ]
+    },
+    {
+      "gloss": "GREENWICH STANDARD TIME",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GREGORIAN CALENDAR",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GRIDLOCK",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GUARD",
+      "category": "CORE",
+      "anchor": [
+        "GUARD OF HONOUR"
+      ]
+    },
+    {
+      "gloss": "GULF",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GADGET",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GASLIGHTING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GASTROENTEROLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GENITALS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GOOGLE MEET",
+      "category": "COMPOUND",
+      "anchor": [
+        "GOOGLE ASSISTANT",
+        "GOOGLE ALERTS",
+        "GOOGLE CHAT",
+        "GOOGLE CAST",
+        "GOOGLE ADS"
+      ]
+    },
+    {
+      "gloss": "GORILLA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRACE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRANDPARENTS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GRATEFUL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GROCERY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GROSS MOTOR SKILLS",
+      "category": "COMPOUND",
+      "anchor": [
+        "GROSS INCOME",
+        "GROSS DOMESTIC PRODUCT"
+      ]
+    },
+    {
+      "gloss": "GUIDELINES",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GYM",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GYNAECOLOGIST",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GYNAECOLOGY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GET ON",
+      "category": "COMPOUND",
+      "anchor": [
+        "GET UP, WAKE UP",
+        "GET OUT OF HAND",
+        "GET",
+        "GET OFF"
+      ]
+    },
+    {
+      "gloss": "GLOBAL ACCESSIBILITY AWARENESS DAY",
+      "category": "COMPOUND",
+      "anchor": [
+        "GLOBAL CITIZENSHIP EDUCATION",
+        "GLOBAL ECONOMY",
+        "GLOBAL WARMING",
+        "GLOBAL"
+      ]
+    },
+    {
+      "gloss": "GENERALIZED ANXIETY DISORDER",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GENERATIONAL TRAUMA",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GRIEF",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GROUP THERAPY",
+      "category": "COMPOUND",
+      "anchor": [
+        "GROUP"
+      ]
+    },
+    {
+      "gloss": "GALLERY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GANESH CHATURTHI",
+      "category": "COMPOUND",
+      "anchor": []
+    },
+    {
+      "gloss": "GANG WAR",
+      "category": "COMPOUND",
+      "anchor": [
+        "GANG BOX"
+      ]
+    },
+    {
+      "gloss": "GATHERING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GEL",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GENEROUS",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GEOSPHERE",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GREAT HORNED OWL",
+      "category": "COMPOUND",
+      "anchor": [
+        "GREAT GRANDAUGHTER",
+        "GREAT GRANDMOTHER",
+        "GREAT GRANDSON",
+        "GREAT GRANDFATHER"
+      ]
+    },
+    {
+      "gloss": "GREENHOUSE GASES",
+      "category": "COMPOUND",
+      "anchor": [
+        "GREENHOUSE EFFECTS",
+        "GREENHOUSE FARMING"
+      ]
+    },
+    {
+      "gloss": "GROOMING",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GROUND POWER UNIT",
+      "category": "COMPOUND",
+      "anchor": [
+        "GROUND WATER",
+        "GROUND FAULT CIRCUIT INTERRUPTER"
+      ]
+    },
+    {
+      "gloss": "GRUMPY",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GUATEMALA",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "GURPURAB",
+      "category": "CORE",
+      "anchor": []
+    },
+    {
+      "gloss": "G",
+      "category": "LETTERS",
+      "anchor": [
+        "G BOARDS"
+      ]
+    }
+  ]
+}
