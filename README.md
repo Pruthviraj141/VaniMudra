@@ -1,13 +1,13 @@
-# 🤟 SignVision — System Architecture & Hackathon Build Plan
+# 🤟 VaniMudra — System Architecture & Hackathon Build Plan
 
-> **Hackathon**: Built in 6 hours | **Team**: SignVision | **Date**: October 9, 2026  
-> **Mission**: Bridge the communication gap between 2.7 million Deaf/Hard-of-Hearing Indians and the hearing world using AI-powered Indian Sign Language translation.
+> **Hackathon**: Built in 6 hours | **Team**: GoldMiners
+> **Mission**: Bridge the communication gap between 63 million deaf people Hard-of-Hearing Indians and the hearing world using AI-powered Indian Sign Language translation.
 
 ---
 
 ## 🎯 The Problem
 
-India has ~**2.7 million Deaf/Hard-of-Hearing individuals** (Census 2011). Indian Sign Language (ISL) is their primary language. Yet:
+India has ~**63 million deaf people** (Census 2011). Indian Sign Language (ISL) is their primary language. Yet:
 
 - Most hearing people don't know a single sign
 - Existing ISL tools are desktop-only, fragmented, or incomplete dictionaries
